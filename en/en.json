@@ -31,6 +31,7 @@
         "exportExcel": "Export to Excel",
         "exportJson": "Export to JSON",
         "import": "Import",
+        "importJson": "Import from JSON",
         "initialize": "Initialize",
         "more": "More",
         "newAccount": "New Account",

@@ -31,6 +31,7 @@
         "exportExcel": "匯出Excel",
         "exportJson": "匯出Json",
         "import": "匯入",
+        "importJson": "匯入Json",
         "initialize": "初始化",
         "more": "更多",
         "newAccount": "新增帳戶",
