@@ -224,7 +224,8 @@
         "transactionUpdated": "Transaction from '{{withdrawals}}' to '{{deposits}}' at '{{transDatetime}}' has been successfully updated.",
         "underConstruction": "This feature is currently under construction. Please be patient.",
         "withdrawalDepositSumNotEqual": "Total transfer-out amount {{withdrawalSum}} is not equal to total transfer-in amount {{depositSum}}.",
-        "contributeLanguage": "If the language you wish to use is not included in the list I provide, and you can offer assistance with language translation, please refer to the instructions on this webpage to help me add the language you need in the future."
+        "contributeLanguage": "If the language you wish to use is not included in the list I provide, and you can offer assistance with language translation, please refer to the instructions on this webpage to help me add the language you need in the future.",
+        "swipForMoreFunction" : "Swipe left or right on each item for more function."
     },
     "nAccountSelected": "{{n}} accounts selected",
     "nAccountTypeSelected": "{{n}} Account Types Selected",

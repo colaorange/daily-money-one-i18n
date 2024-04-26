@@ -224,7 +224,8 @@
         "transactionUpdated": "帳目從 '{{withdrawals}}' 轉入 '{{deposits}}' 於 '{{transDatetime}}' 更新成功。",
         "underConstruction": "這個功能目前還在開發中，請耐等候。",
         "withdrawalDepositSumNotEqual": "轉出的總金額 {{withdrawalSum}} 不等於轉入的總金額 {{depositSum}}。",
-        "contributeLanguage":"如果您想要使用的語言不在我提供的列表內，而您能提供語系轉換的協助，請參考此網頁的說明來讓我在未來加入您需要的語言。"
+        "contributeLanguage":"如果您想要使用的語言不在我提供的列表內，而您能提供語系轉換的協助，請參考此網頁的說明來讓我在未來加入您需要的語言。",
+        "swipForMoreFunction" : "在各個項目上左右滑有更多的功能選項。"
     },
     "nAccountSelected": "已選擇了 {{n}} 個帳戶",
     "nAccountTypeSelected": "已選擇了 {{n}} 個帳戶類型",
