@@ -27,8 +27,8 @@ There are five different types of accounts, which you can add, edit, or delete o
 
 When there is a transaction between accounts, such as spending, withdrawing, depositing, or swiping a credit card (e.g., you spent 320 yuan on a meal), use `New Transaction` to create a new transaction.
 > - Select `Date and Time`: Date and time of the transaction.
-> - Select `Withdraw Account`: Cash
-> - Select `Deposit Account`: Dining
+> - Select `Transfer-out Account`: Cash
+> - Select `Transfer-in Account`: Dining
 > - Input `Amount`: 320
 > - Input `Note`: Gathering with friends
 > - Click `Create`
@@ -37,23 +37,23 @@ When there is a transaction between accounts, such as spending, withdrawing, dep
 
 ### Salary Transfer to Bank
 
-> From `Income` Account: Salary
-> To `Assets` Account: Bank
+> Transfer-out `Income` Account: Salary
+> Transfer-in `Assets` Account: Bank
 
 ### Withdraw Cash from Bank
 
-> From `Assets` Account: Bank
-> To `Assets` Account: Cash
+> Transfer-out `Assets` Account: Bank
+> Transfer-in `Assets` Account: Cash
 
 ### Purchase a Phone with Credit Card
 
-> From `Liabilities` Account: Credit Card
-> To `Expense` Account: Electronics
+> Transfer-out `Liabilities` Account: Credit Card
+> Transfer-in `Expense` Account: Electronics
 
 ### Pay Credit Card Bill with Bank
 
-> From `Assets` Account: Bank 
-> To `Liabilities` Account: Credit Card
+> Transfer-out `Assets` Account: Bank 
+> Transfer-in `Liabilities` Account: Credit Card
 
 ## ![Balance Sheet](icon:///scale-balance)![Balance Chart](icon:///chart-pie) Balance Sheet & Chart
 
