@@ -32,7 +32,7 @@
 - 備份到手機及從手機還原
 - 更多功能開發中...
 
-[*如何使用.*](https://www.youtube.com/watch?v=thKGZ3IcIfU) (基本概念，舊版影片，新使用者仍可以參考)
+[*如何使用.*](https://youtu.be/L5qgjHmOJx0) (基本概念及使用介紹)
 
 如果您喜歡這個程式的話，請記得加星星衝衝人氣
 - [*帶我去加星星*](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone)

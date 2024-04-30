@@ -2,7 +2,7 @@
 
 ### In 1.0.0-beta
 
-In addition to replicating 80% of the original daily ledger + functions, starting from version 1.0, the following new features have been added:
+In addition to replicating 90% of the original daily ledger + functions, starting from version 1.0, the following new features have been added:
 
 > * One-to-many split transactions
 > * Transfer between Account Books

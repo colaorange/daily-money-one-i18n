@@ -33,7 +33,7 @@ Current Features：
  - Backup to and restore from the phone
  - More features under development...
 
-[`How to Use.`](https://www.youtube.com/watch?v=thKGZ3IcIfU) (Tranditional Chinese, Basic concepts, the concept of the old version remains the same, new users can still refer to it)
+[`How to Use.`](https://youtu.be/4BCZgItyjHM) (Basic Concepts and Usage Introduction)
 
 If you like this program, please remember to give it a star to boost its popularity.
 - [`Take me to give stars.`](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone)
