@@ -31,3 +31,6 @@ This Agreement constitutes the entire agreement between you and the software dev
 ### Agreement:
 
 By clicking the "I have read and agree" button, you acknowledge that you have read, understood, and agree to this agreement.
+
+----
+Version 1. 2024-05-01

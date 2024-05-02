@@ -32,8 +32,10 @@
 - 備份到手機及從手機還原
 - 更多功能開發中...
 
-[*如何使用.*](https://youtu.be/L5qgjHmOJx0) (基本概念及使用介紹)
+[`如何使用.`](https://youtu.be/L5qgjHmOJx0)
+
+[`匯入每日記帳本+ CSV.`](https://youtu.be/IkZsiJ5TAyw)
 
 如果您喜歡這個程式的話，請記得加星星衝衝人氣
-- [*帶我去加星星*](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone)
-- [*加入臉書粉絲團*](https://www.facebook.com/colaorange.daily.money/) (別在 Play Store 問問題，在這裏問)
+- [`帶我去加星星`](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone)
+- [`加入臉書粉絲團`](https://www.facebook.com/colaorange.daily.money/) (別在 Play Store 問問題，在這裏問)

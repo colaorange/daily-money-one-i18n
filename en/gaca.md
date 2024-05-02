@@ -30,3 +30,6 @@ You can manage your ad preferences in your device settings or by visiting Google
 ### Agreement:
 
 By clicking "I have read, and agreed." you acknowledge that you have read and understood our Google Ads Consent Agreement and consent to the collection and processing of your information as outlined in this agreement.
+
+----
+Version 1. 2025-05-01

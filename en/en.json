@@ -44,6 +44,7 @@
         "search": "Search",
         "startToImportCsv": "Start CSV Import",
         "startToRestoreDatabase": "Start Database Restoration",
+        "takeBreak":"Take a Break",
         "trash": "Trash",
         "update": "Update"
     },

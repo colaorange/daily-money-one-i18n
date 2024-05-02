@@ -33,7 +33,9 @@ Current Features：
  - Backup to and restore from the phone
  - More features under development...
 
-[`How to Use.`](https://youtu.be/4BCZgItyjHM) (Basic Concepts and Usage Introduction)
+[`How to Use.`](https://youtu.be/4BCZgItyjHM)
+
+[`Import Daily Money+ CSV.`](https://youtu.be/IkZsiJ5TAyw)
 
 If you like this program, please remember to give it a star to boost its popularity.
 - [`Take me to give stars.`](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone)

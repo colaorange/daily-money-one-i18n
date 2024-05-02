@@ -45,6 +45,7 @@
         "startToImportCsv": "進行CSV匯入",
         "startToRestoreDatabase": "進行資料庫還原",
         "trash": "丟棄",
+        "takeBreak":"休息一下",
         "update": "更新"
     },
     "ads": {
