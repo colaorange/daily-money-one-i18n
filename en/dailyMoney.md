@@ -33,7 +33,7 @@ Current Features：
  - Backup to and restore from the phone
  - More features under development...
 
-[`How to Use.`](https://youtu.be/4BCZgItyjHM)
+[`How to Use.`](https://youtu.be/uN3GkA_Afuw)
 
 [`Import Daily Money+ CSV.`](https://youtu.be/IkZsiJ5TAyw)
 

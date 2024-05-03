@@ -32,7 +32,7 @@
 - 備份到手機及從手機還原
 - 更多功能開發中...
 
-[`如何使用.`](https://youtu.be/L5qgjHmOJx0)
+[`如何使用.`](https://youtu.be/f0Go7GgXgCk)
 
 [`匯入每日記帳本+ CSV.`](https://youtu.be/IkZsiJ5TAyw)
 
