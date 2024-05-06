@@ -20,6 +20,7 @@
         "add": "Add",
         "addToQuickView": "Add to Quick View",
         "backupDatabase": "Backup Database",
+        "autoBackupDatabase": "Automatic Database Backup",
         "cancel": "Cancel",
         "clear": "Clear",
         "clone": "Clone",
@@ -54,7 +55,7 @@
         "hereWatch": "Watch Ads Here",
         "level": {
             "less": "Less",
-            "lessHint": "Support a little, show ads only on the homepage and editing pages.",
+            "lessHint": "Support a little, show ads only on the home screen and editors.",
             "none": "No Ads",
             "noneHint": "If it isn't clickable, it's definitely a bug!",
             "support": "Support",
@@ -346,6 +347,7 @@
         "homeMain": "Main",
         "homeTest": "Test"
     },
+    "tasks": "Tasks",
     "theme": {
         "@": "Theme",
         "auto": "Auto",

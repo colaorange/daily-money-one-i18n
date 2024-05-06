@@ -20,6 +20,7 @@
         "add": "新增",
         "addToQuickView": "加到快速檢視",
         "backupDatabase": "備份資料庫",
+        "autoBackupDatabase": "自動備份資料庫",
         "cancel": "取消",
         "clear": "清除",
         "clone": "複製",
@@ -346,6 +347,7 @@
         "homeMain": "主要",
         "homeTest": "測試"
     },
+    "tasks": "工作",
     "theme": {
         "@": "佈景主題",
         "auto": "自動",
