@@ -20,7 +20,6 @@
         "add": "新增",
         "addToQuickView": "加到快速檢視",
         "backupDatabase": "備份資料庫",
-        "autoBackupDatabase": "自動備份資料庫",
         "cancel": "取消",
         "clear": "清除",
         "clone": "複製",
@@ -45,8 +44,8 @@
         "search": "搜尋",
         "startToImportCsv": "進行CSV匯入",
         "startToRestoreDatabase": "進行資料庫還原",
+        "takeBreak": "休息一下",
         "trash": "丟棄",
-        "takeBreak":"休息一下",
         "update": "更新"
     },
     "ads": {
@@ -64,6 +63,16 @@
         "talk": "我被開發出來後，難免會存在一些錯誤。而隨著時間的推移和其他服務的更新，如果我不跟著進行修改和更新，也會導致我無法正常運作。這些都需要持續的維護成本，而我主要依賴廣告收入來支持這些成本。如果我對您有幫助，請考慮打開廣告，點擊一下廣告，以幫助我增加收入，從而更好地繼續維護和開發新功能。"
     },
     "appName": "Daily Money One",
+    "autoBackupDatabase": {
+        "intervalDays": "間隔天數",
+        "intervalDaysHint": "自動備份在背景被觸發後，將檢查距離上次備份的時間是否超過此間隔。若超過，則執行備份。",
+        "lastBackgroundDatetime": "最後背景觸發時間",
+        "lastBackupDatetime": "最後備份時間",
+        "retentionCount": "保留數量",
+        "retentionCountHint": "自動備份在執行後，若舊備份檔案保留數量超過此數值，則按時間順序由舊到新刪除超過數量的備份檔案。",
+        "retentionDays": "保留天數",
+        "retentionDaysHint": "自動備份在執行後，若舊備份檔案的日期超過保留天數，將刪除這些舊的備份檔案。"
+    },
     "balance": {
         "@": "資產負債",
         "mode": {
@@ -117,6 +126,7 @@
         "transactionAccountMapInvalid": "有{{size}}筆的帳目帳號資料對應不正確，你仍可匯入，但對應不正確的帳目將被乎略",
         "transactionToCreate": "即將建立的帳目資料共{{size}}筆"
     },
+    "days": "天",
     "default": {
         "account": {
             "adjustingEntry": "衝帳",
@@ -162,6 +172,7 @@
         "schemaInvalidate": "資料格式錯誤 ： {{message}}",
         "updateWillBecomeOrphanTransaction": "更新後將成為孤兒帳目"
     },
+    "files": "檔案",
     "font": "字形",
     "language": {
         "@": "語言",
@@ -183,6 +194,7 @@
         "addedToPresentSheet": "已經將 {{name}} 加到資產負債表快速檢視",
         "agreedAt": "已在 {{datetime}} 同意此協議。",
         "agreement": "親愛的使用者，為了能夠繼續使用本應用程式，請您查看以下協議書。請於閱讀後點擊「我已閱讀並同意」，這代表您已仔細閱讀、充分理解並同意這些協議的內容。",
+        "autoBackupDatabase": "資料庫會根據您設定的備份間隔天數進行自動備份，同時會刪除超過保留數量或保留天數的舊備份檔案。自動備份檢查的啟動時間因手機而異，您可查看最後的背景檢查和備份時間進行確認。",
         "backedupDatabase": "資料庫被已經被備份到 /{{location}}, 大小 {{size}} 位元組。",
         "backupDatabaseToDirectory": "備份目前的資料庫到外部存取目錄",
         "bookCreated": "帳本 '{{name}}' 建立完成。",
@@ -302,6 +314,7 @@
         "bookEditor": "帳本編輯",
         "bookManagement": "帳本管理",
         "dailyTransactions": "日帳目列表",
+        "dataAutoBackupDatabase": "自動備份資料庫",
         "dataImportCsv": "匯入 每日記帳本+ CSV",
         "dataMaintenance": "資料維護",
         "home": "首頁",
@@ -425,6 +438,7 @@
     "trash": {
         "@": "垃圾桶"
     },
+    "unknown": "未知",
     "untilDate": "直到 {{date}}",
     "user": {
         "local": "本地使用者"
