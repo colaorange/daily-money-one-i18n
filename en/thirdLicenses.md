@@ -8,12 +8,14 @@ This application is developed using the following libraries, and their license d
 
  * @expo/metro-runtime
  * @react-native-async-storage/async-storage
+ * @react-native-community/slider
  * @react-navigation/bottom-tabs
  * @react-navigation/material-bottom-tabs
  * @react-navigation/native
  * @react-navigation/native-stack
  * base-x
  * expo
+ * expo-background-fetch
  * expo-document-picker
  * expo-status-bar
  * expo-system-ui

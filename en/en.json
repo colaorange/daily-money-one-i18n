@@ -44,7 +44,7 @@
         "search": "Search",
         "startToImportCsv": "Start CSV Import",
         "startToRestoreDatabase": "Start Database Restoration",
-        "takeBreak":"Take a Break",
+        "takeBreak": "Take a Break",
         "trash": "Trash",
         "update": "Update"
     },
@@ -54,7 +54,7 @@
         "hereWatch": "Watch Ads Here",
         "level": {
             "less": "Less",
-            "lessHint": "Support a little, show ads only on the homepage and editing pages.",
+            "lessHint": "Support a little, show ads only on the home screen and editors.",
             "none": "No Ads",
             "noneHint": "If it isn't clickable, it's definitely a bug!",
             "support": "Support",
@@ -63,6 +63,16 @@
         "talk": "After being developed, it's inevitable that there may be errors. As time progresses and other services update, if I don't keep up with the modifications and updates, it can lead to malfunctions. All of these require continuous maintenance funding, and I rely on advertising revenue for this. If I have been helpful to you, please consider opening the advertisements, viewing them, helping to support me, and providing more strength to maintain and add new features."
     },
     "appName": "Daily Money One",
+    "autoBackupDatabase": {
+        "intervalDays": "Interval Days",
+        "intervalDaysHint": "After being triggered in background, the auto backup will check if the time since the last backup exceeds this interval. If it does, a backup will be performed.",
+        "lastBackgroundDatetime": "Last Background Trigger Time",
+        "lastBackupDatetime": "Last Backup Time",
+        "retentionCount": "Retention Count",
+        "retentionCountHint": "After being performed, if the number of old backup files exceeds this value, older backup files exceeding the count will be deleted in chronological order.",
+        "retentionDays": "Retention Days",
+        "retentionDaysHint": "After being performed, if the dates of old backup files exceed the retention days, those old backup files will be deleted."
+    },
     "balance": {
         "@": "Balance",
         "mode": {
@@ -116,6 +126,7 @@
         "transactionAccountMapInvalid": "{{size}} transaction account mapping are invalid. You can still proceed with the import, but transactions with invalid mappings will be ignored.",
         "transactionToCreate": "Total {{size}} transactions to be created"
     },
+    "days": "Days",
     "default": {
         "account": {
             "adjustingEntry": "Adjusting Entry",
@@ -161,6 +172,7 @@
         "schemaInvalidate": "Schema schema error: {{message}}",
         "updateWillBecomeOrphanTransaction": "Updating will result in orphan transaction."
     },
+    "files": "Files",
     "font": "Font",
     "language": {
         "@": "Language",
@@ -182,6 +194,7 @@
         "addedToPresentSheet": "Added {{name}} to the Sheet Quick View",
         "agreedAt": "Agreed to this agreement on {{datetime}}",
         "agreement": "Dear user, in order to continue using this application, please review the following agreements. By clicking 'I have read, and aggreed.', you acknowledge that you have read, understood, and agreed to the terms of these agreements.",
+        "autoBackupDatabase": "The database will automatically backup based on the interval days you've set, while also deleting old backup files that exceed the retention count or retention days. The start time for the automatic backup check may vary depending on your phone. You can verify this by checking the last background check and backup times.",
         "backedupDatabase": "Data has been backed up to /{{location}}, size {{size}} bytes.",
         "backupDatabaseToDirectory": "Backup Current Database to External Storage Directory",
         "bookCreated": "The book '{{name}}' has been successfully created.",
@@ -293,6 +306,7 @@
         "aboutReleaseHistory": "Release History",
         "aboutSpecialThanks": "Special Thanks",
         "aboutThirdLicenses": "3RD Party Licenses",
+        "aboutUserInterface": "User Interfaces",
         "aboutWhatIsNew": "What's New",
         "accountManagement": "Account Management",
         "balanceChart": "Balance Chart",
@@ -300,6 +314,7 @@
         "bookEditor": "Book Editor",
         "bookManagement": "Book Management",
         "dailyTransactions": "Daily Transactions",
+        "dataAutoBackupDatabase": "Automatic Database Backup",
         "dataImportCsv": "Import Daily Money+ CSV",
         "dataMaintenance": "Data Maintenance",
         "home": "Home",
@@ -346,6 +361,7 @@
         "homeMain": "Main",
         "homeTest": "Test"
     },
+    "tasks": "Tasks",
     "theme": {
         "@": "Theme",
         "auto": "Auto",
@@ -422,6 +438,7 @@
     "trash": {
         "@": "Trash"
     },
+    "unknown": "Unknown",
     "untilDate": "Until {{date}}",
     "user": {
         "local": "Local user"
