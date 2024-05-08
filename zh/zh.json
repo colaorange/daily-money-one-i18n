@@ -33,6 +33,7 @@
         "import": "匯入",
         "importJson": "匯入Json",
         "initialize": "初始化",
+        "load": "載入",
         "loginGoogle": "登入Google",
         "more": "更多",
         "newAccount": "新增帳戶",
@@ -182,6 +183,7 @@
         "en": "English",
         "zh": "繁體中文"
     },
+    "logs": "日誌",
     "menu": {
         "setting": "設定"
     },

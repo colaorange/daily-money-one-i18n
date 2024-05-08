@@ -33,6 +33,7 @@
         "import": "Import",
         "importJson": "Import from JSON",
         "initialize": "Initialize",
+        "load": "Load",
         "loginGoogle": "Login to Google",
         "more": "More",
         "newAccount": "New Account",
@@ -182,6 +183,7 @@
         "en": "English",
         "zh": "繁體中文"
     },
+    "logs": "Logs",
     "menu": {
         "setting": "Setting"
     },
