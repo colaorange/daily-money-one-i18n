@@ -13,6 +13,7 @@ This application is developed using the following libraries, and their license d
  * @react-navigation/material-bottom-tabs
  * @react-navigation/native
  * @react-navigation/native-stack
+ * @robinbobin/react-native-google-drive-api-wrapper
  * base-x
  * expo
  * expo-background-fetch
