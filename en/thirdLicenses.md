@@ -18,6 +18,7 @@ This application is developed using the following libraries, and their license d
  * expo
  * expo-background-fetch
  * expo-document-picker
+ * expo-sharing
  * expo-status-bar
  * expo-system-ui
  * i18next 
@@ -37,6 +38,7 @@ This application is developed using the following libraries, and their license d
  * react-native-markdown-display  
  * react-native-paper
  * react-native-paper-dates
+ * react-native-quick-base64
  * react-native-reanimated  
  * react-native-safe-area-context
  * react-native-screens
