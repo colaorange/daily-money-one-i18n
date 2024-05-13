@@ -20,7 +20,7 @@
         "add": "新增",
         "addToQuickView": "加到快速檢視",
         "backupDatabase": "備份資料庫",
-        "autoUploadBackup": "自動上傳備份到GoogleDrive",
+        "autoUploadBackup": "自動上傳備份",
         "cancel": "取消",
         "clear": "清除",
         "clone": "複製",
@@ -47,6 +47,7 @@
         "restore": "還原",
         "search": "搜尋",
         "signout": "登出",
+        "signoutRevoke": "登出並撤銷存取權限",
         "startToImportCsv": "進行CSV匯入",
         "startToRestoreDatabase": "進行資料庫還原",
         "takeBreak": "休息一下",
@@ -202,9 +203,10 @@
         "agreedAt": "已在 {{datetime}} 同意此協議。",
         "agreement": "親愛的使用者，為了能夠繼續使用本應用程式，請您查看以下協議書。請於閱讀後點擊「我已閱讀並同意」，這代表您已仔細閱讀、充分理解並同意這些協議的內容。",
         "autoBackupDatabase": "資料庫會根據您設定的備份間隔天數進行自動備份，同時會刪除超過保留數量或保留天數的舊備份檔案。自動備份檢查的啟動時間因手機而異，您可查看最後的背景檢查和備份時間進行確認。",
-        "autoUploadBackup": "啟用此功能後，您必需登入到Google，並在授權核可後才能進行自動上傳功能。注意：上傳會在備份後進行，若因網路連線等原因失敗後不會自動重試。",
-        "autoUploadBackupInfo": "最後上傳時間:`{{lastTime}}`，最後上傳名稱:`{{lastName}}`",
+        "autoUploadBackup": "您必需登入到Google，並在授權核可後才能進行自動上傳功能。注意：上傳會在備份後進行，並花費網路頻寬及費用，若因網路連線等原因失敗後不會自動重試。",
+        "autoUploadBackupInfo": "最後上傳時間:`{{lastTime}}`，名稱:`{{lastName}}`，大小:`{{lastSize}}`",
         "backedupDatabase": "資料庫被已經被備份到 /{{location}}, 大小 {{size}} 位元組。",
+        "backedupUploadedDatabase": "資料庫被已經被備份到 /{{location}}, 大小 {{size}} 位元組。上傳到Google Drive, 上傳結果 {{uploadResult}}。",
         "backupDatabaseToDirectory": "備份目前的資料庫到外部存取目錄",
         "bookCreated": "帳本 '{{name}}' 建立完成。",
         "bookDeleted": "帳本 '{{name}}' 已經被刪除。",
@@ -311,6 +313,10 @@
         "selectRange": "選擇期間",
         "selectSingle": "選擇日期",
         "typeInDate": "輸入日期"
+    },
+    "result":{
+        "file": "檔案: {{file}}, 大小: {{size}}",
+        "error": "錯誤: {{error}}"
     },
     "screen": {
         "about": "關於",

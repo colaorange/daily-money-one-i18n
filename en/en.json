@@ -20,7 +20,7 @@
         "add": "Add",
         "addToQuickView": "Add to Quick View",
         "backupDatabase": "Backup Database",
-        "autoUploadBackup": "Automatically upload backup to Google Drive",
+        "autoUploadBackup": "Automatic Backup Upload",
         "cancel": "Cancel",
         "clear": "Clear",
         "clone": "Clone",
@@ -47,6 +47,7 @@
         "restore": "Restore",
         "search": "Search",
         "signout": "Singout",
+        "signoutRevoke": "Sign Out and Revoke Access",
         "startToImportCsv": "Start CSV Import",
         "startToRestoreDatabase": "Start Database Restoration",
         "takeBreak": "Take a Break",
@@ -117,7 +118,7 @@
         "pie": "Pie Chart"
     },
     "color": "Color",
-    "createdDatetime": "Creation Date and Time",
+    "createdDatetime": "Created Time",
     "csvImport": {
         "accountToCreate": "Total {{size}} account to be created",
         "confirmImport": "Importing may take some time depending on the data size. Are you sure you want to import the CSV now?",
@@ -202,9 +203,10 @@
         "agreedAt": "Agreed to this agreement on {{datetime}}",
         "agreement": "Dear user, in order to continue using this application, please review the following agreements. By clicking 'I have read, and aggreed.', you acknowledge that you have read, understood, and agreed to the terms of these agreements.",
         "autoBackupDatabase": "The database will automatically backup based on the interval days you've set, while also deleting old backup files that exceed the retention count or retention days. The start time for the automatic backup check may vary depending on your phone. You can verify this by checking the last background check and backup times.",
-        "autoUploadBackup": "Once this function is enabled, you must log in to Google and authorize it before automatic uploading can take place. Note: Uploads will occur after backup, and in case of failure due to network connection or other reasons, it will not retry automatically.",
-        "autoUploadBackupInfo": "Last upload time: {{lastTime}}, Last upload name: {{lastName}}",
+        "autoUploadBackup": "You must signin to Google and authorize it before automatic uploading can take place. Note: Uploads will occur after the backup process and will consume network bandwidth and may incur costs. If the upload fails due to reasons such as network connection, it will not be automatically retried.",
+        "autoUploadBackupInfo": "Last upload time: {{lastTime}}, name: {{lastName}}, size: {{lastSize}}",
         "backedupDatabase": "Data has been backed up to /{{location}}, size {{size}} bytes.",
+        "backedupUploadedDatabase": "The database has been successfully backed up to /{{location}}, size {{size}} bytes. Uploaded to Google Drive, upload result {{uploadResult}}.",
         "backupDatabaseToDirectory": "Backup Current Database to External Storage Directory",
         "bookCreated": "The book '{{name}}' has been successfully created.",
         "bookDeleted": "The book '{{name}}' has been deleted.",
@@ -311,6 +313,10 @@
         "selectRange": "Select Range",
         "selectSingle": "Select Date",
         "typeInDate": "Type in Date"
+    },
+    "result": {
+        "file": "File: {{file}}, Size: {{size}}",
+        "error": "Error: {{error}}"
     },
     "screen": {
         "about": "About",
