@@ -177,6 +177,7 @@
         "deleteBookTransactionLinkingExist": "帳本 {{bookName}} 仍有 {{withdrawalLength}} 個轉出及 {{depositsLength}} 個轉入",
         "initialServices": "初始化服務時發生非預期錯誤。請完關閉App後重新啟動再試試，更多訊息 ： '{{message}}'",
         "schemaInvalidate": "資料格式錯誤 ： {{message}}",
+        "signinFail": "登入時發生錯誤 ： {{message}}",
         "updateWillBecomeOrphanTransaction": "更新後將成為孤兒帳目"
     },
     "files": "檔案",

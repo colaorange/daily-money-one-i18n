@@ -177,6 +177,7 @@
         "deleteBookTransactionLinkingExist": "There are still {{withdrawalLength}} transfer-outs and {{depositsLength}} transfer-ins linked to the book {{bookName}}.",
         "initialServices": "An unexpected error occurred while initializing services. Please close the app and try restarting it. For more information: '{{message}}'",
         "schemaInvalidate": "Schema schema error: {{message}}",
+        "signinFail": "Error occurred during signin: {{message}}",
         "updateWillBecomeOrphanTransaction": "Updating will result in orphan transaction."
     },
     "files": "Files",
