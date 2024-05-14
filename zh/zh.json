@@ -204,6 +204,7 @@
         "agreedAt": "已在 {{datetime}} 同意此協議。",
         "agreement": "親愛的使用者，為了能夠繼續使用本應用程式，請您查看以下協議書。請於閱讀後點擊「我已閱讀並同意」，這代表您已仔細閱讀、充分理解並同意這些協議的內容。",
         "autoBackupDatabase": "資料庫會根據您設定的備份間隔天數進行自動備份，同時會刪除超過保留數量或保留天數的舊備份檔案。自動備份檢查的啟動時間因手機而異，您可查看最後的背景檢查和備份時間進行確認。",
+        "autoBackupInfo": "最後自動備份時間:`{{lastTime}}`，名稱:`{{lastName}}`，大小:`{{lastSize}}`",
         "autoUploadBackup": "您必需登入到Google，並在授權核可後才能進行自動上傳功能。注意：上傳會在備份後進行，並花費網路頻寬及費用，若因網路連線等原因失敗後不會自動重試。",
         "autoUploadBackupInfo": "最後上傳時間:`{{lastTime}}`，名稱:`{{lastName}}`，大小:`{{lastSize}}`",
         "backedupDatabase": "資料庫被已經被備份到 /{{location}}, 大小 {{size}} 位元組。",

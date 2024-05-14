@@ -1,3 +1,6 @@
+
+[`View video on YouTube`](https://youtu.be/uN3GkA_Afuw)
+
 ## Concepts
 
 The main concepts of Daily Money are very simple, there are only three:

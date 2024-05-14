@@ -1,3 +1,6 @@
+
+[`到YouTube上看影片版`](https://youtu.be/f0Go7GgXgCk)
+
 ## 概念
 
 每日記帳本的主要概念很簡單，只有三個

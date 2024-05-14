@@ -204,6 +204,7 @@
         "agreedAt": "Agreed to this agreement on {{datetime}}",
         "agreement": "Dear user, in order to continue using this application, please review the following agreements. By clicking 'I have read, and aggreed.', you acknowledge that you have read, understood, and agreed to the terms of these agreements.",
         "autoBackupDatabase": "The database will automatically backup based on the interval days you've set, while also deleting old backup files that exceed the retention count or retention days. The start time for the automatic backup check may vary depending on your phone. You can verify this by checking the last background check and backup times.",
+        "autoBackupInfo": "Last automatic backup time: {{lastTime}}, name: {{lastName}}, size: {{lastSize}}",
         "autoUploadBackup": "You must signin to Google and authorize it before automatic uploading can take place. Note: Uploads will occur after the backup process and will consume network bandwidth and may incur costs. If the upload fails due to reasons such as network connection, it will not be automatically retried.",
         "autoUploadBackupInfo": "Last upload time: {{lastTime}}, name: {{lastName}}, size: {{lastSize}}",
         "backedupDatabase": "Data has been backed up to /{{location}}, size {{size}} bytes.",
