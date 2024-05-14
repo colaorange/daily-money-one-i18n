@@ -1,5 +1,5 @@
 
-[`View video on YouTube`](https://youtu.be/uN3GkA_Afuw)
+[`View introduction video on YouTube`](https://youtu.be/uN3GkA_Afuw)
 
 ## Concepts
 

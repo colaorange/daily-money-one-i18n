@@ -1,5 +1,5 @@
 
-[`到YouTube上看影片版`](https://youtu.be/f0Go7GgXgCk)
+[`到YouTube上看影片介紹`](https://youtu.be/f0Go7GgXgCk)
 
 ## 概念
 

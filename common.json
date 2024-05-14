@@ -1,6 +1,9 @@
 {
     "currency": {
-        "ref": ["https://www.xe.com/symbols/","chatgpt"],
+        "ref": [
+            "https://www.xe.com/symbols/",
+            "chatgpt"
+        ],
         "USD": "$",
         "EUR": "€",
         "JPY": "¥",
@@ -41,5 +44,10 @@
         "HRK": "kn",
         "RON": "lei",
         "BGN": "лв"
-    }
+    },
+    "languageNative": {
+        "en": "English",
+        "zh": "繁體中文"
+    },
+    "contributeLanguage": "If the language you want to use is not available in the list, and you can offer optimization or assistance in language translation, please refer to the instructions on this webpage or contact me to help me add or optimize the language you need in the future. Effective contributors will be provided with their own ad-free key after the completion of the ad-free feature."
 }

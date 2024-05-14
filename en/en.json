@@ -186,7 +186,7 @@
         "@": "Language",
         "auto": "Auto",
         "en": "English",
-        "zh": "繁體中文"
+        "zh": "Traditional Chinese"
     },
     "logs": "Logs",
     "menu": {
@@ -206,7 +206,7 @@
         "autoBackupDatabase": "The database will automatically backup based on the interval days you've set, while also deleting old backup files that exceed the retention count or retention days. The start time for the automatic backup check may vary depending on your phone. You can verify this by checking the last background check and backup times.",
         "autoBackupInfo": "Last automatic backup time: {{lastTime}}, name: {{lastName}}, size: {{lastSize}}",
         "autoUploadBackup": "You must signin to Google and authorize it before automatic uploading can take place. Note: Uploads will occur after the backup process and will consume network bandwidth and may incur costs. If the upload fails due to reasons such as network connection, it will not be automatically retried.",
-        "autoUploadBackupInfo": "Last upload time: {{lastTime}}, name: {{lastName}}, size: {{lastSize}}",
+        "autoUploadBackupInfo": "Last upload backup time: {{lastTime}}, name: {{lastName}}, size: {{lastSize}}",
         "backedupDatabase": "Data has been backed up to /{{location}}, size {{size}} bytes.",
         "backedupUploadedDatabase": "The database has been successfully backed up to /{{location}}, size {{size}} bytes. Uploaded to Google Drive, upload result {{uploadResult}}.",
         "backupDatabaseToDirectory": "Backup Current Database to External Storage Directory",
@@ -229,8 +229,9 @@
         "confirmRemove": "Are you sure you want to remove '{{name}}'?",
         "confirmRestoreDatabase": "A database restore file (Date: {{datetime}}) was found in the application's directory. If you just started the restore process, press OK to proceed with the restore, or press Cancel. In either case, the restore file will be deleted, and you will enter the application.",
         "confirmRestoreDatabaseCheck": "I understand that the database is being restored, and the current data will be replaced by the restored data.",
-        "contributeLanguage": "If the language you wish to use is not included in the list I provide, and you can offer assistance with language translation, please refer to the instructions on this webpage to help me add the language you need in the future.",
         "deleted": "'{{name}}' has been deleted.",
+        "displayAutoBackupDatabaseInfo": "When the automatic database backup function is activated and a backup has been completed, the information of the last backup will be displayed on the main screen.",
+        "displayAutoUploadBackupInfo": "When the automatic backup upload function is activated and an upload has been completed, the information of the last upload will be displayed on the main screen.",
         "downloadedFile": "File has been downloaded to {{location}}.",
         "errorTryLater": "Some errors occurred, please try again later, reason : {{message}}",
         "googleDriveManagement": "This is a simple management screen where you can delete or download (swipe right or left on the file for options) the first 99 files that have been backed up in Google Drive. You can also directly use the Google Drive app, which provides more features, to manage these files (under the directory /DailyMoneyOne).",
@@ -403,6 +404,8 @@
         "deleteBook": "Delete Book",
         "deleteTransaction": "Delete Transaction",
         "deleteTransactionTrash": "Empty Trash",
+        "displayAutoBackupDatabaseInfo": "Display automatic backup database information",
+        "displayAutoUploadBackupInfo": "Display automatic upload backup information",
         "editAccount": "Edit Account",
         "editBook": "Edit Book",
         "editTransaction": "Edit Transaction",
