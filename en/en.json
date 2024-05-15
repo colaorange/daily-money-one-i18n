@@ -234,7 +234,7 @@
         "displayAutoUploadBackupInfo": "When the automatic backup upload function is activated and an upload has been completed, the information of the last upload will be displayed on the main screen.",
         "downloadedFile": "File has been downloaded to {{location}}.",
         "errorTryLater": "Some errors occurred, please try again later, reason : {{message}}.",
-        "googleDriveManagement": "This is a simple management screen where you can delete or download (swipe right or left on the file for options) the first 99 files that have been backed up in Google Drive. You can also directly use the Google Drive app, which provides more features, to manage these files (under the directory /DailyMoneyOne).",
+        "googleDriveManagement": "This is a simple management screen where you can delete or download (swipe right or left on the file for options) the first 99 files that have been backed up in Google Drive. You can also directly use the Google Drive app, which provides more features, to manage these files.",
         "longPressItemToSort": "Long press an item to drag and sort.",
         "noPermissionGranted": "Access permission not granted.",
         "noStorageShare": "You have not provided access to the storage, and the device does not have the ability to share files.",
