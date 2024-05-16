@@ -118,6 +118,7 @@
         "pie": "圓餅圖"
     },
     "color": "顏色",
+    "contributeLanguage": "列表中的大多數語言是由 AI 翻譯而來。如果您想要使用的語言不在清單中，或者您想要提供優化和協助，請參考此網頁上的說明並與我聯繫。在完成無廣告功能後，有效的貢獻者將獲得他們自己的無廣告金鑰。",
     "createdDatetime": "建立日期時間",
     "csvImport": {
         "accountToCreate": "即將建立的帳戶資料共{{size}}筆",
@@ -136,7 +137,7 @@
     "days": "天",
     "default": {
         "account": {
-            "adjustingEntry": "衝帳",
+            "adjustingEntry": "沖帳",
             "bank1": "銀行.A",
             "bank2": "銀行.B",
             "borrow": "借入",
