@@ -46,9 +46,18 @@
         "BGN": "лв"
     },
     "languageNative": {
+        "bn": "বাংলা",
+        "de": "Deutsch",
+        "el": "Ελληνικά",
         "en": "English",
         "es": "Español",
+        "hu": "Magyar",
+        "it": "Italiano",
+        "ja": "日本語",
         "pt": "Português",
+        "ru": "Русский",
+        "tr": "Türkçe",
+        "vi": "Tiếng Việt",
         "zh": "繁體中文",
         "zh-CN": "簡體中文"
     }
