@@ -47,7 +47,9 @@
     },
     "languageNative": {
         "en": "English",
+        "es": "Español",
+        "pt": "Português",
         "zh": "繁體中文",
-        "es": "Español"
+        "zh-CN": "簡體中文"
     }
 }

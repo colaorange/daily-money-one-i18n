@@ -188,6 +188,7 @@
         "auto": "Automático",
         "en": "Inglés",
         "es": "Español",
+        "pt": "Portugués",
         "zh": "Chino Tradicional",
         "zh-CN": "Chino Simplificado"
     },
@@ -496,5 +497,5 @@
         "undefined": "Indefinido"
     },
     "withdrawal": "Transferencia Saliente",
-    "yesterday": "Ayer"    
+    "yesterday": "Ayer"
 }
