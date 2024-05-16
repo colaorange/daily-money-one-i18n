@@ -187,7 +187,9 @@
         "@": "Language",
         "auto": "Auto",
         "en": "English",
-        "zh": "Traditional Chinese"
+        "es": "Spanish",
+        "zh": "Traditional Chinese",
+        "zh-CN": "Simplified Chinese"
     },
     "logs": "Logs",
     "menu": {
