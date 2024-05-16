@@ -184,6 +184,8 @@
     "files": "Archivos",
     "font": "Fuente",
     "language": {
+        "@": "Idioma",
+        "auto": "Automático",        
         "bn": "Bengalí",
         "de": "Alemán",
         "el": "Griego",
