@@ -1,5 +1,5 @@
 
-[`Nézd meg az előzetes videót a YouTube-on`](https://youtu.be/uN3GkA_Afuw)
+[`View introduction video on YouTube`](https://youtu.be/uN3GkA_Afuw)
 
 ## Fogalmak
 
@@ -7,77 +7,75 @@ A Daily Money fő fogalmai nagyon egyszerűek, mindössze három van:
 
 > 1. Egy vagy több `Számlakönyv`
 > 2. Különböző `Számlák` a Számlakönyvekben
-> 3. Összegek átutalása különböző számlák között, és ezeknek a `Tranzakcióknak` rögzítése
+> 3. Összegek áthelyezése különböző számlák között és ezeknek a `Tranzakcióknak` a rögzítése
 
 ## ![Számlakönyvek](icon:///notebook-multiple) Számlakönyvek
 
-Legalább egy Számlakönyv szükséges, ahol a számlák azonos valutában vannak. Igény szerint létrehozhatsz több Számlakönyvet ugyanabban a valutában.
+Legalább egy Számlakönyvre van szükség, ahol a számlák ugyanabban a pénznemegységben vannak. Igény szerint több Számlakönyvet is létrehozhat ugyanabban a pénznemegységben.
 
 ## ![Számlák](icon:///bookmark-multiple) Számlák
 
-Öt különböző típusú számla létezik, amelyeket hozzáadhatsz, szerkeszthetsz vagy törölhetsz a számlakezelő képernyőn.
+Öt különböző típusú számla létezik, amelyeket hozzáadhat, szerkeszthet vagy törölhet a számlakezelő képernyőn.
 
 > - `Bevétel`: Fizetés, stb.
-> - `Kiadás`: Élelmiszer, szórakozás, stb.
+> - `Kiadás`: Étel, szórakozás, stb.
 > - `Eszközök`: Készpénz, bank, stb.
 > - `Kötelezettségek`: Hitelkártyák, kölcsönök, stb.
 > - `Egyéb`: ...
 
-* A számlanevek pontokkal (.) választhatók el (pl. Élelmiszer.Ebéd, Élelmiszer.Találkozó), így jobb hierarchikus megjelenítést biztosítva a számlák kiválasztásakor vagy az egyenlegjegyzékek megtekintésekor.
-* A számlákat rendezheted annak érdekében, hogy a gyakrabban használt számlák előrébb kerüljenek.
+* A számlanevekben használhat pontokat (.) a különválasztásra (pl. Étkezés.Vacsora, Étkezés.Barátokkal), így jobb hierarchikus megjelenítést biztosít a számlák kiválasztásakor vagy mérleglapok megtekintésekor.
+* Rendezheti a számlákat, hogy előtérbe helyezze a gyakrabban használt számlákat.
 
 ## ![Tranzakciók](icon:///receipt) Tranzakciók
 
-Ha tranzakció van számlák között, például költségek, készpénzfelvétel, betételés vagy hitelkártyás fizetés (pl. 320 jüan egy étkezésre költöttél), használd az `Új Tranzakció` funkciót az új tranzakció létrehozásához.
-> - Válaszd ki a `Dátumot és Időt`: A tranzakció dátuma és ideje.
-> - Válaszd ki a `Kifizető Számlát`: Készpénz
-> - Válaszd ki a `Befizetett Számlát`: Ebéd
-> - Add meg az `Összeget`: 320
-> - Add meg a `Megjegyzést`: Barátokkal való találkozás
-> - Kattints a `Létrehozás` gombra
+Amikor tranzakció történik a számlák között, például költés, pénzfelvétel, befizetés vagy hitelkártyás vásárlás (pl. 320 yuan-t költött egy étkezésre), használja az `Új Tranzakció` lehetőséget egy új tranzakció létrehozásához.
+> - Válassza ki a `Dátumot és Időpontot`: A tranzakció dátuma és időpontja.
+> - Válassza ki az `Átvezetés Számlát`: Készpénz
+> - Válassza ki a `Cél Számlát`: Vacsora
+> - Írja be az `Összeget`: 320
+> - Írja be a `Megjegyzést`: Barátokkal találkozás
+> - Kattintson a `Létrehozás` gombra
 
 ## Példák
 
-### Fizetés Bankra Történő Utalása
+### Fizetés átutalása a bankba
 
-> Kifizető `Bevétel` Számla: Fizetés
-> Befizetett `Eszközök` Számla: Bank
+> Átvezetés `Bevétel` Számla: Fizetés
+> Cél `Eszközök` Számla: Bank
 
-### Készpénz Felvétele a Bankból
+### Készpénz felvétele a bankból
 
-> Kifizető `Eszközök` Számla: Bank
-> Befizetett `Eszközök` Számla: Készpénz
+> Átvezetés `Eszközök` Számla: Bank
+> Cél `Eszközök` Számla: Készpénz
 
-### Telefon Vásárlása Hitelkártyával
+### Telefonvásárlás hitelkártyával
 
-> Kifizető `Kötelezettségek` Számla: Hitelkártya
-> Befizetett `Kiadás` Számla: Elektronika
+> Átvezetés `Kötelezettségek` Számla: Hitelkártya
+> Cél `Kiadás` Számla: Elektronika
 
-### Hitelkártya Számla Fizetése Bankból
+### Hitelkártya számla kifizetése bankkal
 
-> Kifizető `Eszközök` Számla: Bank
-> Befizetett `Kötelezettségek` Számla: Hitelkártya
+> Átvezetés `Eszközök` Számla: Bank 
+> Cél `Kötelezettségek` Számla: Hitelkártya
 
-## ![Egyenlegjegyzék](icon:///scale-balance)![Egyenleg Diagram](icon:///chart-pie) Egyenlegjegyzék és Diagram
+## ![Mérleg](icon:///scale-balance)![Mérleg diagram](icon:///chart-pie) Mérleg és diagram
 
-Szorgalmas könyvelés révén az alkalmazás segít rögzíteni az összes tranzakció részleteit, és egy egyenlegjegyzéket generál lekérdezési feltételek alapján. Ez a jegyzék világosan bemutatja az eszközök és kötelezettségek egyenlegét különböző időszakokban, lehetővé téve, hogy jobban megértsd a pénzügyi helyzetedet. Emellett az alkalmazás különféle diagramokat generál a bevételek és kiadások vizuális reprezentálásához, megkönnyítve a pénzügyi áramlás megértését.
+A szorgalmas könyvelés révén az alkalmazás segít rögzíteni minden tranzakció részletét és lekérdezési feltételek szerint mérleget készíteni. Ez a mérleg világosan bemutatja az eszközök és kötelezettségek egyenlegét különböző időszakokban, lehetővé téve, hogy jobban megértse pénzügyi helyzetét. Ezenkívül az alkalmazás különféle diagramokat készíthet, hogy vizuálisan ábrázolja a bevételeit és kiadásait, megkönnyítve a pénzügyi áramlás megértését.
 
-## Számlák Kezdeti Értékei
+## Számlák kezdeti értékei
 
-Amikor először használod az alkalmazást, lehet, hogy már rendelkezel néhány jelenlegi számlával valós értékekkel, például banki betétekkel, kézpénzzel vagy hitelkártya adósságokkal. Annak érdekében, hogy az egyenlegjegyzék pontosabb számítási eredményeket adjon, használhatod a számlák inicializálásának funkcióját, hogy meghatározd ezeknek a számláknak a helyes kezdeti értékeit. Így az egyenlegjegyzék tükrözi a valós pénzügyi helyzetet.
+Amikor először használja az alkalmazást, előfordulhat, hogy már vannak aktuális számlái tényleges értékekkel, például bankbetétek, készpénz vagy hitelkártya-adósságok. A mérleg pontosabb számítási eredményeinek biztosítása érdekében használhatja a számlák inicializálásának funkcióját, hogy megállapítsa ezeknek a számláknak a helyes kezdeti értékeit. Ily módon a mérleg valódi pénzügyi helyzetet tükrözhet.
 
-## Egy-az-Több Felosztás
+## Egy-az-egyben bontás
 
-Néha egyetlen kiadás több kiadási kategóriát is magában foglalhat. Például, amikor bevásárolsz egy szupermarketben, egyszerre vehetsz élelmiszert, napi szükségleteket és elektronikai term
+Néha egyetlen kiadás több kiadási kategóriát is magában foglalhat. Például, ha bevásárol a szupermarketben, egyszerre vásárolhat élelmiszert, napi szükségleteket és elektronikai termékeket. Az ilyen helyzet kezelésére az alkalmazás fejlett tranzakciószerkesztést biztosít, amely lehetővé teszi egyetlen kiadás több különböző kiadási kategóriára történő felosztását. Más szóval, egyetlen hitelkártya-kiadás összegét feloszthatja több kategóriára, például élelmiszer, napi szükségletek és elektronikai termékek. Kérjük, vegye figyelembe: Az azonos számlakönyvön belüli tranzakcióknál, mivel a pénznemek azonosak, az összes átvezetett összegnek meg kell egyeznie az összes bevezetett összeggel, különben a program elutasítja a tranzakció létrehozását.
 
-ékeket. Ennek a helyzetnek a kezelésére az alkalmazás lehetővé teszi az összetett tranzakció létrehozásának szerkesztését, lehetővé téve egyetlen kiadás több különböző kiadási kategóriára történő elosztását. Más szóval, egyetlen hitelkártyás kiadás összegét több kategóriára, például élelmiszerre, napi szükségletekre és elektronikai termékekre oszthatod fel. Kérlek, vegye figyelembe: Az azonos számlakönyvben lévő tranzakciók esetén, mivel a valuták azonosak, a kifizetett összegnek egyenlőnek kell lennie a befizetett összeggel, különben a program elutasítja a tranzakció létrehozását.
+## Átvezetés számlakönyvek között
 
-## Átutalás Számlakönyvek Között
+A program lehetővé teszi a számlakönyvek közötti átvezetést. Akár az alap-, akár a fejlett tranzakciószerkesztési vagy létrehozási képernyőn, kiválaszthat számlákat más számlakönyvekből, amikor számlákat választ. Mivel a különböző számlakönyvek közötti pénzértékek különbözhetnek, és az árfolyam jelenleg nem rögzített, például az új tajvani dollárok átváltása amerikai dollárokra, a program nem korlátozza, hogy létrehozzon egy tranzakciót, ahol az összes átvezetett összegnek meg kell egyeznie az összes bevezetett összeggel. Kérjük, a tranzakciók létrehozásakor a valós összegek alapján járjon el és legyen óvatos.
 
-A program lehetővé teszi az átutalást különböző számlakönyvek között. Legyen szó alap vagy összetett tranzakció szerkesztéséről vagy létrehozásáról, más számlakönyvekből is választhatsz számlákat a számlák kiválasztásakor. Mivel a különböző számlakönyvek közötti valuták értéke eltérhet, és az árfolyam pillanatnyilag nem fix, például ha történik egy átutalás Új Tajvani Dollárról Amerikai Dollárra, a program nem korlátoz téged abban, hogy olyan tranzakciót hozz létre, ahol a kifizetett összegnek egyenlőnek kell lennie a befizetett összeggel. Kérlek, hozz létre tranzakciókat a tényleges összegek alapján, és légy óvatos.
+## Gyors nézet a mérlegről és diagramokról
 
-## Gyors Egyenlegjegyzék és Diagramok Megtekintése
+A mérleg vagy diagramok böngészésekor a konkrét számlatételeket hozzáadhatja a gyors nézethez a kezdőképernyőn [*1]. Egyszerűen húzza jobbra az elemet a mérlegben és kattintson az `Hozzáadás a gyors nézethez`, vagy kattintson a "Hozzáadás a gyors nézet ikonhoz" a mérleg diagramkártya jobb felső sarkában. Ezután a kezdőképernyőn látni fogja az adott tétel eszköz- és kötelezettség-egyenlegét, vagy megtekintheti a kezdőképernyő diagram oldalán. Ezenkívül rendezheti vagy eltávolíthatja ezeket a tételeket a `Beállítások > Kezdőképernyő beállításai` menüpontban.
 
-Amikor böngészed az egyenlegjegyzéket vagy a diagramokat, hozzáadhatsz specifikus számlatételeket a gyors nézethez a kezdőképernyőn [*1]. Egyszerűen húzd jobbra az elemet az egyenlegjegyzéken, és kattints a `Hozzáadás a Gyors Nézethez` gombra, vagy kattints a kezdőképernyő bal felső sarkában található "Hozzáadás a Gyors Nézethez" ikonra a egyenleg diagram kártyán. Ezután a kezdőképernyőn láthatod az eszközök és kötelezettségek egyenlegét az adott tételnél, vagy megtekintheted a diagram oldalon a kezdőképernyőn. Emellett rendezheted vagy eltávolíthatod ezeket az elemeket a `Preferenciák > Kezdőképernyő Beállítások` menüpontban.
-
-[*1] A túlzott gyors nézetek a kezdőképernyő betöltési idejét befolyásolhatják.
+[*1] A túl sok gyors nézet a kezdőképernyőn befolyásolhatja a kezdőképernyő betöltési idejét.
