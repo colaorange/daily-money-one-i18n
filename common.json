@@ -54,11 +54,13 @@
         "hu": "Magyar",
         "it": "Italiano",
         "ja": "日本語",
+        "ko": "한국어",
         "pt": "Português",
         "ru": "Русский",
+        "th": "ไทย",
         "tr": "Türkçe",
         "vi": "Tiếng Việt",
         "zh": "繁體中文",
-        "zh-CN": "簡體中文"
+        "zh-CN": "简体中文"
     }
 }

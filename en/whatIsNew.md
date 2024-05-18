@@ -1,5 +1,5 @@
 ## What's New
 
-### In 1.1.0
+### In Version 1.1.0
 * [Automated Database Backup](https://youtube.com/shorts/dWePWDncx0k): You can configure the intervals for automated database backups, as well as the number of retained backups and the maximum retention days.
 * [Upload to Google Drive after Backup](https://youtu.be/hOJdtKElLuw): After manual or automated backup, the backup files will be uploaded to your Google Drive.
