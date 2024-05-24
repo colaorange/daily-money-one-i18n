@@ -15,6 +15,7 @@ This application is developed using the following libraries, and their license d
  * @react-navigation/native-stack
  * @robinbobin/react-native-google-drive-api-wrapper
  * base-x
+ * browser-util-inspect
  * expo
  * expo-background-fetch
  * expo-document-picker

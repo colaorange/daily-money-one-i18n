@@ -1,14 +1,9 @@
 # daily-money-one-i18n
 
-### English, (English, en, en-US)
+### English, (English, en)
 > This is the public i18n multilingual resource project for daily-money-one. You can refer to files under 'en/en.json' or 'zh/zh.json' directories to provide or amend the localization for your region and inform the author to integrate it into future versions.
 >
 > Author's email, cola.orange@gmail.com
-
-### العربية, (Arabic, ar)
-> هذا هو مشروع الموارد متعدد اللغات العام لـ i18n لتطبيق daily-money-one اليومية. يمكنك الرجوع إلى الملفات في الدلائل 'en/en.json' أو 'zh/zh.json' لتوفير أو تعديل التوطين لمنطقتك وإبلاغ الكاتب لدمجه في الإصدارات المستقبلية.
->
-> البريد الإلكتروني للمؤلف، cola.orange@gmail.com
 
 ### বাংলা, (Bengali, bn)
 > এটি পাবলিক i18n বহুভাষী সম্পদ প্রকল্প daily-money-one এর জন্য। আপনি আপনার অঞ্চলের জন্য স্থানীয়ীকরণ প্রদান বা সংশোধন করতে 'en/en.json' বা 'zh/zh.json' নির্দেশিকা অধীনে ফাইলগুলির উল্লেখ করতে পারেন এবং লেখককে এটি ভবিষ্যতের সংস্করণে মিলিয়ে নিতে বলতে পারেন।
@@ -20,25 +15,25 @@
 >
 > E-Mail des Autors, cola.orange@gmail.com
 
+### Ελληνικά, (Greek, el)
+> Αυτό είναι το δημόσιο έργο πολλαπλών γλωσσών i18n για το daily-money-one. Μπορείτε να ανατρέξετε στα αρχεία στους καταλόγους 'en/en.json' ή 'zh/zh.json' για να παράσχετε ή να τροποποιήσετε την τοπικοποίηση για την περιοχή σας και να ενημερώσετε τον συγγραφέα ώστε να το ενσωματώσει σε μελλοντικές εκδόσεις.
+>
+> Email του συγγραφέα: cola.orange@gmail.com
+
 ### Español, (Spanish, es)
 > Este es el proyecto público de recursos multilingües i18n para la aplicación daily-money-one. Puede consultar los archivos en los directorios 'en/en.json' o 'zh/zh.json' para proporcionar o modificar la localización para su región e informar al autor para integrarlo en futuras versiones.
 >
 > Correo electrónico del autor, cola.orange@gmail.com
 
-### فارسی, (Persian, fa)
-> این پروژه منبع چند زبانه i18n عمومی برای برنامه‌ی daily-money-one است. شما می‌توانید به فایل‌ها در دایرکتوری‌های 'en/en.json' یا 'zh/zh.json' مراجعه کنید تا برای منطقه‌ی خود محلی سازی ارائه یا اصلاح کنید و به نویسنده اطلاع دهید تا آن را در نسخه‌های آینده یکپارچه کند.
+### Magyar (Hungarian, hu)
+> Ez a daily-money-one i18n többnyelvű nyilvános erőforrás projektje. Hivatkozhat az 'en/en.json' vagy 'zh/zh.json' könyvtárak alatt található fájlokra, hogy biztosítson vagy módosítson lokalizációt a régiójához, és tájékoztassa a szerzőt, hogy azt integrálja a jövőbeli verziókba.
 >
-> ایمیل نویسنده، cola.orange@gmail.com
+> A szerző email címe: cola.orange@gmail.com
 
-### Français, (French, fr)
-> Il s'agit du projet de ressources multilingues i18n public pour daily-money-one. Vous pouvez vous référer aux fichiers des répertoires 'en/en.json' ou 'zh/zh.json' pour fournir ou modifier la localisation pour votre région et informer l'auteur de l'intégrer dans les versions futures.
+### Italiano (Italian, it)
+> Questo è il progetto pubblico di risorse multilingue i18n per daily-money-one. Puoi fare riferimento ai file nelle directory 'en/en.json' o 'zh/zh.json' per fornire o modificare la localizzazione per la tua regione e informare l'autore per integrarla nelle versioni future.
 >
-> Email de l'auteur, cola.orange@gmail.com
-
-### हिन्दी, (Hindi, hi)
-> यह daily-money-one के लिए सार्वजनिक i18n बहुभाषी संसाधन परियोजना है। आप अपने क्षेत्र के लिए स्थानीयकरण प्रदान या संशोधित करने के लिए 'en/en.json' या 'zh/zh.json' निर्देशिकाओं के अंतर्गत फ़ाइलों का संदर्भ ले सकते हैं और लेखक को सूचित कर सकते हैं कि इसे भविष्य के संस्करणों में सम्मिलित किया जाए।
-> 
-> लेखक का ईमेल, cola.orange@gmail.com
+> Email dell'autore: cola.orange@gmail.com
 
 ### 日本語, (Japanese, ja)
 > これは daily-money-one の公共 i18n 多言語リソースプロジェクトです。 'en/en.json' または 'zh/zh.json' ディレクトリ内のファイルを参照して、地域のローカリゼーションを提供または修正し、その内容を将来のバージョンに統合するように著者に通知できます。
@@ -50,11 +45,6 @@
 >
 > 저자의 이메일, cola.orange@gmail.com
 
-### Bahasa Melayu, (Malay, ms)
-> Ini adalah projek sumber pelbagai bahasa awam i18n untuk daily-money-one. Anda boleh merujuk kepada fail-fail dalam direktori 'en/en.json' atau 'zh/zh.json' untuk menyediakan atau mengubahsuai tempatan untuk kawasan anda dan memberitahu pengarang untuk mengintegrasikannya ke dalam versi masa depan.
->
-> Emel pengarang, cola.orange@gmail.com
-
 ### Português, (Portuguese, pt)
 > Este é o projeto público de recursos multilíngues i18n para o daily-money-one. Você pode consultar os arquivos nos diretórios 'en/en.json' ou 'zh/zh.json' para fornecer ou modificar a localização para sua região e informar o autor para integrá-lo em versões futuras.
 >
@@ -65,12 +55,22 @@
 >
 > Email автора, cola.orange@gmail.com
 
+### ไทย (Thai, th)
+> นี่คือโครงการทรัพยากรหลายภาษาของ i18n สำหรับ daily-money-one คุณสามารถอ้างอิงไฟล์ภายใต้ไดเรกทอรี 'en/en.json' หรือ 'zh/zh.json' เพื่อให้หรือแก้ไขการแปลภาษาสำหรับภูมิภาคของคุณ และแจ้งให้ผู้เขียนทราบเพื่อรวมไว้ในเวอร์ชันอนาคต
+>
+> อีเมลของผู้เขียน: cola.orange@gmail.com
+
+### Türkçe (Turkish, tr)
+> Bu, daily-money-one için halka açık i18n çok dilli kaynak projesidir. Bölgeniz için yerelleştirme sağlamak veya değiştirmek amacıyla 'en/en.json' veya 'zh/zh.json' dizinlerindeki dosyalara başvurabilirsiniz ve bunu gelecekteki sürümlere entegre etmek için yazara bildirebilirsiniz.
+>
+> Yazarın e-postası: cola.orange@gmail.com
+
 ### Tiếng Việt, (Vietnamese, vi)
 > Đây là dự án tài nguyên đa ngôn ngữ i18n công cộng cho ứng dụng daily-money-one. Bạn có thể tham khảo các tệp trong các thư mục 'en/en.json' hoặc 'zh/zh.json' để cung cấp hoặc chỉnh sửa bản địa hóa cho khu vực của bạn và thông báo cho tác giả để tích hợp vào các phiên bản sau này.
 >
 > Email của tác giả, cola.orange@gmail.com
 
-### 繁體中文, (Traditional Chinese, zh, zh-TW)
+### 繁體中文, (Traditional Chinese, zh)
 > 這是daily-money-one的公開 i18n 多語言資源專案。您可以參考 'en/en.json' 或 'zh/zh.json' 目錄下的文件，為您的地區提供或修改本地化內容，並通知作者將其整合到未來版本中。
 >
 > 作者郵箱：cola.orange@gmail.com
