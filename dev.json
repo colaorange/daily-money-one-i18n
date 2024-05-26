@@ -17,9 +17,10 @@
         "transactionTemplateUpdated": "帳目範本 {{name}} 更新成功。"
     },
     "transactionTemplate": {
-        "activeWithdrawals": "啟用轉出帳戶",
-        "activeDeposits": "啟用轉入帳戶",
-        "activeNote": "啟用Note",
+        "applyWithdrawals": "套用轉出帳戶",
+        "applyDeposits": "套用轉入帳戶",
+        "applyNote": "套用備註",
+        "applyValue": "套用金額",
         "name": "名稱",
         "nameHint": "帳目範本的名稱, 長度1 - 128個字元",
         "note": "備註",
