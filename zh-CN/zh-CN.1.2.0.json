@@ -1,0 +1,31 @@
+{
+    "screen": {
+        "transactionTemplateManagement": "账目范本管理"
+    },
+    "title": {
+        "newTransactionTemplate": "建立账目范本",
+        "editTransactionTemplate": "编辑账目范本"
+    },
+    "action": {
+        "reset": "重置",
+        "newTransactionTemplate": "建立账目范本"
+    },
+    "message": {
+        "transactionTemplateCreated": "账目范本 {{name}} 建立完成。",
+        "transactionTemplateDeleted": "账目范本 {{name}} 已经被删除。",
+        "transactionTemplateMissing": "找不到账目范本 {{transactionTemplateId}}。",
+        "transactionTemplateUpdated": "账目范本 {{name}} 更新成功。"
+    },
+    "transactionTemplate": {
+        "applyWithdrawals": "套用转出账户",
+        "applyDeposits": "套用转入账户",
+        "applyNote": "套用备注",
+        "applyValue": "套用金额",
+        "name": "名称",
+        "nameHint": "账目范本的名称, 长度1 - 128个字符",
+        "note": "备注",
+        "noteHint": "账目范本的备注, 长度0 - 512个字符"
+    },
+    "selectTransactionTemplate": "选择账目范本",
+    "noTransactionTemplate": "没有账目范本"
+}
