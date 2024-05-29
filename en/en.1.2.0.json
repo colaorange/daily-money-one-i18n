@@ -8,7 +8,7 @@
     },
     "action": {
         "reset": "Reset",
-        "newTransactionTemplate": "Create Transaction Template"
+        "newTransactionTemplate": "Create Template"
     },
     "message": {
         "transactionTemplateCreated": "Transaction Template {{name}} created successfully.",

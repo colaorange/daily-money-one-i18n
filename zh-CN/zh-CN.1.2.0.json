@@ -8,7 +8,7 @@
     },
     "action": {
         "reset": "重置",
-        "newTransactionTemplate": "建立账目范本"
+        "newTransactionTemplate": "建立范本"
     },
     "message": {
         "transactionTemplateCreated": "账目范本 {{name}} 建立完成。",
