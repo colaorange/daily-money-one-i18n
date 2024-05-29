@@ -1,0 +1,31 @@
+{
+    "screen": {
+        "transactionTemplateManagement": "帳目範本管理"
+    },
+    "title": {
+        "newTransactionTemplate": "建立帳目範本",
+        "editTransactionTemplate": "編輯帳目範本"
+    },
+    "action": {
+        "reset": "重置",
+        "newTransactionTemplate": "建立範本"
+    },
+    "message": {
+        "transactionTemplateCreated": "帳目範本 {{name}} 建立完成。",
+        "transactionTemplateDeleted": "帳目範本 {{name}} 已經被刪除。",
+        "transactionTemplateMissing": "找不到帳目範本 {{transactionTemplateId}}。",
+        "transactionTemplateUpdated": "帳目範本 {{name}} 更新成功。"
+    },
+    "transactionTemplate": {
+        "applyWithdrawals": "套用轉出帳戶",
+        "applyDeposits": "套用轉入帳戶",
+        "applyNote": "套用備註",
+        "applyValue": "套用金額",
+        "name": "名稱",
+        "nameHint": "帳目範本的名稱, 長度1 - 128個字元",
+        "note": "備註",
+        "noteHint": "帳目範本的備註, 長度0 - 512個字元"
+    },
+    "selectTransactionTemplate": "選擇帳目範本",
+    "noTransactionTemplate": "沒有帳目範本"
+}

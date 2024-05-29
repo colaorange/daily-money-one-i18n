@@ -1,0 +1,31 @@
+{
+    "screen": {
+        "transactionTemplateManagement": "Transaction Template Management"
+    },
+    "title": {
+        "newTransactionTemplate": "Create Transaction Template",
+        "editTransactionTemplate": "Edit Transaction Template"
+    },
+    "action": {
+        "reset": "Reset",
+        "newTransactionTemplate": "Create Template"
+    },
+    "message": {
+        "transactionTemplateCreated": "Transaction Template {{name}} created successfully.",
+        "transactionTemplateDeleted": "Transaction Template {{name}} has been deleted.",
+        "transactionTemplateMissing": "Transaction Template {{transactionTemplateId}} not found.",
+        "transactionTemplateUpdated": "Transaction Template {{name}} updated successfully."
+    },
+    "transactionTemplate": {
+        "applyWithdrawals": "Apply Withdrawals",
+        "applyDeposits": "Apply Deposits",
+        "applyNote": "Apply Note",
+        "applyValue": "Apply Value",
+        "name": "Name",
+        "nameHint": "The name of the transaction template, length 1 - 128 characters",
+        "note": "Note",
+        "noteHint": "The note of the transaction template, length 0 - 512 characters"
+    },
+    "selectTransactionTemplate": "Select Transaction Template",
+    "noTransactionTemplate": "No Transaction Template"
+}
