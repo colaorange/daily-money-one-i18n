@@ -1,5 +1,19 @@
 {
+    "jsonImport": {
+        "confirmImport": "匯入依資料的大小, 會需要花一些時間等候, 確定要現在匯入JSON嗎?",
+        "importCompleted": "匯入新帳本, 共 {{bookSize}} 筆帳本, 共 {{accountSize}} 筆帳戶, {{transactionSize}} 筆帳目",
+        "pickJson": "選取JSON檔案",
+        "provideJson": "提供JSON檔案",
+        "provideJsonHint": "請提供由每日記帳本One匯出的JSON檔案, 其檔名通常為dmo-<日期時間>.json",
+        "containInformation": "總共有 {{bookSize}} 筆帳本, {{accountSize}} 筆帳戶, {{transactionSize}} 筆帳目",
+        "accountInformation": "{{size}} 筆帳戶",
+        "transactionToCreate": "即將建立的帳目資料共{{size}}筆",
+        "transactionAccountMapInvalid": "有 {{size}} 筆的帳目帳號資料對應不正確, 您仍可匯入, 但對應不正確的帳目將被乎略",
+        "selectBooks": "選擇要匯入的帳本",
+        "importTransaction": "匯入帳目"
+    },
     "screen": {
+        "dataImportJson": "匯入 每日記帳本One JSON",
         "transactionTemplateManagement": "帳目範本管理"
     },
     "title": {
@@ -8,13 +22,19 @@
     },
     "action": {
         "reset": "重置",
-        "newTransactionTemplate": "建立範本"
+        "newTransactionTemplate": "建立範本",
+        "startToImportJson": "進行JSON匯入"
     },
     "message": {
+        "exportedJson": "帳本 {{names}} 已經被匯出成JSON到 /{{location}}, 大小 {{size}} 位元組。",
+        "exportedUploadedJson": "帳本 {{names}} 已經被匯出成JSON到 /{{location}}, 大小 {{size}} 位元組, 並且上傳到 Google Drive, 上傳結果 {{uploadResult}}。",
+        "exportJsonToDirectory": "選擇帳本並匯出成JSON到外部存取目錄, 並支援自動上傳備份。JSON為純文字資料格式, 相容性較佳, 讓你更容易保留或共享您的資料, 但匯出及匯入需花費時間較久。",
+        "startJsonImportProcess": "開始 每日記帳本One 的JSON的匯入程序。",
         "transactionTemplateCreated": "帳目範本 {{name}} 建立完成。",
         "transactionTemplateDeleted": "帳目範本 {{name}} 已經被刪除。",
         "transactionTemplateMissing": "找不到帳目範本 {{transactionTemplateId}}。",
-        "transactionTemplateUpdated": "帳目範本 {{name}} 更新成功。"
+        "transactionTemplateUpdated": "帳目範本 {{name}} 更新成功。",
+        "noExportTransactions": "不匯出帳目。"
     },
     "transactionTemplate": {
         "applyWithdrawals": "套用轉出帳戶",
