@@ -1,31 +1,51 @@
 {
-    "screen": {
-        "transactionTemplateManagement": "Transaction Template Management"
-    },
-    "title": {
-        "newTransactionTemplate": "Create Transaction Template",
-        "editTransactionTemplate": "Edit Transaction Template"
-    },
     "action": {
+        "newTransactionTemplate": "Create Template",
         "reset": "Reset",
-        "newTransactionTemplate": "Create Template"
+        "startToImportJson": "Start JSON Import"
+    },
+    "jsonImport": {
+        "accountInformation": "{{size}} accounts",
+        "confirmImport": "Importing will take some time depending on the size of the data. Are you sure you want to import JSON now?",
+        "containInformation": "There are a total of {{bookSize}} books, {{accountSize}} accounts, {{transactionSize}} transactions",
+        "importCompleted": "Imported new account book, total {{bookSize}} account books, {{accountSize}} accounts, {{transactionSize}} transactions",
+        "importTransaction": "Import transactions",
+        "pickJson": "Select JSON file",
+        "provideJson": "Provide JSON file",
+        "provideJsonHint": "Please provide the JSON file exported by Daily Money One. The file name is usually dmo-<date-time>.json",
+        "selectBooks": "Select books to import (new book will be created)",
+        "transactionAccountMapInvalid": "{{size}} transaction account mappings are incorrect. You can still import, but incorrectly mapped transactions will be ignored",
+        "transactionToCreate": "The transaction to be created totals {{size}} entries"
     },
     "message": {
+        "exportedJson": "Book {{names}} has been exported as JSON to /{{location}}, size {{size}} bytes.",
+        "exportedUploadedJson": "Book {{names}} has been exported as JSON to /{{location}}, size {{size}} bytes, and uploaded to Google Drive, upload result {{uploadResult}}.",
+        "exportJsonToDirectory": "Select book and export as JSON to external storage directory, with support for automatic upload. JSON is a plain text data format with better compatibility, making it easier to retain or share your book, but export and import take longer.",
+        "noExportTransactions": "Do not export transactions.",
+        "startJsonImportProcess": "Start the JSON import process for Daily Money One",
         "transactionTemplateCreated": "Transaction Template {{name}} created successfully.",
         "transactionTemplateDeleted": "Transaction Template {{name}} has been deleted.",
         "transactionTemplateMissing": "Transaction Template {{transactionTemplateId}} not found.",
         "transactionTemplateUpdated": "Transaction Template {{name}} updated successfully."
     },
+    "noTransactionTemplate": "No Transaction Template",
+    "screen": {
+        "dataImportJson": "Import Daily Money One JSON",
+        "transactionTemplateManagement": "Transaction Template Management"
+    },
+    "selectTransactionTemplate": "Select Transaction Template",
+    "title": {
+        "editTransactionTemplate": "Edit Transaction Template",
+        "newTransactionTemplate": "Create Transaction Template"
+    },
     "transactionTemplate": {
-        "applyWithdrawals": "Apply Withdrawals",
         "applyDeposits": "Apply Deposits",
         "applyNote": "Apply Note",
         "applyValue": "Apply Value",
+        "applyWithdrawals": "Apply Withdrawals",
         "name": "Name",
         "nameHint": "The name of the transaction template, length 1 - 128 characters",
         "note": "Note",
         "noteHint": "The note of the transaction template, length 0 - 512 characters"
-    },
-    "selectTransactionTemplate": "Select Transaction Template",
-    "noTransactionTemplate": "No Transaction Template"
+    }
 }
