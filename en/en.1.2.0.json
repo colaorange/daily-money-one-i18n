@@ -35,6 +35,7 @@
     },
     "selectTransactionTemplate": "Select Transaction Template",
     "title": {
+        "deleteTransactionTemplate": "Delete Transaction Template",
         "editTransactionTemplate": "Edit Transaction Template",
         "newTransactionTemplate": "Create Transaction Template"
     },

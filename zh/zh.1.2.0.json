@@ -35,6 +35,7 @@
     },
     "selectTransactionTemplate": "選擇帳目範本",
     "title": {
+        "deleteTransactionTemplate": "刪除帳目範本",
         "editTransactionTemplate": "編輯帳目範本",
         "newTransactionTemplate": "建立帳目範本"
     },
