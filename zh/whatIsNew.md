@@ -4,6 +4,7 @@
 ### 在 1.2.0 裏
  * [帳目範本](https://youtu.be/CtfJ5BecZfY)：設定常用的帳目範本，更方便記帳。
  * [匯出及匯入JSON格式帳本](https://youtu.be/bHGEH7zcj78)：使用更公開JSON格式來匯出及匯入帳本，除了資料不被綁死外，更可以把部份帳本資料分享給你的家人。
+ * [更多的色彩主題](https://youtu.be/3Yw7m2AOvfc)：提供更多的色彩主題，選一個符合今天心情的顏色吧。
 
 ### 在 1.1.0 裏
  * [自動備份資料庫](https://youtube.com/shorts/dWePWDncx0k)：您可以設定自動備份資料庫的區間，及保留的份數跟最保留的天數。

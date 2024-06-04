@@ -4,7 +4,7 @@
         "reset": "Reset",
         "startToImportJson": "Start JSON Import"
     },
-    "balance":{
+    "balance": {
         "narrowSheet": "Narrow Sheet"
     },
     "jsonImport": {
@@ -37,6 +37,20 @@
         "transactionTemplateManagement": "Transaction Template Management"
     },
     "selectTransactionTemplate": "Select Transaction Template",
+    "theme": {
+        "light": "Lavender",
+        "lightCola": "Pale Rose",
+        "lightOrange": "Light Peach",
+        "lightSakura": "Sakura Pink",
+        "lightLemon": "Lime Green",
+        "lightOcean": "Mist Blue",
+        "dark": "Violet",
+        "darkCola": "Reddish Ochre",
+        "darkOrange": "Terracotta",
+        "darkSakura": "Night Sakura",
+        "darkLemon": "Olive Green",
+        "darkOcean": "Navy Blue"
+    },
     "title": {
         "deleteTransactionTemplate": "Delete Transaction Template",
         "editTransactionTemplate": "Edit Transaction Template",
