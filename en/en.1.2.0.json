@@ -4,6 +4,9 @@
         "reset": "Reset",
         "startToImportJson": "Start JSON Import"
     },
+    "balance":{
+        "narrowSheet": "Narrow Sheet"
+    },
     "jsonImport": {
         "accountInformation": "{{size}} accounts",
         "confirmImport": "Importing will take some time depending on the size of the data. Are you sure you want to import JSON now?",
