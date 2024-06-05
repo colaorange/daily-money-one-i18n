@@ -1,5 +1,5 @@
 
-[`View introduction video on YouTube`](https://youtu.be/uN3GkA_Afuw)
+[`ดูวิดีโอแนะนำบน YouTube`](https://youtu.be/uN3GkA_Afuw)
 
 ## แนวคิด
 

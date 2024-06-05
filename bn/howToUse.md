@@ -1,5 +1,5 @@
 
-[`View introduction video on YouTube`](https://youtu.be/uN3GkA_Afuw)
+[`ইউটিউবে পরিচিতি ভিডিও দেখুন`](https://youtu.be/uN3GkA_Afuw)
 
 ## ধারণা
 

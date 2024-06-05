@@ -1,5 +1,5 @@
 
-[`View introduction video on YouTube`](https://youtu.be/uN3GkA_Afuw)
+[`YouTube에서 소개 동영상 보기`](https://youtu.be/uN3GkA_Afuw)
 
 ## 개념
 

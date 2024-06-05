@@ -1,6 +1,11 @@
 
 ## 새 기능
 
+### 버전 1.2.0에서
+* [거래 템플릿](https://youtu.be/CtfJ5BecZfY): 자주 사용하는 거래 템플릿을 설정하여 회계를 더 편리하게 만드세요.
+* [JSON 형식의 책 내보내기 및 가져오기](https://youtu.be/bHGEH7zcj78): 더 개방된 JSON 형식을 사용하여 책을 내보내고 가져오세요. 이는 데이터를 Daily Money One에 덜 잠그게 할 뿐만 아니라 가족과 데이터의 일부를 공유할 수 있게 합니다.
+* [더 많은 색상 테마](https://youtu.be/3Yw7m2AOvfc): 더 많은 색상 테마를 제공하여 오늘의 기분에 맞는 색상을 선택하세요.
+
 ### 버전 1.1.0에서
 * [자동 데이터베이스 백업](https://youtube.com/shorts/dWePWDncx0k): 자동 데이터베이스 백업 간격, 유지되는 백업 수 및 최대 보관 일수를 설정할 수 있습니다.
 * [백업 후 Google Drive에 업로드](https://youtu.be/hOJdtKElLuw): 수동 또는 자동 백업 후 백업 파일이 Google Drive에 업로드됩니다.
