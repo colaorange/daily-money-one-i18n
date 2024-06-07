@@ -470,7 +470,7 @@
         "transDatetimeHint": "Time at which the transaction occurred",
         "transValue": "Amount",
         "transValueHint": "This amount will be transferred from the transfer-out account to the transfer-out account",
-        "withdrawalAccount": "Transfer-out of the Account",
+        "withdrawalAccount": "Transfer-out Account",
         "withdrawalAccountHint": "Account for the transfer-out",
         "withdrawalValue": "Transfer-out Amount",
         "withdrawalValueHint": "This amount will be deducted from the transfer-out account"
