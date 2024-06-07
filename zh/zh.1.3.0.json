@@ -1,4 +1,9 @@
 {
+    "react-native-paper-dates": {
+        "selectTime": "選擇時間",
+        "start": "開始",
+        "end":"結束"
+    },
     "transactionList": {
         "mode": {
             "custom": "自定區間"

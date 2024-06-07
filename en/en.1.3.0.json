@@ -1,4 +1,9 @@
 {
+    "react-native-paper-dates": {
+        "selectTime": "Select Time",
+        "start": "Start",
+        "end":"End"
+    },
     "transactionList": {
         "mode": {
             "custom": "Custom Range"
