@@ -1,8 +1,15 @@
 {
+    "action": {
+        "share": "Share",
+        "shareItem": "Share {{item}}"
+    },
+    "balance": {
+        "amount": "Amount"
+    },
     "react-native-paper-dates": {
         "selectTime": "Select Time",
         "start": "Start",
-        "end":"End"
+        "end": "End"
     },
     "transactionList": {
         "mode": {

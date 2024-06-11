@@ -1,4 +1,11 @@
 {
+    "action": {
+        "share": "分享",
+        "shareItem": "分享 {{item}}"
+    },
+    "balance": {
+        "amount": "合計"
+    },
     "react-native-paper-dates": {
         "selectTime": "選擇時間",
         "start": "開始",
