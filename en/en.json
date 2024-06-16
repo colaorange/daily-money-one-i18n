@@ -46,7 +46,7 @@
         "requestStoragePermission": "Request Storage Access Permission",
         "restore": "Restore",
         "search": "Search",
-        "signout": "Singout",
+        "signout": "Sing Out",
         "signoutRevoke": "Sign Out and Revoke Access",
         "startToImportCsv": "Start CSV Import",
         "startToRestoreDatabase": "Start Database Restoration",
