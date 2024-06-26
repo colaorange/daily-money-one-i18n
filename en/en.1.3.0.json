@@ -11,6 +11,11 @@
         "start": "Start",
         "end": "End"
     },
+    "transaction":{
+        "transDate": "Date",
+        "depositBook": "Transfer-in Book",
+        "withdrawalBook": "Transfer-out Book"
+    },
     "transactionList": {
         "mode": {
             "custom": "Custom Range"
