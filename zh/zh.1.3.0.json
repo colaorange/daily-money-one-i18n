@@ -14,7 +14,9 @@
     "transaction":{
         "transDate": "日期",
         "depositBook": "轉入帳本",
-        "withdrawalBook": "轉出帳本"
+        "depositAccountType": "轉入類型",
+        "withdrawalBook": "轉出帳本",
+        "withdrawalAccountType": "轉出類型"
     },
     "transactionList": {
         "mode": {
