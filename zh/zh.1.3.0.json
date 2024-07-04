@@ -4,14 +4,15 @@
         "shareItem": "分享 {{item}}"
     },
     "balance": {
-        "amount": "合計"
+        "amount": "合計",
+        "hideEmpty": "隱藏空項"
     },
     "react-native-paper-dates": {
         "selectTime": "選擇時間",
         "start": "開始",
-        "end":"結束"
+        "end": "結束"
     },
-    "transaction":{
+    "transaction": {
         "transDate": "日期",
         "depositBook": "轉入帳本",
         "depositAccountType": "轉入類型",

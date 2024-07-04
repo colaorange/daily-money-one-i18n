@@ -4,7 +4,8 @@
         "shareItem": "Share {{item}}"
     },
     "balance": {
-        "amount": "Amount"
+        "amount": "Amount",
+        "hideEmpty": "Hide Empty"
     },
     "react-native-paper-dates": {
         "selectTime": "Select Time",
