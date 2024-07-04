@@ -11,6 +11,13 @@
         "start": "Start",
         "end": "End"
     },
+    "transaction":{
+        "transDate": "Date",
+        "depositBook": "Transfer-in Book",
+        "depositAccountType": "Transfer-in Type",
+        "withdrawalBook": "Transfer-out Book",
+        "withdrawalAccountType": "Transfer-out Type"
+    },
     "transactionList": {
         "mode": {
             "custom": "Custom Range"

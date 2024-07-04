@@ -11,6 +11,13 @@
         "start": "開始",
         "end":"結束"
     },
+    "transaction":{
+        "transDate": "日期",
+        "depositBook": "轉入帳本",
+        "depositAccountType": "轉入類型",
+        "withdrawalBook": "轉出帳本",
+        "withdrawalAccountType": "轉出類型"
+    },
     "transactionList": {
         "mode": {
             "custom": "自定區間"
