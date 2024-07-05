@@ -2,9 +2,9 @@
 ## 有什麼新功能
 
 ### 在 1.3.0 裏
- * [自定帳目列表及資產負債表的區間](https://youtu.be/bHGEH7zcj78)：除了固定區間的快速選項外，您現在還可以自訂區間來生成交易清單、資產負債表和圖表。
- * [分享帳目列表XLSX](https://youtu.be/CtfJ5BecZfY)：分享任意區間內的帳目列表為Excel XLSX檔案。
- * [分享資產負債表XLSX](https://youtu.be/CtfJ5BecZfY)：分享任意區間內的資產負表表為Excel XLSX檔案。
+ * [自定帳目列表及資產負債表的區間](https://youtu.be/O7EcLN82qIU)：除了固定區間的快速選項外，您現在還可以自訂區間來生成交易清單、資產負債表和圖表。
+ * [分享帳目列表XLSX](https://youtu.be/Bf7j39fsCSc)：分享任意區間內的帳目列表為Excel XLSX檔案。
+ * [分享資產負債表XLSX](https://youtu.be/kpxJxNsButA)：分享任意區間內的資產負表表為Excel XLSX檔案。
  
 ### 在 1.2.0 裏
  * [帳目範本](https://youtu.be/CtfJ5BecZfY)：設定常用的帳目範本，更方便記帳。
