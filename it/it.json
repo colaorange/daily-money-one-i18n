@@ -131,7 +131,6 @@
         "provideAccountsCsvHint": "Fornisci il file CSV degli account esportato da Daily Money+, tipicamente denominato accounts.csv o accounts-<numero>.csv",
         "provideDetailsCsv": "Fornisci file CSV dei dettagli",
         "provideDetailsCsvHint": "Fornisci il file CSV dei dettagli esportato da Daily Money+, tipicamente denominato details.csv o details-<numero>.csv",
-        "transactionAccountMapInvalid": "{{size}} mappature dell'account delle transazioni non valide. Puoi comunque procedere con l'importazione, ma le transazioni con mappature non valide verranno ignorate.",
         "transactionToCreate": "Totale {{size}} transazioni da creare"
     },
     "days": "Giorni",

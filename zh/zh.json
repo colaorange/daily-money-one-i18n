@@ -131,7 +131,6 @@
         "provideAccountsCsvHint": "請提供由每日記帳本+匯出的帳戶CSV檔案, 其檔名通常為accounts.csv或accounts-<數字>.csv",
         "provideDetailsCsv": "提供明細CSV檔案",
         "provideDetailsCsvHint": "請提供由每日記帳本+匯出的明細CSV檔案, 其檔名通常為details.csv或detials-<數字>.csv",
-        "transactionAccountMapInvalid": "有{{size}}筆的帳目帳號資料對應不正確, 您仍可匯入, 但對應不正確的帳目將被乎略",
         "transactionToCreate": "即將建立的帳目資料共{{size}}筆"
     },
     "days": "天",

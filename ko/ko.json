@@ -131,7 +131,6 @@
         "provideAccountsCsvHint": "Daily Money+에서 내보낸 계정 CSV 파일을 제공하십시오. 일반적으로 accounts.csv 또는 accounts-<number>.csv로 명명됩니다.",
         "provideDetailsCsv": "세부 사항 CSV 파일 제공",
         "provideDetailsCsvHint": "Daily Money+에서 내보낸 세부 사항 CSV 파일을 제공하십시오. 일반적으로 details.csv 또는 details-<number>.csv로 명명됩니다.",
-        "transactionAccountMapInvalid": "{{size}} 거래 계정 매핑이 유효하지 않습니다. 여전히 가져오기를 진행할 수 있지만, 잘못된 매핑이 있는 거래는 무시됩니다.",
         "transactionToCreate": "생성할 총 {{size}} 거래"
     },
     "days": "일",

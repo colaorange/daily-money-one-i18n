@@ -131,7 +131,6 @@
         "provideAccountsCsvHint": "Daily Money+'dan dışa aktarılan hesaplar CSV dosyasını sağlayın, genellikle accounts.csv veya accounts-<number>.csv olarak adlandırılır",
         "provideDetailsCsv": "Detaylar CSV Dosyasını Sağlayın",
         "provideDetailsCsvHint": "Daily Money+'dan dışa aktarılan detaylar CSV dosyasını sağlayın, genellikle details.csv veya details-<number>.csv olarak adlandırılır",
-        "transactionAccountMapInvalid": "{{size}} işlem hesap eşlemeleri geçersiz. Yine de içe aktarmaya devam edebilirsiniz, ancak geçersiz eşlemelerle işlemler göz ardı edilecektir.",
         "transactionToCreate": "Oluşturulacak toplam {{size}} işlemler"
     },
     "days": "Günler",

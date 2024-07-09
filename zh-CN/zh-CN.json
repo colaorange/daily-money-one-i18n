@@ -131,7 +131,6 @@
         "provideAccountsCsvHint": "请提供由每日记账本+导出的账户CSV档案，其档名通常为accounts.csv或accounts-<数字>.csv",
         "provideDetailsCsv": "提供明细CSV档案",
         "provideDetailsCsvHint": "请提供由每日记账本+导出的明细CSV档案，其档名通常为details.csv或details-<数字>.csv",
-        "transactionAccountMapInvalid": "有{{size}}笔的账目账号资料对应不正确，您仍可导入，但对应不正确的账目将被忽略",
         "transactionToCreate": "即将建立的账目资料共{{size}}笔"
     },
     "days": "天",

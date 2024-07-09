@@ -131,7 +131,6 @@
         "provideAccountsCsvHint": "Kérjük, biztosítsa a Daily Money+ által exportált fiókok CSV fájlt, általában accounts.csv vagy accounts-<szám>.csv néven szerepel",
         "provideDetailsCsv": "Részletek CSV fájl biztosítása",
         "provideDetailsCsvHint": "Kérjük, biztosítsa a Daily Money+ által exportált részletek CSV fájlt, általában details.csv vagy details-<szám>.csv néven szerepel",
-        "transactionAccountMapInvalid": "{{size}} tranzakciós fiókleképezés érvénytelen. Továbbra is folytathatja az importálást, de az érvénytelen leképezésekkel rendelkező tranzakciók figyelmen kívül lesznek hagyva.",
         "transactionToCreate": "Összesen {{size}} tranzakció létrehozásra kerül"
     },
     "days": "Napok",

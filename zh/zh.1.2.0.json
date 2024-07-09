@@ -17,7 +17,6 @@
         "provideJson": "提供JSON檔案",
         "provideJsonHint": "請提供由每日記帳本One匯出的JSON檔案, 其檔名通常為dmo-<日期時間>.json",
         "selectBooks": "選擇要匯入的帳本 (將建立新的帳本)",
-        "transactionAccountMapInvalid": "有 {{size}} 筆的帳目帳號資料對應不正確, 您仍可匯入, 但對應不正確的帳目將被乎略",
         "transactionToCreate": "即將建立的帳目資料共{{size}}筆"
     },
     "message": {

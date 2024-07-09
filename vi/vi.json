@@ -131,7 +131,6 @@
         "provideAccountsCsvHint": "Vui lòng cung cấp tệp CSV tài khoản xuất từ Daily Money+, thường có tên accounts.csv hoặc accounts-<number>.csv",
         "provideDetailsCsv": "Cung Cấp Tệp CSV Chi Tiết",
         "provideDetailsCsvHint": "Vui lòng cung cấp tệp CSV chi tiết xuất từ Daily Money+, thường có tên details.csv hoặc details-<number>.csv",
-        "transactionAccountMapInvalid": "{{size}} ánh xạ tài khoản giao dịch không hợp lệ. Bạn vẫn có thể tiếp tục nhập, nhưng các giao dịch với ánh xạ không hợp lệ sẽ bị bỏ qua.",
         "transactionToCreate": "Tổng cộng {{size}} giao dịch sẽ được tạo"
     },
     "days": "Ngày",

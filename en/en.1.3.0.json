@@ -18,13 +18,22 @@
             "description": "'{{thousand}}' as thousand separator, '{{decimal}}' as decimal separator."
         }
     },
-    "title":{
-        "selectNumberSeparators": "Select number separators"
+    "default": {
+        "account": {
+            "lostMissing":"Lost or Missing"
+        }
+    },
+    "message":{
+        "transactionAccountMappingMissing": "There are {{size}} transactions that cannot be matched to accounts, possibly because you have already deleted these accounts. You can still import them, but the unmatched transactions will be reassigned to account {{lostMissing}}.",
+        "transactionAccountMappingInvalid": "{{size}} transaction account mappings are invalid. You can still proceed with the import, but transaction with invalid account mappings will be ignored."
     },
     "react-native-paper-dates": {
         "selectTime": "Select Time",
         "start": "Start",
         "end": "End"
+    },
+    "title":{
+        "selectNumberSeparators": "Select number separators"
     },
     "transaction":{
         "transDate": "Date",
