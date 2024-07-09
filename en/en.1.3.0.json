@@ -7,6 +7,20 @@
         "amount": "Amount",
         "hideEmpty": "Hide Empty"
     },
+    "csvImport":{
+        "numberSeparators":{
+            "@": "Number Separators",
+            "language": "By Language",
+            "commaDot": "Comma and Dot",
+            "spaceDot": "Space and Dot",
+            "dotComma": "Dot and Comma",
+            "spaceComma": "Space and Comma",
+            "description": "'{{thousand}}' as thousand separator, '{{decimal}}' as decimal separator."
+        }
+    },
+    "title":{
+        "selectNumberSeparators": "Select number separators"
+    },
     "react-native-paper-dates": {
         "selectTime": "Select Time",
         "start": "Start",
