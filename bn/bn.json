@@ -131,7 +131,6 @@
         "provideAccountsCsvHint": "দয়া করে Daily Money+ থেকে রপ্তানি করা অ্যাকাউন্ট CSV ফাইল প্রদান করুন, সাধারণত নাম accounts.csv বা accounts-<number>.csv",
         "provideDetailsCsv": "বিস্তারিত CSV ফাইল প্রদান করুন",
         "provideDetailsCsvHint": "দয়া করে Daily Money+ থেকে রপ্তানি করা বিস্তারিত CSV ফাইল প্রদান করুন, সাধারণত নাম details.csv বা details-<number>.csv",
-        "transactionAccountMapInvalid": "{{size}} লেনদেন অ্যাকাউন্ট মানচিত্রগুলি অকার্যকর। আপনি এখনও আমদানিতে এগিয়ে যেতে পারেন, তবে অকার্যকর মানচিত্র সহ লেনদেনগুলি উপেক্ষা করা হবে।",
         "transactionToCreate": "মোট {{size}} লেনদেন তৈরি করা হবে"
     },
     "days": "দিন",

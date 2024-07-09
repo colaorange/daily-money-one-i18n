@@ -131,7 +131,6 @@
         "provideAccountsCsvHint": "Παρακαλώ παρέχετε το αρχείο CSV λογαριασμών που εξήχθη από το Daily Money+, συνήθως ονομάζεται accounts.csv ή accounts-<number>.csv",
         "provideDetailsCsv": "Παροχή Αρχείου CSV Λεπτομερειών",
         "provideDetailsCsvHint": "Παρακαλώ παρέχετε το αρχείο CSV λεπτομερειών που εξήχθη από το Daily Money+, συνήθως ονομάζεται details.csv ή details-<number>.csv",
-        "transactionAccountMapInvalid": "{{size}} αντιστοιχίσεις λογαριασμών συναλλαγών είναι άκυρες. Μπορείτε να προχωρήσετε με την εισαγωγή, αλλά οι συναλλαγές με άκυρες αντιστοιχίσεις θα αγνοηθούν.",
         "transactionToCreate": "Σύνολο {{size}} συναλλαγών που θα δημιουργηθούν"
     },
     "days": "Ημέρες",

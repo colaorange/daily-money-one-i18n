@@ -131,7 +131,6 @@
         "provideAccountsCsvHint": "Пожалуйста, предоставьте файл счёта CSV, экспортированный из Daily Money+, обычно называемый accounts.csv или accounts-&lt;number&gt;.csv",
         "provideDetailsCsv": "Предоставить Файл Подробностей CSV",
         "provideDetailsCsvHint": "Пожалуйста, предоставьте файл подробностей CSV, экспортированный из Daily Money+, обычно называемый details.csv или details-&lt;number&gt;.csv",
-        "transactionAccountMapInvalid": "{{size}} маппингов счетов транзакций недействительны. Вы все еще можете продолжить импорт, но транзакции с недействительными маппингами будут проигнорированы.",
         "transactionToCreate": "Всего {{size}} транзакций будет создано"
     },
     "days": "Дни",

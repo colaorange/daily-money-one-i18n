@@ -131,7 +131,6 @@
         "provideAccountsCsvHint": "Bitte stellen Sie die aus Daily Money+ exportierte Konten-CSV-Datei bereit, normalerweise benannt accounts.csv oder accounts-<number>.csv",
         "provideDetailsCsv": "Details-CSV-Datei bereitstellen",
         "provideDetailsCsvHint": "Bitte stellen Sie die aus Daily Money+ exportierte Details-CSV-Datei bereit, normalerweise benannt details.csv oder details-<number>.csv",
-        "transactionAccountMapInvalid": "{{size}} Transaktionskontozuordnungen sind ungültig. Sie können den Import trotzdem fortsetzen, aber Transaktionen mit ungültigen Zuordnungen werden ignoriert.",
         "transactionToCreate": "Insgesamt {{size}} Transaktionen zu erstellen"
     },
     "days": "Tage",

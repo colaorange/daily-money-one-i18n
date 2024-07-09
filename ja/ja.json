@@ -131,7 +131,6 @@
         "provideAccountsCsvHint": "Daily Money+からエクスポートされたアカウントCSVファイルを提供してください。通常、accounts.csvまたはaccounts-<number>.csvという名前です。",
         "provideDetailsCsv": "詳細CSVファイルを提供",
         "provideDetailsCsvHint": "Daily Money+からエクスポートされた詳細CSVファイルを提供してください。通常、details.csvまたはdetails-<number>.csvという名前です。",
-        "transactionAccountMapInvalid": "{{size}} の取引アカウントマッピングが無効です。インポートを続行できますが、無効なマッピングの取引は無視されます。",
         "transactionToCreate": "作成される取引の合計 {{size}}"
     },
     "days": "日数",

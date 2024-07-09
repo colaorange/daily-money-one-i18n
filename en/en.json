@@ -131,7 +131,6 @@
         "provideAccountsCsvHint": "Please provide the accounts CSV file exported from Daily Money+, typically named accounts.csv or accounts-<number>.csv",
         "provideDetailsCsv": "Provide Details CSV File",
         "provideDetailsCsvHint": "Please provide the details CSV file exported from Daily Money+, typically named details.csv or details-<number>.csv",
-        "transactionAccountMapInvalid": "{{size}} transaction account mapping are invalid. You can still proceed with the import, but transactions with invalid mappings will be ignored.",
         "transactionToCreate": "Total {{size}} transactions to be created"
     },
     "days": "Days",

@@ -17,7 +17,6 @@
         "provideJson": "Provide JSON file",
         "provideJsonHint": "Please provide the JSON file exported by Daily Money One. The file name is usually dmo-<date-time>.json",
         "selectBooks": "Select books to import (new book will be created)",
-        "transactionAccountMapInvalid": "{{size}} transaction account mappings are incorrect. You can still import, but incorrectly mapped transactions will be ignored",
         "transactionToCreate": "The transaction to be created totals {{size}} entries"
     },
     "message": {
