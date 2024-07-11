@@ -5,7 +5,7 @@
         "startToImportJson": "進行JSON匯入"
     },
     "balance": {
-        "narrowSheet": "窄的表格"
+        "compactSheet": "緊湊的表格"
     },
     "jsonImport": {
         "accountInformation": "{{size}} 筆帳戶",
@@ -37,18 +37,18 @@
     },
     "selectTransactionTemplate": "選擇帳目範本",
     "theme": {
-        "light": "薰衣草",
-        "lightCola": "淡玫瑰",
-        "lightOrange": "柔桃色",
-        "lightSakura": "櫻花粉",
-        "lightLemon": "萊姆綠",
-        "lightOcean": "薄霧藍",
         "dark": "紫羅蘭",
         "darkCola": "紅赭石",
+        "darkLemon": "橄欖綠",
+        "darkOcean": "海軍藍",
         "darkOrange": "陶瓦色",
         "darkSakura": "夜櫻色",
-        "darkLemon": "橄欖綠",
-        "darkOcean": "海軍藍"
+        "light": "薰衣草",
+        "lightCola": "淡玫瑰",
+        "lightLemon": "萊姆綠",
+        "lightOcean": "薄霧藍",
+        "lightOrange": "柔桃色",
+        "lightSakura": "櫻花粉"
     },
     "title": {
         "deleteTransactionTemplate": "刪除帳目範本",
