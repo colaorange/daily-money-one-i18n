@@ -1,2 +1,51 @@
 {
+    "action": {
+        "share": "Compartir",
+        "shareItem": "Compartir {{item}}"
+    },
+    "balance": {
+        "amount": "Cantidad",
+        "hideEmpty": "Ocultar vacío"
+    },
+    "csvImport": {
+        "numberSeparators": {
+            "@": "Separadores de números",
+            "commaDot": "Coma y punto",
+            "description": "'{{thousand}}' como separador de miles, '{{decimal}}' como separador decimal.",
+            "dotComma": "Punto y coma",
+            "language": "Por idioma",
+            "spaceComma": "Espacio y coma",
+            "spaceDot": "Espacio y punto"
+        }
+    },
+    "default": {
+        "account": {
+            "lostMissing": "Perdido o faltante"
+        }
+    },
+    "message": {
+        "transactionAccountMappingInvalid": "{{size}} mapeos de cuentas de transacciones son inválidos. Puede continuar con la importación, pero las transacciones con mapeos de cuentas inválidos serán ignoradas.",
+        "transactionAccountMappingMissing": "Hay {{size}} transacciones que no se pueden asignar a cuentas, posiblemente porque ya ha eliminado estas cuentas. Puede importarlas, pero las transacciones no asignadas se reasignarán a la cuenta {{lostMissing}}."
+    },
+    "react-native-paper-dates": {
+        "end": "Fin",
+        "selectTime": "Seleccionar hora",
+        "start": "Inicio"
+    },
+    "title": {
+        "selectNumberSeparators": "Seleccionar separadores de números"
+    },
+    "transaction": {
+        "compactList": "Lista compacta",
+        "depositAccountType": "Tipo de transferencia entrante",
+        "depositBook": "Libro de transferencias entrantes",
+        "transDate": "Fecha",
+        "withdrawalAccountType": "Tipo de transferencia saliente",
+        "withdrawalBook": "Libro de transferencias salientes"
+    },
+    "transactionList": {
+        "mode": {
+            "custom": "Rango personalizado"
+        }
+    }
 }

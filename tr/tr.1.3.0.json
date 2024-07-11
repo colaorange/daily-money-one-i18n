@@ -1,2 +1,51 @@
 {
+    "action": {
+        "share": "Paylaş",
+        "shareItem": "{{item}} Paylaş"
+    },
+    "balance": {
+        "amount": "Miktar",
+        "hideEmpty": "Boşları Gizle"
+    },
+    "csvImport": {
+        "numberSeparators": {
+            "@": "Number Separators",
+            "commaDot": "Virgül ve Nokta",
+            "description": "'{{thousand}}' bin ayırıcı olarak, '{{decimal}}' ondalık ayırıcı olarak kullanılır.",
+            "dotComma": "Nokta ve Virgül",
+            "language": "Dile Göre",
+            "spaceComma": "Boşluk ve Virgül",
+            "spaceDot": "Boşluk ve Nokta"
+        }
+    },
+    "default": {
+        "account": {
+            "lostMissing": "Kayıp veya Eksik"
+        }
+    },
+    "message": {
+        "transactionAccountMappingInvalid": "{{size}} işlem hesap eşlemeleri geçersiz. İçe aktarmaya devam edebilirsiniz, ancak geçersiz hesap eşlemeleri olan işlemler göz ardı edilecektir.",
+        "transactionAccountMappingMissing": "Hesaplara eşlenemeyen {{size}} işlem var, muhtemelen bu hesapları zaten sildiğiniz için. Yine de içe aktarabilirsiniz, ancak eşleşmeyen işlemler hesap {{lostMissing}} olarak yeniden atanacaktır."
+    },
+    "react-native-paper-dates": {
+        "end": "Bitiş",
+        "selectTime": "Zaman Seç",
+        "start": "Başlangıç"
+    },
+    "title": {
+        "selectNumberSeparators": "Numara Ayırıcıları Seç"
+    },
+    "transaction": {
+        "compactList": "Kompakt Liste",
+        "depositAccountType": "Transfer-in Türü",
+        "depositBook": "Transfer-in Kitap",
+        "transDate": "Tarih",
+        "withdrawalAccountType": "Transfer-out Türü",
+        "withdrawalBook": "Transfer-out Kitap"
+    },
+    "transactionList": {
+        "mode": {
+            "custom": "Özel Aralık"
+        }
+    }
 }

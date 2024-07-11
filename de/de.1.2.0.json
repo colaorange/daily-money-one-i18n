@@ -1,3 +1,68 @@
 {
-    
+    "action": {
+        "newTransactionTemplate": "Vorlage erstellen",
+        "reset": "Zurücksetzen",
+        "startToImportJson": "JSON Import starten"
+    },
+    "balance": {
+        "compactSheet": "Kompakte Tabelle"
+    },
+    "jsonImport": {
+        "accountInformation": "{{size}} Konten",
+        "confirmImport": "Das Importieren kann je nach Datenmenge einige Zeit dauern. Sind Sie sicher, dass Sie jetzt JSON importieren möchten?",
+        "containInformation": "Es gibt insgesamt {{bookSize}} Bücher, {{accountSize}} Konten, {{transactionSize}} Transaktionen",
+        "importCompleted": "Neues Kontobuch importiert, insgesamt {{bookSize}} Kontobücher, {{accountSize}} Konten, {{transactionSize}} Transaktionen",
+        "importTransaction": "Transaktionen importieren",
+        "pickJson": "JSON-Datei auswählen",
+        "provideJson": "JSON-Datei bereitstellen",
+        "provideJsonHint": "Bitte stellen Sie die JSON-Datei bereit, die von Daily Money One exportiert wurde. Der Dateiname ist normalerweise dmo-<date-time>.json",
+        "selectBooks": "Zu importierende Bücher auswählen (neues Buch wird erstellt)",
+        "transactionToCreate": "Die zu erstellende Transaktion umfasst insgesamt {{size}} Einträge"
+    },
+    "message": {
+        "exportedJson": "Buch {{names}} wurde als JSON nach /{{location}} exportiert, Größe {{size}} Bytes.",
+        "exportedUploadedJson": "Buch {{names}} wurde als JSON nach /{{location}} exportiert, Größe {{size}} Bytes, und in Google Drive hochgeladen, Upload-Ergebnis {{uploadResult}}.",
+        "exportJsonToDirectory": "Buch auswählen und als JSON in ein externes Speicherverzeichnis exportieren, mit Unterstützung für automatischen Upload. JSON ist ein reines Textdatenformat mit besserer Kompatibilität, was es einfacher macht, Ihr Buch zu behalten oder zu teilen, aber der Export und Import dauern länger.",
+        "noExportTransactions": "Keine Transaktionen exportieren.",
+        "startJsonImportProcess": "Starten Sie den JSON-Importprozess für Daily Money One",
+        "transactionTemplateCreated": "Transaktionsvorlage {{name}} erfolgreich erstellt.",
+        "transactionTemplateDeleted": "Transaktionsvorlage {{name}} wurde gelöscht.",
+        "transactionTemplateMissing": "Transaktionsvorlage {{transactionTemplateId}} nicht gefunden.",
+        "transactionTemplateUpdated": "Transaktionsvorlage {{name}} erfolgreich aktualisiert."
+    },
+    "noTransactionTemplate": "Keine Transaktionsvorlage",
+    "screen": {
+        "dataImportJson": "Import Daily Money One JSON",
+        "transactionTemplateManagement": "Transaktionsvorlagenverwaltung"
+    },
+    "selectTransactionTemplate": "Transaktionsvorlage auswählen",
+    "theme": {
+        "dark": "Violett",
+        "darkCola": "Rötliches Ocker",
+        "darkLemon": "Olivgrün",
+        "darkOcean": "Marineblau",
+        "darkOrange": "Terrakotta",
+        "darkSakura": "Nacht-Sakura",
+        "light": "Lavendel",
+        "lightCola": "Blassrosa",
+        "lightLemon": "Lindgrün",
+        "lightOcean": "Nebliges Blau",
+        "lightOrange": "Helles Pfirsich",
+        "lightSakura": "Sakura-Pink"
+    },
+    "title": {
+        "deleteTransactionTemplate": "Transaktionsvorlage löschen",
+        "editTransactionTemplate": "Transaktionsvorlage bearbeiten",
+        "newTransactionTemplate": "Transaktionsvorlage erstellen"
+    },
+    "transactionTemplate": {
+        "applyDeposits": "Einlagen anwenden",
+        "applyNote": "Notiz anwenden",
+        "applyValue": "Wert anwenden",
+        "applyWithdrawals": "Abhebungen anwenden",
+        "name": "Name",
+        "nameHint": "Der Name der Transaktionsvorlage, Länge 1 - 128 Zeichen",
+        "note": "Notiz",
+        "noteHint": "Die Notiz der Transaktionsvorlage, Länge 0 - 512 Zeichen"
+    }
 }

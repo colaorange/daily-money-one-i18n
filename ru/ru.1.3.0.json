@@ -1,2 +1,51 @@
 {
+    "action": {
+        "share": "Поделиться",
+        "shareItem": "Поделиться {{item}}"
+    },
+    "balance": {
+        "amount": "Сумма",
+        "hideEmpty": "Скрыть Пустые"
+    },
+    "csvImport": {
+        "numberSeparators": {
+            "@": "Разделители Чисел",
+            "commaDot": "Запятая и Точка",
+            "description": "'{{thousand}}' как разделитель тысяч, '{{decimal}}' как десятичный разделитель.",
+            "dotComma": "Точка и Запятая",
+            "language": "По Языку",
+            "spaceComma": "Пробел и Запятая",
+            "spaceDot": "Пробел и Точка"
+        }
+    },
+    "default": {
+        "account": {
+            "lostMissing": "Потерян или Отсутствует"
+        }
+    },
+    "message": {
+        "transactionAccountMappingInvalid": "{{size}} сопоставлений транзакционных счетов недействительны. Вы можете продолжить импорт, но транзакции с недействительными сопоставлениями будут проигнорированы.",
+        "transactionAccountMappingMissing": "Существует {{size}} транзакций, которые не могут быть сопоставлены со счетами, возможно, потому что эти счета были удалены. Вы можете импортировать их, но несопоставленные транзакции будут переназначены на счет {{lostMissing}}."
+    },
+    "react-native-paper-dates": {
+        "end": "Конец",
+        "selectTime": "Выберите Время",
+        "start": "Начало"
+    },
+    "title": {
+        "selectNumberSeparators": "Выберите Разделители Чисел"
+    },
+    "transaction": {
+        "compactList": "Компактный Список",
+        "depositAccountType": "Тип Перевода-в",
+        "depositBook": "Книга Перевода-в",
+        "transDate": "Дата",
+        "withdrawalAccountType": "Тип Перевода-из",
+        "withdrawalBook": "Книга Перевода-из"
+    },
+    "transactionList": {
+        "mode": {
+            "custom": "Пользовательский Диапазон"
+        }
+    }
 }

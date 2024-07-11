@@ -1,3 +1,68 @@
 {
-    
+    "action": {
+        "newTransactionTemplate": "Tạo Mẫu Giao Dịch",
+        "reset": "Đặt Lại",
+        "startToImportJson": "Bắt Đầu Nhập JSON"
+    },
+    "balance": {
+        "compactSheet": "Bảng Tóm Tắt"
+    },
+    "jsonImport": {
+        "accountInformation": "{{size}} tài khoản",
+        "confirmImport": "Nhập liệu sẽ mất một khoảng thời gian tùy thuộc vào kích thước dữ liệu. Bạn có chắc chắn muốn nhập JSON ngay bây giờ?",
+        "containInformation": "Có tổng cộng {{bookSize}} sổ sách, {{accountSize}} tài khoản, {{transactionSize}} giao dịch",
+        "importCompleted": "Đã nhập sổ sách mới, tổng cộng {{bookSize}} sổ sách, {{accountSize}} tài khoản, {{transactionSize}} giao dịch",
+        "importTransaction": "Nhập giao dịch",
+        "pickJson": "Chọn tệp JSON",
+        "provideJson": "Cung cấp tệp JSON",
+        "provideJsonHint": "Vui lòng cung cấp tệp JSON được xuất bởi Daily Money One. Tên tệp thường là dmo-<date-time>.json",
+        "selectBooks": "Chọn sổ để nhập (sổ mới sẽ được tạo)",
+        "transactionToCreate": "Giao dịch cần tạo tổng cộng {{size}} mục"
+    },
+    "message": {
+        "exportedJson": "Sổ {{names}} đã được xuất dưới dạng JSON đến /{{location}}, kích thước {{size}} bytes.",
+        "exportedUploadedJson": "Sổ {{names}} đã được xuất dưới dạng JSON đến /{{location}}, kích thước {{size}} bytes, và đã tải lên Google Drive, kết quả tải lên {{uploadResult}}.",
+        "exportJsonToDirectory": "Chọn sổ và xuất dưới dạng JSON đến thư mục lưu trữ bên ngoài, với hỗ trợ tải lên tự động. JSON là định dạng dữ liệu văn bản thuần với khả năng tương thích tốt hơn, giúp dễ dàng lưu trữ hoặc chia sẻ sổ của bạn, nhưng quá trình xuất và nhập sẽ mất nhiều thời gian hơn.",
+        "noExportTransactions": "Không xuất giao dịch.",
+        "startJsonImportProcess": "Bắt đầu quá trình nhập JSON cho Daily Money One",
+        "transactionTemplateCreated": "Mẫu Giao Dịch {{name}} đã được tạo thành công.",
+        "transactionTemplateDeleted": "Mẫu Giao Dịch {{name}} đã bị xóa.",
+        "transactionTemplateMissing": "Mẫu Giao Dịch {{transactionTemplateId}} không tìm thấy.",
+        "transactionTemplateUpdated": "Mẫu Giao Dịch {{name}} đã được cập nhật thành công."
+    },
+    "noTransactionTemplate": "Không Có Mẫu Giao Dịch",
+    "screen": {
+        "dataImportJson": "Nhập JSON của Daily Money One",
+        "transactionTemplateManagement": "Quản Lý Mẫu Giao Dịch"
+    },
+    "selectTransactionTemplate": "Chọn Mẫu Giao Dịch",
+    "theme": {
+        "dark": "Tím",
+        "darkCola": "Nâu Đỏ",
+        "darkLemon": "Xanh Ô liu",
+        "darkOcean": "Xanh Hải Quân",
+        "darkOrange": "Đất Nung",
+        "darkSakura": "Anh Đào Đêm",
+        "light": "Oải Hương",
+        "lightCola": "Hồng Nhạt",
+        "lightLemon": "Xanh Chanh",
+        "lightOcean": "Xanh Mờ",
+        "lightOrange": "Đào Nhạt",
+        "lightSakura": "Hồng Anh Đào"
+    },
+    "title": {
+        "deleteTransactionTemplate": "Xóa Mẫu Giao Dịch",
+        "editTransactionTemplate": "Chỉnh Sửa Mẫu Giao Dịch",
+        "newTransactionTemplate": "Tạo Mẫu Giao Dịch"
+    },
+    "transactionTemplate": {
+        "applyDeposits": "Áp Dụng Khoản Gửi",
+        "applyNote": "Áp Dụng Ghi Chú",
+        "applyValue": "Áp Dụng Giá Trị",
+        "applyWithdrawals": "Áp Dụng Khoản Rút",
+        "name": "Tên",
+        "nameHint": "Tên của mẫu giao dịch, độ dài 1 - 128 ký tự",
+        "note": "Ghi Chú",
+        "noteHint": "Ghi chú của mẫu giao dịch, độ dài 0 - 512 ký tự"
+    }
 }

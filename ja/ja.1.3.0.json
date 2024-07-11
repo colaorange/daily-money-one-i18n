@@ -1,2 +1,51 @@
 {
+    "action": {
+        "share": "共有",
+        "shareItem": "{{item}}を共有"
+    },
+    "balance": {
+        "amount": "金額",
+        "hideEmpty": "空を隠す"
+    },
+    "csvImport": {
+        "numberSeparators": {
+            "@": "数字の区切り",
+            "commaDot": "カンマとドット",
+            "description": "'{{thousand}}' は千の区切り、'{{decimal}}' は小数点の区切りとして使用されます。",
+            "dotComma": "ドットとカンマ",
+            "language": "言語別",
+            "spaceComma": "スペースとカンマ",
+            "spaceDot": "スペースとドット"
+        }
+    },
+    "default": {
+        "account": {
+            "lostMissing": "紛失または見つかりません"
+        }
+    },
+    "message": {
+        "transactionAccountMappingInvalid": "{{size}} 取引アカウントのマッピングが無効です。インポートを続行できますが、無効なアカウントのマッピングがある取引は無視されます。",
+        "transactionAccountMappingMissing": "{{size}} 件の取引がアカウントに一致しません。これらのアカウントを既に削除している可能性があります。それらをインポートできますが、一致しない取引はアカウント {{lostMissing}} に再割り当てされます。"
+    },
+    "react-native-paper-dates": {
+        "end": "終了",
+        "selectTime": "時間を選択",
+        "start": "開始"
+    },
+    "title": {
+        "selectNumberSeparators": "数字の区切りを選択"
+    },
+    "transaction": {
+        "compactList": "コンパクトリスト",
+        "depositAccountType": "入金タイプ",
+        "depositBook": "入金帳簿",
+        "transDate": "日付",
+        "withdrawalAccountType": "出金タイプ",
+        "withdrawalBook": "出金帳簿"
+    },
+    "transactionList": {
+        "mode": {
+            "custom": "カスタム範囲"
+        }
+    }
 }

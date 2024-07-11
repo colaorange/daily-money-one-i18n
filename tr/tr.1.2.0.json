@@ -1,3 +1,68 @@
 {
-    
+    "action": {
+        "newTransactionTemplate": "Şablon Oluştur",
+        "reset": "Sıfırla",
+        "startToImportJson": "JSON İthalatını Başlat"
+    },
+    "balance": {
+        "compactSheet": "Kompakt Sayfa"
+    },
+    "jsonImport": {
+        "accountInformation": "{{size}} hesaplar",
+        "confirmImport": "Veri boyutuna bağlı olarak ithalat biraz zaman alacaktır. JSON'u şimdi ithal etmek istediğinizden emin misiniz?",
+        "containInformation": "Toplam {{bookSize}} kitaplar, {{accountSize}} hesaplar, {{transactionSize}} işlemler var",
+        "importCompleted": "Yeni hesap defteri ithal edildi, toplam {{bookSize}} hesap defteri, {{accountSize}} hesaplar, {{transactionSize}} işlemler",
+        "importTransaction": "İşlemleri ithal et",
+        "pickJson": "JSON dosyasını seç",
+        "provideJson": "JSON dosyasını sağla",
+        "provideJsonHint": "Lütfen Daily Money One tarafından ihraç edilen JSON dosyasını sağla. Dosya adı genellikle dmo-<date-time>.json olur",
+        "selectBooks": "İthal edilecek kitapları seç (yeni kitap oluşturulacak)",
+        "transactionToCreate": "Oluşturulacak işlemler toplam {{size}} giriş"
+    },
+    "message": {
+        "exportedJson": "Kitap {{names}} JSON olarak /{{location}} konumuna ihraç edildi, boyut {{size}} bayt.",
+        "exportedUploadedJson": "Kitap {{names}} JSON olarak /{{location}} konumuna ihraç edildi, boyut {{size}} bayt, ve Google Drive'a yüklendi, yükleme sonucu {{uploadResult}}.",
+        "exportJsonToDirectory": "Kitabı seçin ve JSON olarak harici depolama dizinine ihraç edin, otomatik yükleme desteği ile. JSON, düz metin veri formatıdır ve daha iyi uyumluluk sağlar, kitabınızı korumayı veya paylaşmayı kolaylaştırır, ancak ihraç ve ithalat daha uzun sürer.",
+        "noExportTransactions": "İşlemleri ihraç etmeyin.",
+        "startJsonImportProcess": "Daily Money One için JSON ithalat sürecini başlat",
+        "transactionTemplateCreated": "İşlem Şablonu {{name}} başarıyla oluşturuldu.",
+        "transactionTemplateDeleted": "İşlem Şablonu {{name}} silindi.",
+        "transactionTemplateMissing": "İşlem Şablonu {{transactionTemplateId}} bulunamadı.",
+        "transactionTemplateUpdated": "İşlem Şablonu {{name}} başarıyla güncellendi."
+    },
+    "noTransactionTemplate": "İşlem Şablonu Yok",
+    "screen": {
+        "dataImportJson": "Daily Money One JSON İthalat",
+        "transactionTemplateManagement": "İşlem Şablonu Yönetimi"
+    },
+    "selectTransactionTemplate": "İşlem Şablonu Seç",
+    "theme": {
+        "dark": "Menekşe",
+        "darkCola": "Kızıl Kahverengi",
+        "darkLemon": "Zeytin Yeşili",
+        "darkOcean": "Lacivert",
+        "darkOrange": "Kiremit Rengi",
+        "darkSakura": "Gece Sakura",
+        "light": "Lavanta",
+        "lightCola": "Soluk Gül",
+        "lightLemon": "Lime Yeşili",
+        "lightOcean": "Sis Mavisi",
+        "lightOrange": "Açık Şeftali",
+        "lightSakura": "Sakura Pembe"
+    },
+    "title": {
+        "deleteTransactionTemplate": "İşlem Şablonunu Sil",
+        "editTransactionTemplate": "İşlem Şablonunu Düzenle",
+        "newTransactionTemplate": "İşlem Şablonu Oluştur"
+    },
+    "transactionTemplate": {
+        "applyDeposits": "Mevduatları Uygula",
+        "applyNote": "Notu Uygula",
+        "applyValue": "Değeri Uygula",
+        "applyWithdrawals": "Para Çekimlerini Uygula",
+        "name": "İsim",
+        "nameHint": "İşlem şablonunun adı, uzunluk 1 - 128 karakter",
+        "note": "Not",
+        "noteHint": "İşlem şablonunun notu, uzunluk 0 - 512 karakter"
+    }
 }

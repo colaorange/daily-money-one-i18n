@@ -1,2 +1,51 @@
 {
+    "action": {
+        "share": "শেয়ার করুন",
+        "shareItem": "শেয়ার করুন {{item}}"
+    },
+    "balance": {
+        "amount": "পরিমাণ",
+        "hideEmpty": "ফাঁকা লুকান"
+    },
+    "csvImport": {
+        "numberSeparators": {
+            "@": "সংখ্যার বিভাজক",
+            "commaDot": "কমা এবং ডট",
+            "description": "'{{thousand}}' হাজার বিভাজক হিসাবে, '{{decimal}}' দশমিক বিভাজক হিসাবে।",
+            "dotComma": "ডট এবং কমা",
+            "language": "ভাষা দ্বারা",
+            "spaceComma": "স্পেস এবং কমা",
+            "spaceDot": "স্পেস এবং ডট"
+        }
+    },
+    "default": {
+        "account": {
+            "lostMissing": "হারানো বা অনুপস্থিত"
+        }
+    },
+    "message": {
+        "transactionAccountMappingInvalid": "{{size}} লেনদেন অ্যাকাউন্ট ম্যাপিং অবৈধ। আপনি এখনও আমদানি করতে পারেন, তবে অবৈধ অ্যাকাউন্ট ম্যাপিং সহ লেনদেন উপেক্ষা করা হবে।",
+        "transactionAccountMappingMissing": "{{size}} লেনদেনগুলি অ্যাকাউন্টের সাথে মেলানো যায় না, সম্ভবত আপনি ইতিমধ্যে এই অ্যাকাউন্টগুলি মুছে ফেলেছেন। আপনি এখনও তাদের আমদানি করতে পারেন, তবে মেলানো না হওয়া লেনদেনগুলি অ্যাকাউন্ট {{lostMissing}} এ পুনরায় বরাদ্দ করা হবে।"
+    },
+    "react-native-paper-dates": {
+        "end": "শেষ",
+        "selectTime": "সময় নির্বাচন করুন",
+        "start": "শুরু"
+    },
+    "title": {
+        "selectNumberSeparators": "সংখ্যার বিভাজক নির্বাচন করুন"
+    },
+    "transaction": {
+        "compactList": "সংক্ষিপ্ত তালিকা",
+        "depositAccountType": "ট্রান্সফার-ইন প্রকার",
+        "depositBook": "ট্রান্সফার-ইন বই",
+        "transDate": "তারিখ",
+        "withdrawalAccountType": "ট্রান্সফার-আউট প্রকার",
+        "withdrawalBook": "ট্রান্সফার-আউট বই"
+    },
+    "transactionList": {
+        "mode": {
+            "custom": "কাস্টম রেঞ্জ"
+        }
+    }
 }

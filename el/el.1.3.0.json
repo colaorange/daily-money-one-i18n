@@ -1,2 +1,51 @@
 {
+    "action": {
+        "share": "Μοιράσου",
+        "shareItem": "Μοιράσου {{item}}"
+    },
+    "balance": {
+        "amount": "Ποσό",
+        "hideEmpty": "Απόκρυψη Κενών"
+    },
+    "csvImport": {
+        "numberSeparators": {
+            "@": "Διαχωριστές Αριθμών",
+            "commaDot": "Κόμμα και Τελεία",
+            "description": "'{{thousand}}' ως διαχωριστής χιλιάδων, '{{decimal}}' ως διαχωριστής δεκαδικών.",
+            "dotComma": "Τελεία και Κόμμα",
+            "language": "Ανά Γλώσσα",
+            "spaceComma": "Κενό και Κόμμα",
+            "spaceDot": "Κενό και Τελεία"
+        }
+    },
+    "default": {
+        "account": {
+            "lostMissing": "Χαμένα ή Ελλείποντα"
+        }
+    },
+    "message": {
+        "transactionAccountMappingInvalid": "{{size}} αντιστοιχίσεις λογαριασμών συναλλαγών είναι άκυρες. Μπορείτε να συνεχίσετε με την εισαγωγή, αλλά οι συναλλαγές με άκυρες αντιστοιχίσεις λογαριασμών θα αγνοηθούν.",
+        "transactionAccountMappingMissing": "Υπάρχουν {{size}} συναλλαγές που δεν μπορούν να αντιστοιχιστούν σε λογαριασμούς, πιθανώς επειδή έχετε ήδη διαγράψει αυτούς τους λογαριασμούς. Μπορείτε ακόμα να τις εισαγάγετε, αλλά οι μη αντιστοιχισμένες συναλλαγές θα επαναπροσδιοριστούν στον λογαριασμό {{lostMissing}}."
+    },
+    "react-native-paper-dates": {
+        "end": "Τέλος",
+        "selectTime": "Επιλέξτε Ώρα",
+        "start": "Αρχή"
+    },
+    "title": {
+        "selectNumberSeparators": "Επιλέξτε διαχωριστές αριθμών"
+    },
+    "transaction": {
+        "compactList": "Συμπαγής Λίστα",
+        "depositAccountType": "Τύπος Κατάθεσης",
+        "depositBook": "Βιβλίο Κατάθεσης",
+        "transDate": "Ημερομηνία",
+        "withdrawalAccountType": "Τύπος Ανάληψης",
+        "withdrawalBook": "Βιβλίο Ανάληψης"
+    },
+    "transactionList": {
+        "mode": {
+            "custom": "Προσαρμοσμένο Εύρος"
+        }
+    }
 }

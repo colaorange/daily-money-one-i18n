@@ -1,3 +1,68 @@
 {
-    
+    "action": {
+        "newTransactionTemplate": "템플릿 생성",
+        "reset": "초기화",
+        "startToImportJson": "JSON 가져오기 시작"
+    },
+    "balance": {
+        "compactSheet": "컴팩트 시트"
+    },
+    "jsonImport": {
+        "accountInformation": "{{size}} 계정",
+        "confirmImport": "데이터 크기에 따라 가져오기가 시간이 걸릴 수 있습니다. 지금 JSON을 가져오시겠습니까?",
+        "containInformation": "총 {{bookSize}} 개의 책, {{accountSize}} 개의 계정, {{transactionSize}} 개의 거래가 있습니다.",
+        "importCompleted": "새 계정 책을 가져왔습니다. 총 {{bookSize}} 개의 계정 책, {{accountSize}} 개의 계정, {{transactionSize}} 개의 거래",
+        "importTransaction": "거래 가져오기",
+        "pickJson": "JSON 파일 선택",
+        "provideJson": "JSON 파일 제공",
+        "provideJsonHint": "Daily Money One에서 내보낸 JSON 파일을 제공하십시오. 파일 이름은 일반적으로 dmo-<date-time>.json입니다.",
+        "selectBooks": "가져올 책 선택(새 책이 생성됨)",
+        "transactionToCreate": "생성될 거래 총 {{size}} 항목"
+    },
+    "message": {
+        "exportedJson": "책 {{names}} 이(가) /{{location}} 에 JSON으로 내보내졌으며, 크기는 {{size}} 바이트입니다.",
+        "exportedUploadedJson": "책 {{names}} 이(가) /{{location}} 에 JSON으로 내보내졌으며, 크기는 {{size}} 바이트이고, Google Drive에 업로드되었습니다. 업로드 결과 {{uploadResult}}.",
+        "exportJsonToDirectory": "책을 선택하고 외부 저장소 디렉토리에 JSON으로 내보내기, 자동 업로드 지원. JSON은 호환성이 뛰어난 일반 텍스트 데이터 형식으로, 책을 보관하거나 공유하기 더 쉽지만, 내보내기 및 가져오기는 시간이 더 오래 걸립니다.",
+        "noExportTransactions": "거래를 내보내지 않습니다.",
+        "startJsonImportProcess": "Daily Money One의 JSON 가져오기 프로세스 시작",
+        "transactionTemplateCreated": "거래 템플릿 {{name}} 이(가) 성공적으로 생성되었습니다.",
+        "transactionTemplateDeleted": "거래 템플릿 {{name}} 이(가) 삭제되었습니다.",
+        "transactionTemplateMissing": "거래 템플릿 {{transactionTemplateId}} 를 찾을 수 없습니다.",
+        "transactionTemplateUpdated": "거래 템플릿 {{name}} 이(가) 성공적으로 업데이트되었습니다."
+    },
+    "noTransactionTemplate": "거래 템플릿 없음",
+    "screen": {
+        "dataImportJson": "Daily Money One JSON 가져오기",
+        "transactionTemplateManagement": "거래 템플릿 관리"
+    },
+    "selectTransactionTemplate": "거래 템플릿 선택",
+    "theme": {
+        "dark": "바이올렛",
+        "darkCola": "적갈색",
+        "darkLemon": "올리브 그린",
+        "darkOcean": "네이비 블루",
+        "darkOrange": "테라코타",
+        "darkSakura": "야간 벚꽃",
+        "light": "라벤더",
+        "lightCola": "옅은 장미색",
+        "lightLemon": "라임 그린",
+        "lightOcean": "미스트 블루",
+        "lightOrange": "라이트 피치",
+        "lightSakura": "벚꽃 핑크"
+    },
+    "title": {
+        "deleteTransactionTemplate": "거래 템플릿 삭제",
+        "editTransactionTemplate": "거래 템플릿 편집",
+        "newTransactionTemplate": "거래 템플릿 생성"
+    },
+    "transactionTemplate": {
+        "applyDeposits": "입금 적용",
+        "applyNote": "메모 적용",
+        "applyValue": "값 적용",
+        "applyWithdrawals": "출금 적용",
+        "name": "이름",
+        "nameHint": "거래 템플릿의 이름, 길이 1 - 128자",
+        "note": "메모",
+        "noteHint": "거래 템플릿의 메모, 길이 0 - 512자"
+    }
 }

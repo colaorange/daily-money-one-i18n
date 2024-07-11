@@ -1,3 +1,68 @@
 {
-    
+    "action": {
+        "newTransactionTemplate": "Crear Plantilla",
+        "reset": "Restablecer",
+        "startToImportJson": "Iniciar Importación de JSON"
+    },
+    "balance": {
+        "compactSheet": "Hoja Compacta"
+    },
+    "jsonImport": {
+        "accountInformation": "{{size}} cuentas",
+        "confirmImport": "La importación tomará algún tiempo dependiendo del tamaño de los datos. ¿Está seguro de que desea importar JSON ahora?",
+        "containInformation": "Hay un total de {{bookSize}} libros, {{accountSize}} cuentas, {{transactionSize}} transacciones",
+        "importCompleted": "Nueva libreta de cuentas importada, total {{bookSize}} libretas de cuentas, {{accountSize}} cuentas, {{transactionSize}} transacciones",
+        "importTransaction": "Importar transacciones",
+        "pickJson": "Seleccionar archivo JSON",
+        "provideJson": "Proporcionar archivo JSON",
+        "provideJsonHint": "Por favor, proporcione el archivo JSON exportado por Daily Money One. El nombre del archivo suele ser dmo-<date-time>.json",
+        "selectBooks": "Seleccionar libros para importar (se creará un nuevo libro)",
+        "transactionToCreate": "La transacción a crear suma un total de {{size}} entradas"
+    },
+    "message": {
+        "exportedJson": "El libro {{names}} ha sido exportado como JSON a /{{location}}, tamaño {{size}} bytes.",
+        "exportedUploadedJson": "El libro {{names}} ha sido exportado como JSON a /{{location}}, tamaño {{size}} bytes, y subido a Google Drive, resultado de la subida {{uploadResult}}.",
+        "exportJsonToDirectory": "Seleccione el libro y expórtelo como JSON al directorio de almacenamiento externo, con soporte para carga automática. JSON es un formato de datos en texto plano con mejor compatibilidad, lo que facilita la retención o el intercambio de su libro, pero la exportación e importación tardan más.",
+        "noExportTransactions": "No exportar transacciones.",
+        "startJsonImportProcess": "Iniciar el proceso de importación de JSON para Daily Money One",
+        "transactionTemplateCreated": "Plantilla de Transacción {{name}} creada exitosamente.",
+        "transactionTemplateDeleted": "La Plantilla de Transacción {{name}} ha sido eliminada.",
+        "transactionTemplateMissing": "Plantilla de Transacción {{transactionTemplateId}} no encontrada.",
+        "transactionTemplateUpdated": "Plantilla de Transacción {{name}} actualizada exitosamente."
+    },
+    "noTransactionTemplate": "No hay Plantilla de Transacción",
+    "screen": {
+        "dataImportJson": "Importar JSON de Daily Money One",
+        "transactionTemplateManagement": "Gestión de Plantillas de Transacción"
+    },
+    "selectTransactionTemplate": "Seleccionar Plantilla de Transacción",
+    "theme": {
+        "dark": "Violeta",
+        "darkCola": "Ocre Rojizo",
+        "darkLemon": "Verde Oliva",
+        "darkOcean": "Azul Marino",
+        "darkOrange": "Terracota",
+        "darkSakura": "Sakura Nocturna",
+        "light": "Lavanda",
+        "lightCola": "Rosa Pálido",
+        "lightLemon": "Verde Lima",
+        "lightOcean": "Azul Niebla",
+        "lightOrange": "Durazno Claro",
+        "lightSakura": "Sakura Rosa"
+    },
+    "title": {
+        "deleteTransactionTemplate": "Eliminar Plantilla de Transacción",
+        "editTransactionTemplate": "Editar Plantilla de Transacción",
+        "newTransactionTemplate": "Crear Plantilla de Transacción"
+    },
+    "transactionTemplate": {
+        "applyDeposits": "Aplicar Depósitos",
+        "applyNote": "Aplicar Nota",
+        "applyValue": "Aplicar Valor",
+        "applyWithdrawals": "Aplicar Retiros",
+        "name": "Nombre",
+        "nameHint": "El nombre de la plantilla de transacción, longitud 1 - 128 caracteres",
+        "note": "Nota",
+        "noteHint": "La nota de la plantilla de transacción, longitud 0 - 512 caracteres"
+    }
 }
