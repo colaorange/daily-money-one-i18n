@@ -1,2 +1,21 @@
-{    
+{
+    "transactionTemplate": {
+        "recurringSchedule": "Recurring Schedule",
+        "nextTime": "Next Time"
+    },
+    "schedule": {
+        "@":"Schedule",
+        "mode": {
+            "weekly": "Weekly",
+            "monthly": "Monthly",
+            "yearly": "Yearly"
+        },
+        "daysOfWeek":"Days of Week",
+        "daysOfMonth":"Days of Month",
+        "daysOfYear":"Days of Year",
+        "monthsOfYear":"Months of Year",
+        "lastDay":"Last day"
+    },
+    "scheduleMode": "Schedule Mode",
+    "selectScheduleMode": "Select Schedule Mode"
 }
