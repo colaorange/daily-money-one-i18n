@@ -4,18 +4,33 @@
         "nextTime": "Next Time"
     },
     "schedule": {
-        "@":"Schedule",
+        "@": "Schedule",
         "mode": {
             "weekly": "Weekly",
             "monthly": "Monthly",
             "yearly": "Yearly"
         },
-        "daysOfWeek":"Days of Week",
-        "daysOfMonth":"Days of Month",
-        "daysOfYear":"Days of Year",
-        "monthsOfYear":"Months of Year",
-        "lastDay":"Last day"
+        "daysOfWeek": "Days of Week",
+        "daysOfMonth": "Days of Month",
+        "daysOfYear": "Days of Year",
+        "monthsOfYear": "Months of Year",
+        "lastDay": "Last day"
+    },
+    "action":{
+        "reschedule": "Reschedule"
+    },
+    "message": {
+        "transactionTemplateRescheduled": "The template's next scheduled date has been rescheduled to {{date}}."
     },
     "scheduleMode": "Schedule Mode",
-    "selectScheduleMode": "Select Schedule Mode"
+    "selectScheduleMode": "Select Schedule Mode",
+    "tab": {
+        "transactionTemplateNormal": "Normal",
+        "transactionTemplateSchedule": "Schedule"
+    },
+    "nDaysAgo": "{{n}} days ago",
+    "nMonthsAgo": "{{n}} months ago",
+    "nDaysLater": "{{n}} days later",
+    "nMonthsLater": "{{n}} months later",
+    "startAccounting": "Start Accounting"
 }
