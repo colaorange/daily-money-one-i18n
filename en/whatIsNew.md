@@ -1,6 +1,9 @@
 
 ## What's New
 
+### In Version 1.4.0
+* 
+
 ### In Version 1.3.0
 * [Customizable Transaction Lists and Balance Sheet Intervals](https://youtu.be/O7EcLN82qIU): In addition to quick options for fixed intervals, you can now customize intervals to generate transaction lists, balance sheets, and charts.
 * [Share Transaction Lists as XLSX](https://youtu.be/Bf7j39fsCSc): Share transactions for any interval as Excel XLSX files.

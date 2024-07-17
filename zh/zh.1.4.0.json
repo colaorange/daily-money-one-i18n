@@ -14,13 +14,14 @@
         "daysOfMonth": "每月的日期",
         "daysOfYear": "每年的日期",
         "monthsOfYear": "每年的月份",
-        "lastDay": "最後一天"
+        "lastNDays": "最後第{{n}}天"
     },
     "action":{
         "reschedule": "重新排程"
     },
     "message": {
-        "transactionTemplateRescheduled": "帳目範本的下一個排程日期已重新安排至 {{date}}。"
+        "transactionTemplateRescheduled": "帳目範本的下一個排程日期已重新安排至 {{date}}。",
+        "dataVerificationFail": "資料驗証失敗"
     },
     "scheduleMode": "排程模式",
     "selectScheduleMode": "選擇排程模式",

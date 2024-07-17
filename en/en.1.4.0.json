@@ -14,13 +14,14 @@
         "daysOfMonth": "Days of Month",
         "daysOfYear": "Days of Year",
         "monthsOfYear": "Months of Year",
-        "lastDay": "Last day"
+        "lastNDays": "Last {{n}} days"
     },
     "action":{
         "reschedule": "Reschedule"
     },
     "message": {
-        "transactionTemplateRescheduled": "The template's next scheduled date has been rescheduled to {{date}}."
+        "transactionTemplateRescheduled": "The template's next scheduled date has been rescheduled to {{date}}.",
+        "dataVerificationFail": "Data verification failed"
     },
     "scheduleMode": "Schedule Mode",
     "selectScheduleMode": "Select Schedule Mode",
