@@ -16,12 +16,16 @@
         "monthsOfYear": "Months of Year",
         "lastNDays": "Last {{n}} days"
     },
-    "action":{
+    "action": {
         "reschedule": "Reschedule"
     },
     "message": {
         "transactionTemplateRescheduled": "The template's next scheduled date has been rescheduled to {{date}}.",
-        "dataVerificationFail": "Data verification failed"
+        "dataVerificationFail": "Data verification failed",
+        "transactionTemplateScheduleExpired": "The template {{name}} has expired on {{description}}"
+    },
+    "title": {
+        "scheduleExpired": "Schedule has expired"
     },
     "scheduleMode": "Schedule Mode",
     "selectScheduleMode": "Select Schedule Mode",
@@ -33,5 +37,6 @@
     "nMonthsAgo": "{{n}} months ago",
     "nDaysLater": "{{n}} days later",
     "nMonthsLater": "{{n}} months later",
-    "startAccounting": "Start Accounting"
+    "startAccounting": "Start Accounting",
+    "expiredSchedule": "Expired Schedule"
 }

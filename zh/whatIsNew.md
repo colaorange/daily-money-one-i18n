@@ -1,6 +1,9 @@
 
 ## 有什麼新功能
 
+* Daily Money One有幫助到您嗎？請抽空到[Google Store](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone)評五顆星★★★★★，讓它被更多人看見及使用，讓作者有更多的時間及資源來繼續加強及維護它。
+* 想問問題或許願功能嗎？加入[臉書分絲團](https://www.facebook.com/colaorange.daily.money)，接收第一手的開發資訊，或送訊息給作者來提問及許願。
+
 ### 在 1.4.0 裏
  * 
 

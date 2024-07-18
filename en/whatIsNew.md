@@ -1,6 +1,10 @@
 
 ## What's New
 
+* Has `Daily Money One` been helpful to you? Please take a moment to rate it ★★★★★ on the [Google Store](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone). Your rating will help more people discover and use it, providing the author with more time and resources to continue improving and maintaining it.
+
+* Do you have questions or feature requests? Join [Facebook fan group](https://www.facebook.com/colaorange.daily.money) to receive the latest development updates, or send a message to the author to ask questions and make requests.
+
 ### In Version 1.4.0
 * 
 
