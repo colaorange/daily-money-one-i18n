@@ -27,6 +27,9 @@
     "title": {
         "scheduleExpired": "Schedule has expired"
     },
+    "screen": {
+        "preferencesBalanceAccountTypeOrder": "Order of Balance Accounts"
+    },
     "scheduleMode": "Schedule Mode",
     "selectScheduleMode": "Select Schedule Mode",
     "tab": {
