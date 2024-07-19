@@ -25,7 +25,7 @@
         "transactionTemplateScheduleExpired": "帳目範本 {{name}} 在 {{description}} 已經到期"
     },
     "title": {
-        "scheduleExpired": "排程已經過期"
+        "scheduleExpired": "排程已經到期"
     },
     "scheduleMode": "排程模式",
     "selectScheduleMode": "選擇排程模式",

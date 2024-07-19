@@ -6,7 +6,7 @@
 * Do you have questions or feature requests? Join [Facebook fan group](https://www.facebook.com/colaorange.daily.money) to receive the latest development updates, or send a message to the author to ask questions and make requests.
 
 ### In Version 1.4.0
-* 
+* [Template for Recurring Scheduled Transactions](https://youtu.be/TzQj2pY6sWs): In addition to making it convenient to keep track of your expenses, this template also includes features for recurring schedules and reminders. It is a practical and thoughtful feature for automatic credit card payments or annual fees.
 
 ### In Version 1.3.0
 * [Customizable Transaction Lists and Balance Sheet Intervals](https://youtu.be/O7EcLN82qIU): In addition to quick options for fixed intervals, you can now customize intervals to generate transaction lists, balance sheets, and charts.

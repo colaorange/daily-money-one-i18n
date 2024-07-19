@@ -79,3 +79,7 @@ The program allows you to transfer between accounts in different account books. 
 When browsing the balance sheet or charts, you can add specific account items to the quick view to the home screen [*1]. Simply swipe right on the item in the balance sheet and click `Add to Quick View`, or click "Add to Quick View Icon" at the upper right corner of the balance chart card. Next, on the home screen, you'll see the balance of assets and liabilities for that item, or you can view it on the chart page of the home screen. Additionally, you can sort or remove these items in `Preferences > Home Screen Settings`.
 
 [*1] Excessive quick views on the home screen may affect the loading time of the home screen.
+
+## Transaction Templates and Recurring Scheduling
+
+You can set up transaction templates for common accounting actions, allowing you to quickly add transaction. You can also set up recurring schedule templates for regularly recurring accounting actions. The program will notify you when due, enabling you to quickly add the transaction and automatically schedule it for the next due time. Simply swipe left on the item in the transaction list, then tap `Create Template`, and enter the scheduling time, then create it. Additionally, you can sort, edit, or remove these items in the `Transaction Template Management` page.
