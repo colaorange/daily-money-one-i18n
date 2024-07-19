@@ -27,6 +27,9 @@
     "title": {
         "scheduleExpired": "排程已經到期"
     },
+    "screen": {
+        "preferencesBalanceAccountTypeOrder": "資產負債帳戶順序"
+    },
     "scheduleMode": "排程模式",
     "selectScheduleMode": "選擇排程模式",
     "tab": {

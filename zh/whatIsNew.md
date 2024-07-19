@@ -1,11 +1,12 @@
 
 ## 有什麼新功能
 
-* Daily Money One有幫助到您嗎？請抽空到[Google Store](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone)評五顆星★★★★★，讓它被更多人看見及使用，讓作者有更多的時間及資源來繼續加強及維護它。
+* `Daily Money One`有幫助到您嗎？請抽空到[Google Store](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone)評五顆星★★★★★，讓它被更多人看見及使用，讓作者有更多的時間及資源來繼續加強及維護它。
 * 想問問題或許願功能嗎？加入[臉書分絲團](https://www.facebook.com/colaorange.daily.money)，接收第一手的開發資訊，或送訊息給作者來提問及許願。
 
 ### 在 1.4.0 裏
- * * [可重複排程的帳目範本](https://youtu.be/TzQj2pY6sWs): 帳目範本除了讓您便利記帳外，也加入了重複排程及提醒的功能，對於信用卡自動扣款或一年繳一次的費用，是一個實用貼心的功能。
+ * [可重複排程的帳目範本](https://youtu.be/TzQj2pY6sWs): 帳目範本除了讓您便利記帳外，也加入了重複排程及提醒的功能，對於信用卡自動扣款或一年繳一次的費用，是一個實用貼心的功能。
+ * 排序資產負債帳戶: 在`喜好設定 > 顯示設定 > 資產負債帳戶排序`中設定排序
 
 ### 在 1.3.0 裏
  * [自定帳目列表及資產負債表的區間](https://youtu.be/O7EcLN82qIU)：除了固定區間的快速選項外，您現在還可以自訂區間來生成交易清單、資產負債表和圖表。
