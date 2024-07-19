@@ -1,2 +1,42 @@
-{    
+{
+    "transactionTemplate": {
+        "recurringSchedule": "重複排程",
+        "nextTime": "下次時間"
+    },
+    "schedule": {
+        "@": "排程",
+        "mode": {
+            "weekly": "每週",
+            "monthly": "每月",
+            "yearly": "每年"
+        },
+        "daysOfWeek": "每週的日期",
+        "daysOfMonth": "每月的日期",
+        "daysOfYear": "每年的日期",
+        "monthsOfYear": "每年的月份",
+        "lastNDays": "最後第{{n}}天"
+    },
+    "action":{
+        "reschedule": "重新排程"
+    },
+    "message": {
+        "transactionTemplateRescheduled": "帳目範本的下一個排程日期已重新安排至 {{date}}。",
+        "dataVerificationFail": "資料驗証失敗",
+        "transactionTemplateScheduleExpired": "帳目範本 {{name}} 在 {{description}} 已經到期"
+    },
+    "title": {
+        "scheduleExpired": "排程已經到期"
+    },
+    "scheduleMode": "排程模式",
+    "selectScheduleMode": "選擇排程模式",
+    "tab": {
+        "transactionTemplateNormal": "一般",
+        "transactionTemplateSchedule": "排程"
+    },
+    "nDaysAgo": "{{n}} 天以前",
+    "nMonthsAgo": "{{n}} 個月以前",
+    "nDaysLater": "{{n}} 天以後",
+    "nMonthsLater": "{{n}} 個月以後",
+    "startAccounting": "開始記帳",
+    "expiredSchedule": "到期排程"
 }
