@@ -41,9 +41,9 @@
     },
     "password": {
         "@": "Password",
-        "passwordHint": "Set a password. Once set, the password will be required to continue using the application upon startup.",
+        "passwordHint": "Set a password. Once set, you will need to enter the password each time you restart the application to continue using it",
         "passwordTimeout": "Password Timeout",
-        "passwordTimeoutHint": "Set password timeout. After the timeout, you need to re-enter the password to continue using",
+        "passwordTimeoutHint": "Set the timeout duration. If the application is switched to the background and then reopened, you will need to re-enter your password if the timeout period has elapsed",
         "passwordResetProcedureHint": "The process to clear the password requires the current password or a password reset code",
         "new": "New Password",
         "newHint": "The password to be used must be at least one character long",
@@ -55,6 +55,7 @@
         "currentMustMatch": "The current password must match"
     },
     "never": "Never",
+    "always": "Always",
     "nHours": "{{n}} hours",
     "scheduleMode": "Schedule Mode",
     "selectScheduleMode": "Select Schedule Mode",
