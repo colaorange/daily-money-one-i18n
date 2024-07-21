@@ -21,15 +21,41 @@
     },
     "message": {
         "transactionTemplateRescheduled": "The template's next scheduled date has been rescheduled to {{date}}.",
-        "dataVerificationFail": "Data verification failed",
-        "transactionTemplateScheduleExpired": "The template {{name}} has expired on {{description}}"
+        "dataVerificationFail": "Data verification failed.",
+        "transactionTemplateScheduleExpired": "The template {{name}} has expired on {{description}}.",
+        "confirmSetPassword": "Are you sure you want to set a password? Once set, you will need to enter the password to continue using the application when starting or after a certain period.",
+        "confirmClearPassword": "Are you sure you want to clear the password? Once cleared, you will be able to use the application without entering a password.",
+        "passwordSet": "The password has been successfully set.",
+        "passwordCleared": "The password has been successfully cleared."
     },
     "title": {
-        "scheduleExpired": "Schedule has expired"
+        "scheduleExpired": "Schedule has expired",
+        "setPassword": "Set Password",
+        "clearPassword": "Clear Password"
     },
     "screen": {
-        "preferencesBalanceAccountTypeOrder": "Order of Balance Accounts"
+        "preferencesBalanceAccountTypeOrder": "Order of Balance Accounts",
+        "preferencesSecurity": "Security Setting",
+        "preferencesPassword": "Password Setting",
+        "passwordResetProcedure": "Password Reset Procedure"
     },
+    "password": {
+        "@": "Password",
+        "passwordHint": "Set a password. Once set, the password will be required to continue using the application upon startup.",
+        "passwordTimeout": "Password Timeout",
+        "passwordTimeoutHint": "Set password timeout. After the timeout, you need to re-enter the password to continue using",
+        "passwordResetProcedureHint": "The process to clear the password requires the current password or a password reset code",
+        "new": "New Password",
+        "newHint": "The password to be used must be at least one character long",
+        "again": "Re-renter Password",
+        "againHint": "Re-enter the same password to ensure there are no input errors",
+        "current": "Current Password",
+        "currentHint": "The current password must be provided to clear or update the password",
+        "againMustMatch": "The entered password must match the previous one",
+        "currentMustMatch": "The current password must match"
+    },
+    "never": "Never",
+    "nHours": "{{n}} hours",
     "scheduleMode": "Schedule Mode",
     "selectScheduleMode": "Select Schedule Mode",
     "tab": {
