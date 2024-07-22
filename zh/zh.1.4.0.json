@@ -17,7 +17,8 @@
         "lastNDays": "最後第{{n}}天"
     },
     "action": {
-        "reschedule": "重新排程"
+        "reschedule": "重新排程",
+        "back": "返回"
     },
     "message": {
         "transactionTemplateRescheduled": "帳目範本的下一個排程日期已重新安排至 {{date}}。",
@@ -34,13 +35,14 @@
         "resetPassword": "清除密碼"
     },
     "screen": {
-        "preferencesBalanceAccountTypeOrder": "資產負債帳戶順序",
+        "preferencesBalanceAccountTypeOrder": "資產負債帳戶類型順序",
         "preferencesSecurity": "安全設定",
         "preferencesPassword": "密碼設定",
         "passwordReset": "密碼重設"
     },
     "password": {
         "@": "密碼",
+        "hint": "應用程式不會儲存您的原始密碼，因此在設置密碼保護時，請務必記住您的密碼",
         "passwordHint": "設定密碼。一旦設定，每次重新啟動應用程式時將需要輸入密碼才能繼續使用。",
         "passwordTimeout": "密碼超時",
         "passwordTimeoutHint": "設定密碼超時時間。在應用程式被切換到背景後，當再次使用時，如果超時，您需要重新輸入密碼才能繼續使用",
@@ -52,11 +54,18 @@
         "current": "當前密碼",
         "currentHint": "提供當前密碼才能清除或更新密碼",
         "againMustMatch": "輸入的密碼必須與之前的密碼相同",
-        "currentMustMatch": "當前密碼必須匹配"
+        "currentMustMatch": "當前密碼必須匹配",
+        "resetProcedure": "重設密碼程序",
+        "resetProcedureHint": "重設密碼程序是忘記密碼後的一種解決方案，但作者不保證一定能解決或能即時解決。使用密碼保護時，請務必記住您的密碼",
+        "resetToken": "重設密碼令牌",
+        "resetTokenHint": "請複製此令牌並提供給作者以獲取重設密碼的代碼。應用程式不會儲存您的原始密碼，每次生成的令牌不同是正常的，請不用擔心",
+        "resetCode": "重設密碼代碼",
+        "resetCodeHint": "正確的重設密碼代碼將允許您重設密碼",
+        "resetCodeIncorrect": "輸入的重設密碼代碼不正確，請確保您輸入的是正確的重設密碼代碼"
     },
     "never": "從不",
     "always": "總是",
-    "nHours": "{{n}} 小時",    
+    "nHours": "{{n}} 小時",
     "scheduleMode": "排程模式",
     "selectScheduleMode": "選擇排程模式",
     "tab": {
