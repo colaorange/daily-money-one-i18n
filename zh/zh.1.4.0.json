@@ -24,27 +24,27 @@
         "dataVerificationFail": "資料驗証失敗",
         "transactionTemplateScheduleExpired": "帳目範本 {{name}} 在 {{description}} 已經到期",
         "confirmSetPassword": "您確定要設定密碼嗎？一旦設定，啟動應用程式時或在某段時間後，您將需要輸入密碼才能繼續使用。",
-        "confirmClearPassword": "您確定要清除密碼嗎？一旦清除，您將可以在不輸入密碼的情況下使用應用程式。",
+        "confirmResetPassword": "您確定要重設密碼嗎？一旦重設，您將可以在不輸入密碼的情況下使用應用程式。",
         "passwordSet": "密碼已成功設定。",
-        "passwordCleared": "密碼已成功清除。"
+        "passwordReset": "密碼已成功重設。"
     },
     "title": {
         "scheduleExpired": "排程已經到期",
         "setPassword": "設定密碼",
-        "clearPassword": "清除密碼"
+        "resetPassword": "清除密碼"
     },
     "screen": {
         "preferencesBalanceAccountTypeOrder": "資產負債帳戶順序",
         "preferencesSecurity": "安全設定",
         "preferencesPassword": "密碼設定",
-        "passwordResetProcedure": "密碼重設程序"        
+        "passwordReset": "密碼重設"
     },
     "password": {
         "@": "密碼",
         "passwordHint": "設定密碼。一旦設定，每次重新啟動應用程式時將需要輸入密碼才能繼續使用。",
         "passwordTimeout": "密碼超時",
         "passwordTimeoutHint": "設定密碼超時時間。在應用程式被切換到背景後，當再次使用時，如果超時，您需要重新輸入密碼才能繼續使用",
-        "passwordResetProcedureHint": "清除密碼的過程需要當前密碼或密碼重設碼",
+        "passwordResetHint": "重設密碼的過程需要當前密碼或重設碼",
         "new": "新密碼",
         "newHint": "使用的密碼必須至少有一個字符",
         "again": "再次輸入密碼",

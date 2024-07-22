@@ -24,27 +24,27 @@
         "dataVerificationFail": "Data verification failed.",
         "transactionTemplateScheduleExpired": "The template {{name}} has expired on {{description}}.",
         "confirmSetPassword": "Are you sure you want to set a password? Once set, you will need to enter the password to continue using the application when starting or after a certain period.",
-        "confirmClearPassword": "Are you sure you want to clear the password? Once cleared, you will be able to use the application without entering a password.",
+        "confirmResetPassword": "Are you sure you want to reset the password? Once reset, you will be able to use the application without entering a password.",
         "passwordSet": "The password has been successfully set.",
-        "passwordCleared": "The password has been successfully cleared."
+        "passwordReset": "The password has been successfully reset."
     },
     "title": {
         "scheduleExpired": "Schedule has expired",
         "setPassword": "Set Password",
-        "clearPassword": "Clear Password"
+        "resetPassword": "Reset Password"
     },
     "screen": {
         "preferencesBalanceAccountTypeOrder": "Order of Balance Accounts",
         "preferencesSecurity": "Security Setting",
         "preferencesPassword": "Password Setting",
-        "passwordResetProcedure": "Password Reset Procedure"
+        "passwordReset": "Password Reset"
     },
     "password": {
         "@": "Password",
         "passwordHint": "Set a password. Once set, you will need to enter the password each time you restart the application to continue using it",
         "passwordTimeout": "Password Timeout",
         "passwordTimeoutHint": "Set the timeout duration. If the application is switched to the background and then reopened, you will need to re-enter your password if the timeout period has elapsed",
-        "passwordResetProcedureHint": "The process to clear the password requires the current password or a password reset code",
+        "passwordResetHint": "The process to reset the password requires the current password or a reset code",
         "new": "New Password",
         "newHint": "The password to be used must be at least one character long",
         "again": "Re-renter Password",
