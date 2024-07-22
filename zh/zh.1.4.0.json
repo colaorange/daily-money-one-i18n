@@ -18,7 +18,8 @@
     },
     "action": {
         "reschedule": "重新排程",
-        "back": "返回"
+        "back": "返回",
+        "set": "設定"
     },
     "message": {
         "transactionTemplateRescheduled": "帳目範本的下一個排程日期已重新安排至 {{date}}。",

@@ -18,7 +18,8 @@
     },
     "action": {
         "reschedule": "Reschedule",
-        "back": "Back"
+        "back": "Back",
+        "set": "Set"
     },
     "message": {
         "transactionTemplateRescheduled": "The template's next scheduled date has been rescheduled to {{date}}.",
