@@ -4,7 +4,7 @@
         "name": "Nome",
         "nameHint": "Nome da conta, comprimento de 1 a 256 caracteres, use '.' para categorização hierárquica ao resumir",
         "note": "Nota",
-        "noteHint": "Nota para a conta, comprimento de 0 a 512 caracteres",
+        "noteHint": "Nota para a conta, comprimento de 0 a 1024 caracteres",
         "type": {
             "@": "Tipo",
             "asset": "Ativo",
@@ -112,7 +112,7 @@
         "name": "Nome",
         "nameHint": "Nome do livro, comprimento de 1 a 128 caracteres",
         "note": "Nota",
-        "noteHint": "Nota para o livro, comprimento de 0 a 512 caracteres",
+        "noteHint": "Nota para o livro, comprimento de 0 a 1024 caracteres",
         "symbol": "Símbolo",
         "symbolHint": "O símbolo da moeda usado para representar valores no livro, por exemplo, $, €, ¥. Deve ter entre 0 e 5 caracteres. Se não for definido, será determinado automaticamente com base na moeda."
     },
@@ -529,7 +529,7 @@
             "initial": "Inicial"
         },
         "note": "Nota",
-        "noteHint": "Nota para a transação, comprimento de 0 a 512 caracteres",
+        "noteHint": "Nota para a transação, comprimento de 0 a 1024 caracteres",
         "transDate": "Data",
         "transDatetime": "Data e Hora",
         "transDatetimeHint": "Hora em que a transação ocorreu",
@@ -561,7 +561,7 @@
         "name": "Nome",
         "nameHint": "O nome do template de transação, comprimento de 1 - 128 caracteres",
         "note": "Nota",
-        "noteHint": "A nota do template de transação, comprimento de 0 - 512 caracteres"
+        "noteHint": "A nota do template de transação, comprimento de 0 - 1024 caracteres"
     },
     "transactions": "Transações",
     "trash": {

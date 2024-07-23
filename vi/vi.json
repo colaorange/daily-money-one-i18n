@@ -4,7 +4,7 @@
         "name": "Tên",
         "nameHint": "Tên của tài khoản, độ dài từ 1 - 256 ký tự, sử dụng '.' cho phân loại phân cấp khi tóm tắt",
         "note": "Ghi Chú",
-        "noteHint": "Ghi chú cho tài khoản, độ dài 0 - 512 ký tự",
+        "noteHint": "Ghi chú cho tài khoản, độ dài 0 - 1024 ký tự",
         "type": {
             "@": "Loại",
             "asset": "Tài Sản",
@@ -112,7 +112,7 @@
         "name": "Tên",
         "nameHint": "Tên của sổ, độ dài 1 - 128 ký tự",
         "note": "Ghi Chú",
-        "noteHint": "Ghi chú cho sổ, độ dài 0 - 512 ký tự",
+        "noteHint": "Ghi chú cho sổ, độ dài 0 - 1024 ký tự",
         "symbol": "Ký Hiệu",
         "symbolHint": "Ký hiệu tiền tệ được sử dụng để đại diện cho số tiền trong sổ, ví dụ: $, €, ¥. Nó nên dài từ 0 đến 5 ký tự. Nếu không đặt, nó sẽ tự động xác định dựa trên tiền tệ"
     },
@@ -529,7 +529,7 @@
             "initial": "Ban Đầu"
         },
         "note": "Ghi Chú",
-        "noteHint": "Ghi chú cho giao dịch, độ dài 0 - 512 ký tự",
+        "noteHint": "Ghi chú cho giao dịch, độ dài 0 - 1024 ký tự",
         "transDate": "Ngày",
         "transDatetime": "Ngày và Giờ",
         "transDatetimeHint": "Thời gian giao dịch xảy ra",
@@ -561,7 +561,7 @@
         "name": "Tên",
         "nameHint": "Tên của mẫu giao dịch, độ dài 1 - 128 ký tự",
         "note": "Ghi Chú",
-        "noteHint": "Ghi chú của mẫu giao dịch, độ dài 0 - 512 ký tự"
+        "noteHint": "Ghi chú của mẫu giao dịch, độ dài 0 - 1024 ký tự"
     },
     "transactions": "Giao Dịch",
     "trash": {

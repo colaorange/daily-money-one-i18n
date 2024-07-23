@@ -17,7 +17,8 @@
         "lastNDays": "Last {{n}} days"
     },
     "action": {
-        "reschedule": "Reschedule",
+        "restart": "Restart",
+        "bypass": "Bypass",
         "back": "Back",
         "set": "Set"
     },

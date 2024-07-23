@@ -4,7 +4,7 @@
         "name": "Ad",
         "nameHint": "Hesabın adı, uzunluk 1 - 256 karakter, özetleme yaparken hiyerarşik sınıflandırma için '.' kullanın",
         "note": "Not",
-        "noteHint": "Hesap için not, uzunluk 0 - 512 karakter",
+        "noteHint": "Hesap için not, uzunluk 0 - 1024 karakter",
         "type": {
             "@": "Tür",
             "asset": "Varlık",
@@ -112,7 +112,7 @@
         "name": "Ad",
         "nameHint": "Kitabın adı, uzunluk 1 - 128 karakter",
         "note": "Not",
-        "noteHint": "Kitap için not, uzunluk 0 - 512 karakter",
+        "noteHint": "Kitap için not, uzunluk 0 - 1024 karakter",
         "symbol": "Sembol",
         "symbolHint": "Kitaptaki tutarları temsil etmek için kullanılan para birimi sembolü, örneğin, $, €, ¥. Uzunluğu 0 ile 5 karakter arasında olmalıdır. Ayarlanmazsa, para birimine göre otomatik olarak belirlenir"
     },
@@ -529,7 +529,7 @@
             "initial": "Başlangıç"
         },
         "note": "Not",
-        "noteHint": "İşlem için not, uzunluk 0 - 512 karakter",
+        "noteHint": "İşlem için not, uzunluk 0 - 1024 karakter",
         "transDate": "Tarih",
         "transDatetime": "Tarih ve Saat",
         "transDatetimeHint": "İşlemin gerçekleştiği zaman",
@@ -561,7 +561,7 @@
         "name": "İsim",
         "nameHint": "İşlem şablonunun adı, uzunluk 1 - 128 karakter",
         "note": "Not",
-        "noteHint": "İşlem şablonunun notu, uzunluk 0 - 512 karakter"
+        "noteHint": "İşlem şablonunun notu, uzunluk 0 - 1024 karakter"
     },
     "transactions": "İşlemler",
     "trash": {

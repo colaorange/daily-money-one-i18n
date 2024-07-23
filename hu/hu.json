@@ -4,7 +4,7 @@
         "name": "Név",
         "nameHint": "A fiók neve, 1 - 256 karakter hosszú, használjon '.'-t a hierarchikus kategorizáláshoz összegzéskor",
         "note": "Megjegyzés",
-        "noteHint": "Megjegyzés a fiókhoz, 0 - 512 karakter hosszú",
+        "noteHint": "Megjegyzés a fiókhoz, 0 - 1024 karakter hosszú",
         "type": {
             "@": "Típus",
             "asset": "Eszköz",
@@ -112,7 +112,7 @@
         "name": "Név",
         "nameHint": "A könyv neve, 1 - 128 karakter hosszú",
         "note": "Megjegyzés",
-        "noteHint": "Megjegyzés a könyvhöz, 0 - 512 karakter hosszú",
+        "noteHint": "Megjegyzés a könyvhöz, 0 - 1024 karakter hosszú",
         "symbol": "Szimbólum",
         "symbolHint": "A könyvben szereplő összegek bemutatásához használt pénznem szimbóluma, pl. $, €, ¥. Legyen 0 és 5 karakter között. Ha nincs beállítva, akkor automatikusan meghatározásra kerül a pénznem alapján."
     },
@@ -529,7 +529,7 @@
             "initial": "Kezdeti"
         },
         "note": "Megjegyzés",
-        "noteHint": "Megjegyzés a tranzakcióhoz, 0 - 512 karakter hosszú",
+        "noteHint": "Megjegyzés a tranzakcióhoz, 0 - 1024 karakter hosszú",
         "transDate": "Dátum",
         "transDatetime": "Dátum és idő",
         "transDatetimeHint": "Az időpont, amikor a tranzakció történt",
@@ -561,7 +561,7 @@
         "name": "Név",
         "nameHint": "A tranzakciós sablon neve, 1 - 128 karakter hosszú",
         "note": "Megjegyzés",
-        "noteHint": "A tranzakciós sablon megjegyzése, 0 - 512 karakter hosszú"
+        "noteHint": "A tranzakciós sablon megjegyzése, 0 - 1024 karakter hosszú"
     },
     "transactions": "Tranzakciók",
     "trash": {

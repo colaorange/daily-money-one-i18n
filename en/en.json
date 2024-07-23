@@ -4,7 +4,7 @@
         "name": "Name",
         "nameHint": "Name of the account, length 1 - 256 characters, use '.' for hierarchical categorization when summarizing",
         "note": "Note",
-        "noteHint": "Note for the account, length 0 - 512 characters",
+        "noteHint": "Note for the account, length 0 - 1024 characters",
         "type": {
             "@": "Type",
             "asset": "Asset",
@@ -112,7 +112,7 @@
         "name": "Name",
         "nameHint": "Name of the book, length 1 - 128 characters",
         "note": "Note",
-        "noteHint": "Note for the book, length 0 - 512 characters",
+        "noteHint": "Note for the book, length 0 - 1024 characters",
         "symbol": "Symbol",
         "symbolHint": "The currency symbol used for representing amounts in the book, e.g., $, €, ¥. It should be between 0 and 5 characters long. If not set, it will be automatically determined based on the currency"
     },
@@ -529,7 +529,7 @@
             "initial": "Initial"
         },
         "note": "Note",
-        "noteHint": "Note for the transaction, length 0 - 512 characters",
+        "noteHint": "Note for the transaction, length 0 - 1024 characters",
         "transDate": "Date",
         "transDatetime": "Date and Time",
         "transDatetimeHint": "Time at which the transaction occurred",
@@ -561,7 +561,7 @@
         "name": "Name",
         "nameHint": "The name of the transaction template, length 1 - 128 characters",
         "note": "Note",
-        "noteHint": "The note of the transaction template, length 0 - 512 characters"
+        "noteHint": "The note of the transaction template, length 0 - 1024 characters"
     },
     "transactions": "Transactions",
     "trash": {

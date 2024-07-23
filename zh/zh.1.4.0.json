@@ -17,7 +17,8 @@
         "lastNDays": "最後第{{n}}天"
     },
     "action": {
-        "reschedule": "重新排程",
+        "restart": "重新開始",
+        "bypass": "略過這次",
         "back": "返回",
         "set": "設定"
     },
