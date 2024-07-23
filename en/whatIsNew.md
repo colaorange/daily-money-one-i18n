@@ -7,7 +7,8 @@
 
 ### In Version 1.4.0
 * [Template for Recurring Scheduled Transactions](https://youtu.be/TzQj2pY6sWs): In addition to making it convenient to keep track of your expenses, this template also includes features for recurring schedules and reminders. It is a practical and thoughtful feature for automatic credit card payments or annual fees.
-* Sort Balance Accounts: Set the order in `Preferences > Display Settings > Order of Balance Accounts`.
+* [Protect your account book with a password](https://youtu.be/peoYqNG_4pk): Are you afraid that others might peek into your account book? With the new password feature enabled, your account book will be protected by a password whenever it's opened. You can also set how often the password needs to be entered.
+* Sort Balance Accounts: Set the order in `Preferences > Display Settings > Order of Balance Account Types`.
 
 ### In Version 1.3.0
 * [Customizable Transaction Lists and Balance Sheet Intervals](https://youtu.be/O7EcLN82qIU): In addition to quick options for fixed intervals, you can now customize intervals to generate transaction lists, balance sheets, and charts.
