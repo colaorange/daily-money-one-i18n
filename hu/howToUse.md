@@ -79,3 +79,9 @@ A program lehetővé teszi a számlakönyvek közötti átvezetést. Akár az al
 A mérleg vagy diagramok böngészésekor a konkrét számlatételeket hozzáadhatja a gyors nézethez a kezdőképernyőn [*1]. Egyszerűen húzza jobbra az elemet a mérlegben és kattintson az `Hozzáadás a gyors nézethez`, vagy kattintson a "Hozzáadás a gyors nézet ikonhoz" a mérleg diagramkártya jobb felső sarkában. Ezután a kezdőképernyőn látni fogja az adott tétel eszköz- és kötelezettség-egyenlegét, vagy megtekintheti a kezdőképernyő diagram oldalán. Ezenkívül rendezheti vagy eltávolíthatja ezeket a tételeket a `Beállítások > Kezdőképernyő beállításai` menüpontban.
 
 [*1] A túl sok gyors nézet a kezdőképernyőn befolyásolhatja a kezdőképernyő betöltési idejét.
+
+
+## Tranzakciós sablonok és ismétlődő ütemezés
+
+Beállíthat tranzakciós sablonokat a gyakori könyvelési műveletekhez, így gyorsan hozzáadhat tranzakciókat. Ismétlődő ütemezési sablonokat is beállíthat a rendszeresen ismétlődő könyvelési műveletekhez. A program értesíti Önt, amikor esedékes, lehetővé téve, hogy gyorsan hozzáadja a tranzakciót és automatikusan ütemezze a következő esedékes időre. Egyszerűen húzza balra az elemet a tranzakciós listában, majd koppintson a `Sablon létrehozása` gombra, és adja meg az ütemezési időt, majd hozza létre. Ezenkívül rendezheti, szerkesztheti vagy eltávolíthatja ezeket az elemeket a `Tranzakciós sablonkezelés` oldalon.
+

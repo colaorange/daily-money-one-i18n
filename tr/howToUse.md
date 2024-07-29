@@ -78,3 +78,8 @@ Program, farklı hesap defterlerindeki hesaplar arasında transfer yapmanıza iz
 Bilanço veya grafikleri incelerken, belirli hesap öğelerini hızlı görünüme ana ekrana ekleyebilirsiniz [*1]. Bilanço üzerindeki öğeyi sağa kaydırın ve `Hızlı Görünüme Ekle`ye tıklayın veya bilanço grafik kartının sağ üst köşesindeki "Hızlı Görünüme Ekle Simgesi"ne tıklayın. Daha sonra, ana ekranda, o öğenin varlıklar ve borçların dengesini göreceksiniz veya ana ekranın grafik sayfasında görüntüleyebilirsiniz. Ayrıca, bu öğeleri `Tercihler > Ana Ekran Ayarları`nda sıralayabilir veya kaldırabilirsiniz.
 
 [*1] Ana ekranda aşırı hızlı görünümler, ana ekranın yüklenme süresini etkileyebilir.
+
+
+## İşlem Şablonları ve Düzenli Planlama
+
+Ortak muhasebe işlemleri için işlem şablonları oluşturabilirsiniz, böylece işlemleri hızlıca ekleyebilirsiniz. Ayrıca düzenli olarak tekrarlanan muhasebe işlemleri için düzenli planlama şablonları da oluşturabilirsiniz. Program, zamanı geldiğinde sizi bilgilendirerek işlemi hızlıca eklemenizi ve bir sonraki tarih için otomatik olarak planlamanızı sağlar. İşlem listesindeki öğeyi sola kaydırın, ardından `Şablon Oluştur`u tıklayın ve planlama zamanını girip oluşturun. Ayrıca, `İşlem Şablonu Yönetimi` sayfasında bu öğeleri sıralayabilir, düzenleyebilir veya kaldırabilirsiniz.

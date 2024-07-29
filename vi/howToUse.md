@@ -75,6 +75,11 @@ Chương trình cho phép bạn chuyển khoản giữa các tài khoản trong 
 
 ## Xem Nhanh Bảng Cân Đối và Biểu Đồ
 
-Khi duyệt bảng cân đối hoặc biểu đồ, bạn có thể thêm các mục tài khoản cụ thể vào xem nhanh trên màn hình chính [*1]. Chỉ cần vuốt phải trên mục trong bảng cân đối và nhấp vào `Add to Quick View`, hoặc nhấp vào "Add to Quick View Icon" ở góc trên cùng bên phải của thẻ biểu đồ cân đối. Tiếp theo, trên màn hình chính, bạn sẽ thấy số dư tài sản và nợ của mục đó, hoặc bạn có thể xem nó trên trang biểu đồ của màn hình chính. Ngoài ra, bạn có thể sắp xếp hoặc xóa các mục này trong `Preferences > Home Screen Settings`.
+Khi duyệt bảng cân đối hoặc biểu đồ, bạn có thể thêm các mục tài khoản cụ thể vào xem nhanh trên màn hình chính [*1]. Chỉ cần vuốt phải trên mục trong bảng cân đối và nhấp vào `Thêm vào Xem Nhanh`, hoặc nhấp vào "Thêm vào Biểu Tượng Xem Nhanh" ở góc trên cùng bên phải của thẻ biểu đồ cân đối. Tiếp theo, trên màn hình chính, bạn sẽ thấy số dư tài sản và nợ của mục đó, hoặc bạn có thể xem nó trên trang biểu đồ của màn hình chính. Ngoài ra, bạn có thể sắp xếp hoặc xóa các mục này trong `Tùy chọn > Cài đặt Màn hình Chính`.
 
 [*1] Xem nhanh quá nhiều trên màn hình chính có thể ảnh hưởng đến thời gian tải màn hình chính.
+
+
+## Mẫu Giao Dịch và Lịch Trình Định Kỳ
+
+Bạn có thể thiết lập các mẫu giao dịch cho các hành động kế toán thông thường, cho phép bạn nhanh chóng thêm giao dịch. Bạn cũng có thể thiết lập các mẫu lịch trình định kỳ cho các hành động kế toán thường xuyên. Chương trình sẽ thông báo cho bạn khi đến hạn, cho phép bạn nhanh chóng thêm giao dịch và tự động lên lịch cho lần tiếp theo. Chỉ cần vuốt sang trái trên mục trong danh sách giao dịch, sau đó nhấn `Tạo Mẫu` và nhập thời gian lên lịch, rồi tạo nó. Ngoài ra, bạn có thể sắp xếp, chỉnh sửa hoặc xóa các mục này trong trang `Quản Lý Mẫu Giao Dịch`.

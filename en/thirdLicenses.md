@@ -9,6 +9,7 @@ This application is developed using the following libraries, and their license d
  * @expo/metro-runtime
  * @react-native-async-storage/async-storage
  * @react-native-community/slider
+ * @react-native-google-signin/google-signin
  * @react-navigation/bottom-tabs
  * @react-navigation/material-bottom-tabs
  * @react-navigation/native
@@ -19,6 +20,8 @@ This application is developed using the following libraries, and their license d
  * expo
  * expo-background-fetch
  * expo-document-picker
+ * expo-haptics
+ * expo-notifications
  * expo-sharing
  * expo-status-bar
  * expo-system-ui
@@ -55,10 +58,12 @@ This application is developed using the following libraries, and their license d
 
  * @react-native-firebase/analytics
  * @react-native-firebase/app
+ * @react-native-firebase/crashlytics
  * @realm/react
  * react-native-google-mobile-ads  
  * realm
  * typescript
+ * xlsx
 
  ### SIL OFL 1.1
  

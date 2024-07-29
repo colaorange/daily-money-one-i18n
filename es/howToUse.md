@@ -79,3 +79,7 @@ El programa te permite transferir entre cuentas en diferentes libros de cuentas.
 Al navegar por el balance general o los gráficos, puedes agregar elementos de cuenta específicos a la vista rápida en la pantalla de inicio [*1]. Simplemente desliza hacia la derecha en el elemento en el balance general y haz clic en `Agregar a Vista Rápida`, o haz clic en "Agregar a Vista Rápida Icono" en la esquina superior derecha de la tarjeta del gráfico de balance. Luego, en la pantalla de inicio, verás el balance de activos y pasivos de ese elemento, o puedes verlo en la página de gráficos de la pantalla de inicio. Además, puedes ordenar o eliminar estos elementos en `Preferencias > Configuración de la Pantalla de Inicio`.
 
 [*1] Vistas rápidas excesivas en la pantalla de inicio pueden afectar el tiempo de carga de la pantalla de inicio.
+
+## Plantillas de Transacciones y Programación Recurrente
+
+Puede configurar plantillas de transacciones para acciones contables comunes, lo que le permite agregar transacciones rápidamente. También puede configurar plantillas de programación recurrente para acciones contables recurrentes. El programa le notificará cuando sea necesario, permitiéndole agregar rápidamente la transacción y programarla automáticamente para el próximo vencimiento. Simplemente deslice hacia la izquierda en el elemento en la lista de transacciones, luego toque `Crear Plantilla`, ingrese el tiempo de programación y créelo. Además, puede ordenar, editar o eliminar estos elementos en la página de `Gestión de Plantillas de Transacciones`.

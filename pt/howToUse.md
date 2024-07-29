@@ -79,3 +79,8 @@ O programa permite transferências entre contas em diferentes livros contábeis.
 Ao navegar pelo balanço ou gráficos, você pode adicionar itens de conta específicos à visualização rápida na tela inicial [*1]. Basta deslizar para a direita no item no balanço e clicar em `Adicionar à Visualização Rápida`, ou clicar no "Ícone de Adicionar à Visualização Rápida" no canto superior direito do cartão do gráfico de balanço. Em seguida, na tela inicial, você verá o saldo de ativos e passivos para aquele item, ou poderá visualizá-lo na página de gráficos da tela inicial. Além disso, você pode classificar ou remover esses itens em `Preferências > Configurações da Tela Inicial`.
 
 [*1] Vistas rápidas excessivas na tela inicial podem afetar o tempo de carregamento da tela inicial.
+
+## Modelos de Transação e Agendamento Recorrente
+
+Você pode configurar modelos de transação para ações contábeis comuns, permitindo que você adicione transações rapidamente. Também é possível configurar modelos de agendamento recorrente para ações contábeis que ocorrem regularmente. O programa notificará quando for devido, permitindo que você adicione rapidamente a transação e a agende automaticamente para a próxima data de vencimento. Basta deslizar para a esquerda no item na lista de transações, tocar em `Criar Modelo` e inserir o horário de agendamento, depois criar. Além disso, você pode classificar, editar ou remover esses itens na página `Gerenciamento de Modelos de Transação`.
+
