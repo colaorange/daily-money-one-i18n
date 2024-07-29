@@ -4,7 +4,7 @@
         "name": "Nome",
         "nameHint": "Nome dell'account, lunghezza 1 - 256 caratteri, usa '.' per la categorizzazione gerarchica durante il riepilogo",
         "note": "Nota",
-        "noteHint": "Nota per l'account, lunghezza 0 - 512 caratteri",
+        "noteHint": "Nota per l'account, lunghezza 0 - 1024 caratteri",
         "type": {
             "@": "Tipo",
             "asset": "Attivo",
@@ -112,7 +112,7 @@
         "name": "Nome",
         "nameHint": "Nome del libro, lunghezza 1 - 128 caratteri",
         "note": "Nota",
-        "noteHint": "Nota per il libro, lunghezza 0 - 512 caratteri",
+        "noteHint": "Nota per il libro, lunghezza 0 - 1024 caratteri",
         "symbol": "Simbolo",
         "symbolHint": "Il simbolo della valuta utilizzato per rappresentare gli importi nel libro, ad es., $, €, ¥. Deve essere lungo tra 0 e 5 caratteri. Se non impostato, verrà determinato automaticamente in base alla valuta"
     },
@@ -529,7 +529,7 @@
             "initial": "Iniziale"
         },
         "note": "Nota",
-        "noteHint": "Nota per la transazione, lunghezza 0 - 512 caratteri",
+        "noteHint": "Nota per la transazione, lunghezza 0 - 1024 caratteri",
         "transDate": "Data",
         "transDatetime": "Data e ora",
         "transDatetimeHint": "Ora in cui è avvenuta la transazione",
@@ -561,7 +561,7 @@
         "name": "Nome",
         "nameHint": "Il nome del modello di transazione, lunghezza 1 - 128 caratteri",
         "note": "Nota",
-        "noteHint": "La nota del modello di transazione, lunghezza 0 - 512 caratteri"
+        "noteHint": "La nota del modello di transazione, lunghezza 0 - 1024 caratteri"
     },
     "transactions": "Transazioni",
     "trash": {

@@ -4,7 +4,7 @@
         "name": "Name",
         "nameHint": "Name des Kontos, Länge 1 - 256 Zeichen, verwenden Sie '.' für hierarchische Kategorisierung bei der Zusammenfassung",
         "note": "Notiz",
-        "noteHint": "Notiz für das Konto, Länge 0 - 512 Zeichen",
+        "noteHint": "Notiz für das Konto, Länge 0 - 1024 Zeichen",
         "type": {
             "@": "Typ",
             "asset": "Vermögen",
@@ -112,7 +112,7 @@
         "name": "Name",
         "nameHint": "Name des Buches, Länge 1 - 128 Zeichen",
         "note": "Notiz",
-        "noteHint": "Notiz für das Buch, Länge 0 - 512 Zeichen",
+        "noteHint": "Notiz für das Buch, Länge 0 - 1024 Zeichen",
         "symbol": "Symbol",
         "symbolHint": "Das Währungssymbol, das für die Darstellung von Beträgen im Buch verwendet wird, z.B. $, €, ¥. Es sollte zwischen 0 und 5 Zeichen lang sein. Wenn nicht gesetzt, wird es automatisch basierend auf der Währung bestimmt."
     },
@@ -529,7 +529,7 @@
             "initial": "Anfang"
         },
         "note": "Notiz",
-        "noteHint": "Notiz für die Transaktion, Länge 0 - 512 Zeichen",
+        "noteHint": "Notiz für die Transaktion, Länge 0 - 1024 Zeichen",
         "transDate": "Datum",
         "transDatetime": "Datum und Uhrzeit",
         "transDatetimeHint": "Zeitpunkt, zu dem die Transaktion erfolgte",
@@ -561,7 +561,7 @@
         "name": "Name",
         "nameHint": "Der Name der Transaktionsvorlage, Länge 1 - 128 Zeichen",
         "note": "Notiz",
-        "noteHint": "Die Notiz der Transaktionsvorlage, Länge 0 - 512 Zeichen"
+        "noteHint": "Die Notiz der Transaktionsvorlage, Länge 0 - 1024 Zeichen"
     },
     "transactions": "Transaktionen",
     "trash": {
