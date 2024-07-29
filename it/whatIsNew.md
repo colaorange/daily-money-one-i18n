@@ -1,5 +1,13 @@
+Il `Daily Money One` è stato utile per te? Per favore, prenditi un momento per valutarlo ★★★★★ sul [Google Store](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone). La tua valutazione aiuterà più persone a scoprirlo e usarlo, fornendo all'autore più tempo e risorse per continuare a migliorarlo e mantenerlo.
 
-## Novità
+Hai domande o richieste di funzionalità? Unisciti al [gruppo di fan su Facebook](https://www.facebook.com/colaorange.daily.money) per ricevere gli ultimi aggiornamenti sullo sviluppo, o invia un messaggio all'autore per fare domande e richieste.
+
+## Cosa c'è di nuovo
+
+### Nella Versione 1.4.0
+* [Modello per Transazioni Programmate Ricorrenti](https://youtu.be/TzQj2pY6sWs): Oltre a rendere comodo il monitoraggio delle tue spese, questo modello include anche funzionalità per programmi e promemoria ricorrenti. È una funzione pratica e premurosa per i pagamenti automatici con carta di credito o le tasse annuali.
+* [Proteggi il tuo libro contabile con una password](https://youtu.be/peoYqNG_4pk): Hai paura che altri possano sbirciare nel tuo libro contabile? Con la nuova funzione di password abilitata, il tuo libro contabile sarà protetto da una password ogni volta che viene aperto. Puoi anche impostare con quale frequenza la password deve essere inserita.
+* Ordina Conti di Saldo: Imposta l'ordine in `Preferenze > Impostazioni di Visualizzazione > Ordine dei Tipi di Conti di Saldo`.
 
 ### Nella Versione 1.3.0
 * [Liste di Transazioni Personalizzabili e Intervalli del Bilancio](https://youtu.be/O7EcLN82qIU): Oltre alle opzioni rapide per intervalli fissi, ora puoi personalizzare gli intervalli per generare liste di transazioni, bilanci e grafici.

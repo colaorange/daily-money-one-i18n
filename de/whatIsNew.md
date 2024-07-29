@@ -1,5 +1,14 @@
 
-## Was gibt's Neues
+Hat dir `Daily Money One` geholfen? Bitte nimm dir einen Moment Zeit, um es ★★★★★ im [Google Store](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone) zu bewerten. Deine Bewertung hilft mehr Menschen, die App zu entdecken und zu nutzen, und gibt dem Autor mehr Zeit und Ressourcen, um sie weiter zu verbessern und zu warten.
+
+Hast du Fragen oder Funktionswünsche? Trete der [Facebook-Fangruppe](https://www.facebook.com/colaorange.daily.money) bei, um die neuesten Entwicklungsupdates zu erhalten, oder sende eine Nachricht an den Autor, um Fragen zu stellen und Wünsche zu äußern.
+
+## Was ist neu
+
+### In Version 1.4.0
+* [Vorlage für wiederkehrende geplante Transaktionen](https://youtu.be/TzQj2pY6sWs): Neben der bequemen Nachverfolgung deiner Ausgaben umfasst diese Vorlage auch Funktionen für wiederkehrende Zeitpläne und Erinnerungen. Es ist eine praktische und durchdachte Funktion für automatische Kreditkartenzahlungen oder Jahresgebühren.
+* [Schütze dein Kassenbuch mit einem Passwort](https://youtu.be/peoYqNG_4pk): Hast du Angst, dass andere in dein Kassenbuch schauen könnten? Mit der neuen Passwortfunktion wird dein Kassenbuch beim Öffnen durch ein Passwort geschützt. Du kannst auch festlegen, wie oft das Passwort eingegeben werden muss.
+* Saldenkonten sortieren: Lege die Reihenfolge unter `Einstellungen > Anzeigeeinstellungen > Reihenfolge der Saldenkontentypen` fest.
 
 ### In Version 1.3.0
 * [Anpassbare Transaktionslisten und Bilanzintervalle](https://youtu.be/O7EcLN82qIU): Neben schnellen Optionen für feste Intervalle können Sie jetzt Intervalle anpassen, um Transaktionslisten, Bilanzen und Diagramme zu erstellen.

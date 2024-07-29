@@ -1,6 +1,22 @@
 ## Daily Money One
 ### 1.4.0
 
+> **Features**: 
+> * #49 Support show Transaction List of a Account in Account Management 
+> * #38 Add Notification mechanism to Transaction Template 
+> * #51 Support custom balancesheet accounttype order 
+> * #8 Support password portection
+> 
+>**Enhancement**: 
+> * #56 Resolving the Issue of Early Booking for Recurring Schedules
+> * #53 Support monthly sweep up to today of the balance sheet and chart. 
+>
+>**Fixed Bugs**
+> * #43 Advanced transactions always appear in search results.
+> * #52 appExtensionLogger updates only the last line when it is full.
+> * #54 Error: instance.note does not meet maximum length of 512 
+> * #60 The 'Disable Apply Note' option in the transaction template is not functioning as expected 
+
 ## History
 
 ### 1.3.0

@@ -1,2 +1,83 @@
-{    
+{
+    "transactionTemplate": {
+        "recurringSchedule": "반복 일정",
+        "nextTime": "다음 시간"
+    },
+    "schedule": {
+        "@": "일정",
+        "mode": {
+            "weekly": "주간",
+            "monthly": "월간",
+            "yearly": "연간"
+        },
+        "daysOfWeek": "요일",
+        "daysOfMonth": "달의 날들",
+        "daysOfYear": "년의 날들",
+        "monthsOfYear": "년의 달들",
+        "lastNDays": "마지막 {{n}}일"
+    },
+    "action": {
+        "restart": "다시 시작",
+        "bypass": "우회",
+        "back": "뒤로",
+        "set": "설정"
+    },
+    "message": {
+        "transactionTemplateRescheduled": "템플릿의 다음 일정 날짜가 {{date}}로 변경되었습니다.",
+        "dataVerificationFail": "데이터 검증 실패.",
+        "transactionTemplateScheduleExpired": "템플릿 {{name}}이(가) {{description}}에 만료되었습니다.",
+        "confirmSetPassword": "비밀번호를 설정하시겠습니까? 설정 후에는 애플리케이션을 시작하거나 일정 기간 후에 계속 사용하려면 비밀번호를 입력해야 합니다.",
+        "confirmResetPassword": "비밀번호를 재설정하시겠습니까? 재설정 후에는 비밀번호를 입력하지 않고 애플리케이션을 사용할 수 있습니다.",
+        "passwordSet": "비밀번호가 성공적으로 설정되었습니다.",
+        "passwordReset": "비밀번호가 성공적으로 재설정되었습니다."
+    },
+    "title": {
+        "scheduleExpired": "일정 만료됨",
+        "setPassword": "비밀번호 설정",
+        "resetPassword": "비밀번호 재설정"
+    },
+    "screen": {
+        "preferencesBalanceAccountTypeOrder": "잔액 계정 유형 순서",
+        "preferencesSecurity": "보안 설정",
+        "preferencesPassword": "비밀번호 설정",
+        "passwordReset": "비밀번호 재설정"
+    },
+    "password": {
+        "@": "비밀번호",
+        "hint": "애플리케이션은 원래 비밀번호를 저장하지 않으므로 비밀번호 보호를 설정할 때 비밀번호를 기억해 주세요.",
+        "passwordHint": "비밀번호를 설정합니다. 설정 후 애플리케이션을 다시 시작할 때마다 비밀번호를 입력해야 계속 사용할 수 있습니다.",
+        "passwordTimeout": "비밀번호 시간 초과",
+        "passwordTimeoutHint": "시간 초과 기간을 설정합니다. 애플리케이션이 백그라운드로 전환되었다가 다시 열리면 시간 초과 기간이 경과한 경우 비밀번호를 다시 입력해야 합니다.",
+        "passwordResetHint": "비밀번호 재설정 절차는 현재 비밀번호 또는 재설정 코드가 필요합니다.",
+        "new": "새 비밀번호",
+        "newHint": "사용할 비밀번호는 최소 한 글자 이상이어야 합니다.",
+        "again": "비밀번호 다시 입력",
+        "againHint": "입력 오류가 없도록 동일한 비밀번호를 다시 입력하십시오.",
+        "current": "현재 비밀번호",
+        "currentHint": "비밀번호를 지우거나 업데이트하려면 현재 비밀번호를 제공해야 합니다.",
+        "againMustMatch": "입력한 비밀번호가 이전 비밀번호와 일치해야 합니다.",
+        "currentMustMatch": "현재 비밀번호가 일치해야 합니다.",
+        "resetProcedure": "비밀번호 재설정 절차",
+        "resetProcedureHint": "비밀번호를 잊어버렸을 때를 위한 비밀번호 재설정 절차입니다. 그러나 저자는 항상 문제를 해결하거나 신속히 대응할 수 있다고 보장하지 않습니다. 비밀번호 보호를 사용할 때 비밀번호를 반드시 기억하십시오.",
+        "resetToken": "비밀번호 재설정 토큰",
+        "resetTokenHint": "이 토큰을 복사하여 비밀번호 재설정 코드를 받기 위해 저자에게 제공하십시오. 애플리케이션은 원래 비밀번호를 저장하지 않으며, 토큰이 매번 다르게 나타나는 것은 정상입니다. 걱정하지 마세요.",
+        "resetCode": "비밀번호 재설정 코드",
+        "resetCodeHint": "올바른 비밀번호 재설정 코드를 입력하면 비밀번호를 재설정할 수 있습니다.",
+        "resetCodeIncorrect": "입력한 재설정 코드가 잘못되었습니다. 올바른 재설정 코드를 입력했는지 확인하십시오."
+    },
+    "never": "절대",
+    "always": "항상",
+    "nHours": "{{n}} 시간",
+    "scheduleMode": "일정 모드",
+    "selectScheduleMode": "일정 모드 선택",
+    "tab": {
+        "transactionTemplateNormal": "일반",
+        "transactionTemplateSchedule": "일정"
+    },
+    "nDaysAgo": "{{n}}일 전",
+    "nMonthsAgo": "{{n}}달 전",
+    "nDaysLater": "{{n}}일 후",
+    "nMonthsLater": "{{n}}달 후",
+    "startAccounting": "회계 시작",
+    "expiredSchedule": "만료된 일정"
 }

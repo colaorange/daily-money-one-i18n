@@ -1,5 +1,13 @@
+Használta már a `Daily Money One` alkalmazást? Kérjük, szánjon egy pillanatot arra, hogy értékelje ★★★★★ a [Google Store](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone) oldalon. Az értékelése segít abban, hogy többen fedezzék fel és használják az alkalmazást, így a szerző több időt és erőforrást kap a fejlesztés és karbantartás folytatásához.
+
+Vannak kérdései vagy javaslatai? Csatlakozzon a [Facebook rajongói csoporthoz](https://www.facebook.com/colaorange.daily.money), hogy megkapja a legfrissebb fejlesztési híreket, vagy küldjön üzenetet a szerzőnek, hogy kérdéseket tegyen fel és javaslatokat tegyen.
 
 ## Újdonságok
+
+### Az 1.4.0 verzióban
+* [Sablon Ismétlődő Ütemezett Tranzakciókhoz](https://youtu.be/TzQj2pY6sWs): Amellett, hogy kényelmesebbé teszi a kiadásainak nyomon követését, ez a sablon olyan funkciókat is tartalmaz, mint az ismétlődő ütemezések és emlékeztetők. Ez egy praktikus és figyelmes funkció automatikus hitelkártya-fizetésekhez vagy éves díjakhoz.
+* [Védje jelszóval a számlakönyvét](https://youtu.be/peoYqNG_4pk): Attól tart, hogy mások belepillanthatnak a számlakönyvébe? Az új jelszó funkció bekapcsolásával a számlakönyve jelszóval lesz védve, amikor megnyitja. Beállíthatja azt is, hogy milyen gyakran kell megadni a jelszót.
+* Egyenleg számlák rendezése: Állítsa be a sorrendet a `Beállítások > Kijelző beállítások > Egyenleg számlatípusok sorrendje` menüpontban.
 
 ### 1.3.0 verzióban
 * [Testreszabható Tranzakciós Listák és Mérlegidőszakok](https://youtu.be/O7EcLN82qIU): A rögzített időszakokra vonatkozó gyors opciók mellett most már testreszabhatja az időszakokat, hogy tranzakciós listákat, mérlegeket és diagramokat generálhasson.

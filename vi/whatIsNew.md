@@ -1,5 +1,14 @@
+`Daily Money One` có hữu ích với bạn không? Hãy dành chút thời gian để đánh giá nó ★★★★★ trên [Google Store](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone). Đánh giá của bạn sẽ giúp nhiều người khác khám phá và sử dụng nó, cung cấp cho tác giả thêm thời gian và tài nguyên để tiếp tục cải thiện và duy trì ứng dụng này.
 
-## Có Gì Mới
+Bạn có câu hỏi hoặc yêu cầu tính năng không? Tham gia [nhóm fan trên Facebook](https://www.facebook.com/colaorange.daily.money) để nhận các cập nhật phát triển mới nhất, hoặc gửi tin nhắn cho tác giả để đặt câu hỏi và yêu cầu tính năng.
+
+## Có gì mới
+
+### Trong Phiên Bản 1.4.0
+* [Template for Recurring Scheduled Transactions](https://youtu.be/TzQj2pY6sWs): Ngoài việc giúp bạn tiện lợi theo dõi chi tiêu, mẫu này còn bao gồm các tính năng cho lịch trình định kỳ và nhắc nhở. Đây là một tính năng hữu ích và chu đáo cho các khoản thanh toán thẻ tín dụng tự động hoặc phí hàng năm.
+* [Bảo vệ sổ tài khoản của bạn bằng mật khẩu](https://youtu.be/peoYqNG_4pk): Bạn có lo sợ người khác có thể nhìn trộm vào sổ tài khoản của bạn không? Với tính năng mật khẩu mới được kích hoạt, sổ tài khoản của bạn sẽ được bảo vệ bằng mật khẩu mỗi khi mở. Bạn cũng có thể đặt tần suất nhập mật khẩu.
+* Sắp xếp Tài Khoản Cân Bằng: Đặt thứ tự tại `Tùy Chọn > Cài Đặt Hiển Thị > Thứ Tự Loại Tài Khoản Cân Bằng`.
+
 
 ### Trong Phiên Bản 1.3.0
 * [Danh sách giao dịch và khoảng thời gian bảng cân đối có thể tùy chỉnh](https://youtu.be/O7EcLN82qIU): Ngoài các tùy chọn nhanh cho khoảng thời gian cố định, bạn hiện có thể tùy chỉnh khoảng thời gian để tạo danh sách giao dịch, bảng cân đối và biểu đồ.

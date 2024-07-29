@@ -1,2 +1,83 @@
-{    
+{
+    "transactionTemplate": {
+        "recurringSchedule": "Pianificazione ricorrente",
+        "nextTime": "Prossima volta"
+    },
+    "schedule": {
+        "@": "Pianificazione",
+        "mode": {
+            "weekly": "Settimanale",
+            "monthly": "Mensile",
+            "yearly": "Annuale"
+        },
+        "daysOfWeek": "Giorni della settimana",
+        "daysOfMonth": "Giorni del mese",
+        "daysOfYear": "Giorni dell'anno",
+        "monthsOfYear": "Mesi dell'anno",
+        "lastNDays": "Ultimi {{n}} giorni"
+    },
+    "action": {
+        "restart": "Riavvia",
+        "bypass": "Bypassa",
+        "back": "Indietro",
+        "set": "Imposta"
+    },
+    "message": {
+        "transactionTemplateRescheduled": "La prossima data pianificata del modello è stata riprogrammata per il {{date}}.",
+        "dataVerificationFail": "Verifica dei dati fallita.",
+        "transactionTemplateScheduleExpired": "Il modello {{name}} è scaduto il {{description}}.",
+        "confirmSetPassword": "Sei sicuro di voler impostare una password? Una volta impostata, dovrai inserire la password per continuare a utilizzare l'applicazione all'avvio o dopo un certo periodo.",
+        "confirmResetPassword": "Sei sicuro di voler reimpostare la password? Una volta reimpostata, potrai utilizzare l'applicazione senza inserire una password.",
+        "passwordSet": "La password è stata impostata con successo.",
+        "passwordReset": "La password è stata reimpostata con successo."
+    },
+    "title": {
+        "scheduleExpired": "La pianificazione è scaduta",
+        "setPassword": "Imposta password",
+        "resetPassword": "Reimposta password"
+    },
+    "screen": {
+        "preferencesBalanceAccountTypeOrder": "Ordine dei tipi di account di bilancio",
+        "preferencesSecurity": "Impostazione di sicurezza",
+        "preferencesPassword": "Impostazione della password",
+        "passwordReset": "Reimpostazione della password"
+    },
+    "password": {
+        "@": "Password",
+        "hint": "L'applicazione non memorizzerà la tua password originale, quindi assicurati di ricordarla quando imposti la protezione della password",
+        "passwordHint": "Imposta una password. Una volta impostata, dovrai inserire la password ogni volta che riavvii l'applicazione per continuare a utilizzarla",
+        "passwordTimeout": "Timeout della password",
+        "passwordTimeoutHint": "Imposta la durata del timeout. Se l'applicazione viene spostata in background e poi riaperta, dovrai reinserire la password se il periodo di timeout è scaduto",
+        "passwordResetHint": "Il processo di reimpostazione della password richiede la password corrente o un codice di reimpostazione",
+        "new": "Nuova password",
+        "newHint": "La password da utilizzare deve essere lunga almeno un carattere",
+        "again": "Reinserisci la password",
+        "againHint": "Reinserisci la stessa password per assicurarti che non ci siano errori di digitazione",
+        "current": "Password attuale",
+        "currentHint": "La password corrente deve essere fornita per cancellare o aggiornare la password",
+        "againMustMatch": "La password inserita deve corrispondere a quella precedente",
+        "currentMustMatch": "La password corrente deve corrispondere",
+        "resetProcedure": "Procedura di reimpostazione della password",
+        "resetProcedureHint": "La procedura di reimpostazione della password è una soluzione per quando dimentichi la password, ma l'autore non garantisce che risolverà sempre il problema o che sarà in grado di risolverlo prontamente. Quando utilizzi la protezione con password, assicurati di ricordarla.",
+        "resetToken": "Token di reimpostazione della password",
+        "resetTokenHint": "Copia questo token e fornisci all'autore per ottenere un codice di reimpostazione della password. L'applicazione non memorizza la tua password originale ed è normale che il token sia diverso ogni volta, quindi non preoccuparti",
+        "resetCode": "Codice di reimpostazione della password",
+        "resetCodeHint": "Il corretto codice di reimpostazione della password ti permetterà di reimpostare la tua password",
+        "resetCodeIncorrect": "Il codice di reimpostazione inserito è errato. Assicurati di aver inserito il codice di reimpostazione corretto."
+    },
+    "never": "Mai",
+    "always": "Sempre",
+    "nHours": "{{n}} ore",
+    "scheduleMode": "Modalità di pianificazione",
+    "selectScheduleMode": "Seleziona modalità di pianificazione",
+    "tab": {
+        "transactionTemplateNormal": "Normale",
+        "transactionTemplateSchedule": "Pianificazione"
+    },
+    "nDaysAgo": "{{n}} giorni fa",
+    "nMonthsAgo": "{{n}} mesi fa",
+    "nDaysLater": "{{n}} giorni dopo",
+    "nMonthsLater": "{{n}} mesi dopo",
+    "startAccounting": "Inizia contabilità",
+    "expiredSchedule": "Pianificazione scaduta"
 }

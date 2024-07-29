@@ -1,5 +1,13 @@
+`Daily Money One` size yardımcı oldu mu? Lütfen bir dakikanızı ayırarak [Google Store](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone) üzerinde ★★★★★ ile değerlendirin. Değerlendirmeniz, daha fazla insanın bu uygulamayı keşfetmesine ve kullanmasına yardımcı olacak, yazarın da bunu geliştirmek ve sürdürmek için daha fazla zaman ve kaynak bulmasını sağlayacaktır.
+
+Sorularınız veya özellik istekleriniz mi var? En son gelişmeleri almak için [Facebook hayran grubuna](https://www.facebook.com/colaorange.daily.money) katılın veya yazarla iletişime geçerek sorularınızı sorun ve isteklerinizi iletin.
 
 ## Yenilikler
+
+### Versiyon 1.4.0'da
+* [Yinelenen Planlanmış İşlemler Şablonu](https://youtu.be/TzQj2pY6sWs): Giderlerinizi takip etmeyi kolaylaştırmanın yanı sıra, bu şablon yinelenen programlar ve hatırlatıcılar için özellikler içerir. Otomatik kredi kartı ödemeleri veya yıllık ücretler için pratik ve düşünceli bir özelliktir.
+* [Hesap defterinizi şifre ile koruyun](https://youtu.be/peoYqNG_4pk): Başkalarının hesap defterinizi gözetlemesinden mi korkuyorsunuz? Yeni şifre özelliği etkinleştirildiğinde, hesap defteriniz açıldığında bir şifre ile korunacaktır. Şifrenin ne sıklıkta girilmesi gerektiğini de ayarlayabilirsiniz.
+* Bakiye Hesaplarını Sırala: `Tercihler > Görüntü Ayarları > Bakiye Hesap Türlerinin Sırası` bölümünden sıralamayı ayarlayın.
 
 ### Sürüm 1.3.0'da
 * [Özelleştirilebilir İşlem Listeleri ve Bilanço Aralıkları](https://youtu.be/O7EcLN82qIU): Sabit aralıklar için hızlı seçeneklere ek olarak, artık işlem listeleri, bilançolar ve grafikler oluşturmak için aralıkları özelleştirebilirsiniz.

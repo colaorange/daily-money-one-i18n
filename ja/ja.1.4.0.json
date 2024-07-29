@@ -1,2 +1,83 @@
-{    
+{
+    "transactionTemplate": {
+        "recurringSchedule": "繰り返しスケジュール",
+        "nextTime": "次回"
+    },
+    "schedule": {
+        "@": "スケジュール",
+        "mode": {
+            "weekly": "毎週",
+            "monthly": "毎月",
+            "yearly": "毎年"
+        },
+        "daysOfWeek": "曜日",
+        "daysOfMonth": "月の日",
+        "daysOfYear": "年の日",
+        "monthsOfYear": "年の月",
+        "lastNDays": "過去{{n}}日間"
+    },
+    "action": {
+        "restart": "再起動",
+        "bypass": "バイパス",
+        "back": "戻る",
+        "set": "設定"
+    },
+    "message": {
+        "transactionTemplateRescheduled": "テンプレートの次の予定日は{{date}}に変更されました。",
+        "dataVerificationFail": "データの検証に失敗しました。",
+        "transactionTemplateScheduleExpired": "テンプレート{{name}}は{{description}}に期限切れになりました。",
+        "confirmSetPassword": "パスワードを設定しますか？設定すると、アプリケーションを開始する際や一定期間後に続けて使用するにはパスワードを入力する必要があります。",
+        "confirmResetPassword": "パスワードをリセットしますか？リセットすると、パスワードを入力せずにアプリケーションを使用できます。",
+        "passwordSet": "パスワードが正常に設定されました。",
+        "passwordReset": "パスワードが正常にリセットされました。"
+    },
+    "title": {
+        "scheduleExpired": "スケジュールの期限が切れました",
+        "setPassword": "パスワード設定",
+        "resetPassword": "パスワードリセット"
+    },
+    "screen": {
+        "preferencesBalanceAccountTypeOrder": "残高口座タイプの順序",
+        "preferencesSecurity": "セキュリティ設定",
+        "preferencesPassword": "パスワード設定",
+        "passwordReset": "パスワードリセット"
+    },
+    "password": {
+        "@": "パスワード",
+        "hint": "アプリケーションは元のパスワードを保存しないので、パスワード保護を設定する際は必ずパスワードを覚えておいてください",
+        "passwordHint": "パスワードを設定します。設定すると、アプリケーションを再起動するたびにパスワードを入力する必要があります",
+        "passwordTimeout": "パスワードタイムアウト",
+        "passwordTimeoutHint": "タイムアウトの期間を設定します。アプリケーションがバックグラウンドに移行してから再び開くと、タイムアウト期間が経過していればパスワードを再入力する必要があります",
+        "passwordResetHint": "パスワードをリセットするには、現在のパスワードまたはリセットコードが必要です",
+        "new": "新しいパスワード",
+        "newHint": "使用するパスワードは少なくとも1文字でなければなりません",
+        "again": "パスワードを再入力",
+        "againHint": "入力ミスがないように同じパスワードを再入力してください",
+        "current": "現在のパスワード",
+        "currentHint": "パスワードをクリアまたは更新するには、現在のパスワードを入力してください",
+        "againMustMatch": "入力したパスワードは前のものと一致する必要があります",
+        "currentMustMatch": "現在のパスワードが一致する必要があります",
+        "resetProcedure": "パスワードリセット手順",
+        "resetProcedureHint": "パスワードを忘れた場合のリセット手順ですが、著者が問題を常に解決できるとは限らないため、パスワード保護を使用する際は必ずパスワードを覚えておいてください。",
+        "resetToken": "パスワードリセットトークン",
+        "resetTokenHint": "このトークンをコピーし、著者に提供してパスワードリセットコードを取得してください。アプリケーションは元のパスワードを保存しないため、トークンが毎回異なるのは正常ですので、心配しないでください。",
+        "resetCode": "パスワードリセットコード",
+        "resetCodeHint": "正しいパスワードリセットコードを入力すると、パスワードをリセットできます",
+        "resetCodeIncorrect": "入力されたリセットコードが間違っています。正しいリセットコードを入力してください。"
+    },
+    "never": "決して",
+    "always": "常に",
+    "nHours": "{{n}}時間",
+    "scheduleMode": "スケジュールモード",
+    "selectScheduleMode": "スケジュールモードを選択",
+    "tab": {
+        "transactionTemplateNormal": "通常",
+        "transactionTemplateSchedule": "スケジュール"
+    },
+    "nDaysAgo": "{{n}}日前",
+    "nMonthsAgo": "{{n}}ヶ月前",
+    "nDaysLater": "{{n}}日後",
+    "nMonthsLater": "{{n}}ヶ月後",
+    "startAccounting": "会計開始",
+    "expiredSchedule": "期限切れのスケジュール"
 }

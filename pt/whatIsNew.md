@@ -1,5 +1,14 @@
+`Daily Money One` tem sido útil para você? Por favor, reserve um momento para avaliá-lo ★★★★★ na [Google Store](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone). Sua avaliação ajudará mais pessoas a descobrir e usar o aplicativo, proporcionando ao autor mais tempo e recursos para continuar melhorando e mantendo-o.
+
+
+Tem perguntas ou solicitações de funcionalidades? Junte-se ao [grupo de fãs no Facebook](https://www.facebook.com/colaorange.daily.money) para receber as atualizações de desenvolvimento mais recentes, ou envie uma mensagem ao autor para fazer perguntas e solicitações.
 
 ## O Que Há de Novo
+
+### Na Versão 1.4.0
+* [Modelo para Transações Agendadas Recorrentes](https://youtu.be/TzQj2pY6sWs): Além de facilitar o acompanhamento de suas despesas, este modelo também inclui recursos para agendamentos recorrentes e lembretes. É um recurso prático e útil para pagamentos automáticos de cartões de crédito ou taxas anuais.
+* [Proteja seu livro-caixa com uma senha](https://youtu.be/peoYqNG_4pk): Tem medo de que outras pessoas possam espiar seu livro-caixa? Com o novo recurso de senha ativado, seu livro-caixa estará protegido por uma senha sempre que for aberto. Você também pode definir a frequência com que a senha precisa ser inserida.
+* Ordenar Contas de Saldo: Defina a ordem em `Preferências > Configurações de Exibição > Ordem dos Tipos de Contas de Saldo`.
 
 ### Na Versão 1.3.0
 * [Listas de Transações Personalizáveis e Intervalos de Balanço](https://youtu.be/O7EcLN82qIU): Além das opções rápidas para intervalos fixos, agora você pode personalizar intervalos para gerar listas de transações, balanços e gráficos.

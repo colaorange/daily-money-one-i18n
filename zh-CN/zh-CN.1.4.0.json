@@ -1,2 +1,83 @@
-{    
+{
+    "transactionTemplate": {
+        "recurringSchedule": "重复排程",
+        "nextTime": "下次时间"
+    },
+    "schedule": {
+        "@": "排程",
+        "mode": {
+            "weekly": "每周",
+            "monthly": "每月",
+            "yearly": "每年"
+        },
+        "daysOfWeek": "每周的日期",
+        "daysOfMonth": "每月的日期",
+        "daysOfYear": "每年的日期",
+        "monthsOfYear": "每年的月份",
+        "lastNDays": "最后第{{n}}天"
+    },
+    "action": {
+        "restart": "重新开始",
+        "bypass": "略过这次",
+        "back": "返回",
+        "set": "设置"
+    },
+    "message": {
+        "transactionTemplateRescheduled": "账目范本的下一个排程日期已重新安排至 {{date}}。",
+        "dataVerificationFail": "数据验证失败",
+        "transactionTemplateScheduleExpired": "账目范本 {{name}} 在 {{description}} 已经到期",
+        "confirmSetPassword": "您确定要设置密码吗？一旦设置，启动应用程序时或在某段时间后，您将需要输入密码才能继续使用。",
+        "confirmResetPassword": "您确定要重设密码吗？一旦重设，您将可以在不输入密码的情况下使用应用程序。",
+        "passwordSet": "密码已成功设置。",
+        "passwordReset": "密码已成功重设。"
+    },
+    "title": {
+        "scheduleExpired": "排程已经到期",
+        "setPassword": "设置密码",
+        "resetPassword": "清除密码"
+    },
+    "screen": {
+        "preferencesBalanceAccountTypeOrder": "资产负债账户类型顺序",
+        "preferencesSecurity": "安全设置",
+        "preferencesPassword": "密码设置",
+        "passwordReset": "密码重设"
+    },
+    "password": {
+        "@": "密码",
+        "hint": "应用程序不会储存您的原始密码，因此在设置密码保护时，请务必记住您的密码",
+        "passwordHint": "设置密码。一旦设置，每次重新启动应用程序时将需要输入密码才能继续使用。",
+        "passwordTimeout": "密码超时",
+        "passwordTimeoutHint": "设置密码超时时间。在应用程序被切换到后台后，当再次使用时，如果超时，您需要重新输入密码才能继续使用",
+        "passwordResetHint": "重设密码的过程需要当前密码或重设码",
+        "new": "新密码",
+        "newHint": "使用的密码必须至少有一个字符",
+        "again": "再次输入密码",
+        "againHint": "再次输入相同的密码以确保没有输入错误",
+        "current": "当前密码",
+        "currentHint": "提供当前密码才能清除或更新密码",
+        "againMustMatch": "输入的密码必须与之前的密码相同",
+        "currentMustMatch": "当前密码必须匹配",
+        "resetProcedure": "重设密码程序",
+        "resetProcedureHint": "重设密码程序是忘记密码后的一种解决方案，但作者不保证一定能解决或能即时解决。使用密码保护时，请务必记住您的密码",
+        "resetToken": "重设密码令牌",
+        "resetTokenHint": "请复制此令牌并提供给作者以获取重设密码的代码。应用程序不会储存您的原始密码，每次生成的令牌不同是正常的，请不用担心",
+        "resetCode": "重设密码代码",
+        "resetCodeHint": "正确的重设密码代码将允许您重设密码",
+        "resetCodeIncorrect": "输入的重设密码代码不正确，请确保您输入的是正确的重设密码代码"
+    },
+    "never": "从不",
+    "always": "总是",
+    "nHours": "{{n}} 小时",
+    "scheduleMode": "排程模式",
+    "selectScheduleMode": "选择排程模式",
+    "tab": {
+        "transactionTemplateNormal": "一般",
+        "transactionTemplateSchedule": "排程"
+    },
+    "nDaysAgo": "{{n}} 天以前",
+    "nMonthsAgo": "{{n}} 个月以前",
+    "nDaysLater": "{{n}} 天以后",
+    "nMonthsLater": "{{n}} 个月以后",
+    "startAccounting": "开始记账",
+    "expiredSchedule": "到期排程"
 }

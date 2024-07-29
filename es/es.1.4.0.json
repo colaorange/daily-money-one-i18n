@@ -1,2 +1,83 @@
-{    
+{
+    "transactionTemplate": {
+        "recurringSchedule": "Programa recurrente",
+        "nextTime": "Próxima vez"
+    },
+    "schedule": {
+        "@": "Horario",
+        "mode": {
+            "weekly": "Semanal",
+            "monthly": "Mensual",
+            "yearly": "Anual"
+        },
+        "daysOfWeek": "Días de la semana",
+        "daysOfMonth": "Días del mes",
+        "daysOfYear": "Días del año",
+        "monthsOfYear": "Meses del año",
+        "lastNDays": "Últimos {{n}} días"
+    },
+    "action": {
+        "restart": "Reiniciar",
+        "bypass": "Saltar",
+        "back": "Atrás",
+        "set": "Establecer"
+    },
+    "message": {
+        "transactionTemplateRescheduled": "La próxima fecha programada de la plantilla se ha reprogramado para {{date}}.",
+        "dataVerificationFail": "La verificación de datos falló.",
+        "transactionTemplateScheduleExpired": "La plantilla {{name}} ha expirado en {{description}}.",
+        "confirmSetPassword": "¿Está seguro de que desea establecer una contraseña? Una vez establecida, necesitará ingresar la contraseña para continuar usando la aplicación al iniciar o después de un cierto período.",
+        "confirmResetPassword": "¿Está seguro de que desea restablecer la contraseña? Una vez restablecida, podrá usar la aplicación sin ingresar una contraseña.",
+        "passwordSet": "La contraseña se ha establecido correctamente.",
+        "passwordReset": "La contraseña se ha restablecido correctamente."
+    },
+    "title": {
+        "scheduleExpired": "El horario ha expirado",
+        "setPassword": "Establecer contraseña",
+        "resetPassword": "Restablecer contraseña"
+    },
+    "screen": {
+        "preferencesBalanceAccountTypeOrder": "Orden de tipos de cuenta de balance",
+        "preferencesSecurity": "Configuración de seguridad",
+        "preferencesPassword": "Configuración de contraseña",
+        "passwordReset": "Restablecimiento de contraseña"
+    },
+    "password": {
+        "@": "Contraseña",
+        "hint": "La aplicación no almacenará su contraseña original, por favor asegúrese de recordar su contraseña al configurar la protección con contraseña",
+        "passwordHint": "Establezca una contraseña. Una vez establecida, necesitará ingresar la contraseña cada vez que reinicie la aplicación para continuar usándola",
+        "passwordTimeout": "Tiempo de espera de la contraseña",
+        "passwordTimeoutHint": "Establezca la duración del tiempo de espera. Si la aplicación se cambia al fondo y luego se vuelve a abrir, necesitará volver a ingresar su contraseña si el período de tiempo de espera ha transcurrido",
+        "passwordResetHint": "El proceso para restablecer la contraseña requiere la contraseña actual o un código de restablecimiento",
+        "new": "Nueva contraseña",
+        "newHint": "La contraseña a usar debe tener al menos un carácter",
+        "again": "Reingresar contraseña",
+        "againHint": "Vuelva a ingresar la misma contraseña para asegurarse de que no haya errores de entrada",
+        "current": "Contraseña actual",
+        "currentHint": "Se debe proporcionar la contraseña actual para borrar o actualizar la contraseña",
+        "againMustMatch": "La contraseña ingresada debe coincidir con la anterior",
+        "currentMustMatch": "La contraseña actual debe coincidir",
+        "resetProcedure": "Procedimiento de restablecimiento de contraseña",
+        "resetProcedureHint": "El procedimiento de restablecimiento de contraseña es una solución para cuando olvida su contraseña, pero el autor no garantiza que siempre resuelva el problema o pueda abordarlo rápidamente. Al usar la protección con contraseña, por favor asegúrese de recordar su contraseña.",
+        "resetToken": "Token de restablecimiento de contraseña",
+        "resetTokenHint": "Por favor copie este token y proporciónelo al autor para obtener un código de restablecimiento de contraseña. La aplicación no almacena su contraseña original, y es normal que el token sea diferente cada vez, así que no se preocupe",
+        "resetCode": "Código de restablecimiento de contraseña",
+        "resetCodeHint": "El código correcto de restablecimiento de contraseña le permitirá restablecer su contraseña",
+        "resetCodeIncorrect": "El código de restablecimiento ingresado es incorrecto. Por favor, asegúrese de haber ingresado el código de restablecimiento correcto."
+    },
+    "never": "Nunca",
+    "always": "Siempre",
+    "nHours": "{{n}} horas",
+    "scheduleMode": "Modo de programación",
+    "selectScheduleMode": "Seleccione modo de programación",
+    "tab": {
+        "transactionTemplateNormal": "Normal",
+        "transactionTemplateSchedule": "Programar"
+    },
+    "nDaysAgo": "Hace {{n}} días",
+    "nMonthsAgo": "Hace {{n}} meses",
+    "nDaysLater": "{{n}} días después",
+    "nMonthsLater": "{{n}} meses después",
+    "startAccounting": "Iniciar contabilidad",
+    "expiredSchedule": "Horario expirado"
 }
