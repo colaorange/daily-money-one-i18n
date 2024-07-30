@@ -23,15 +23,21 @@ Therefore, the author returned and decided to focus on running his independent s
 `About Ads`: In order to ensure that the author's two cats have food and the author has coffee to drink, and to ensure the continued maintenance and operation of this program, advertisements have been added. Currently, there are two levels of ad settings available for users to adjust, and adjustments will also be made based on user numbers in the future. The author's starting point is still to ensure that ads do not affect the user experience. You can adjust the ad settings by going to "Preferences > Advertisement Settings" after installation.
 
 Current Features：
- - Import CSV export files from "Daily Money+"
- - Record daily expenses, income, assets, and liabilities.
- - Perform statistics and settlements for various account balances.
- - Create multiple account books and customize multiple accounts.
- - Perform one-to-many splitting between accounts.
- - Transfer transactions between account books.
- - Provide various forms of settlement charts.
- - Backup to and restore from the phone
- - More features under development...
+- Record daily expenses, income, assets, and liabilities.
+- Perform balance for various accounts and any period.
+- Support multiple books.
+- Create multiple custom accounts, hierarchical accounts.
+- Split transactions one-to-many between accounts.
+- Transfer transactions between books.
+- Transaction templates, recurring scheduling and reminders.
+- Provide various types and periodic charts.
+- Backup the database to mobile devices and the cloud, and restore from mobile devices.
+- Backup public JSON format to mobile devices and restore from mobile devices.
+- Password protection
+- Export transactions and balance sheets to XLSX.
+- Import CSV export files from "Daily Money+".
+- No usage limits, completely free.
+- More features under development...
 
 [`How to Use.`](https://youtu.be/uN3GkA_Afuw)
 
