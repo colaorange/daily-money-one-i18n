@@ -1,5 +1,6 @@
 
 [`View introduction video on YouTube`](https://youtu.be/uN3GkA_Afuw)
+[`Online document`](https://colaorange.gitbook.io/daily-money-one-doc/eng)
 
 ## Concepts
 

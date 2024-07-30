@@ -356,7 +356,7 @@
     "noTransactionTemplate": "No Transaction Template",
     "password": {
         "@": "Password",
-        "again": "Re-renter Password",
+        "again": "Re-enter Password",
         "againHint": "Re-enter the same password to ensure there are no input errors",
         "againMustMatch": "The entered password must match the previous one",
         "current": "Current Password",

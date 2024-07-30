@@ -1,5 +1,6 @@
 
 [`到YouTube上看影片介紹`](https://youtu.be/f0Go7GgXgCk)
+[`線上文件`](https://colaorange.gitbook.io/daily-money-one-doc/cht)
 
 ## 概念
 
