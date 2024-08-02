@@ -1,6 +1,17 @@
 ## Daily Money One
-### 1.4.0
+### 1.5.0
+> **Features**: 
+> * 
+> 
+>**Enhancement**: 
+> * 
+>
+>**Fixed Bugs**
+> * 
 
+## History
+
+### 1.4.0
 > **Features**: 
 > * #49 Support show Transaction List of a Account in Account Management 
 > * #38 Add Notification mechanism to Transaction Template 
@@ -16,8 +27,6 @@
 > * #52 appExtensionLogger updates only the last line when it is full.
 > * #54 Error: instance.note does not meet maximum length of 512 
 > * #60 The 'Disable Apply Note' option in the transaction template is not functioning as expected 
-
-## History
 
 ### 1.3.0
 > **Features**: 
