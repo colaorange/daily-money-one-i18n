@@ -1,2 +1,21 @@
 {
+    "screen": {
+        "preferencesTransactionList": "Transaction List Settings"
+    },
+    "title": {
+        "compactTransactionList": "Compact Transaction List",
+        "transactionDepositFirst": "Deposit First",
+        "transactionNoteBeforeBody": "Note Before Details",
+        "preview": "Preview"
+    },
+    "message": {
+        "compactTransactionList": "Compact Transaction List",
+        "transactionDepositFirst": "Display deposit items first (left), withdrawal items later (right)",
+        "transactionNoteBeforeBody": "Display notes before transaction details"
+    },
+    "example": {
+        "salaryToBank": "Salary for a specific month",
+        "credit2Entertainment": "Bought a PS5 and some games on Amazon as a birthday gift for my best friend",
+        "bank2Credit": "Paid my credit card bill for a certain month, including a $200 foreign transaction fee"
+    }
 }
