@@ -1,7 +1,7 @@
 ## Daily Money One
 ### 1.5.0
 > **Features**: 
-> * 
+> * #50 Support more transation item layout template 
 > 
 >**Enhancement**: 
 > * 

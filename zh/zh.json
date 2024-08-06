@@ -180,7 +180,7 @@
             "medical": "醫療",
             "otherExpenses": "其他花費",
             "otherIncome": "其他收入",
-            "saraly": "薪水",
+            "salary": "薪水",
             "transportation": "交通",
             "transportationGas": "交通.油"
         },
@@ -578,7 +578,7 @@
     "tomorrow": "明天",
     "transaction": {
         "@": "帳目",
-        "compactList": "緊湊的清單",
+        "compactList": "緊湊的列表",
         "depositAccount": "轉入帳戶",
         "depositAccountHint": "轉入此帳戶",
         "depositAccountType": "轉入類型",

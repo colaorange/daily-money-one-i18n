@@ -1,2 +1,18 @@
 {
+    "screen": {
+        "preferencesTransactionList": "Transaction List Settings"
+    },
+    "transaction": {
+        "depositFirst": "Deposit First",
+        "noteBeforeBody": "Note Before Details",
+        "compactListHint": "Remove some information and reduce spacing between text to display more items in the transaction list",
+        "depositFirstHint": "Deposit items are shown first (account name on the left), and withdrawal items are shown later (account name on the right)",
+        "noteBeforeBodyHint": "Notes are displayed before the transaction deposit and withdrawal information",
+        "example": {
+            "salaryToBank": "Salary for a specific month",
+            "credit2Entertainment": "Bought a PS5 and some games on Amazon as a birthday gift for my best friend",
+            "bank2Credit": "Paid the credit card bill for a certain month, including a $200 foreign transaction fee"
+        }
+    },
+    "preview": "Preview"
 }
