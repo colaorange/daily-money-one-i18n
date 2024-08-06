@@ -578,7 +578,7 @@
     "tomorrow": "明天",
     "transaction": {
         "@": "帳目",
-        "compactList": "緊湊的清單",
+        "compactList": "緊湊的列表",
         "depositAccount": "轉入帳戶",
         "depositAccountHint": "轉入此帳戶",
         "depositAccountType": "轉入類型",

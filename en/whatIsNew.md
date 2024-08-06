@@ -5,7 +5,7 @@ Do you have questions or feature requests? Join [Facebook fan group](https://www
 ## What's New
 
 ### In Version 1.5.0
-
+* [Setting the Layout for the Transaction List](https://youtu.be/TzQj2pY6sWs): You can set the display of transactions to prioritize deposits first or withdrawals first (default, if turned off), and you can also choose whether the note should be positioned above or below(default, if turned off) the details.
 
 ### In Version 1.4.0
 * [Template for Recurring Scheduled Transactions](https://youtu.be/TzQj2pY6sWs): In addition to making it convenient to keep track of your expenses, this template also includes features for recurring schedules and reminders. It is a practical and thoughtful feature for automatic credit card payments or annual fees.

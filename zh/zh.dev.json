@@ -2,20 +2,17 @@
     "screen": {
         "preferencesTransactionList": "帳目列表設定"
     },
-    "title": {
-        "compactTransactionList": "緊湊帳目列表",
-        "transactionDepositFirst": "轉入項優先",
-        "transactionNoteBeforeBody": "註解在前",
-        "preview": "預覽"
+    "transaction": {
+        "depositFirst": "轉入優先",
+        "noteBeforeBody": "註解在前",
+        "compactListHint": "減少部份資訊及文字間的間距，讓帳目列表顯示更多的項目",
+        "depositFirstHint": "轉入項目顯示在前(帳戶名稱在左邊)，轉出項目在後(帳戶名稱在右)",
+        "noteBeforeBodyHint": "註解顯示在交易轉出轉入資訊之前",
+        "example": {
+            "salaryToBank": "某月薪水",
+            "credit2Entertainment": "在亞馬遜買了PS5和一些遊戲，作為最好朋友的生日禮物",
+            "bank2Credit": "支付某月的信用卡賬單，其中包括200元的外幣交易手續費"
+        }
     },
-    "message": {
-        "compactTransactionList": "緊湊帳目列表",
-        "transactionDepositFirst": "轉入項目顯示在前(左)，轉出項目在後(右)",
-        "transactionNoteBeforeBody": "在交易詳細資訊之前顯示註解"
-    },
-    "example": {
-        "salaryToBank": "某月薪水",
-        "credit2Entertainment": "在亞馬遜買了PS5和一些遊戲，作為我最好朋友的生日禮物",
-        "bank2Credit": "支付了我某月的信用卡賬單，其中包括200元的外幣交易手續費"
-    }
+    "preview": "預覽"
 }
