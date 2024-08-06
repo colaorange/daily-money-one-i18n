@@ -1,6 +1,7 @@
 {
     "screen": {
-        "preferencesTransactionList": "Transaction List Settings"
+        "preferencesTransactionList": "Transaction List Settings",
+        "preferencesBalanceSheet": "Balance Sheet Settings"
     },
     "transaction": {
         "depositFirst": "Deposit First",
@@ -13,6 +14,12 @@
             "credit2Entertainment": "Bought a PS5 and some games on Amazon as a birthday gift for my best friend",
             "bank2Credit": "Paid the credit card bill for a certain month, including a $200 foreign transaction fee"
         }
+    },
+    "balance": {
+        "compactSheetHint": "Reduce spacing between text to display more items on the balance sheet",
+        "hideEmptyHint": "Hide items without transaction in the period, but did not hide items with entries where the final balance is zero",
+        "fixFractionDigits": "Fix decimal places",
+        "fixFractionDigitsHint": "Set the minimum decimal places according to the book's decimal settings. Zeros in the decimals will not be omitted, making it easier to align and compare"
     },
     "preview": "Preview"
 }

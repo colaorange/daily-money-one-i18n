@@ -1,6 +1,7 @@
 {
     "screen": {
-        "preferencesTransactionList": "帳目列表設定"
+        "preferencesTransactionList": "帳目列表設定",
+        "preferencesBalanceSheet": "資產負債表設定"
     },
     "transaction": {
         "depositFirst": "轉入優先",
@@ -13,6 +14,12 @@
             "credit2Entertainment": "在亞馬遜買了PS5和一些遊戲，作為最好朋友的生日禮物",
             "bank2Credit": "支付某月的信用卡賬單，其中包括200元的外幣交易手續費"
         }
+    },
+    "balance": {
+        "compactSheetHint": "減少文字間的間距，讓資產負債表顯示更多的項目",
+        "hideEmptyHint": "隱藏在區間內沒有帳目的項目，並不會隱藏有帳目但最後總合為零的項目",
+        "fixFractionDigits": "固定小數點位數",
+        "fixFractionDigitsHint": "依帳本的小數點位數設定，設定最小位數。為零的小數不會被省去，更容易對齊比較"
     },
     "preview": "預覽"
 }

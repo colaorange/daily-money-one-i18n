@@ -2,7 +2,8 @@
 ### 1.5.0
 > **Features**: 
 > * #50 Support more transation item layout template 
-> 
+> * #42 Support Fixed Fraction Digits display preference 
+>
 >**Enhancement**: 
 > * 
 >
