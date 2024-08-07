@@ -15,6 +15,7 @@ This application is developed using the following libraries, and their license d
  * @react-navigation/native
  * @react-navigation/native-stack
  * @robinbobin/react-native-google-drive-api-wrapper
+ * buffer
  * base-x
  * browser-util-inspect
  * expo
@@ -26,6 +27,7 @@ This application is developed using the following libraries, and their license d
  * expo-status-bar
  * expo-system-ui
  * i18next 
+ * iconv-lite
  * jsonschema
  * lodash
  * moment

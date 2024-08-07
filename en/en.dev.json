@@ -3,6 +3,9 @@
         "preferencesTransactionList": "Transaction List Settings",
         "preferencesBalanceSheet": "Balance Sheet Settings"
     },
+    "title": {
+        "selectEncoding": "Select Encoding"
+    },
     "transaction": {
         "depositFirst": "Deposit First",
         "noteBeforeBody": "Note Before Details",
@@ -21,5 +24,10 @@
         "fixFractionDigits": "Fix decimal places",
         "fixFractionDigitsHint": "Set the minimum decimal places according to the book's decimal settings. Zeros in the decimals will not be omitted, making it easier to align and compare"
     },
+    "csvImport": {
+        "fileEncoding": "File Encoding",
+        "fileEncodingHint": "The encoding of the CSV file, with UTF-8 as the default. If you have edited these files on your computer, or have set a different encoding in Daily Money+ (which can be confirmed in Developer Options), please select the corresponding encoding here; otherwise, the CSV may not be read correctly."
+    },
+    "options": "Options",
     "preview": "Preview"
 }
