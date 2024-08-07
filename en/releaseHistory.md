@@ -5,7 +5,7 @@
 > * #42 Support Fixed Fraction Digits display preference 
 >
 >**Enhancement**: 
-> * 
+> * #59 Support the selection of CSV encoding when importing
 >
 >**Fixed Bugs**
 > * 
