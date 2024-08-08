@@ -462,7 +462,7 @@
         "googleDriveManagement": "Google Drive mentéskezelés",
         "home": "Kezdőlap",
         "homeShortcutManagement": "Kezdőképernyő parancsikon beállítások",
-        "passwordReset": "Jelszó visszaállítás",
+        "preferencesPasswordReset": "Jelszó visszaállítás",
         "preferences": "Beállítások",
         "preferencesAdvertisement": "Hirdetés beállítások",
         "preferencesBalanceAccountTypeOrder": "Számlatípusok sorrendje",

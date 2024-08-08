@@ -462,7 +462,7 @@
         "googleDriveManagement": "Google Drive Backup-Management",
         "home": "Startseite",
         "homeShortcutManagement": "Startbildschirm-Verknüpfungseinstellungen",
-        "passwordReset": "Passwort zurücksetzen",
+        "preferencesPasswordReset": "Passwort zurücksetzen",
         "preferences": "Einstellungen",
         "preferencesAdvertisement": "Werbeeinstellungen",
         "preferencesBalanceAccountTypeOrder": "Reihenfolge der Bilanzkontotypen",

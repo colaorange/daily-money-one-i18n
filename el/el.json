@@ -462,7 +462,7 @@
         "googleDriveManagement": "Διαχείριση Αντιγράφων Ασφαλείας Google Drive",
         "home": "Αρχική",
         "homeShortcutManagement": "Ρυθμίσεις Συντομεύσεων Αρχικής Οθόνης",
-        "passwordReset": "Επαναφορά Κωδικού Πρόσβασης",
+        "preferencesPasswordReset": "Επαναφορά Κωδικού Πρόσβασης",
         "preferences": "Προτιμήσεις",
         "preferencesAdvertisement": "Ρυθμίσεις Διαφημίσεων",
         "preferencesBalanceAccountTypeOrder": "Σειρά Τύπων Λογαριασμών Ισοζυγίου",

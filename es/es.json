@@ -462,7 +462,7 @@
         "googleDriveManagement": "Gestión de Respaldo de Google Drive",
         "home": "Inicio",
         "homeShortcutManagement": "Configuración de Atajos de Pantalla de Inicio",
-        "passwordReset": "Restablecimiento de contraseña",
+        "preferencesPasswordReset": "Restablecimiento de contraseña",
         "preferences": "Preferencias",
         "preferencesAdvertisement": "Configuración de Anuncios",
         "preferencesBalanceAccountTypeOrder": "Orden de tipos de cuenta de balance",

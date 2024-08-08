@@ -462,7 +462,7 @@
         "googleDriveManagement": "การจัดการการสำรองข้อมูล Google Drive",
         "home": "หน้าหลัก",
         "homeShortcutManagement": "การตั้งค่าทางลัดหน้าจอหลัก",
-        "passwordReset": "รีเซ็ตรหัสผ่าน",
+        "preferencesPasswordReset": "รีเซ็ตรหัสผ่าน",
         "preferences": "การตั้งค่า",
         "preferencesAdvertisement": "การตั้งค่าโฆษณา",
         "preferencesBalanceAccountTypeOrder": "ลำดับประเภทบัญชีสมดุล",

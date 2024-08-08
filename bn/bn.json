@@ -462,7 +462,7 @@
         "googleDriveManagement": "Google Drive ব্যাকআপ ব্যবস্থাপনা",
         "home": "হোম",
         "homeShortcutManagement": "হোম স্ক্রিন শর্টকাট সেটিংস",
-        "passwordReset": "পাসওয়ার্ড রিসেট",
+        "preferencesPasswordReset": "পাসওয়ার্ড রিসেট",
         "preferences": "প্রেফারেন্স",
         "preferencesAdvertisement": "বিজ্ঞাপন সেটিংস",
         "preferencesBalanceAccountTypeOrder": "ব্যালেন্স অ্যাকাউন্ট প্রকারের ক্রম",

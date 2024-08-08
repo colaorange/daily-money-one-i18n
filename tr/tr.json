@@ -462,7 +462,7 @@
         "googleDriveManagement": "Google Drive Yedekleme Yönetimi",
         "home": "Ana Ekran",
         "homeShortcutManagement": "Ana Ekran Kısayol Ayarları",
-        "passwordReset": "Şifre Sıfırlama",
+        "preferencesPasswordReset": "Şifre Sıfırlama",
         "preferences": "Tercihler",
         "preferencesAdvertisement": "Reklam Ayarları",
         "preferencesBalanceAccountTypeOrder": "Bakiye Hesap Türü Sırası",

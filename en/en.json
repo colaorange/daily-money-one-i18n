@@ -462,7 +462,7 @@
         "googleDriveManagement": "Google Drive Backup Management",
         "home": "Home",
         "homeShortcutManagement": "Home Screen Shortcut Settings",
-        "passwordReset": "Password Reset",
+        "preferencesPasswordReset": "Password Reset",
         "preferences": "Preferences",
         "preferencesAdvertisement": "Advertisement Settings",
         "preferencesBalanceAccountTypeOrder": "Order of Balance Account Types",

@@ -462,7 +462,7 @@
         "googleDriveManagement": "Gestão de Backup do Google Drive",
         "home": "Início",
         "homeShortcutManagement": "Configurações de Atalho da Tela Inicial",
-        "passwordReset": "Redefinição de Senha",
+        "preferencesPasswordReset": "Redefinição de Senha",
         "preferences": "Preferências",
         "preferencesAdvertisement": "Configurações de Publicidade",
         "preferencesBalanceAccountTypeOrder": "Ordem dos Tipos de Conta de Saldo",
