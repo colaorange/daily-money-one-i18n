@@ -462,7 +462,7 @@
         "googleDriveManagement": "Управление резервным копированием Google Drive",
         "home": "Главная",
         "homeShortcutManagement": "Настройки ярлыков главного экрана",
-        "passwordReset": "Сброс пароля",
+        "preferencesPasswordReset": "Сброс пароля",
         "preferences": "Настройки",
         "preferencesAdvertisement": "Настройки рекламы",
         "preferencesBalanceAccountTypeOrder": "Порядок типов учетных записей",

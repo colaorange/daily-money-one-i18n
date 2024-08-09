@@ -462,7 +462,7 @@
         "googleDriveManagement": "Google Drive備份管理",
         "home": "首頁",
         "homeShortcutManagement": "主頁捷徑設定",
-        "passwordReset": "密碼重設",
+        "preferencesPasswordReset": "密碼重設",
         "preferences": "喜好設定",
         "preferencesAdvertisement": "廣告設定",
         "preferencesBalanceAccountTypeOrder": "資產負債帳戶類型順序",

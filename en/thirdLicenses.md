@@ -5,8 +5,6 @@ This application is developed using the following libraries, and their license d
 ### MIT
 
 [Link](https://en.wikipedia.org/wiki/MIT_License)
-
- * @expo/metro-runtime
  * @react-native-async-storage/async-storage
  * @react-native-community/slider
  * @react-native-google-signin/google-signin

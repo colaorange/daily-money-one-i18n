@@ -462,7 +462,7 @@
         "googleDriveManagement": "Google Drive 백업 관리",
         "home": "홈",
         "homeShortcutManagement": "홈 화면 바로가기 설정",
-        "passwordReset": "비밀번호 재설정",
+        "preferencesPasswordReset": "비밀번호 재설정",
         "preferences": "환경 설정",
         "preferencesAdvertisement": "광고 설정",
         "preferencesBalanceAccountTypeOrder": "잔액 계정 유형 순서",

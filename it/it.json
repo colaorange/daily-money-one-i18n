@@ -462,7 +462,7 @@
         "googleDriveManagement": "Gestione del backup su Google Drive",
         "home": "Home",
         "homeShortcutManagement": "Impostazioni scorciatoie schermata principale",
-        "passwordReset": "Reimpostazione della password",
+        "preferencesPasswordReset": "Reimpostazione della password",
         "preferences": "Preferenze",
         "preferencesAdvertisement": "Impostazioni pubblicitarie",
         "preferencesBalanceAccountTypeOrder": "Ordine dei tipi di account di bilancio",
