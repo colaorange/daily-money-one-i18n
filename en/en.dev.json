@@ -18,6 +18,10 @@
             "bank2Credit": "Paid the credit card bill for a certain month, including a $200 foreign transaction fee"
         }
     },
+    "account": {
+        "hidden": "Hidden",
+        "hiddenHint": "Hide this account so that it does not appear when adding or editing transactions. However, if this account is included in transactions within the selected date range and the balance is not zero, it will still appear on the balance sheet and charts. This is usually set for old accounts that are no longer in use."
+    },
     "balance": {
         "compactSheetHint": "Reduce spacing between text to display more items on the balance sheet",
         "hideEmptyHint": "Hide items without transaction in the period, but did not hide items with entries where the final balance is zero",
