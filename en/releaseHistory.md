@@ -1,14 +1,18 @@
 ## Daily Money One
+
 ### 1.5.0
 > **Features**: 
 > * #50 Support more transation item layout template 
 > * #42 Support Fixed Fraction Digits display preference 
+> * #58 Support to hide old accounts from manager, picker and balance 
 >
 >**Enhancement**: 
 > * #59 Support the selection of CSV encoding when importing
->
+> * #61 Upgrade Expo and RN 
+> 
 >**Fixed Bugs**
-> * 
+> * #64 prevent push to same screen multiple time in slow device 
+>
 
 ## History
 
