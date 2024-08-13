@@ -33,5 +33,9 @@
         "fileEncodingHint": "The encoding of the CSV file, with UTF-8 as the default. If you have edited these files on your computer, or have set a different encoding in Daily Money+ (which can be confirmed in Developer Options), please select the corresponding encoding here; otherwise, the CSV may not be read correctly."
     },
     "options": "Options",
-    "preview": "Preview"
+    "preview": "Preview",
+    "action": {
+        "reportAndExit": "Report & Exit",
+        "tryAgain": "Try Again"
+    }
 }
