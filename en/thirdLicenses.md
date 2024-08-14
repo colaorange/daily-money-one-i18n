@@ -35,6 +35,7 @@ This application is developed using the following libraries, and their license d
  * react-native
  * react-native-device-info 
  * react-native-draggable-flatlist
+ * react-native-error-boundary
  * react-native-gesture-handler
  * react-native-get-random-values
  * react-native-gifted-charts
