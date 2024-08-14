@@ -12,7 +12,7 @@
 > 
 >**Fixed Bugs**
 > * #64 prevent push to same screen multiple time in slow device 
->
+> * #39 App crash when starting after a long standby 
 
 ## History
 
