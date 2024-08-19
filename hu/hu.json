@@ -1,6 +1,8 @@
 {
     "account": {
         "@": "Fiók",
+        "hidden": "Rejtett",
+        "hiddenHint": "Rejtse el ezt a számlát, hogy ne jelenjen meg, amikor tranzakciókat ad hozzá vagy szerkeszt. Azonban, ha ez a számla szerepel a kiválasztott dátumtartományban lévő tranzakciókban, és az egyenlege nem nulla, akkor továbbra is megjelenik a mérlegben és a diagramokon. Ez általában a régi, már nem használt számlák esetén van beállítva.",
         "name": "Név",
         "nameHint": "A fiók neve, 1 - 256 karakter hosszú, használjon '.'-t a hierarchikus kategorizáláshoz összegzéskor",
         "note": "Megjegyzés",
@@ -45,6 +47,7 @@
         "newTransactionTemplate": "Sablon létrehozása",
         "ok": "OK",
         "remove": "Eltávolítás",
+        "reportAndExit": "Jelentés és kilépés",
         "requestStoragePermission": "Tárhely hozzáférés engedélyének kérése",
         "reset": "Visszaállítás",
         "restart": "Újrakezdés",
@@ -61,6 +64,7 @@
         "startToRestoreDatabase": "Adatbázis visszaállítás indítása",
         "takeBreak": "Szünetet tart",
         "trash": "Kuka",
+        "tryAgain": "Próbálja újra",
         "update": "Frissítés"
     },
     "ads": {
@@ -93,7 +97,11 @@
         "@": "Egyenleg",
         "amount": "Összeg",
         "compactSheet": "Összesített lap",
+        "compactSheetHint": "Csökkenti a szöveg közötti távolságot, hogy több elem jelenjen meg a mérlegben",
+        "fixFractionDigits": "Tizedesjegyek rögzítése",
+        "fixFractionDigitsHint": "A minimum tizedesjegyeket a könyv tizedesbeállításai szerint állítja be. A tizedesjegyekben lévő nullákat nem hagyja figyelmen kívül, így könnyebbé téve az igazítást és az összehasonlítást",
         "hideEmpty": "Üres elrejtése",
+        "hideEmptyHint": "Elrejti azokat az elemeket, amelyeknek nincs tranzakciójuk az adott időszakban, de nem rejti el azokat, amelyeknél a végső egyenleg nulla",
         "mode": {
             "monthly": "Havi",
             "until": "Eddig",
@@ -136,6 +144,8 @@
     "csvImport": {
         "accountToCreate": "Összesen {{size}} fiók létrehozásra kerül",
         "confirmImport": "Az importálás időt vehet igénybe az adatok méretétől függően. Biztos benne, hogy most importálni szeretné a CSV-t?",
+        "fileEncoding": "Fájl kódolása",
+        "fileEncodingHint": "A CSV fájl kódolása, alapértelmezettként UTF-8. Ha ezeket a fájlokat a számítógépén szerkesztette, vagy a Daily Money+ programban más kódolást állított be (amit a Fejlesztői opciókban megerősíthet), válassza ki a megfelelő kódolást itt; különben előfordulhat, hogy a CSV-t nem lehet megfelelően olvasni.",
         "importCompleted": "Sikeresen importált új könyv {{book}}, {{account}} fiókkal, {{initial}} kezdeti tranzakciókkal és {{transaction}} tranzakciókkal",
         "newBookName": "Új könyv neve",
         "numberSeparators": {
@@ -354,6 +364,7 @@
     "noSelection": "Nincs kiválasztás",
     "noTransaction": "Nincsenek tranzakciók",
     "noTransactionTemplate": "Nincs tranzakciós sablon",
+    "options": "Opciók",
     "password": {
         "@": "Jelszó",
         "again": "Jelszó újbóli megadása",
@@ -397,6 +408,7 @@
             "hh:mm a": "12-Óra:Perc DE/DU"
         }
     },
+    "preview": "Előnézet",
     "react-native-paper-dates": {
         "close": "Bezárás",
         "dateIsDisabled": "A dátum letiltva",
@@ -462,16 +474,18 @@
         "googleDriveManagement": "Google Drive mentéskezelés",
         "home": "Kezdőlap",
         "homeShortcutManagement": "Kezdőképernyő parancsikon beállítások",
-        "preferencesPasswordReset": "Jelszó visszaállítás",
         "preferences": "Beállítások",
         "preferencesAdvertisement": "Hirdetés beállítások",
         "preferencesBalanceAccountTypeOrder": "Számlatípusok sorrendje",
+        "preferencesBalanceSheet": "Mérleg beállításai",
         "preferencesDateTime": "Dátum és idő beállítások",
         "preferencesDisplay": "Kijelző beállítások",
         "preferencesHomeScreen": "Kezdőképernyő beállítások",
         "preferencesLanguages": "Nyelv Beállítások",
         "preferencesPassword": "Jelszó beállítás",
+        "preferencesPasswordReset": "Jelszó visszaállítás",
         "preferencesSecurity": "Biztonsági beállítás",
+        "preferencesTransactionList": "Tranzakciólista beállításai",
         "quickViewChartManagement": "Egyenleg diagram Gyorsnézet beállítások",
         "quickViewSheetManagement": "Egyenleg kimutatás Gyorsnézet beállítások",
         "transactionList": "Tranzakciók",
@@ -562,6 +576,7 @@
         "restoreDatabase": "Adatbázis visszaállítása",
         "restoreImport": "Visszaállítás és importálás",
         "scheduleExpired": "Az ütemezés lejárt",
+        "selectEncoding": "Kódolás kiválasztása",
         "selectNumberSeparators": "Számelválasztók kiválasztása",
         "selecteQuickViewMode": "Gyorsnézet mód kiválasztása",
         "setPassword": "Jelszó beállítása",
@@ -579,12 +594,20 @@
     "transaction": {
         "@": "Tranzakció",
         "compactList": "Tömör lista",
+        "compactListHint": "Eltávolít néhány információt, és csökkenti a szöveg közötti távolságot, hogy több elemet jelenítsen meg a tranzakciólistában",
         "depositAccount": "Bevitel fiókja",
         "depositAccountHint": "Fiók a bevitelhez",
         "depositAccountType": "Befizetési típus",
         "depositBook": "Befizetési könyv",
+        "depositFirst": "Először a befizetések",
+        "depositFirstHint": "Először a befizetési tételek jelennek meg (a számlanév bal oldalon), majd a kifizetési tételek (a számlanév jobb oldalon)",
         "depositValue": "Bevitel összege",
         "depositValueHint": "Ezt az összeget a bevitel fiókjába helyezzük",
+        "example": {
+            "bank2Credit": "Kifizettem a hitelkártya-számlát egy adott hónapra, beleértve egy 200 dolláros külföldi tranzakciós díjat",
+            "credit2Entertainment": "Vettem egy PS5-öt és néhány játékot az Amazonon, mint születésnapi ajándékot a legjobb barátomnak",
+            "salaryToBank": "Fizetés egy adott hónapra"
+        },
         "initAccount": "Kezdeti fiók",
         "initAccountHint": "Fiók a kimenő vagy bevitelhez",
         "initValue": "Kezdeti összeg",
@@ -596,6 +619,8 @@
             "initial": "Kezdeti"
         },
         "note": "Megjegyzés",
+        "noteBeforeBody": "Megjegyzés a részletek előtt",
+        "noteBeforeBodyHint": "A megjegyzések a tranzakció befizetési és kifizetési információi előtt jelennek meg",
         "noteHint": "Megjegyzés a tranzakcióhoz, 0 - 1024 karakter hosszú",
         "transDate": "Dátum",
         "transDatetime": "Dátum és idő",

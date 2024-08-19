@@ -1,6 +1,8 @@
 {
     "account": {
         "@": "Konto",
+        "hidden": "Versteckt",
+        "hiddenHint": "Dieses Konto ausblenden, damit es beim Hinzufügen oder Bearbeiten von Transaktionen nicht angezeigt wird. Wenn dieses Konto jedoch in Transaktionen innerhalb des ausgewählten Datumsbereichs enthalten ist und der Saldo nicht null ist, wird es dennoch in der Bilanz und in den Diagrammen angezeigt. Dies wird normalerweise für alte Konten eingestellt, die nicht mehr verwendet werden.",
         "name": "Name",
         "nameHint": "Name des Kontos, Länge 1 - 256 Zeichen, verwenden Sie '.' für hierarchische Kategorisierung bei der Zusammenfassung",
         "note": "Notiz",
@@ -45,6 +47,7 @@
         "newTransactionTemplate": "Vorlage erstellen",
         "ok": "OK",
         "remove": "Entfernen",
+        "reportAndExit": "Berichten & Beenden",
         "requestStoragePermission": "Zugriffsberechtigung für Speicher anfordern",
         "reset": "Zurücksetzen",
         "restart": "Neustart",
@@ -61,6 +64,7 @@
         "startToRestoreDatabase": "Datenbank-Wiederherstellung starten",
         "takeBreak": "Pause machen",
         "trash": "Papierkorb",
+        "tryAgain": "Erneut versuchen",
         "update": "Aktualisieren"
     },
     "ads": {
@@ -93,7 +97,11 @@
         "@": "Saldo",
         "amount": "Betrag",
         "compactSheet": "Kompakte Tabelle",
+        "compactSheetHint": "Reduzieren Sie den Abstand zwischen Texten, um mehr Elemente in der Bilanz anzuzeigen",
+        "fixFractionDigits": "Dezimalstellen fixieren",
+        "fixFractionDigitsHint": "Stellen Sie die minimalen Dezimalstellen gemäß den Dezimaleinstellungen des Buches ein. Nullen in den Dezimalstellen werden nicht weggelassen, was die Ausrichtung und den Vergleich erleichtert",
         "hideEmpty": "Leere verbergen",
+        "hideEmptyHint": "Verstecken Sie Elemente ohne Transaktion im Zeitraum, aber verstecken Sie keine Elemente mit Einträgen, bei denen der Endsaldo null ist",
         "mode": {
             "monthly": "Monatlich",
             "until": "Bis",
@@ -136,6 +144,8 @@
     "csvImport": {
         "accountToCreate": "Insgesamt {{size}} Konto zu erstellen",
         "confirmImport": "Das Importieren kann je nach Datenmenge einige Zeit in Anspruch nehmen. Sind Sie sicher, dass Sie das CSV jetzt importieren möchten?",
+        "fileEncoding": "Dateikodierung",
+        "fileEncodingHint": "Die Kodierung der CSV-Datei, standardmäßig UTF-8. Wenn Sie diese Dateien auf Ihrem Computer bearbeitet haben oder eine andere Kodierung in Daily Money+ eingestellt haben (was in den Entwickleroptionen bestätigt werden kann), wählen Sie hier die entsprechende Kodierung aus; andernfalls wird die CSV möglicherweise nicht korrekt gelesen.",
         "importCompleted": "Neues Buch {{book}} erfolgreich importiert, mit {{account}} Konten, {{initial}} Anfangstransaktionen und {{transaction}} Transaktionen",
         "newBookName": "Neuer Buchname",
         "numberSeparators": {
@@ -354,6 +364,7 @@
     "noSelection": "Keine Auswahl",
     "noTransaction": "Keine Transaktionen verfügbar",
     "noTransactionTemplate": "Keine Transaktionsvorlage",
+    "options": "Optionen",
     "password": {
         "@": "Passwort",
         "again": "Passwort erneut eingeben",
@@ -397,6 +408,7 @@
             "hh:mm a": "12-Stunden:Minute AM/PM"
         }
     },
+    "preview": "Vorschau",
     "react-native-paper-dates": {
         "close": "Schließen",
         "dateIsDisabled": "Datum ist deaktiviert",
@@ -462,16 +474,18 @@
         "googleDriveManagement": "Google Drive Backup-Management",
         "home": "Startseite",
         "homeShortcutManagement": "Startbildschirm-Verknüpfungseinstellungen",
-        "preferencesPasswordReset": "Passwort zurücksetzen",
         "preferences": "Einstellungen",
         "preferencesAdvertisement": "Werbeeinstellungen",
         "preferencesBalanceAccountTypeOrder": "Reihenfolge der Bilanzkontotypen",
+        "preferencesBalanceSheet": "Bilanz-Einstellungen",
         "preferencesDateTime": "Datum- & Uhrzeiteinstellungen",
         "preferencesDisplay": "Anzeigeeinstellungen",
         "preferencesHomeScreen": "Startbildschirm-Einstellungen",
         "preferencesLanguages": "Spracheinstellungen",
         "preferencesPassword": "Passworteinstellung",
+        "preferencesPasswordReset": "Passwort zurücksetzen",
         "preferencesSecurity": "Sicherheitseinstellung",
+        "preferencesTransactionList": "Transaktionseinstellungen",
         "quickViewChartManagement": "Saldo-Diagramm Schnellansicht-Einstellungen",
         "quickViewSheetManagement": "Bilanz Schnellansicht-Einstellungen",
         "transactionList": "Transaktionen",
@@ -562,6 +576,7 @@
         "restoreDatabase": "Datenbank wiederherstellen",
         "restoreImport": "Wiederherstellen und importieren",
         "scheduleExpired": "Zeitplan abgelaufen",
+        "selectEncoding": "Kodierung auswählen",
         "selectNumberSeparators": "Zahlen-Trennzeichen auswählen",
         "selecteQuickViewMode": "Schnellansichtsmodus auswählen",
         "setPassword": "Passwort festlegen",
@@ -579,12 +594,20 @@
     "transaction": {
         "@": "Transaktion",
         "compactList": "Kompakte Liste",
+        "compactListHint": "Entfernen Sie einige Informationen und reduzieren Sie den Abstand zwischen Texten, um mehr Elemente in der Transaktionsliste anzuzeigen",
         "depositAccount": "Einzahlungskonto",
         "depositAccountHint": "Konto für die Einzahlung",
         "depositAccountType": "Eingangsart",
         "depositBook": "Eingangsbuch",
+        "depositFirst": "Zuerst Einzahlung",
+        "depositFirstHint": "Einzahlungselemente werden zuerst angezeigt (Kontoname links), und Abhebungselemente werden später angezeigt (Kontoname rechts)",
         "depositValue": "Einzahlungsbetrag",
         "depositValueHint": "Dieser Betrag wird dem Einzahlungskonto gutgeschrieben",
+        "example": {
+            "bank2Credit": "Kreditkartenabrechnung für einen bestimmten Monat bezahlt, einschließlich einer $200 Fremdwährungsgebühr",
+            "credit2Entertainment": "PS5 und einige Spiele bei Amazon als Geburtstagsgeschenk für meinen besten Freund gekauft",
+            "salaryToBank": "Gehalt für einen bestimmten Monat"
+        },
         "initAccount": "Anfangskonto",
         "initAccountHint": "Konto für Auszahlung oder Einzahlung",
         "initValue": "Anfangsbetrag",
@@ -596,6 +619,8 @@
             "initial": "Anfang"
         },
         "note": "Notiz",
+        "noteBeforeBody": "Notiz vor Details",
+        "noteBeforeBodyHint": "Notizen werden vor den Einzahlungs- und Abhebungsinformationen der Transaktion angezeigt",
         "noteHint": "Notiz für die Transaktion, Länge 0 - 1024 Zeichen",
         "transDate": "Datum",
         "transDatetime": "Datum und Uhrzeit",
