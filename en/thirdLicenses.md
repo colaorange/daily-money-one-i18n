@@ -17,7 +17,6 @@ This application is developed using the following libraries, and their license d
  * base-x
  * browser-util-inspect
  * expo
- * expo-background-fetch
  * expo-document-picker
  * expo-haptics
  * expo-notifications
