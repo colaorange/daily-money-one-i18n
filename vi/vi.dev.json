@@ -1,2 +1,41 @@
 {
+    "screen": {
+        "preferencesTransactionList": "Cài đặt danh sách giao dịch",
+        "preferencesBalanceSheet": "Cài đặt bảng cân đối"
+    },
+    "title": {
+        "selectEncoding": "Chọn mã hóa"
+    },
+    "transaction": {
+        "depositFirst": "Nạp tiền trước",
+        "noteBeforeBody": "Ghi chú trước chi tiết",
+        "compactListHint": "Loại bỏ một số thông tin và giảm khoảng cách giữa các văn bản để hiển thị nhiều mục hơn trong danh sách giao dịch",
+        "depositFirstHint": "Các mục nạp tiền được hiển thị trước (tên tài khoản ở bên trái), và các mục rút tiền được hiển thị sau (tên tài khoản ở bên phải)",
+        "noteBeforeBodyHint": "Ghi chú được hiển thị trước thông tin nạp tiền và rút tiền của giao dịch",
+        "example": {
+            "salaryToBank": "Lương cho một tháng cụ thể",
+            "credit2Entertainment": "Mua PS5 và một số trò chơi trên Amazon làm quà sinh nhật cho bạn thân",
+            "bank2Credit": "Thanh toán hóa đơn thẻ tín dụng cho một tháng cụ thể, bao gồm phí giao dịch nước ngoài $200"
+        }
+    },
+    "account": {
+        "hidden": "Ẩn",
+        "hiddenHint": "Ẩn tài khoản này để nó không xuất hiện khi thêm hoặc chỉnh sửa giao dịch. Tuy nhiên, nếu tài khoản này có trong các giao dịch trong khoảng thời gian đã chọn và số dư không phải là số không, nó vẫn sẽ xuất hiện trên bảng cân đối và biểu đồ. Thường thiết lập cho các tài khoản cũ không còn sử dụng."
+    },
+    "balance": {
+        "compactSheetHint": "Giảm khoảng cách giữa các văn bản để hiển thị nhiều mục hơn trên bảng cân đối",
+        "hideEmptyHint": "Ẩn các mục không có giao dịch trong kỳ, nhưng không ẩn các mục có mục nhập mà số dư cuối cùng là số không",
+        "fixFractionDigits": "Cố định số chữ số thập phân",
+        "fixFractionDigitsHint": "Đặt số chữ số thập phân tối thiểu theo cài đặt thập phân của sổ sách. Các số không trong phần thập phân sẽ không bị loại bỏ, giúp dễ dàng căn chỉnh và so sánh hơn"
+    },
+    "csvImport": {
+        "fileEncoding": "Mã hóa tệp",
+        "fileEncodingHint": "Mã hóa của tệp CSV, mặc định là UTF-8. Nếu bạn đã chỉnh sửa các tệp này trên máy tính của mình hoặc đã đặt mã hóa khác trong Daily Money+ (có thể được xác nhận trong Tùy chọn Nhà phát triển), vui lòng chọn mã hóa tương ứng ở đây; nếu không, tệp CSV có thể không được đọc đúng."
+    },
+    "options": "Tùy chọn",
+    "preview": "Xem trước",
+    "action": {
+        "reportAndExit": "Báo cáo & Thoát",
+        "tryAgain": "Thử lại"
+    }
 }

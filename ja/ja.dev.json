@@ -1,2 +1,41 @@
 {
+    "screen": {
+        "preferencesTransactionList": "取引リスト設定",
+        "preferencesBalanceSheet": "貸借対照表設定"
+    },
+    "title": {
+        "selectEncoding": "エンコーディングの選択"
+    },
+    "transaction": {
+        "depositFirst": "入金を優先",
+        "noteBeforeBody": "詳細の前にメモ",
+        "compactListHint": "取引リストに表示する項目を増やすために、テキスト間のスペースを削減し、いくつかの情報を削除します",
+        "depositFirstHint": "入金項目が最初に表示され（左側に口座名）、引出項目が後に表示されます（右側に口座名）",
+        "noteBeforeBodyHint": "メモは取引の入出金情報の前に表示されます",
+        "example": {
+            "salaryToBank": "特定の月の給与",
+            "credit2Entertainment": "Amazonで友人の誕生日プレゼントとしてPS5とゲームを購入",
+            "bank2Credit": "特定の月のクレジットカード請求を支払い、$200の海外取引手数料を含む"
+        }
+    },
+    "account": {
+        "hidden": "非表示",
+        "hiddenHint": "この口座を非表示にして、取引の追加や編集時に表示されないようにします。ただし、この口座が選択した期間内の取引に含まれており、残高がゼロでない場合、貸借対照表やチャートには表示されます。通常、使用されなくなった古い口座に設定されます。"
+    },
+    "balance": {
+        "compactSheetHint": "貸借対照表に表示される項目を増やすために、テキスト間のスペースを削減します",
+        "hideEmptyHint": "期間内に取引のない項目を非表示にしますが、最終残高がゼロのエントリがある項目は非表示にしません",
+        "fixFractionDigits": "小数点以下の桁数を固定",
+        "fixFractionDigitsHint": "帳簿の小数設定に従って最小小数桁を設定します。小数点以下のゼロは省略されず、整列や比較がしやすくなります"
+    },
+    "csvImport": {
+        "fileEncoding": "ファイルエンコーディング",
+        "fileEncodingHint": "CSVファイルのエンコーディングで、デフォルトはUTF-8です。これらのファイルをコンピュータで編集した場合、またはDaily Money+で異なるエンコーディングを設定した場合（開発者オプションで確認できます）、ここで対応するエンコーディングを選択してください。そうしないと、CSVが正しく読み込まれない可能性があります。"
+    },
+    "options": "オプション",
+    "preview": "プレビュー",
+    "action": {
+        "reportAndExit": "レポートして終了",
+        "tryAgain": "再試行"
+    }
 }

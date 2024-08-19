@@ -4,6 +4,11 @@ Hai domande o richieste di funzionalità? Unisciti al [gruppo di fan su Facebook
 
 ## Cosa c'è di nuovo
 
+### Nella Versione 1.5.0
+* [Impostare il layout per l'elenco delle transazioni](https://youtu.be/TzQj2pY6sWs): Puoi impostare la visualizzazione delle transazioni per dare priorità ai depositi o ai prelievi per primi (impostazione predefinita, se disattivata), e puoi anche scegliere se la nota deve essere posizionata sopra o sotto (impostazione predefinita, se disattivata) i dettagli.
+* [Nascondere vecchi account che non sono più necessari](https://youtu.be/nKq7Mh_2nQA): Hai accumulato molti vecchi account nella tua lista che non sono più in uso? Usa la funzione di nascondere per evitare che interferiscano con le tue selezioni e operazioni.
+* Il bilancio supporta cifre decimali fisse e gli zeri finali non verranno omessi, rendendo più facile l'allineamento e il confronto.
+
 ### Nella Versione 1.4.0
 * [Modello per Transazioni Programmate Ricorrenti](https://youtu.be/TzQj2pY6sWs): Oltre a rendere comodo il monitoraggio delle tue spese, questo modello include anche funzionalità per programmi e promemoria ricorrenti. È una funzione pratica e premurosa per i pagamenti automatici con carta di credito o le tasse annuali.
 * [Proteggi il tuo libro contabile con una password](https://youtu.be/peoYqNG_4pk): Hai paura che altri possano sbirciare nel tuo libro contabile? Con la nuova funzione di password abilitata, il tuo libro contabile sarà protetto da una password ogni volta che viene aperto. Puoi anche impostare con quale frequenza la password deve essere inserita.

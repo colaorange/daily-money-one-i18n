@@ -5,6 +5,11 @@ Tem perguntas ou solicitações de funcionalidades? Junte-se ao [grupo de fãs n
 
 ## O Que Há de Novo
 
+### Na Versão 1.5.0
+* [Definir o layout para a lista de transações](https://youtu.be/TzQj2pY6sWs): Você pode configurar a exibição das transações para priorizar primeiro os depósitos ou primeiro os saques (padrão, se desativado), e também pode escolher se a nota deve ser posicionada acima ou abaixo (padrão, se desativado) dos detalhes.
+* [Ocultar contas antigas que não são mais necessárias](https://youtu.be/nKq7Mh_2nQA): Você acumulou muitas contas antigas na sua lista de contas que não estão mais em uso? Use a função de ocultar para evitar que interfiram na sua seleção e operações.
+* O balanço patrimonial suporta casas decimais fixas, e os zeros à direita não serão omitidos, facilitando o alinhamento e a comparação.
+
 ### Na Versão 1.4.0
 * [Modelo para Transações Agendadas Recorrentes](https://youtu.be/TzQj2pY6sWs): Além de facilitar o acompanhamento de suas despesas, este modelo também inclui recursos para agendamentos recorrentes e lembretes. É um recurso prático e útil para pagamentos automáticos de cartões de crédito ou taxas anuais.
 * [Proteja seu livro-caixa com uma senha](https://youtu.be/peoYqNG_4pk): Tem medo de que outras pessoas possam espiar seu livro-caixa? Com o novo recurso de senha ativado, seu livro-caixa estará protegido por uma senha sempre que for aberto. Você também pode definir a frequência com que a senha precisa ser inserida.

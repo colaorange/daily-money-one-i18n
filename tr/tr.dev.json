@@ -1,2 +1,41 @@
 {
+    "screen": {
+        "preferencesTransactionList": "İşlem Listesi Ayarları",
+        "preferencesBalanceSheet": "Bilanço Ayarları"
+    },
+    "title": {
+        "selectEncoding": "Kodlamayı Seç"
+    },
+    "transaction": {
+        "depositFirst": "Önce Yatır",
+        "noteBeforeBody": "Ayrıntılardan Önce Not",
+        "compactListHint": "İşlem listesinde daha fazla öğe görüntülemek için bazı bilgileri kaldırın ve metinler arasındaki boşluğu azaltın",
+        "depositFirstHint": "Yatırım öğeleri önce (hesap adı solda), çekim öğeleri ise sonra (hesap adı sağda) gösterilir",
+        "noteBeforeBodyHint": "Notlar, işlem yatırma ve çekim bilgilerinden önce görüntülenir",
+        "example": {
+            "salaryToBank": "Belirli bir ay için maaş",
+            "credit2Entertainment": "En iyi arkadaşımın doğum günü hediyesi olarak Amazon'dan bir PS5 ve bazı oyunlar aldım",
+            "bank2Credit": "Belirli bir ay için kredi kartı faturasını ödedim, 200$'lık yabancı işlem ücreti dahil"
+        }
+    },
+    "account": {
+        "hidden": "Gizli",
+        "hiddenHint": "Bu hesabı gizleyin, böylece işlem eklerken veya düzenlerken görünmesin. Ancak, bu hesap seçili tarih aralığında işlemlerde yer alıyorsa ve bakiyesi sıfır değilse, yine de bilançoda ve grafiklerde görünecektir. Bu genellikle artık kullanılmayan eski hesaplar için ayarlanır."
+    },
+    "balance": {
+        "compactSheetHint": "Bilançoda daha fazla öğe görüntülemek için metinler arasındaki boşluğu azaltın",
+        "hideEmptyHint": "Dönem içinde işlem bulunmayan öğeleri gizleyin, ancak nihai bakiyesi sıfır olan girişlerin bulunduğu öğeleri gizlemedik",
+        "fixFractionDigits": "Ondalık Basamakları Sabitle",
+        "fixFractionDigitsHint": "Kitabın ondalık ayarlarına göre minimum ondalık basamakları ayarlayın. Ondalık kısımlardaki sıfırlar kaldırılmayacak, bu da hizalamayı ve karşılaştırmayı kolaylaştırır"
+    },
+    "csvImport": {
+        "fileEncoding": "Dosya Kodlaması",
+        "fileEncodingHint": "CSV dosyasının kodlaması, varsayılan olarak UTF-8'dir. Bu dosyaları bilgisayarınızda düzenlediyseniz veya Daily Money+'da farklı bir kodlama ayarladıysanız (Geliştirici Seçeneklerinde doğrulanabilir), burada ilgili kodlamayı seçin; aksi takdirde, CSV doğru okunmayabilir."
+    },
+    "options": "Seçenekler",
+    "preview": "Önizleme",
+    "action": {
+        "reportAndExit": "Rapor Et ve Çık",
+        "tryAgain": "Tekrar Dene"
+    }
 }

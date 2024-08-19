@@ -1,2 +1,41 @@
 {
+    "screen": {
+        "preferencesTransactionList": "账目列表设置",
+        "preferencesBalanceSheet": "资产负债表设置"
+    },
+    "title": {
+        "selectEncoding": "选择编码"
+    },
+    "transaction": {
+        "depositFirst": "转入优先",
+        "noteBeforeBody": "注解在前",
+        "compactListHint": "减少部分信息及文字间的间距，让账目列表显示更多的项目",
+        "depositFirstHint": "转入项目显示在前（账户名称在左边），转出项目在后（账户名称在右）",
+        "noteBeforeBodyHint": "注解显示在交易转出转入信息之前",
+        "example": {
+            "salaryToBank": "某月薪水",
+            "credit2Entertainment": "在亚马逊买了PS5和一些游戏，作为最好朋友的生日礼物",
+            "bank2Credit": "支付某月的信用卡账单，其中包括200元的外币交易手续费"
+        }
+    },
+    "account": {
+        "hidden": "隐藏",
+        "hiddenHint": "隐藏此账户，使其不在新增或编辑账目时显示。但在资产负债表及图表中，如果计算区间的账目中包含了此账户，且合计不为零，则仍会显示在资产负债中。通常设置于已经不再使用的旧账户"
+    },
+    "balance": {
+        "compactSheetHint": "减少文字间的间距，让资产负债表显示更多的项目",
+        "hideEmptyHint": "隐藏在区间内没有账目的项目，并不会隐藏有账目但最后总和为零的项目",
+        "fixFractionDigits": "固定小数点位数",
+        "fixFractionDigitsHint": "依账本的小数点位数设置，设置最小位数。为零的小数不会被省去，更容易对齐比较"
+    },
+    "csvImport": {
+        "fileEncoding": "文件编码",
+        "fileEncodingHint": "CSV文件的编码，默认为UTF-8。如果您曾在电脑中编辑过这些文件，或是在Daily Money中设置为其他编码（可以在开发者选项中确认），请在此选择对应的编码，否则可能无法正确读取CSV。简体中文用户若读取结果为乱码，可以尝试选择GBK编码"
+    },
+    "options": "选项",
+    "preview": "预览",
+    "action": {
+        "reportAndExit": "回报并结束",
+        "tryAgain": "再试一次"
+    }
 }

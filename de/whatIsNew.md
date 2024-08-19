@@ -5,6 +5,11 @@ Hast du Fragen oder Funktionswünsche? Trete der [Facebook-Fangruppe](https://ww
 
 ## Was ist neu
 
+### In Version 1.5.0
+* [Layout für die Transaktionsliste festlegen](https://youtu.be/TzQj2pY6sWs): Sie können die Anzeige von Transaktionen so einstellen, dass Einzahlungen zuerst oder Auszahlungen zuerst (Standard, wenn deaktiviert) priorisiert werden. Sie können auch wählen, ob die Notiz über oder unter (Standard, wenn deaktiviert) den Details positioniert werden soll.
+* [Alte Konten ausblenden, die nicht mehr benötigt werden](https://youtu.be/nKq7Mh_2nQA): Haben Sie viele alte Konten in Ihrer Kontoliste, die nicht mehr verwendet werden? Verwenden Sie die Ausblenden-Funktion, um zu verhindern, dass sie Ihre Auswahl und Vorgänge stören.
+* Die Bilanz unterstützt feste Dezimalstellen, und nachgestellte Nullen werden nicht weggelassen, was die Ausrichtung und den Vergleich erleichtert.
+
 ### In Version 1.4.0
 * [Vorlage für wiederkehrende geplante Transaktionen](https://youtu.be/TzQj2pY6sWs): Neben der bequemen Nachverfolgung deiner Ausgaben umfasst diese Vorlage auch Funktionen für wiederkehrende Zeitpläne und Erinnerungen. Es ist eine praktische und durchdachte Funktion für automatische Kreditkartenzahlungen oder Jahresgebühren.
 * [Schütze dein Kassenbuch mit einem Passwort](https://youtu.be/peoYqNG_4pk): Hast du Angst, dass andere in dein Kassenbuch schauen könnten? Mit der neuen Passwortfunktion wird dein Kassenbuch beim Öffnen durch ein Passwort geschützt. Du kannst auch festlegen, wie oft das Passwort eingegeben werden muss.
