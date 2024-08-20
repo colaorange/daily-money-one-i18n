@@ -1,6 +1,8 @@
 {
     "account": {
         "@": "Tài Khoản",
+        "hidden": "Ẩn",
+        "hiddenHint": "Ẩn tài khoản này để nó không xuất hiện khi thêm hoặc chỉnh sửa giao dịch. Tuy nhiên, nếu tài khoản này có trong các giao dịch trong khoảng thời gian đã chọn và số dư không phải là số không, nó vẫn sẽ xuất hiện trên bảng cân đối và biểu đồ. Thường thiết lập cho các tài khoản cũ không còn sử dụng.",
         "name": "Tên",
         "nameHint": "Tên của tài khoản, độ dài từ 1 - 256 ký tự, sử dụng '.' cho phân loại phân cấp khi tóm tắt",
         "note": "Ghi Chú",
@@ -45,6 +47,7 @@
         "newTransactionTemplate": "Tạo Mẫu Giao Dịch",
         "ok": "OK",
         "remove": "Gỡ Bỏ",
+        "reportAndExit": "Báo cáo & Thoát",
         "requestStoragePermission": "Yêu Cầu Quyền Truy Cập Lưu Trữ",
         "reset": "Đặt Lại",
         "restart": "Khởi động lại",
@@ -61,6 +64,7 @@
         "startToRestoreDatabase": "Bắt Đầu Khôi Phục Cơ Sở Dữ Liệu",
         "takeBreak": "Nghỉ Giải Lao",
         "trash": "Thùng Rác",
+        "tryAgain": "Thử lại",
         "update": "Cập Nhật"
     },
     "ads": {
@@ -93,7 +97,11 @@
         "@": "Số Dư",
         "amount": "Số tiền",
         "compactSheet": "Bảng Tóm Tắt",
+        "compactSheetHint": "Giảm khoảng cách giữa các văn bản để hiển thị nhiều mục hơn trên bảng cân đối",
+        "fixFractionDigits": "Cố định số chữ số thập phân",
+        "fixFractionDigitsHint": "Đặt số chữ số thập phân tối thiểu theo cài đặt thập phân của sổ sách. Các số không trong phần thập phân sẽ không bị loại bỏ, giúp dễ dàng căn chỉnh và so sánh hơn",
         "hideEmpty": "Ẩn trống",
+        "hideEmptyHint": "Ẩn các mục không có giao dịch trong kỳ, nhưng không ẩn các mục có mục nhập mà số dư cuối cùng là số không",
         "mode": {
             "monthly": "Hàng Tháng",
             "until": "Đến",
@@ -136,6 +144,8 @@
     "csvImport": {
         "accountToCreate": "Tổng cộng {{size}} tài khoản sẽ được tạo",
         "confirmImport": "Nhập khẩu có thể mất một chút thời gian tùy thuộc vào kích thước dữ liệu. Bạn có chắc chắn muốn nhập CSV ngay bây giờ không?",
+        "fileEncoding": "Mã hóa tệp",
+        "fileEncodingHint": "Mã hóa của tệp CSV, mặc định là UTF-8. Nếu bạn đã chỉnh sửa các tệp này trên máy tính của mình hoặc đã đặt mã hóa khác trong Daily Money+ (có thể được xác nhận trong Tùy chọn Nhà phát triển), vui lòng chọn mã hóa tương ứng ở đây; nếu không, tệp CSV có thể không được đọc đúng.",
         "importCompleted": "Đã nhập thành công sổ mới {{book}}, với {{account}} tài khoản, {{initial}} giao dịch ban đầu, và {{transaction}} giao dịch",
         "newBookName": "Tên Sổ Mới",
         "numberSeparators": {
@@ -354,6 +364,7 @@
     "noSelection": "Không có lựa chọn",
     "noTransaction": "Không có giao dịch nào",
     "noTransactionTemplate": "Không Có Mẫu Giao Dịch",
+    "options": "Tùy chọn",
     "password": {
         "@": "Mật khẩu",
         "again": "Nhập lại mật khẩu",
@@ -397,6 +408,7 @@
             "hh:mm a": "12-Giờ:Phút AM/PM"
         }
     },
+    "preview": "Xem trước",
     "react-native-paper-dates": {
         "close": "Đóng",
         "dateIsDisabled": "Ngày bị vô hiệu",
@@ -462,16 +474,18 @@
         "googleDriveManagement": "Quản Lý Sao Lưu Google Drive",
         "home": "Trang Chủ",
         "homeShortcutManagement": "Cài Đặt Lối Tắt Màn Hình Chính",
-        "preferencesPasswordReset": "Đặt lại mật khẩu",
         "preferences": "Tùy Chọn",
         "preferencesAdvertisement": "Cài Đặt Quảng Cáo",
         "preferencesBalanceAccountTypeOrder": "Thứ tự các loại tài khoản cân đối",
+        "preferencesBalanceSheet": "Cài đặt bảng cân đối",
         "preferencesDateTime": "Cài Đặt Ngày Giờ",
         "preferencesDisplay": "Cài Đặt Hiển Thị",
         "preferencesHomeScreen": "Cài Đặt Màn Hình Chính",
         "preferencesLanguages": "Cài Đặt Ngôn Ngữ",
         "preferencesPassword": "Cài đặt mật khẩu",
+        "preferencesPasswordReset": "Đặt lại mật khẩu",
         "preferencesSecurity": "Cài đặt bảo mật",
+        "preferencesTransactionList": "Cài đặt danh sách giao dịch",
         "quickViewChartManagement": "Cài Đặt Xem Nhanh Biểu Đồ Số Dư",
         "quickViewSheetManagement": "Cài Đặt Xem Nhanh Bảng Cân Đối",
         "transactionList": "Danh Sách Giao Dịch",
@@ -562,6 +576,7 @@
         "restoreDatabase": "Khôi Phục Cơ Sở Dữ Liệu",
         "restoreImport": "Khôi Phục và Nhập",
         "scheduleExpired": "Lịch đã hết hạn",
+        "selectEncoding": "Chọn mã hóa",
         "selectNumberSeparators": "Chọn dấu phân cách số",
         "selecteQuickViewMode": "Chọn Chế Độ Xem Nhanh",
         "setPassword": "Thiết lập mật khẩu",
@@ -579,12 +594,20 @@
     "transaction": {
         "@": "Giao Dịch",
         "compactList": "Danh sách gọn",
+        "compactListHint": "Loại bỏ một số thông tin và giảm khoảng cách giữa các văn bản để hiển thị nhiều mục hơn trong danh sách giao dịch",
         "depositAccount": "Tài Khoản Chuyển Vào",
         "depositAccountHint": "Tài khoản cho chuyển vào",
         "depositAccountType": "Loại tài khoản chuyển vào",
         "depositBook": "Sổ chuyển vào",
+        "depositFirst": "Nạp tiền trước",
+        "depositFirstHint": "Các mục nạp tiền được hiển thị trước (tên tài khoản ở bên trái), và các mục rút tiền được hiển thị sau (tên tài khoản ở bên phải)",
         "depositValue": "Số Tiền Chuyển Vào",
         "depositValueHint": "Số tiền này sẽ được thêm vào tài khoản chuyển vào",
+        "example": {
+            "bank2Credit": "Thanh toán hóa đơn thẻ tín dụng cho một tháng cụ thể, bao gồm phí giao dịch nước ngoài $200",
+            "credit2Entertainment": "Mua PS5 và một số trò chơi trên Amazon làm quà sinh nhật cho bạn thân",
+            "salaryToBank": "Lương cho một tháng cụ thể"
+        },
         "initAccount": "Tài Khoản Ban Đầu",
         "initAccountHint": "Tài khoản cho chuyển ra hoặc vào",
         "initValue": "Số Tiền Ban Đầu",
@@ -596,6 +619,8 @@
             "initial": "Ban Đầu"
         },
         "note": "Ghi Chú",
+        "noteBeforeBody": "Ghi chú trước chi tiết",
+        "noteBeforeBodyHint": "Ghi chú được hiển thị trước thông tin nạp tiền và rút tiền của giao dịch",
         "noteHint": "Ghi chú cho giao dịch, độ dài 0 - 1024 ký tự",
         "transDate": "Ngày",
         "transDatetime": "Ngày và Giờ",

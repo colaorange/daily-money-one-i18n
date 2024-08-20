@@ -4,6 +4,11 @@ Bạn có câu hỏi hoặc yêu cầu tính năng không? Tham gia [nhóm fan t
 
 ## Có gì mới
 
+### Trong Phiên Bản 1.5.0
+* [Thiết lập bố cục cho danh sách giao dịch](https://youtu.be/TzQj2pY6sWs): Bạn có thể thiết lập hiển thị giao dịch để ưu tiên tiền gửi trước hoặc rút tiền trước (mặc định, nếu tắt), và bạn cũng có thể chọn liệu ghi chú nên được đặt ở trên hoặc dưới (mặc định, nếu tắt) các chi tiết.
+* [Ẩn các tài khoản cũ không còn cần thiết](https://youtu.be/nKq7Mh_2nQA): Bạn có nhiều tài khoản cũ trong danh sách tài khoản của mình không còn sử dụng? Sử dụng tính năng ẩn để ngăn chúng làm rối tung các lựa chọn và thao tác của bạn.
+* Bảng cân đối kế toán hỗ trợ số thập phân cố định, và các số 0 ở cuối sẽ không bị bỏ qua, giúp việc căn chỉnh và so sánh dễ dàng hơn.
+
 ### Trong Phiên Bản 1.4.0
 * [Template for Recurring Scheduled Transactions](https://youtu.be/TzQj2pY6sWs): Ngoài việc giúp bạn tiện lợi theo dõi chi tiêu, mẫu này còn bao gồm các tính năng cho lịch trình định kỳ và nhắc nhở. Đây là một tính năng hữu ích và chu đáo cho các khoản thanh toán thẻ tín dụng tự động hoặc phí hàng năm.
 * [Bảo vệ sổ tài khoản của bạn bằng mật khẩu](https://youtu.be/peoYqNG_4pk): Bạn có lo sợ người khác có thể nhìn trộm vào sổ tài khoản của bạn không? Với tính năng mật khẩu mới được kích hoạt, sổ tài khoản của bạn sẽ được bảo vệ bằng mật khẩu mỗi khi mở. Bạn cũng có thể đặt tần suất nhập mật khẩu.

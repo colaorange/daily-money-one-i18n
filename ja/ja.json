@@ -1,6 +1,8 @@
 {
     "account": {
         "@": "アカウント",
+        "hidden": "非表示",
+        "hiddenHint": "この口座を非表示にして、取引の追加や編集時に表示されないようにします。ただし、この口座が選択した期間内の取引に含まれており、残高がゼロでない場合、貸借対照表やチャートには表示されます。通常、使用されなくなった古い口座に設定されます。",
         "name": "名前",
         "nameHint": "アカウントの名前、長さ1 - 256文字、階層的分類には '.' を使用して要約時に使用",
         "note": "メモ",
@@ -45,6 +47,7 @@
         "newTransactionTemplate": "テンプレートを作成",
         "ok": "OK",
         "remove": "削除",
+        "reportAndExit": "レポートして終了",
         "requestStoragePermission": "ストレージアクセス許可の要求",
         "reset": "リセット",
         "restart": "再起動",
@@ -61,6 +64,7 @@
         "startToRestoreDatabase": "データベースの復元を開始",
         "takeBreak": "休憩",
         "trash": "ゴミ箱",
+        "tryAgain": "再試行",
         "update": "更新"
     },
     "ads": {
@@ -93,7 +97,11 @@
         "@": "残高",
         "amount": "金額",
         "compactSheet": "コンパクトシート",
+        "compactSheetHint": "貸借対照表に表示される項目を増やすために、テキスト間のスペースを削減します",
+        "fixFractionDigits": "小数点以下の桁数を固定",
+        "fixFractionDigitsHint": "帳簿の小数設定に従って最小小数桁を設定します。小数点以下のゼロは省略されず、整列や比較がしやすくなります",
         "hideEmpty": "空を隠す",
+        "hideEmptyHint": "期間内に取引のない項目を非表示にしますが、最終残高がゼロのエントリがある項目は非表示にしません",
         "mode": {
             "monthly": "月次",
             "until": "まで",
@@ -136,6 +144,8 @@
     "csvImport": {
         "accountToCreate": "作成されるアカウントの合計 {{size}}",
         "confirmImport": "データサイズに応じて、インポートには時間がかかる場合があります。本当にCSVを今すぐインポートしますか？",
+        "fileEncoding": "ファイルエンコーディング",
+        "fileEncodingHint": "CSVファイルのエンコーディングで、デフォルトはUTF-8です。これらのファイルをコンピュータで編集した場合、またはDaily Money+で異なるエンコーディングを設定した場合（開発者オプションで確認できます）、ここで対応するエンコーディングを選択してください。そうしないと、CSVが正しく読み込まれない可能性があります。",
         "importCompleted": "新しい帳簿 {{book}} が正常にインポートされました。{{account}} アカウント、{{initial}} 初期取引、{{transaction}} 取引",
         "newBookName": "新しい帳簿の名前",
         "numberSeparators": {
@@ -354,6 +364,7 @@
     "noSelection": "選択なし",
     "noTransaction": "利用可能な取引はありません",
     "noTransactionTemplate": "取引テンプレートなし",
+    "options": "オプション",
     "password": {
         "@": "パスワード",
         "again": "パスワードを再入力",
@@ -397,6 +408,7 @@
             "hh:mm a": "12時間：分 AM/PM"
         }
     },
+    "preview": "プレビュー",
     "react-native-paper-dates": {
         "close": "閉じる",
         "dateIsDisabled": "日付が無効です",
@@ -462,16 +474,18 @@
         "googleDriveManagement": "Google Driveバックアップ管理",
         "home": "ホーム",
         "homeShortcutManagement": "ホーム画面ショートカット設定",
-        "preferencesPasswordReset": "パスワードリセット",
         "preferences": "設定",
         "preferencesAdvertisement": "広告設定",
         "preferencesBalanceAccountTypeOrder": "残高口座タイプの順序",
+        "preferencesBalanceSheet": "貸借対照表設定",
         "preferencesDateTime": "日付と時刻の設定",
         "preferencesDisplay": "表示設定",
         "preferencesHomeScreen": "ホーム画面設定",
         "preferencesLanguages": "言語設定",
         "preferencesPassword": "パスワード設定",
+        "preferencesPasswordReset": "パスワードリセット",
         "preferencesSecurity": "セキュリティ設定",
+        "preferencesTransactionList": "取引リスト設定",
         "quickViewChartManagement": "残高チャートクイックビュー設定",
         "quickViewSheetManagement": "残高シートクイックビュー設定",
         "transactionList": "取引",
@@ -562,6 +576,7 @@
         "restoreDatabase": "データベースを復元",
         "restoreImport": "復元とインポート",
         "scheduleExpired": "スケジュールの期限が切れました",
+        "selectEncoding": "エンコーディングの選択",
         "selectNumberSeparators": "数字の区切りを選択",
         "selecteQuickViewMode": "クイックビューのモードを選択",
         "setPassword": "パスワード設定",
@@ -579,12 +594,20 @@
     "transaction": {
         "@": "取引",
         "compactList": "コンパクトリスト",
+        "compactListHint": "取引リストに表示する項目を増やすために、テキスト間のスペースを削減し、いくつかの情報を削除します",
         "depositAccount": "振替入金アカウント",
         "depositAccountHint": "振替入金のアカウント",
         "depositAccountType": "入金タイプ",
         "depositBook": "入金帳簿",
+        "depositFirst": "入金を優先",
+        "depositFirstHint": "入金項目が最初に表示され（左側に口座名）、引出項目が後に表示されます（右側に口座名）",
         "depositValue": "振替入金金額",
         "depositValueHint": "この金額が振替入金アカウントに追加されます",
+        "example": {
+            "bank2Credit": "特定の月のクレジットカード請求を支払い、$200の海外取引手数料を含む",
+            "credit2Entertainment": "Amazonで友人の誕生日プレゼントとしてPS5とゲームを購入",
+            "salaryToBank": "特定の月の給与"
+        },
         "initAccount": "初期アカウント",
         "initAccountHint": "振替出金または入金のアカウント",
         "initValue": "初期金額",
@@ -596,6 +619,8 @@
             "initial": "初期"
         },
         "note": "メモ",
+        "noteBeforeBody": "詳細の前にメモ",
+        "noteBeforeBodyHint": "メモは取引の入出金情報の前に表示されます",
         "noteHint": "取引のメモ、長さ0 - 1024文字",
         "transDate": "日付",
         "transDatetime": "日時",

@@ -4,6 +4,11 @@ Sorularınız veya özellik istekleriniz mi var? En son gelişmeleri almak için
 
 ## Yenilikler
 
+### Versiyon 1.5.0'da
+* [İşlem Listesi için Düzeni Ayarlama](https://youtu.be/TzQj2pY6sWs): İşlemlerin görüntülenmesini, öncelikli olarak para yatırma veya para çekme (kapalıysa varsayılan) olacak şekilde ayarlayabilirsiniz ve notun detayların üzerinde mi yoksa altında mı (kapalıysa varsayılan) yer alacağını seçebilirsiniz.
+* [Artık ihtiyaç duyulmayan eski hesapları gizle](https://youtu.be/nKq7Mh_2nQA): Hesap listenizde artık kullanılmayan birçok eski hesap biriktirdiniz mi? Seçimlerinizi ve işlemlerinizi karıştırmamaları için gizleme özelliğini kullanın.
+* Bilanço, sabit ondalık basamakları destekler ve son sıfırlar atlanmaz, bu da hizalamayı ve karşılaştırmayı kolaylaştırır.
+
 ### Versiyon 1.4.0'da
 * [Yinelenen Planlanmış İşlemler Şablonu](https://youtu.be/TzQj2pY6sWs): Giderlerinizi takip etmeyi kolaylaştırmanın yanı sıra, bu şablon yinelenen programlar ve hatırlatıcılar için özellikler içerir. Otomatik kredi kartı ödemeleri veya yıllık ücretler için pratik ve düşünceli bir özelliktir.
 * [Hesap defterinizi şifre ile koruyun](https://youtu.be/peoYqNG_4pk): Başkalarının hesap defterinizi gözetlemesinden mi korkuyorsunuz? Yeni şifre özelliği etkinleştirildiğinde, hesap defteriniz açıldığında bir şifre ile korunacaktır. Şifrenin ne sıklıkta girilmesi gerektiğini de ayarlayabilirsiniz.

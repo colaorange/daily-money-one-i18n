@@ -1,6 +1,8 @@
 {
     "account": {
         "@": "Conta",
+        "hidden": "Oculto",
+        "hiddenHint": "Oculte esta conta para que não apareça ao adicionar ou editar transações. No entanto, se esta conta estiver incluída em transações dentro do intervalo de datas selecionado e o saldo não for zero, ela ainda aparecerá na demonstração de resultados e gráficos. Geralmente, isso é configurado para contas antigas que não estão mais em uso.",
         "name": "Nome",
         "nameHint": "Nome da conta, comprimento de 1 a 256 caracteres, use '.' para categorização hierárquica ao resumir",
         "note": "Nota",
@@ -45,6 +47,7 @@
         "newTransactionTemplate": "Criar Template",
         "ok": "OK",
         "remove": "Remover",
+        "reportAndExit": "Relatar & Sair",
         "requestStoragePermission": "Solicitar Permissão de Acesso ao Armazenamento",
         "reset": "Redefinir",
         "restart": "Reiniciar",
@@ -61,6 +64,7 @@
         "startToRestoreDatabase": "Iniciar Restauração do Banco de Dados",
         "takeBreak": "Fazer uma Pausa",
         "trash": "Lixeira",
+        "tryAgain": "Tentar Novamente",
         "update": "Atualizar"
     },
     "ads": {
@@ -93,7 +97,11 @@
         "@": "Saldo",
         "amount": "Quantia",
         "compactSheet": "Planilha Compacta",
+        "compactSheetHint": "Reduza o espaçamento entre os textos para exibir mais itens na demonstração de resultados",
+        "fixFractionDigits": "Fixar casas decimais",
+        "fixFractionDigitsHint": "Defina o número mínimo de casas decimais de acordo com as configurações decimais do livro. Zeros nas casas decimais não serão omitidos, facilitando o alinhamento e a comparação",
         "hideEmpty": "Esconder Vazio",
+        "hideEmptyHint": "Ocultar itens sem transações no período, mas não ocultar itens com lançamentos onde o saldo final é zero",
         "mode": {
             "monthly": "Mensal",
             "until": "Até",
@@ -136,6 +144,8 @@
     "csvImport": {
         "accountToCreate": "Total de {{size}} conta(s) a ser(em) criada(s)",
         "confirmImport": "A importação pode levar algum tempo dependendo do tamanho dos dados. Tem certeza de que deseja importar o CSV agora?",
+        "fileEncoding": "Codificação do Arquivo",
+        "fileEncodingHint": "A codificação do arquivo CSV, com UTF-8 como padrão. Se você editou esses arquivos no seu computador ou configurou uma codificação diferente no Daily Money+ (que pode ser confirmada nas Opções de Desenvolvedor), selecione a codificação correspondente aqui; caso contrário, o CSV pode não ser lido corretamente.",
         "importCompleted": "Novo livro {{book}} importado com sucesso, com {{account}} contas, {{initial}} transações iniciais e {{transaction}} transações",
         "newBookName": "Nome do Novo Livro",
         "numberSeparators": {
@@ -354,6 +364,7 @@
     "noSelection": "Nenhuma seleção",
     "noTransaction": "Nenhuma transação disponível",
     "noTransactionTemplate": "Nenhum Template de Transação",
+    "options": "Opções",
     "password": {
         "@": "Senha",
         "again": "Reinsira a Senha",
@@ -397,6 +408,7 @@
             "hh:mm a": "12-Horas:Minutos AM/PM"
         }
     },
+    "preview": "Visualizar",
     "react-native-paper-dates": {
         "close": "Fechar",
         "dateIsDisabled": "Data desativada",
@@ -462,16 +474,18 @@
         "googleDriveManagement": "Gestão de Backup do Google Drive",
         "home": "Início",
         "homeShortcutManagement": "Configurações de Atalho da Tela Inicial",
-        "preferencesPasswordReset": "Redefinição de Senha",
         "preferences": "Preferências",
         "preferencesAdvertisement": "Configurações de Publicidade",
         "preferencesBalanceAccountTypeOrder": "Ordem dos Tipos de Conta de Saldo",
+        "preferencesBalanceSheet": "Configurações da Demonstração de Resultados",
         "preferencesDateTime": "Configurações de Data e Hora",
         "preferencesDisplay": "Configurações de Exibição",
         "preferencesHomeScreen": "Configurações da Tela Inicial",
         "preferencesLanguages": "Configurações de Idioma",
         "preferencesPassword": "Configuração de Senha",
+        "preferencesPasswordReset": "Redefinição de Senha",
         "preferencesSecurity": "Configuração de Segurança",
+        "preferencesTransactionList": "Configurações da Lista de Transações",
         "quickViewChartManagement": "Configurações de Visualização Rápida de Gráficos de Saldo",
         "quickViewSheetManagement": "Configurações de Visualização Rápida de Balanços Patrimoniais",
         "transactionList": "Transações",
@@ -562,6 +576,7 @@
         "restoreDatabase": "Restaurar Banco de Dados",
         "restoreImport": "Restaurar e Importar",
         "scheduleExpired": "Horário Expirado",
+        "selectEncoding": "Selecionar Codificação",
         "selectNumberSeparators": "Selecionar separadores de números",
         "selecteQuickViewMode": "Selecionar Modo de Visualização Rápida",
         "setPassword": "Definir Senha",
@@ -579,12 +594,20 @@
     "transaction": {
         "@": "Transação",
         "compactList": "Lista Compacta",
+        "compactListHint": "Remova algumas informações e reduza o espaçamento entre os textos para exibir mais itens na lista de transações",
         "depositAccount": "Conta de Transferência-entrada",
         "depositAccountHint": "Conta para a transferência de entrada",
         "depositAccountType": "Tipo de Transferência-Entrada",
         "depositBook": "Livro de Transferência-Entrada",
+        "depositFirst": "Depósito Primeiro",
+        "depositFirstHint": "Os itens de depósito são exibidos primeiro (nome da conta à esquerda), e os itens de retirada são exibidos posteriormente (nome da conta à direita)",
         "depositValue": "Valor da Transferência-entrada",
         "depositValueHint": "Este valor será adicionado à conta de transferência de entrada",
+        "example": {
+            "bank2Credit": "Paguei a fatura do cartão de crédito de um certo mês, incluindo uma taxa de transação estrangeira de $200",
+            "credit2Entertainment": "Comprei um PS5 e alguns jogos na Amazon como presente de aniversário para meu melhor amigo",
+            "salaryToBank": "Salário de um mês específico"
+        },
         "initAccount": "Conta Inicial",
         "initAccountHint": "Conta para transferência de saída ou entrada",
         "initValue": "Valor Inicial",
@@ -596,6 +619,8 @@
             "initial": "Inicial"
         },
         "note": "Nota",
+        "noteBeforeBody": "Nota Antes dos Detalhes",
+        "noteBeforeBodyHint": "Notas são exibidas antes das informações de depósito e retirada da transação",
         "noteHint": "Nota para a transação, comprimento de 0 a 1024 caracteres",
         "transDate": "Data",
         "transDatetime": "Data e Hora",

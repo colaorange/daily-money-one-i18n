@@ -1,6 +1,8 @@
 {
     "account": {
         "@": "계정",
+        "hidden": "숨김",
+        "hiddenHint": "이 계좌를 숨겨서 거래 추가 또는 편집 시 나타나지 않도록 합니다. 그러나 선택한 날짜 범위 내의 거래에 이 계좌가 포함되어 있고 잔액이 0이 아닌 경우, 대차대조표 및 차트에 여전히 나타납니다. 보통 더 이상 사용되지 않는 오래된 계좌에 설정됩니다.",
         "name": "이름",
         "nameHint": "계정 이름, 길이 1 - 256자, 요약할 때 계층적 분류를 위해 '.' 사용",
         "note": "노트",
@@ -45,6 +47,7 @@
         "newTransactionTemplate": "템플릿 생성",
         "ok": "확인",
         "remove": "제거",
+        "reportAndExit": "보고하고 종료",
         "requestStoragePermission": "스토리지 접근 권한 요청",
         "reset": "초기화",
         "restart": "다시 시작",
@@ -61,6 +64,7 @@
         "startToRestoreDatabase": "데이터베이스 복원 시작",
         "takeBreak": "휴식 취하기",
         "trash": "휴지통",
+        "tryAgain": "다시 시도",
         "update": "업데이트"
     },
     "ads": {
@@ -93,7 +97,11 @@
         "@": "잔액",
         "amount": "금액",
         "compactSheet": "컴팩트 시트",
+        "compactSheetHint": "대차대조표에 더 많은 항목을 표시하기 위해 텍스트 간격을 줄입니다",
+        "fixFractionDigits": "소수점 자리 고정",
+        "fixFractionDigitsHint": "책의 소수점 설정에 따라 최소 소수점 자리를 설정합니다. 소수점의 0은 생략되지 않으며, 정렬 및 비교가 더 쉬워집니다",
         "hideEmpty": "빈 항목 숨기기",
+        "hideEmptyHint": "기간 내 거래가 없는 항목을 숨기지만, 최종 잔액이 0인 항목은 숨기지 않습니다",
         "mode": {
             "monthly": "월별",
             "until": "까지",
@@ -136,6 +144,8 @@
     "csvImport": {
         "accountToCreate": "생성할 총 {{size}} 계정",
         "confirmImport": "데이터 크기에 따라 가져오기가 시간이 걸릴 수 있습니다. 지금 CSV를 가져오시겠습니까?",
+        "fileEncoding": "파일 인코딩",
+        "fileEncodingHint": "CSV 파일의 인코딩으로 기본값은 UTF-8입니다. 컴퓨터에서 이 파일을 편집했거나 Daily Money+에서 다른 인코딩을 설정한 경우(개발자 옵션에서 확인 가능), 해당 인코딩을 여기에서 선택하십시오. 그렇지 않으면 CSV를 제대로 읽지 못할 수 있습니다.",
         "importCompleted": "새 책 {{book}}를 성공적으로 가져왔습니다. {{account}} 계정, {{initial}} 초기 거래, {{transaction}} 거래",
         "newBookName": "새 책 이름",
         "numberSeparators": {
@@ -354,6 +364,7 @@
     "noSelection": "선택 없음",
     "noTransaction": "사용 가능한 거래 없음",
     "noTransactionTemplate": "거래 템플릿 없음",
+    "options": "옵션",
     "password": {
         "@": "비밀번호",
         "again": "비밀번호 다시 입력",
@@ -397,6 +408,7 @@
             "hh:mm a": "12시간:분 오전/오후"
         }
     },
+    "preview": "미리보기",
     "react-native-paper-dates": {
         "close": "닫기",
         "dateIsDisabled": "날짜가 비활성화됨",
@@ -462,16 +474,18 @@
         "googleDriveManagement": "Google Drive 백업 관리",
         "home": "홈",
         "homeShortcutManagement": "홈 화면 바로가기 설정",
-        "preferencesPasswordReset": "비밀번호 재설정",
         "preferences": "환경 설정",
         "preferencesAdvertisement": "광고 설정",
         "preferencesBalanceAccountTypeOrder": "잔액 계정 유형 순서",
+        "preferencesBalanceSheet": "대차대조표 설정",
         "preferencesDateTime": "날짜 및 시간 설정",
         "preferencesDisplay": "디스플레이 설정",
         "preferencesHomeScreen": "홈 화면 설정",
         "preferencesLanguages": "언어 설정",
         "preferencesPassword": "비밀번호 설정",
+        "preferencesPasswordReset": "비밀번호 재설정",
         "preferencesSecurity": "보안 설정",
+        "preferencesTransactionList": "거래 목록 설정",
         "quickViewChartManagement": "잔액 차트 빠른 보기 설정",
         "quickViewSheetManagement": "잔액 시트 빠른 보기 설정",
         "transactionList": "거래 목록",
@@ -562,6 +576,7 @@
         "restoreDatabase": "데이터베이스 복원",
         "restoreImport": "복원 및 가져오기",
         "scheduleExpired": "일정 만료됨",
+        "selectEncoding": "인코딩 선택",
         "selectNumberSeparators": "숫자 구분자 선택",
         "selecteQuickViewMode": "빠른 보기 모드 선택",
         "setPassword": "비밀번호 설정",
@@ -579,12 +594,20 @@
     "transaction": {
         "@": "거래",
         "compactList": "간편 목록",
+        "compactListHint": "거래 목록에 더 많은 항목을 표시하기 위해 일부 정보를 제거하고 텍스트 간의 간격을 줄입니다",
         "depositAccount": "입금 계좌",
         "depositAccountHint": "입금 계좌",
         "depositAccountType": "이체입금 유형",
         "depositBook": "이체입금 통장",
+        "depositFirst": "입금 우선",
+        "depositFirstHint": "입금 항목이 먼저 표시됩니다(왼쪽에 계좌 이름), 출금 항목은 나중에 표시됩니다(오른쪽에 계좌 이름)",
         "depositValue": "입금 금액",
         "depositValueHint": "이 금액이 입금 계좌에 추가됩니다",
+        "example": {
+            "bank2Credit": "특정 월의 신용카드 대금을 지불했으며, $200의 해외 거래 수수료가 포함되었습니다",
+            "credit2Entertainment": "생일 선물로 친구에게 Amazon에서 PS5와 몇 가지 게임을 구매했습니다",
+            "salaryToBank": "특정 월의 급여"
+        },
         "initAccount": "초기 계정",
         "initAccountHint": "입출금 계정",
         "initValue": "초기 금액",
@@ -596,6 +619,8 @@
             "initial": "초기"
         },
         "note": "노트",
+        "noteBeforeBody": "세부 사항 전 메모",
+        "noteBeforeBodyHint": "메모는 거래 입출금 정보 전에 표시됩니다",
         "noteHint": "거래에 대한 노트, 길이 0 - 1024자",
         "transDate": "날짜",
         "transDatetime": "날짜 및 시간",

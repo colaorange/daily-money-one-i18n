@@ -4,6 +4,11 @@
 
 ## Novedades
 
+### En la Versión 1.5.0
+* [Establecer el diseño de la lista de transacciones](https://youtu.be/TzQj2pY6sWs): Puedes configurar la visualización de las transacciones para priorizar primero los depósitos o primero los retiros (por defecto, si está desactivado), y también puedes elegir si la nota debe estar posicionada arriba o abajo (por defecto, si está desactivado) de los detalles.
+* [Ocultar cuentas antiguas que ya no se necesitan](https://youtu.be/nKq7Mh_2nQA): ¿Has acumulado muchas cuentas antiguas en tu lista de cuentas que ya no están en uso? Usa la función de ocultar para evitar que interfieran en tu selección y operaciones.
+* El balance general soporta decimales fijos, y los ceros finales no se omitirán, lo que facilita la alineación y la comparación.
+
 ### En la Versión 1.4.0
 * [Plantilla para Transacciones Programadas Recurrentes](https://youtu.be/TzQj2pY6sWs): Además de facilitar el seguimiento de tus gastos, esta plantilla también incluye características para horarios recurrentes y recordatorios. Es una característica práctica y pensada para pagos automáticos de tarjetas de crédito o tarifas anuales.
 * [Protege tu libro de cuentas con una contraseña](https://youtu.be/peoYqNG_4pk): ¿Tienes miedo de que otros puedan mirar tu libro de cuentas? Con la nueva función de contraseña habilitada, tu libro de cuentas estará protegido por una contraseña siempre que se abra. También puedes configurar la frecuencia con la que se debe ingresar la contraseña.

@@ -1,6 +1,8 @@
 {
     "account": {
         "@": "Account",
+        "hidden": "Hidden",
+        "hiddenHint": "Hide this account so that it does not appear when adding or editing transactions. However, if this account is included in transactions within the selected date range and the balance is not zero, it will still appear on the balance sheet and charts. This is usually set for old accounts that are no longer in use.",
         "name": "Name",
         "nameHint": "Name of the account, length 1 - 256 characters, use '.' for hierarchical categorization when summarizing",
         "note": "Note",
@@ -45,6 +47,7 @@
         "newTransactionTemplate": "Create Template",
         "ok": "OK",
         "remove": "Remove",
+        "reportAndExit": "Report & Exit",
         "requestStoragePermission": "Request Storage Access Permission",
         "reset": "Reset",
         "restart": "Restart",
@@ -61,6 +64,7 @@
         "startToRestoreDatabase": "Start Database Restoration",
         "takeBreak": "Take a Break",
         "trash": "Trash",
+        "tryAgain": "Try Again",
         "update": "Update"
     },
     "ads": {
@@ -93,7 +97,11 @@
         "@": "Balance",
         "amount": "Amount",
         "compactSheet": "Compact Sheet",
+        "compactSheetHint": "Reduce spacing between text to display more items on the balance sheet",
+        "fixFractionDigits": "Fix decimal places",
+        "fixFractionDigitsHint": "Set the minimum decimal places according to the book's decimal settings. Zeros in the decimals will not be omitted, making it easier to align and compare",
         "hideEmpty": "Hide Empty",
+        "hideEmptyHint": "Hide items without transaction in the period, but did not hide items with entries where the final balance is zero",
         "mode": {
             "monthly": "Monthly",
             "until": "Until",
@@ -136,6 +144,8 @@
     "csvImport": {
         "accountToCreate": "Total {{size}} account to be created",
         "confirmImport": "Importing may take some time depending on the data size. Are you sure you want to import the CSV now?",
+        "fileEncoding": "File Encoding",
+        "fileEncodingHint": "The encoding of the CSV file, with UTF-8 as the default. If you have edited these files on your computer, or have set a different encoding in Daily Money+ (which can be confirmed in Developer Options), please select the corresponding encoding here; otherwise, the CSV may not be read correctly.",
         "importCompleted": "Imported new book {{book}} successfully, with {{account}} accounts, {{initial}} initial transactions, and {{transaction}} transactions",
         "newBookName": "New Book Name",
         "numberSeparators": {
@@ -354,6 +364,7 @@
     "noSelection": "No selection",
     "noTransaction": "No transactions available",
     "noTransactionTemplate": "No Transaction Template",
+    "options": "Options",
     "password": {
         "@": "Password",
         "again": "Re-enter Password",
@@ -397,6 +408,7 @@
             "hh:mm a": "12-Hour:Minute AM/PM"
         }
     },
+    "preview": "Preview",
     "react-native-paper-dates": {
         "close": "Close",
         "dateIsDisabled": "Date is disabled",
@@ -462,16 +474,18 @@
         "googleDriveManagement": "Google Drive Backup Management",
         "home": "Home",
         "homeShortcutManagement": "Home Screen Shortcut Settings",
-        "preferencesPasswordReset": "Password Reset",
         "preferences": "Preferences",
         "preferencesAdvertisement": "Advertisement Settings",
         "preferencesBalanceAccountTypeOrder": "Order of Balance Account Types",
+        "preferencesBalanceSheet": "Balance Sheet Settings",
         "preferencesDateTime": "Date & Time Settings",
         "preferencesDisplay": "Display Settings",
         "preferencesHomeScreen": "Home Screen Settings",
         "preferencesLanguages": "Language Settings",
         "preferencesPassword": "Password Setting",
+        "preferencesPasswordReset": "Password Reset",
         "preferencesSecurity": "Security Setting",
+        "preferencesTransactionList": "Transaction List Settings",
         "quickViewChartManagement": "Balance Chart Quick View Settings",
         "quickViewSheetManagement": "Balance Sheet Quick View Settings",
         "transactionList": "Transactions",
@@ -562,6 +576,7 @@
         "restoreDatabase": "Restore Database",
         "restoreImport": "Restore and Import",
         "scheduleExpired": "Schedule has expired",
+        "selectEncoding": "Select Encoding",
         "selectNumberSeparators": "Select number separators",
         "selecteQuickViewMode": "Select Quick View Mode",
         "setPassword": "Set Password",
@@ -579,12 +594,20 @@
     "transaction": {
         "@": "Transaction",
         "compactList": "Compact List",
+        "compactListHint": "Remove some information and reduce spacing between text to display more items in the transaction list",
         "depositAccount": "Transfer-in Account",
         "depositAccountHint": "Account for the transfer-in",
         "depositAccountType": "Transfer-in Type",
         "depositBook": "Transfer-in Book",
+        "depositFirst": "Deposit First",
+        "depositFirstHint": "Deposit items are shown first (account name on the left), and withdrawal items are shown later (account name on the right)",
         "depositValue": "Transfer-in Amount",
         "depositValueHint": "This amount will be added into the transfer-in account",
+        "example": {
+            "bank2Credit": "Paid the credit card bill for a certain month, including a $200 foreign transaction fee",
+            "credit2Entertainment": "Bought a PS5 and some games on Amazon as a birthday gift for my best friend",
+            "salaryToBank": "Salary for a specific month"
+        },
         "initAccount": "Initial Account",
         "initAccountHint": "Account for transfer-out or in",
         "initValue": "Initial Amount",
@@ -596,6 +619,8 @@
             "initial": "Initial"
         },
         "note": "Note",
+        "noteBeforeBody": "Note Before Details",
+        "noteBeforeBodyHint": "Notes are displayed before the transaction deposit and withdrawal information",
         "noteHint": "Note for the transaction, length 0 - 1024 characters",
         "transDate": "Date",
         "transDatetime": "Date and Time",

@@ -1,6 +1,8 @@
 {
     "account": {
         "@": "账户",
+        "hidden": "隐藏",
+        "hiddenHint": "隐藏此账户，使其不在新增或编辑账目时显示。但在资产负债表及图表中，如果计算区间的账目中包含了此账户，且合计不为零，则仍会显示在资产负债中。通常设置于已经不再使用的旧账户",
         "name": "名称",
         "nameHint": "账户的名称，长度1 - 256个字符，使用.作为统计时层级分类",
         "note": "备注",
@@ -45,6 +47,7 @@
         "newTransactionTemplate": "建立範本",
         "ok": "确定",
         "remove": "移除",
+        "reportAndExit": "回报并结束",
         "requestStoragePermission": "要求存取外部目录许可",
         "reset": "重置",
         "restart": "重新开始",
@@ -61,6 +64,7 @@
         "startToRestoreDatabase": "进行数据库还原",
         "takeBreak": "休息一下",
         "trash": "丢弃",
+        "tryAgain": "再试一次",
         "update": "更新"
     },
     "ads": {
@@ -93,7 +97,11 @@
         "@": "资产负债",
         "amount": "合计",
         "compactSheet": "紧凑的表格",
+        "compactSheetHint": "减少文字间的间距，让资产负债表显示更多的项目",
+        "fixFractionDigits": "固定小数点位数",
+        "fixFractionDigitsHint": "依账本的小数点位数设置，设置最小位数。为零的小数不会被省去，更容易对齐比较",
         "hideEmpty": "隐藏空项",
+        "hideEmptyHint": "隐藏在区间内没有账目的项目，并不会隐藏有账目但最后总和为零的项目",
         "mode": {
             "monthly": "每月",
             "until": "直到",
@@ -136,6 +144,8 @@
     "csvImport": {
         "accountToCreate": "即将建立的账户资料共{{size}}笔",
         "confirmImport": "导入依资料的大小，会需要花一些时间等候，确定要现在导入CSV吗?",
+        "fileEncoding": "文件编码",
+        "fileEncodingHint": "CSV文件的编码，默认为UTF-8。如果您曾在电脑中编辑过这些文件，或是在Daily Money中设置为其他编码（可以在开发者选项中确认），请在此选择对应的编码，否则可能无法正确读取CSV。简体中文用户若读取结果为乱码，可以尝试选择GBK编码",
         "importCompleted": "导入新账本 {{book}} 成功，共 {{account}} 笔账户，{{initial}} 笔初始化账目，{{transaction}} 笔账目",
         "newBookName": "新的账本名称",
         "numberSeparators": {
@@ -354,6 +364,7 @@
     "noSelection": "没有任何选择",
     "noTransaction": "没有任何账目",
     "noTransactionTemplate": "没有账目范本",
+    "options": "选项",
     "password": {
         "@": "密码",
         "again": "再次输入密码",
@@ -397,6 +408,7 @@
             "hh:mm a": "12时制:分 上下午"
         }
     },
+    "preview": "预览",
     "react-native-paper-dates": {
         "close": "关闭",
         "dateIsDisabled": "日期不可选",
@@ -462,16 +474,18 @@
         "googleDriveManagement": "Google Drive备份管理",
         "home": "首页",
         "homeShortcutManagement": "主页捷径设置",
-        "preferencesPasswordReset": "密码重设",
         "preferences": "偏好设置",
         "preferencesAdvertisement": "广告设置",
         "preferencesBalanceAccountTypeOrder": "资产负债账户类型顺序",
+        "preferencesBalanceSheet": "资产负债表设置",
         "preferencesDateTime": "日期时间设置",
         "preferencesDisplay": "显示设置",
         "preferencesHomeScreen": "主页设置",
         "preferencesLanguages": "语言设置",
         "preferencesPassword": "密码设置",
+        "preferencesPasswordReset": "密码重设",
         "preferencesSecurity": "安全设置",
+        "preferencesTransactionList": "账目列表设置",
         "quickViewChartManagement": "资产负债图表快速检视设置",
         "quickViewSheetManagement": "资产负债表快速检视设置",
         "transactionList": "账目列表",
@@ -562,6 +576,7 @@
         "restoreDatabase": "还原数据库",
         "restoreImport": "还原及导入",
         "scheduleExpired": "排程已经到期",
+        "selectEncoding": "选择编码",
         "selectNumberSeparators": "选择数值分隔符号",
         "selecteQuickViewMode": "选择快速检视模式",
         "setPassword": "设置密码",
@@ -579,12 +594,20 @@
     "transaction": {
         "@": "账目",
         "compactList": "紧凑的清单",
+        "compactListHint": "减少部分信息及文字间的间距，让账目列表显示更多的项目",
         "depositAccount": "转入账户",
         "depositAccountHint": "转入此账户",
         "depositAccountType": "转入类型",
         "depositBook": "转入账本",
+        "depositFirst": "转入优先",
+        "depositFirstHint": "转入项目显示在前（账户名称在左边），转出项目在后（账户名称在右）",
         "depositValue": "转入金额",
         "depositValueHint": "此金额转入账户",
+        "example": {
+            "bank2Credit": "支付某月的信用卡账单，其中包括200元的外币交易手续费",
+            "credit2Entertainment": "在亚马逊买了PS5和一些游戏，作为最好朋友的生日礼物",
+            "salaryToBank": "某月薪水"
+        },
         "initAccount": "初始账户",
         "initAccountHint": "转出或转入的账户",
         "initValue": "初始金额",
@@ -596,6 +619,8 @@
             "initial": "初始化"
         },
         "note": "备注",
+        "noteBeforeBody": "注解在前",
+        "noteBeforeBodyHint": "注解显示在交易转出转入信息之前",
         "noteHint": "账目的备注，长度0 - 1024个字符",
         "transDate": "日期",
         "transDatetime": "日期时间",

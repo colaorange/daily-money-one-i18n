@@ -1,6 +1,8 @@
 {
     "account": {
         "@": "帳戶",
+        "hidden": "隱藏",
+        "hiddenHint": "隱藏此帳戶，使其不在新增或編輯帳目時顯示。但在資產負債表及圖表中，如果計算區間的帳目中包含了此帳戶，且合計不為零，則仍會顯示在資產負債中。通常設定於已經不再使用的舊帳戶",
         "name": "名稱",
         "nameHint": "帳戶的名稱, 長度1 - 256個字元, 使用.作為統計時階層分類",
         "note": "備註",
@@ -45,6 +47,7 @@
         "newTransactionTemplate": "建立範本",
         "ok": "確定",
         "remove": "移除",
+        "reportAndExit": "回報並結束",
         "requestStoragePermission": "要求存取外部目錄許可",
         "reset": "重置",
         "restart": "重新開始",
@@ -61,6 +64,7 @@
         "startToRestoreDatabase": "進行資料庫還原",
         "takeBreak": "休息一下",
         "trash": "丟棄",
+        "tryAgain": "再試一次",
         "update": "更新"
     },
     "ads": {
@@ -93,7 +97,11 @@
         "@": "資產負債",
         "amount": "合計",
         "compactSheet": "緊湊的表格",
+        "compactSheetHint": "減少文字間的間距，讓資產負債表顯示更多的項目",
+        "fixFractionDigits": "固定小數點位數",
+        "fixFractionDigitsHint": "依帳本的小數點位數設定，設定最小位數。為零的小數不會被省去，更容易對齊比較",
         "hideEmpty": "隱藏空項",
+        "hideEmptyHint": "隱藏在區間內沒有帳目的項目，並不會隱藏有帳目但最後總合為零的項目",
         "mode": {
             "monthly": "每月",
             "until": "直到",
@@ -136,6 +144,8 @@
     "csvImport": {
         "accountToCreate": "即將建立的帳戶資料共{{size}}筆",
         "confirmImport": "匯入依資料的大小, 會需要花一些時間等候, 確定要現在匯入CSV嗎?",
+        "fileEncoding": "檔案編碼",
+        "fileEncodingHint": "CSV檔案的編碼，預設為UTF-8。如果您曾在電腦中編輯過這些檔案，或是在每日記帳本+中設定為其他編碼（可以在開發者選項中確認），請在此選擇對應的編碼，否則可能無法正確讀取CSV。繁體中文用戶若讀取結果為亂碼，可以嘗試選擇BIG5編碼",
         "importCompleted": "匯入新帳本 {{book}} 成功, 共 {{account}} 筆帳戶, {{initial}} 筆初始化帳目, {{transaction}} 筆帳目",
         "newBookName": "新的帳本名稱",
         "numberSeparators": {
@@ -354,6 +364,7 @@
     "noSelection": "沒有任何選擇",
     "noTransaction": "沒有任何帳目",
     "noTransactionTemplate": "沒有帳目範本",
+    "options": "選項",
     "password": {
         "@": "密碼",
         "again": "再次輸入密碼",
@@ -397,6 +408,7 @@
             "hh:mm a": "12時制:分 上下午"
         }
     },
+    "preview": "預覽",
     "react-native-paper-dates": {
         "close": "關閉",
         "dateIsDisabled": "日期不可選",
@@ -462,16 +474,18 @@
         "googleDriveManagement": "Google Drive備份管理",
         "home": "首頁",
         "homeShortcutManagement": "主頁捷徑設定",
-        "preferencesPasswordReset": "密碼重設",
         "preferences": "喜好設定",
         "preferencesAdvertisement": "廣告設定",
         "preferencesBalanceAccountTypeOrder": "資產負債帳戶類型順序",
+        "preferencesBalanceSheet": "資產負債表設定",
         "preferencesDateTime": "日期時間設定",
         "preferencesDisplay": "顯示設定",
         "preferencesHomeScreen": "主頁設定",
         "preferencesLanguages": "語言設定",
         "preferencesPassword": "密碼設定",
+        "preferencesPasswordReset": "密碼重設",
         "preferencesSecurity": "安全設定",
+        "preferencesTransactionList": "帳目列表設定",
         "quickViewChartManagement": "資產負債圖表快速檢視設定",
         "quickViewSheetManagement": "資產負債表快速檢視設定",
         "transactionList": "帳目列表",
@@ -562,6 +576,7 @@
         "restoreDatabase": "還原資料庫",
         "restoreImport": "還原及匯入",
         "scheduleExpired": "排程已經到期",
+        "selectEncoding": "選擇編碼",
         "selectNumberSeparators": "選擇數值分隔符號",
         "selecteQuickViewMode": "選擇快速檢視模式",
         "setPassword": "設定密碼",
@@ -579,12 +594,20 @@
     "transaction": {
         "@": "帳目",
         "compactList": "緊湊的列表",
+        "compactListHint": "減少部份資訊及文字間的間距，讓帳目列表顯示更多的項目",
         "depositAccount": "轉入帳戶",
         "depositAccountHint": "轉入此帳戶",
         "depositAccountType": "轉入類型",
         "depositBook": "轉入帳本",
+        "depositFirst": "轉入優先",
+        "depositFirstHint": "轉入項目顯示在前(帳戶名稱在左邊)，轉出項目在後(帳戶名稱在右)",
         "depositValue": "轉入金額",
         "depositValueHint": "此金額轉入帳戶",
+        "example": {
+            "bank2Credit": "支付某月的信用卡賬單，其中包括200元的外幣交易手續費",
+            "credit2Entertainment": "在亞馬遜買了PS5和一些遊戲，作為最好朋友的生日禮物",
+            "salaryToBank": "某月薪水"
+        },
         "initAccount": "初始帳戶",
         "initAccountHint": "轉出或轉入的帳戶",
         "initValue": "初始金額",
@@ -596,6 +619,8 @@
             "initial": "初始化"
         },
         "note": "備註",
+        "noteBeforeBody": "註解在前",
+        "noteBeforeBodyHint": "註解顯示在交易轉出轉入資訊之前",
         "noteHint": "帳目的備註, 長度0 - 1024個字元",
         "transDate": "日期",
         "transDatetime": "日期時間",

@@ -1,6 +1,8 @@
 {
     "account": {
         "@": "Hesap",
+        "hidden": "Gizli",
+        "hiddenHint": "Bu hesabı gizleyin, böylece işlem eklerken veya düzenlerken görünmesin. Ancak, bu hesap seçili tarih aralığında işlemlerde yer alıyorsa ve bakiyesi sıfır değilse, yine de bilançoda ve grafiklerde görünecektir. Bu genellikle artık kullanılmayan eski hesaplar için ayarlanır.",
         "name": "Ad",
         "nameHint": "Hesabın adı, uzunluk 1 - 256 karakter, özetleme yaparken hiyerarşik sınıflandırma için '.' kullanın",
         "note": "Not",
@@ -45,6 +47,7 @@
         "newTransactionTemplate": "Şablon Oluştur",
         "ok": "Tamam",
         "remove": "Kaldır",
+        "reportAndExit": "Rapor Et ve Çık",
         "requestStoragePermission": "Depolama Erişim İzni İste",
         "reset": "Sıfırla",
         "restart": "Yeniden Başlat",
@@ -61,6 +64,7 @@
         "startToRestoreDatabase": "Veritabanı Geri Yüklemeye Başla",
         "takeBreak": "Mola Ver",
         "trash": "Çöp",
+        "tryAgain": "Tekrar Dene",
         "update": "Güncelle"
     },
     "ads": {
@@ -93,7 +97,11 @@
         "@": "Bilanço",
         "amount": "Miktar",
         "compactSheet": "Kompakt Sayfa",
+        "compactSheetHint": "Bilançoda daha fazla öğe görüntülemek için metinler arasındaki boşluğu azaltın",
+        "fixFractionDigits": "Ondalık Basamakları Sabitle",
+        "fixFractionDigitsHint": "Kitabın ondalık ayarlarına göre minimum ondalık basamakları ayarlayın. Ondalık kısımlardaki sıfırlar kaldırılmayacak, bu da hizalamayı ve karşılaştırmayı kolaylaştırır",
         "hideEmpty": "Boşları Gizle",
+        "hideEmptyHint": "Dönem içinde işlem bulunmayan öğeleri gizleyin, ancak nihai bakiyesi sıfır olan girişlerin bulunduğu öğeleri gizlemedik",
         "mode": {
             "monthly": "Aylık",
             "until": "Kadar",
@@ -136,6 +144,8 @@
     "csvImport": {
         "accountToCreate": "Oluşturulacak toplam {{size}} hesap",
         "confirmImport": "Veri boyutuna bağlı olarak içe aktarma biraz zaman alabilir. CSV'yi şimdi içe aktarmak istediğinizden emin misiniz?",
+        "fileEncoding": "Dosya Kodlaması",
+        "fileEncodingHint": "CSV dosyasının kodlaması, varsayılan olarak UTF-8'dir. Bu dosyaları bilgisayarınızda düzenlediyseniz veya Daily Money+'da farklı bir kodlama ayarladıysanız (Geliştirici Seçeneklerinde doğrulanabilir), burada ilgili kodlamayı seçin; aksi takdirde, CSV doğru okunmayabilir.",
         "importCompleted": "{{book}} yeni kitabı başarıyla içe aktarıldı, {{account}} hesap, {{initial}} başlangıç işlemi ve {{transaction}} işlemler",
         "newBookName": "Yeni Kitap Adı",
         "numberSeparators": {
@@ -354,6 +364,7 @@
     "noSelection": "Seçim yok",
     "noTransaction": "Kullanılabilir işlem yok",
     "noTransactionTemplate": "İşlem Şablonu Yok",
+    "options": "Seçenekler",
     "password": {
         "@": "Şifre",
         "again": "Şifreyi Tekrar Gir",
@@ -397,6 +408,7 @@
             "hh:mm a": "12-Saat:Dakika AM/PM"
         }
     },
+    "preview": "Önizleme",
     "react-native-paper-dates": {
         "close": "Kapat",
         "dateIsDisabled": "Tarih devre dışı",
@@ -462,16 +474,18 @@
         "googleDriveManagement": "Google Drive Yedekleme Yönetimi",
         "home": "Ana Ekran",
         "homeShortcutManagement": "Ana Ekran Kısayol Ayarları",
-        "preferencesPasswordReset": "Şifre Sıfırlama",
         "preferences": "Tercihler",
         "preferencesAdvertisement": "Reklam Ayarları",
         "preferencesBalanceAccountTypeOrder": "Bakiye Hesap Türü Sırası",
+        "preferencesBalanceSheet": "Bilanço Ayarları",
         "preferencesDateTime": "Tarih ve Saat Ayarları",
         "preferencesDisplay": "Görüntü Ayarları",
         "preferencesHomeScreen": "Ana Ekran Ayarları",
         "preferencesLanguages": "Dil Ayarları",
         "preferencesPassword": "Şifre Ayarı",
+        "preferencesPasswordReset": "Şifre Sıfırlama",
         "preferencesSecurity": "Güvenlik Ayarı",
+        "preferencesTransactionList": "İşlem Listesi Ayarları",
         "quickViewChartManagement": "Bilanço Grafiği Hızlı Görünüm Ayarları",
         "quickViewSheetManagement": "Bilanço Tablosu Hızlı Görünüm Ayarları",
         "transactionList": "İşlemler",
@@ -562,6 +576,7 @@
         "restoreDatabase": "Veritabanını Geri Yükle",
         "restoreImport": "Geri Yükle ve İçe Aktar",
         "scheduleExpired": "Programın süresi doldu",
+        "selectEncoding": "Kodlamayı Seç",
         "selectNumberSeparators": "Numara Ayırıcıları Seç",
         "selecteQuickViewMode": "Hızlı Görünüm Modunu Seç",
         "setPassword": "Şifre Ayarla",
@@ -579,12 +594,20 @@
     "transaction": {
         "@": "İşlem",
         "compactList": "Kompakt Liste",
+        "compactListHint": "İşlem listesinde daha fazla öğe görüntülemek için bazı bilgileri kaldırın ve metinler arasındaki boşluğu azaltın",
         "depositAccount": "Transfer-in Hesabı",
         "depositAccountHint": "Transfer-in için hesap",
         "depositAccountType": "Transfer-in Türü",
         "depositBook": "Transfer-in Kitap",
+        "depositFirst": "Önce Yatır",
+        "depositFirstHint": "Yatırım öğeleri önce (hesap adı solda), çekim öğeleri ise sonra (hesap adı sağda) gösterilir",
         "depositValue": "Transfer-in Tutarı",
         "depositValueHint": "Bu miktar transfer-in hesabına eklenecek",
+        "example": {
+            "bank2Credit": "Belirli bir ay için kredi kartı faturasını ödedim, 200$'lık yabancı işlem ücreti dahil",
+            "credit2Entertainment": "En iyi arkadaşımın doğum günü hediyesi olarak Amazon'dan bir PS5 ve bazı oyunlar aldım",
+            "salaryToBank": "Belirli bir ay için maaş"
+        },
         "initAccount": "Başlangıç Hesabı",
         "initAccountHint": "Transfer-çıkış veya giriş için hesap",
         "initValue": "Başlangıç Tutarı",
@@ -596,6 +619,8 @@
             "initial": "Başlangıç"
         },
         "note": "Not",
+        "noteBeforeBody": "Ayrıntılardan Önce Not",
+        "noteBeforeBodyHint": "Notlar, işlem yatırma ve çekim bilgilerinden önce görüntülenir",
         "noteHint": "İşlem için not, uzunluk 0 - 1024 karakter",
         "transDate": "Tarih",
         "transDatetime": "Tarih ve Saat",
