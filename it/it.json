@@ -65,11 +65,14 @@
         "takeBreak": "Prendi una pausa",
         "trash": "Cestino",
         "tryAgain": "Riprova",
-        "update": "Aggiorna"
+        "update": "Aggiorna",
+        "upload": "Carica"
     },
+    "adFree": "Senza annunci",
     "ads": {
         "@": "Pubblicità",
         "hereDonate": "Dona qui",
+        "hereDonateHint": "Guardare gli annunci durante le pause è un modo utile per supportare il software. Se puoi, puoi anche donare al software per fornirgli più risorse di manutenzione e prolungarne il ciclo di vita.",
         "hereWatch": "Guarda pubblicità qui",
         "level": {
             "less": "Meno",
@@ -200,7 +203,9 @@
     },
     "deposit": "Trasferimento in",
     "device": "Dispositivo",
+    "deviceUid": "UID dispositivo",
     "donate": "Dona",
+    "email": "Email",
     "error": {
         "accessDatabase": "Si è verificato un errore durante l'accesso al database. Quando si esegue il downgrade dell'app a una versione precedente, ciò può causare questo problema a causa dell'incompatibilità tra i nuovi dati e i vecchi programmi. Chiudi completamente l'app, riavvia e riprova. Per maggiori informazioni: {{message}}",
         "accountNotFound": "L'account {{accountId}} non può essere trovato.",
@@ -247,6 +252,15 @@
         "vi": "Vietnamita",
         "zh": "Cinese tradizionale",
         "zh-CN": "Cinese semplificato"
+    },
+    "license": {
+        "@": "Licenza",
+        "constructionError": "Si è verificato un errore durante l'analisi della licenza. Assicurati che il contenuto fornito non sia stato modificato.",
+        "contentIncorrect": "Il contenuto della licenza non è corretto. Assicurati che il contenuto fornito non sia stato modificato.",
+        "data": "Dati licenza",
+        "hint": "Questo software è gratuito e si basa su annunci per supportare le risorse di manutenzione. Può essere utilizzato senza alcuna licenza. Tuttavia, gli utenti che contribuiscono al software (ad esempio, fornendo traduzioni multilingue di valore, assistendo nella promozione efficace del software, identificando bug significativi, ecc.) possono richiedere una licenza senza annunci dall'autore. È possibile impostare qui la licenza acquisita per abilitare e regolare i livelli di annunci nelle preferenze. Si prega di notare che scegliere una modalità senza annunci ridurrà il supporto per questo software e influenzerà le risorse di manutenzione e il suo ciclo di vita.",
+        "invalidate": "Licenza non valida",
+        "signatureIncorrect": "La firma della licenza non è corretta. Assicurati che il contenuto fornito non sia stato modificato."
     },
     "logs": "Log",
     "menu": {
@@ -301,6 +315,7 @@
         "exportedJson": "Il libro {{names}} è stato esportato come JSON in /{{location}}, dimensione {{size}} byte.",
         "exportedUploadedJson": "Il libro {{names}} è stato esportato come JSON in /{{location}}, dimensione {{size}} byte, e caricato su Google Drive, risultato del caricamento {{uploadResult}}.",
         "googleDriveManagement": "Questa è una semplice schermata di gestione in cui è possibile eliminare o scaricare (scorrendo a destra o a sinistra sul file per le opzioni) i primi 99 file che sono stati eseguiti il backup su Google Drive. Puoi anche utilizzare direttamente l'app Google Drive, che offre più funzionalità, per gestire questi file.",
+        "licenseUpdated": "Licenza aggiornata con successo.",
         "longPressItemToSort": "Premi a lungo un elemento per trascinare e ordinare.",
         "noExportTransactions": "Non esportare le transazioni.",
         "noPermissionGranted": "Autorizzazione di accesso non concessa.",
@@ -474,6 +489,7 @@
         "googleDriveManagement": "Gestione del backup su Google Drive",
         "home": "Home",
         "homeShortcutManagement": "Impostazioni scorciatoie schermata principale",
+        "license": "Licenza",
         "preferences": "Preferenze",
         "preferencesAdvertisement": "Impostazioni pubblicitarie",
         "preferencesBalanceAccountTypeOrder": "Ordine dei tipi di account di bilancio",

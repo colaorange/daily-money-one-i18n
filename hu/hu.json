@@ -65,11 +65,14 @@
         "takeBreak": "Szünetet tart",
         "trash": "Kuka",
         "tryAgain": "Próbálja újra",
-        "update": "Frissítés"
+        "update": "Frissítés",
+        "upload": "Feltöltés"
     },
+    "adFree": "Hirdetésmentes",
     "ads": {
         "@": "Hirdetés",
         "hereDonate": "Adományozzon itt",
+        "hereDonateHint": "A hirdetések megtekintése a szünetekben hasznos módja a szoftver támogatásának. Ha teheti, adományozhat is a szoftvernek, hogy több karbantartási forrást biztosítson számára, és meghosszabbítsa annak életciklusát.",
         "hereWatch": "Nézzen hirdetéseket itt",
         "level": {
             "less": "Kevesebb",
@@ -200,7 +203,9 @@
     },
     "deposit": "Bevitel",
     "device": "Eszköz",
+    "deviceUid": "Eszközazonosító",
     "donate": "Adományozás",
+    "email": "E-mail",
     "error": {
         "accessDatabase": "Hiba történt az adatbázis elérése közben. Ha az alkalmazást egy régebbi verzióra csökkenti, ez a probléma felmerülhet az új adatok és a régi programok közötti inkompatibilitás miatt. Kérjük, teljesen zárja be az alkalmazást, indítsa újra és próbálja meg újra. További információ: {{message}}",
         "accountNotFound": "A {{accountId}} fiók nem található.",
@@ -247,6 +252,15 @@
         "vi": "Vietnámi",
         "zh": "Hagyományos kínai",
         "zh-CN": "Egyszerűsített kínai"
+    },
+    "license": {
+        "@": "Licenc",
+        "constructionError": "Hiba történt a licenc elemzése során. Kérjük, győződjön meg arról, hogy az Ön által megadott tartalom nem változott.",
+        "contentIncorrect": "A licenc tartalma helytelen. Kérjük, győződjön meg arról, hogy az Ön által megadott tartalom nem változott.",
+        "data": "Licencadatok",
+        "hint": "Ez a szoftver ingyenes, és a hirdetésekre támaszkodik a karbantartási források támogatásához. Licenc nélkül is használható. Azok a felhasználók, akik hozzájárulnak a szoftverhez (pl. értékes többnyelvű fordítások biztosítása, hatékony szoftverpromóció támogatása, jelentős hibák azonosítása stb.), kérhetnek hirdetésmentes licencet a szerzőtől. Itt állíthatja be a megszerzett licencet, hogy engedélyezze és beállítsa a hirdetések szintjét a beállításokban. Felhívjuk figyelmét, hogy a hirdetésmentes mód kiválasztása csökkenti a szoftver támogatását, és befolyásolja a karbantartási forrásokat és annak életciklusát.",
+        "invalidate": "Érvénytelen licenc",
+        "signatureIncorrect": "A licenc aláírása helytelen. Kérjük, győződjön meg arról, hogy az Ön által megadott tartalom nem változott."
     },
     "logs": "Naplók",
     "menu": {
@@ -301,6 +315,7 @@
         "exportedJson": "A(z) {{names}} könyv JSON formátumban exportálva a /{{location}} könyvtárba, méret {{size}} bájt.",
         "exportedUploadedJson": "A(z) {{names}} könyv JSON formátumban exportálva a /{{location}} könyvtárba, méret {{size}} bájt, és feltöltve a Google Drive-ra, feltöltési eredmény {{uploadResult}}.",
         "googleDriveManagement": "Ez egy egyszerű kezelőképernyő, ahol törölhet vagy letölthet (jobbra vagy balra húzva a fájlt a lehetőségekhez) az első 99 fájl közül, amelyek a Google Drive-ban mentésre kerültek. Használhatja közvetlenül a Google Drive alkalmazást is, amely több funkciót kínál ezeknek a fájloknak a kezeléséhez.",
+        "licenseUpdated": "A licenc sikeresen frissítve.",
         "longPressItemToSort": "Hosszan nyomja meg az elemet a húzáshoz és rendezéshez.",
         "noExportTransactions": "Ne exportálj tranzakciókat.",
         "noPermissionGranted": "Hozzáférési engedély nem adva.",
@@ -474,6 +489,7 @@
         "googleDriveManagement": "Google Drive mentéskezelés",
         "home": "Kezdőlap",
         "homeShortcutManagement": "Kezdőképernyő parancsikon beállítások",
+        "license": "Licenc",
         "preferences": "Beállítások",
         "preferencesAdvertisement": "Hirdetés beállítások",
         "preferencesBalanceAccountTypeOrder": "Számlatípusok sorrendje",

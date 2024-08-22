@@ -65,11 +65,14 @@
         "takeBreak": "휴식 취하기",
         "trash": "휴지통",
         "tryAgain": "다시 시도",
-        "update": "업데이트"
+        "update": "업데이트",
+        "upload": "업로드"
     },
+    "adFree": "광고 없음",
     "ads": {
         "@": "광고",
         "hereDonate": "여기에서 기부",
+        "hereDonateHint": "휴식 중 광고를 보는 것은 소프트웨어를 지원하는 유용한 방법입니다. 가능하다면 소프트웨어에 기부하여 더 많은 유지 관리 자원을 제공하고 수명 주기를 연장할 수 있습니다.",
         "hereWatch": "여기에서 광고 시청",
         "level": {
             "less": "적음",
@@ -200,7 +203,9 @@
     },
     "deposit": "입금",
     "device": "장치",
+    "deviceUid": "디바이스 UID",
     "donate": "기부",
+    "email": "이메일",
     "error": {
         "accessDatabase": "데이터베이스 접근 중 오류가 발생했습니다. 앱을 이전 버전으로 다운그레이드하면 새로운 데이터와 오래된 프로그램 간의 호환성 문제로 인해 이 문제가 발생할 수 있습니다. 앱을 완전히 닫고 다시 시작해 보십시오. 자세한 정보: {{message}}",
         "accountNotFound": "계정 {{accountId}}을(를) 찾을 수 없습니다.",
@@ -247,6 +252,15 @@
         "vi": "베트남어",
         "zh": "번체 중국어",
         "zh-CN": "간체 중국어"
+    },
+    "license": {
+        "@": "라이선스",
+        "constructionError": "라이선스를 파싱하는 동안 오류가 발생했습니다. 제공된 내용이 수정되지 않았는지 확인하십시오.",
+        "contentIncorrect": "라이선스 내용이 잘못되었습니다. 제공된 내용이 수정되지 않았는지 확인하십시오.",
+        "data": "라이선스 데이터",
+        "hint": "이 소프트웨어는 무료이며 유지 관리 자원을 지원하기 위해 광고에 의존합니다. 라이선스 없이 사용할 수 있습니다. 그러나 소프트웨어에 기여한 사용자(예: 가치 있는 다국어 번역 제공, 효과적인 소프트웨어 홍보 지원, 중요한 버그 식별 등)는 저자에게 광고 없는 라이선스를 요청할 수 있습니다. 여기에서 획득한 라이선스를 설정하여 광고 수준을 설정에서 활성화하고 조정할 수 있습니다. 광고 없는 모드를 선택하면 이 소프트웨어에 대한 지원이 감소하고 유지 관리 자원과 수명 주기에 영향을 미칠 수 있음을 유의하십시오.",
+        "invalidate": "유효하지 않은 라이선스",
+        "signatureIncorrect": "라이선스 서명이 잘못되었습니다. 제공된 내용이 수정되지 않았는지 확인하십시오."
     },
     "logs": "로그",
     "menu": {
@@ -301,6 +315,7 @@
         "exportedJson": "책 {{names}} 이(가) /{{location}} 에 JSON으로 내보내졌으며, 크기는 {{size}} 바이트입니다.",
         "exportedUploadedJson": "책 {{names}} 이(가) /{{location}} 에 JSON으로 내보내졌으며, 크기는 {{size}} 바이트이고, Google Drive에 업로드되었습니다. 업로드 결과 {{uploadResult}}.",
         "googleDriveManagement": "이것은 Google Drive에서 백업된 첫 99개의 파일을 삭제하거나 다운로드 (파일을 오른쪽 또는 왼쪽으로 스와이프하여 옵션 선택)할 수 있는 간단한 관리 화면입니다. 또한 Google Drive 앱을 사용하여 이러한 파일을 더 많이 관리할 수 있는 기능을 제공합니다.",
+        "licenseUpdated": "라이선스가 성공적으로 업데이트되었습니다.",
         "longPressItemToSort": "항목을 길게 눌러 드래그하여 정렬하십시오.",
         "noExportTransactions": "거래를 내보내지 않습니다.",
         "noPermissionGranted": "액세스 권한이 부여되지 않았습니다.",
@@ -474,6 +489,7 @@
         "googleDriveManagement": "Google Drive 백업 관리",
         "home": "홈",
         "homeShortcutManagement": "홈 화면 바로가기 설정",
+        "license": "라이선스",
         "preferences": "환경 설정",
         "preferencesAdvertisement": "광고 설정",
         "preferencesBalanceAccountTypeOrder": "잔액 계정 유형 순서",
