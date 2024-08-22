@@ -65,11 +65,14 @@
         "takeBreak": "休息一下",
         "trash": "丢弃",
         "tryAgain": "再试一次",
-        "update": "更新"
+        "update": "更新",
+        "upload": "上传"
     },
+    "adFree": "无广告",
     "ads": {
         "@": "广告",
         "hereDonate": "点这里赞助",
+        "hereDonateHint": "休息时观看广告能有效支持软件的发展。您在能力范围内，也可以赞助这个软件，帮助它获得更多的维护资源并延长生命周期。",
         "hereWatch": "点这里看广告",
         "level": {
             "less": "更少",
@@ -200,7 +203,9 @@
     },
     "deposit": "转入",
     "device": "设备",
+    "deviceUid": "设备唯一码",
     "donate": "赞助",
+    "email": "电子邮件",
     "error": {
         "accessDatabase": "存取数据库时发生错误。当您将App降级到旧版时，因为新资料与旧的程序不相容，可能导致这个问题。请关闭App后重新启动再试试，更多信息: {{message}}",
         "accountNotFound": "找不到账户 {{accountId}}",
@@ -247,6 +252,15 @@
         "vi": "越南语",
         "zh": "繁体中文",
         "zh-CN": "简体中文"
+    },
+    "license": {
+        "@": "授权",
+        "constructionError": "授权解析时发生错误，请确认您提供的是未修改编辑过的内容",
+        "contentIncorrect": "授权的内容不正确，请确认您提供的是未修改编辑过的内容",
+        "data": "授权数据",
+        "hint": "本软件为免费软件，依靠广告来获得维护资源，不需任何授权即可使用。但对这个软件有贡献的用户（例如提供有用的多国语言翻译、协助进行有效的软件推广、协助识别具影响力的错误等），可以向作者索取无广告授权。您可以在此处设置获取的授权来启用功能，并在偏好设置中设置广告级别。请注意，选择无广告模式将减少对本软件的支持，会影响其维护资源及生命周期。",
+        "invalidate": "无效的授权",
+        "signatureIncorrect": "授权的签章不正确，请确认您提供的是未修改编辑过的内容"
     },
     "logs": "日志",
     "menu": {
@@ -301,6 +315,7 @@
         "exportedJson": "账本 {{names}} 已经被导出成JSON到 /{{location}}, 大小 {{size}} 字节。",
         "exportedUploadedJson": "账本 {{names}} 已经被导出成JSON到 /{{location}}, 大小 {{size}} 字节, 并且上传到 Google Drive, 上传结果 {{uploadResult}}。",
         "googleDriveManagement": "这是个简易的管理页面，您可以删除或是下载(在文件上右滑或左滑会有选项)已经备份在GoogleDrive里的前99个文件。您也可以直接使用GoogleDrive的App，提供有更多功能，来管理这些文件。",
+        "licenseUpdated": "授权更新成功。",
         "longPressItemToSort": "长按项目后可以拖拉排序。",
         "noExportTransactions": "不导出账目。",
         "noPermissionGranted": "没有取得存取权限。",
@@ -474,6 +489,7 @@
         "googleDriveManagement": "Google Drive备份管理",
         "home": "首页",
         "homeShortcutManagement": "主页捷径设置",
+        "license": "授权",
         "preferences": "偏好设置",
         "preferencesAdvertisement": "广告设置",
         "preferencesBalanceAccountTypeOrder": "资产负债账户类型顺序",

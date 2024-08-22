@@ -65,11 +65,14 @@
         "takeBreak": "Mola Ver",
         "trash": "Çöp",
         "tryAgain": "Tekrar Dene",
-        "update": "Güncelle"
+        "update": "Güncelle",
+        "upload": "Yükle"
     },
+    "adFree": "Reklamsız",
     "ads": {
         "@": "Reklam",
         "hereDonate": "Buradan Bağış Yap",
+        "hereDonateHint": "Mola sırasında reklam izlemek, yazılımı desteklemenin faydalı bir yoludur. Eğer mümkünse, yazılıma daha fazla bakım kaynağı sağlamak ve yaşam döngüsünü uzatmak için bağışta bulunabilirsiniz.",
         "hereWatch": "Reklamları Buradan İzle",
         "level": {
             "less": "Az",
@@ -200,7 +203,9 @@
     },
     "deposit": "Transfer-in",
     "device": "Cihaz",
+    "deviceUid": "Cihaz Kimliği",
     "donate": "Bağış Yap",
+    "email": "E-posta",
     "error": {
         "accessDatabase": "Veritabanına erişirken bir hata oluştu. Uygulamayı eski bir sürüme düşürdüğünüzde, yeni veri ile eski programlar arasındaki uyumsuzluk nedeniyle bu sorun ortaya çıkabilir. Lütfen uygulamayı tamamen kapatın, yeniden başlatın ve tekrar deneyin. Daha fazla bilgi için: {{message}}",
         "accountNotFound": "Hesap {{accountId}} bulunamıyor.",
@@ -247,6 +252,15 @@
         "vi": "Vietnamca",
         "zh": "Geleneksel Çince",
         "zh-CN": "Basitleştirilmiş Çince"
+    },
+    "license": {
+        "@": "Lisans",
+        "constructionError": "Lisans çözümlemesi sırasında bir hata oluştu. Sağladığınız içeriğin değiştirilmediğinden emin olun.",
+        "contentIncorrect": "Lisans içeriği yanlış. Sağladığınız içeriğin değiştirilmediğinden emin olun.",
+        "data": "Lisans Verileri",
+        "hint": "Bu yazılım ücretsizdir ve bakım kaynaklarını desteklemek için reklamlara dayanır. Herhangi bir lisans olmadan kullanılabilir. Bununla birlikte, yazılıma katkıda bulunan kullanıcılar (örneğin, değerli çok dilli çeviriler sağlamak, etkili yazılım tanıtımına yardımcı olmak, önemli hataları belirlemek, vb.) yazardan reklamsız bir lisans talep edebilirler. Burada elde edilen lisansı ayarlayarak reklam seviyelerini etkinleştirebilir ve tercihlerinizi ayarlayabilirsiniz. Reklamsız modu seçmenin, bu yazılım için desteği azaltacağını ve bakım kaynaklarını ve yaşam döngüsünü etkileyeceğini unutmayın.",
+        "invalidate": "Geçersiz Lisans",
+        "signatureIncorrect": "Lisans imzası yanlış. Sağladığınız içeriğin değiştirilmediğinden emin olun."
     },
     "logs": "Kayıtlar",
     "menu": {
@@ -301,6 +315,7 @@
         "exportedJson": "Kitap {{names}} JSON olarak /{{location}} konumuna ihraç edildi, boyut {{size}} bayt.",
         "exportedUploadedJson": "Kitap {{names}} JSON olarak /{{location}} konumuna ihraç edildi, boyut {{size}} bayt, ve Google Drive'a yüklendi, yükleme sonucu {{uploadResult}}.",
         "googleDriveManagement": "Bu, Google Drive'da yedeklenmiş ilk 99 dosyayı silmek veya indirmek için basit bir yönetim ekranıdır (dosya için sağa veya sola kaydırarak seçeneklere erişin). Bu dosyaları yönetmek için daha fazla özellik sunan Google Drive uygulamasını doğrudan kullanabilirsiniz.",
+        "licenseUpdated": "Lisans başarıyla güncellendi.",
         "longPressItemToSort": "Bir öğeyi sürükleyip sıralamak için uzun basın.",
         "noExportTransactions": "İşlemleri ihraç etmeyin.",
         "noPermissionGranted": "Erişim izni verilmedi.",
@@ -474,6 +489,7 @@
         "googleDriveManagement": "Google Drive Yedekleme Yönetimi",
         "home": "Ana Ekran",
         "homeShortcutManagement": "Ana Ekran Kısayol Ayarları",
+        "license": "Lisans",
         "preferences": "Tercihler",
         "preferencesAdvertisement": "Reklam Ayarları",
         "preferencesBalanceAccountTypeOrder": "Bakiye Hesap Türü Sırası",

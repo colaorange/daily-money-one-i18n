@@ -65,11 +65,14 @@
         "takeBreak": "Nghỉ Giải Lao",
         "trash": "Thùng Rác",
         "tryAgain": "Thử lại",
-        "update": "Cập Nhật"
+        "update": "Cập Nhật",
+        "upload": "Tải lên"
     },
+    "adFree": "Không có quảng cáo",
     "ads": {
         "@": "Quảng Cáo",
         "hereDonate": "Ủng Hộ Tại Đây",
+        "hereDonateHint": "Xem quảng cáo trong khi nghỉ là một cách hữu ích để hỗ trợ phần mềm. Nếu bạn có thể, bạn cũng có thể quyên góp cho phần mềm để cung cấp nhiều tài nguyên bảo trì hơn và kéo dài vòng đời của nó.",
         "hereWatch": "Xem Quảng Cáo Tại Đây",
         "level": {
             "less": "Ít",
@@ -200,7 +203,9 @@
     },
     "deposit": "Chuyển Vào",
     "device": "Thiết Bị",
+    "deviceUid": "UID Thiết bị",
     "donate": "Ủng Hộ",
+    "email": "Email",
     "error": {
         "accessDatabase": "Đã xảy ra lỗi khi truy cập cơ sở dữ liệu. Khi bạn hạ cấp ứng dụng xuống phiên bản cũ hơn, điều này có thể dẫn đến sự cố do không tương thích giữa dữ liệu mới và chương trình cũ. Vui lòng đóng hoàn toàn ứng dụng, khởi động lại và thử lại. Để biết thêm thông tin: {{message}}",
         "accountNotFound": "Không thể tìm thấy tài khoản {{accountId}}.",
@@ -247,6 +252,15 @@
         "vi": "Tiếng Việt",
         "zh": "Tiếng Trung Quốc (Phồn Thể)",
         "zh-CN": "Tiếng Trung Quốc (Giản Thể)"
+    },
+    "license": {
+        "@": "Giấy phép",
+        "constructionError": "Đã xảy ra lỗi khi phân tích giấy phép. Vui lòng đảm bảo nội dung bạn cung cấp không bị sửa đổi.",
+        "contentIncorrect": "Nội dung giấy phép không chính xác. Vui lòng đảm bảo nội dung bạn cung cấp không bị sửa đổi.",
+        "data": "Dữ liệu giấy phép",
+        "hint": "Phần mềm này miễn phí và dựa vào quảng cáo để hỗ trợ tài nguyên bảo trì. Nó có thể được sử dụng mà không cần giấy phép. Tuy nhiên, người dùng đóng góp cho phần mềm (ví dụ, cung cấp bản dịch đa ngôn ngữ có giá trị, hỗ trợ quảng bá phần mềm hiệu quả, xác định các lỗi quan trọng, v.v.) có thể yêu cầu giấy phép không có quảng cáo từ tác giả. Bạn có thể đặt giấy phép đã nhận ở đây để kích hoạt và điều chỉnh mức quảng cáo trong cài đặt. Xin lưu ý rằng việc chọn chế độ không có quảng cáo sẽ giảm sự hỗ trợ cho phần mềm này và ảnh hưởng đến tài nguyên bảo trì cũng như vòng đời của nó.",
+        "invalidate": "Giấy phép không hợp lệ",
+        "signatureIncorrect": "Chữ ký của giấy phép không chính xác. Vui lòng đảm bảo nội dung bạn cung cấp không bị sửa đổi."
     },
     "logs": "Nhật Ký",
     "menu": {
@@ -301,6 +315,7 @@
         "exportedJson": "Sổ {{names}} đã được xuất dưới dạng JSON đến /{{location}}, kích thước {{size}} bytes.",
         "exportedUploadedJson": "Sổ {{names}} đã được xuất dưới dạng JSON đến /{{location}}, kích thước {{size}} bytes, và đã tải lên Google Drive, kết quả tải lên {{uploadResult}}.",
         "googleDriveManagement": "Đây là màn hình quản lý đơn giản nơi bạn có thể xóa hoặc tải xuống (vuốt phải hoặc trái trên tệp để chọn tùy chọn) tối đa 99 tệp đã được sao lưu trong Google Drive. Bạn cũng có thể sử dụng trực tiếp ứng dụng Google Drive, cung cấp nhiều tính năng hơn, để quản lý các tệp này.",
+        "licenseUpdated": "Giấy phép đã được cập nhật thành công.",
         "longPressItemToSort": "Nhấn lâu một mục để kéo và sắp xếp.",
         "noExportTransactions": "Không xuất giao dịch.",
         "noPermissionGranted": "Quyền truy cập không được cấp.",
@@ -474,6 +489,7 @@
         "googleDriveManagement": "Quản Lý Sao Lưu Google Drive",
         "home": "Trang Chủ",
         "homeShortcutManagement": "Cài Đặt Lối Tắt Màn Hình Chính",
+        "license": "Giấy phép",
         "preferences": "Tùy Chọn",
         "preferencesAdvertisement": "Cài Đặt Quảng Cáo",
         "preferencesBalanceAccountTypeOrder": "Thứ tự các loại tài khoản cân đối",

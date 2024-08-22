@@ -9,6 +9,7 @@
 >**Enhancement**: 
 > * #59 Support the selection of CSV encoding when importing
 > * #61 Upgrade Expo and RN 
+> * #65 Support license 
 > 
 >**Fixed Bugs**
 > * #64 prevent push to same screen multiple time in slow device 

@@ -65,11 +65,14 @@
         "takeBreak": "Take a Break",
         "trash": "Trash",
         "tryAgain": "Try Again",
-        "update": "Update"
+        "update": "Update",
+        "upload": "Upload"
     },
+    "adFree": "Ad-free",
     "ads": {
         "@": "Advertisement",
         "hereDonate": "Donate Here",
+        "hereDonateHint": "Watching ads during breaks is a helpful way to support the software. If you're able, you can also donate the software to provide it with more maintenance resources and extend its lifecycle.",
         "hereWatch": "Watch Ads Here",
         "level": {
             "less": "Less",
@@ -200,7 +203,9 @@
     },
     "deposit": "Transfer-in",
     "device": "Device",
+    "deviceUid": "Device Uid",
     "donate": "Donate",
+    "email": "Email",
     "error": {
         "accessDatabase": "An error occurred while accessing the database. When you downgrade the app to an older version, it may lead to this problem due to incompatibility between new data and old programs. Please fully close the app, restart, and try again. For more information: {{message}}",
         "accountNotFound": "The account {{accountId}} cannot be found.",
@@ -247,6 +252,15 @@
         "vi": "Vietnamese",
         "zh": "Traditional Chinese",
         "zh-CN": "Simplified Chinese"
+    },
+    "license": {
+        "@": "License",
+        "constructionError": "An error occurred during license parsing. Please ensure the content you provided has not been modified.",
+        "contentIncorrect": "The license content is incorrect. Please ensure the content you provided has not been modified.",
+        "data": "License Data",
+        "hint": "This software is free and relies on ads to support maintenance resources. It can be used without any license. However, users who contribute to the software (e.g., providing valuable multilingual translations, assisting with effective software promotion, identifying impactful bugs, etc.) can request an ad-free license from the author. You can set the acquired license here to enable and adjust ad levels in preferences. Please note that choosing an ad-free mode will reduce support for this software and affect maintenance resources and its lifecycle.",
+        "invalidate": "Invalid License",
+        "signatureIncorrect": "The license signature is incorrect. Please ensure the content you provided has not been modified."
     },
     "logs": "Logs",
     "menu": {
@@ -301,6 +315,7 @@
         "exportedJson": "Book {{names}} has been exported as JSON to /{{location}}, size {{size}} bytes.",
         "exportedUploadedJson": "Book {{names}} has been exported as JSON to /{{location}}, size {{size}} bytes, and uploaded to Google Drive, upload result {{uploadResult}}.",
         "googleDriveManagement": "This is a simple management screen where you can delete or download (swipe right or left on the file for options) the first 99 files that have been backed up in Google Drive. You can also directly use the Google Drive app, which provides more features, to manage these files.",
+        "licenseUpdated": "License updated successfully.",
         "longPressItemToSort": "Long press an item to drag and sort.",
         "noExportTransactions": "Do not export transactions.",
         "noPermissionGranted": "Access permission not granted.",
@@ -474,6 +489,7 @@
         "googleDriveManagement": "Google Drive Backup Management",
         "home": "Home",
         "homeShortcutManagement": "Home Screen Shortcut Settings",
+        "license": "License",
         "preferences": "Preferences",
         "preferencesAdvertisement": "Advertisement Settings",
         "preferencesBalanceAccountTypeOrder": "Order of Balance Account Types",

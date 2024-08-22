@@ -65,11 +65,14 @@
         "takeBreak": "Tomar un Descanso",
         "trash": "Papelera",
         "tryAgain": "Intentar de nuevo",
-        "update": "Actualizar"
+        "update": "Actualizar",
+        "upload": "Subir"
     },
+    "adFree": "Sin anuncios",
     "ads": {
         "@": "Anuncio",
         "hereDonate": "Donar Aquí",
+        "hereDonateHint": "Ver anuncios durante los descansos es una forma útil de apoyar el software. Si puede, también puede donar al software para proporcionarle más recursos de mantenimiento y extender su ciclo de vida.",
         "hereWatch": "Ver Anuncios Aquí",
         "level": {
             "less": "Menos",
@@ -200,7 +203,9 @@
     },
     "deposit": "Transferencia entrante",
     "device": "Dispositivo",
+    "deviceUid": "ID de dispositivo",
     "donate": "Donar",
+    "email": "Correo electrónico",
     "error": {
         "accessDatabase": "Se produjo un error al acceder a la base de datos. Cuando bajas la versión de la aplicación a una versión anterior, puede llevar a este problema debido a la incompatibilidad entre los nuevos datos y los programas antiguos. Cierra completamente la aplicación, reinicia e inténtalo de nuevo. Para más información: {{message}}",
         "accountNotFound": "No se puede encontrar la cuenta {{accountId}}.",
@@ -247,6 +252,15 @@
         "vi": "Vietnamita",
         "zh": "Chino Tradicional",
         "zh-CN": "Chino Simplificado"
+    },
+    "license": {
+        "@": "Licencia",
+        "constructionError": "Ocurrió un error durante el análisis de la licencia. Asegúrese de que el contenido proporcionado no haya sido modificado.",
+        "contentIncorrect": "El contenido de la licencia es incorrecto. Asegúrese de que el contenido proporcionado no haya sido modificado.",
+        "data": "Datos de licencia",
+        "hint": "Este software es gratuito y depende de anuncios para apoyar los recursos de mantenimiento. Se puede usar sin ninguna licencia. Sin embargo, los usuarios que contribuyan al software (por ejemplo, proporcionando traducciones multilingües valiosas, ayudando con la promoción efectiva del software, identificando errores significativos, etc.) pueden solicitar una licencia sin anuncios al autor. Puede establecer la licencia adquirida aquí para habilitar y ajustar los niveles de anuncios en las preferencias. Tenga en cuenta que elegir un modo sin anuncios reducirá el apoyo a este software y afectará los recursos de mantenimiento y su ciclo de vida.",
+        "invalidate": "Licencia inválida",
+        "signatureIncorrect": "La firma de la licencia es incorrecta. Asegúrese de que el contenido proporcionado no haya sido modificado."
     },
     "logs": "Registros",
     "menu": {
@@ -301,6 +315,7 @@
         "exportedJson": "El libro {{names}} ha sido exportado como JSON a /{{location}}, tamaño {{size}} bytes.",
         "exportedUploadedJson": "El libro {{names}} ha sido exportado como JSON a /{{location}}, tamaño {{size}} bytes, y subido a Google Drive, resultado de la subida {{uploadResult}}.",
         "googleDriveManagement": "Esta es una pantalla de gestión simple donde puedes eliminar o descargar (desliza a la derecha o izquierda en el archivo para opciones) los primeros 99 archivos que han sido respaldados en Google Drive. También puedes usar directamente la aplicación de Google Drive, que proporciona más funciones, para gestionar estos archivos.",
+        "licenseUpdated": "Licencia actualizada con éxito.",
         "longPressItemToSort": "Mantén presionado un ítem para arrastrar y ordenar.",
         "noExportTransactions": "No exportar transacciones.",
         "noPermissionGranted": "No se ha otorgado permiso de acceso.",
@@ -474,6 +489,7 @@
         "googleDriveManagement": "Gestión de Respaldo de Google Drive",
         "home": "Inicio",
         "homeShortcutManagement": "Configuración de Atajos de Pantalla de Inicio",
+        "license": "Licencia",
         "preferences": "Preferencias",
         "preferencesAdvertisement": "Configuración de Anuncios",
         "preferencesBalanceAccountTypeOrder": "Orden de tipos de cuenta de balance",
