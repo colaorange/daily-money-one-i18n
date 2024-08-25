@@ -1,5 +1,10 @@
 ## Daily Money One
 
+### 1.5.1
+> **Fixed Bugs**
+> * #66 InvalidForegroundServiceTypeException: Starting FGS with type none
+> 
+
 ### 1.5.0
 > **Features**: 
 > * #50 Support more transation item layout template 
