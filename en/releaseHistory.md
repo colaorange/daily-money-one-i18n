@@ -1,5 +1,10 @@
 ## Daily Money One
 
+### 1.5.2
+> **Fixed Bugs**
+> * #68 i18n js error in some devices
+> 
+
 ### 1.5.1
 > **Fixed Bugs**
 > * #66 InvalidForegroundServiceTypeException: Starting FGS with type none
