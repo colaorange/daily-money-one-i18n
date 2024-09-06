@@ -1,1 +1,22 @@
-{}
+{
+    "serverMode": {
+        "wifiIp": "WiFi IP",
+        "port": "Port",
+        "portHint": "Service port on the phone. If the default port is occupied, you can use another port.",
+        "connectionInfo": "Connection Info",
+        "connectionPassword": "Connection Password",
+        "keepAwake": "Keep Awake",
+        "keepAwakeHint": "Prevent the phone from entering sleep mode. If your phone cannot provide connection services after going into standby, you can enable this feature."
+    },
+    "action": {
+        "start": "Start",
+        "stop": "Stop"
+    },
+    "screen": {
+        "serverMode": "Server Mode"
+    },
+    "message": {
+        "serverMode": "Turn your phone into a server, connect to it using a browser on your computer, and enjoy a larger screen and easier operation. When using this feature, please make sure the computer you want to connect to is on the same local network or has the correct routing configuration.",
+        "wifiModeOnly": "This feature can only be used when the phone is in WiFi mode."
+    }
+}

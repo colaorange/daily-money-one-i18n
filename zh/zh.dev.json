@@ -1,1 +1,22 @@
-{}
+{
+    "serverMode": {
+        "wifiIp": "WiFi 的 IP",
+        "port": "埠號",
+        "portHint": "手機上的服務埠號，當預設的埠號被佔用時，您可以使用其他埠號。",
+        "connectionInfo": "連線資訊",
+        "connectionPassword": "連線密碼",
+        "keepAwake": "避免待機",
+        "keepAwakeHint": "避免手機進入待機模式，防止手機因太久沒有操作進入睡眠狀態。若您的手機在進入待機模式後無法提供電腦連線服務，可以開啟此功能。"
+    },
+    "action": {
+        "start": "啟動",
+        "stop": "停止"
+    },
+    "screen": {
+        "serverMode": "伺服器模式"
+    },
+    "message": {
+        "serverMode": "讓手機變成伺服器，用電腦的瀏覽器連接到手機，享受更大螢幕，更方便的操作。使用此功能時，請務必確定要連線的電腦位於同一個區域網路，或有正確的路由設定。",
+        "wifiModeOnly": "這個功能僅能在手機開啟 WiFi 模式下使用。"
+    }
+}
