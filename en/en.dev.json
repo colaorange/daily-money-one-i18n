@@ -1,22 +1,24 @@
 {
     "serverMode": {
-        "wifiIp": "WiFi IP",
-        "port": "Port",
-        "portHint": "Service port on the phone. If the default port is occupied, you can use another port.",
-        "connectionInfo": "Connection Info",
-        "connectionPassword": "Connection Password",
-        "keepAwake": "Keep Awake",
-        "keepAwakeHint": "Prevent the phone from entering sleep mode. If your phone cannot provide connection services after going into standby, you can enable this feature."
+        "deviceIp": "Device IP address",
+        "port": "Port number",
+        "portHint": "The service port on the phone. If the default port is occupied, you can choose another port.",
+        "connectionInfo": "Connection information",
+        "connectionPassword": "Connection password",
+        "connectionPasswordHint": "The password to be used when connecting to the service, with a length of at least 6 characters.",
+        "keepAwake": "Prevent standby",
+        "keepAwakeHint": "Prevent the device from entering standby mode and avoid sleep mode due to inactivity. If your device cannot provide connection services after entering standby mode, you can enable this feature."
     },
     "action": {
         "start": "Start",
         "stop": "Stop"
     },
     "screen": {
-        "serverMode": "Server Mode"
+        "serverMode": "Server mode"
     },
     "message": {
-        "serverMode": "Turn your phone into a server, connect to it using a browser on your computer, and enjoy a larger screen and easier operation. When using this feature, please make sure the computer you want to connect to is on the same local network or has the correct routing configuration.",
-        "wifiModeOnly": "This feature can only be used when the phone is in WiFi mode."
+        "serverMode": "Turn the device into a server and connect to it using a browser on a computer for a larger screen and more convenient operation. Please ensure the connecting computer is on the same local network or properly configured with routing.",
+        "networkSuggestion": "It's recommended to use WiFi or Ethernet on the device. The current network connection type is {{type}}.",
+        "noNetwork": "No network connection detected."
     }
 }
