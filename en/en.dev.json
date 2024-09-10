@@ -5,7 +5,7 @@
         "portHint": "The service port on the phone. If the default port is occupied, you can choose another port.",
         "connectionInfo": "Connection information",
         "connectionPassword": "Connection password",
-        "connectionPasswordHint": "The password to be used when connecting to the service, with a length of at least 6 characters.",
+        "connectionPasswordHint": "The password to be used when connecting to the service, with a length of at least 6 characters. Once you start the server mode, the password will be automatically saved for easier reuse next time.",
         "keepAwake": "Prevent standby",
         "keepAwakeHint": "Prevent the device from entering standby mode and avoid sleep mode due to inactivity. If your device cannot provide connection services after entering standby mode, you can enable this feature."
     },

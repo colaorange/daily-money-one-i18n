@@ -5,9 +5,9 @@
         "portHint": "手機上的服務埠號。如果預設的埠號被佔用，您可以選擇其他埠號。",
         "connectionInfo": "連線資訊",
         "connectionPassword": "連線密碼",
-        "connectionPasswordHint": "連線到服務時要使用的密碼，長度6個字元以上",
+        "connectionPasswordHint": "連接到服務時使用的密碼，長度需超過6個字元。當您啟動伺服器模式後，該密碼會自動保存，方便下次使用相同的密碼",
         "keepAwake": "避免待機",
-        "keepAwakeHint": "防止設備進入待機模式，避免因長時間未操作進入睡眠。如果您的設備進入待機模式後無法提供連線服務，可以啟用此功能。"
+        "keepAwakeHint": "防止設備進入待機模式，避免因長時間未操作進入睡眠。如果您的設備進入待機模式後無法提供連線服務，可以啟用此功能"
     },
     "action": {
         "start": "啟動",
