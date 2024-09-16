@@ -24,7 +24,7 @@
     },
     "desktop": {
         "@": "Desktop",
-        "connectionUrl": "Connection URL",
+        "apiBasePath": "API Base URL",
         "wrongConnectionToken": "Incorrect connection token. Please ensure the token matches the one set on the device."
     }
 }
