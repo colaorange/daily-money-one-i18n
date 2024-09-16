@@ -4,14 +4,15 @@
         "port": "埠號",
         "portHint": "手機上的服務埠號。如果預設的埠號被佔用，您可以選擇其他埠號。",
         "connectionInfo": "連線資訊",
-        "connectionPassword": "連線密碼",
-        "connectionPasswordHint": "連接到服務時使用的密碼，長度需超過6個字元。當您啟動伺服器模式後，該密碼會自動保存，方便下次使用相同的密碼",
+        "connectionToken": "連線通行碼",
+        "connectionTokenHint": "連接到服務時使用的通行碼，長度需超過6個字元。當您啟動伺服器模式後，該通行碼會自動保存，方便下次使用相同的密碼",
         "keepAwake": "避免待機",
         "keepAwakeHint": "防止設備進入待機模式，避免因長時間未操作進入睡眠。如果您的設備進入待機模式後無法提供連線服務，可以啟用此功能"
     },
     "action": {
         "start": "啟動",
-        "stop": "停止"
+        "stop": "停止",
+        "authorize": "認証"
     },
     "screen": {
         "serverMode": "伺服器模式"
@@ -20,5 +21,10 @@
         "serverMode": "將設備變為伺服器，通過電腦的瀏覽器連接設備，享受更大的螢幕和更方便的操作。請確保要連接的電腦位於同一區域網路，或已正確配置路由。",
         "networkSuggestion": "建議在設備使用 WiFi 或 Ethernet 連線。當前的網路連線類型為 {{type}}。",
         "noNetwork": "未檢測到任何網路連線。"
+    },
+    "desktop": {
+        "@": "桌面",
+        "connectionUrl": "連線網址",
+        "wrongConnectionToken":"錯誤的連線通行碼，請確定通行碼與設備上設定的一致"
     }
 }
