@@ -24,6 +24,7 @@
     },
     "desktop": {
         "@": "桌面",
+        "home": "首頁",
         "apiBasePath": "API連線網址",
         "wrongConnectionToken":"錯誤的連線通行碼，請確定通行碼與設備上設定的一致"
     }
