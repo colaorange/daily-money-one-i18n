@@ -12,7 +12,8 @@
     "action": {
         "start": "Start",
         "stop": "Stop",
-        "authorize": "Authroize"
+        "authorize": "Authorize",
+        "exit": "Exit"
     },
     "screen": {
         "serverMode": "Server mode"
@@ -26,6 +27,17 @@
         "@": "Desktop",
         "home": "Home Page",
         "apiBasePath": "API Base URL",
-        "wrongConnectionToken": "Incorrect connection token. Please ensure the token matches the one set on the device."
+        "wrongConnectionToken": "Incorrect connection token. Please ensure the token matches the one set on the device.",
+        "balanceSheets": "Balance sheets",
+        "trendCharts": "Trend Charts",
+        "transactions": "Transactions",
+        "searchTransactions": "Search Transactions",
+        "timeGranularity": {
+            "@": "Granularity",
+            "daily": "Daily",
+            "weekly": "Weekly",
+            "monthly": "Monthly",
+            "yearly": "Yearly"
+        }
     }
 }

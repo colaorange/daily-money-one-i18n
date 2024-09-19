@@ -12,7 +12,8 @@
     "action": {
         "start": "啟動",
         "stop": "停止",
-        "authorize": "認証"
+        "authorize": "認証",
+        "exit": "離開"
     },
     "screen": {
         "serverMode": "伺服器模式"
@@ -26,6 +27,20 @@
         "@": "桌面",
         "home": "首頁",
         "apiBasePath": "API連線網址",
-        "wrongConnectionToken":"錯誤的連線通行碼，請確定通行碼與設備上設定的一致"
+        "wrongConnectionToken": "錯誤的連線通行碼，請確定通行碼與設備上設定的一致",
+        "balanceSheets": "資產負債表",
+        "trendCharts": "趨勢圖",
+        "transactions": "帳目列表",
+        "searchTransactions": "搜尋帳目",
+        "period": {
+            "@": "區間"
+        },
+        "timeGranularity": {
+            "@": "粒度",
+            "daily": "每日",
+            "weekly": "每周",
+            "monthly": "每月",
+            "yearly": "每年"
+        }
     }
 }
