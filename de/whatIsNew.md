@@ -5,6 +5,9 @@ Hast du Fragen oder Funktionswünsche? Trete der [Facebook-Fangruppe](https://ww
 
 ## Was ist neu
 
+### In Version 1.6.0
+*
+
 ### In Version 1.5.0
 * [Layout für die Transaktionsliste festlegen](https://youtu.be/TzQj2pY6sWs): Sie können die Anzeige von Transaktionen so einstellen, dass Einzahlungen zuerst oder Auszahlungen zuerst (Standard, wenn deaktiviert) priorisiert werden. Sie können auch wählen, ob die Notiz über oder unter (Standard, wenn deaktiviert) den Details positioniert werden soll.
 * [Alte Konten ausblenden, die nicht mehr benötigt werden](https://youtu.be/nKq7Mh_2nQA): Haben Sie viele alte Konten in Ihrer Kontoliste, die nicht mehr verwendet werden? Verwenden Sie die Ausblenden-Funktion, um zu verhindern, dass sie Ihre Auswahl und Vorgänge stören.

@@ -1,5 +1,22 @@
 ## Daily Money One
 
+### 1.6.0
+> **Features**: 
+> * 
+>
+>**Enhancement**: 
+> * 
+> 
+>**Fixed Bugs**
+> * 
+
+## History
+
+### 1.5.3
+> **Fixed Bugs**
+> * #72 Transaction List Does Not Load All Content When Accessed via Balance Sheet Screen 
+>
+
 ### 1.5.2
 > **Fixed Bugs**
 > * #68 i18n js error in some devices
@@ -24,8 +41,6 @@
 >**Fixed Bugs**
 > * #64 prevent push to same screen multiple time in slow device 
 > * #39 App crash when starting after a long standby 
-
-## History
 
 ### 1.4.0
 > **Features**: 
