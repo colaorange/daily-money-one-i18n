@@ -4,6 +4,9 @@
 
 ## Novedades
 
+### En la Versión 1.6.0
+*
+
 ### En la Versión 1.5.0
 * [Establecer el diseño de la lista de transacciones](https://youtu.be/TzQj2pY6sWs): Puedes configurar la visualización de las transacciones para priorizar primero los depósitos o primero los retiros (por defecto, si está desactivado), y también puedes elegir si la nota debe estar posicionada arriba o abajo (por defecto, si está desactivado) de los detalles.
 * [Ocultar cuentas antiguas que ya no se necesitan](https://youtu.be/nKq7Mh_2nQA): ¿Has acumulado muchas cuentas antiguas en tu lista de cuentas que ya no están en uso? Usa la función de ocultar para evitar que interfieran en tu selección y operaciones.

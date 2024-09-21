@@ -4,6 +4,9 @@ Bạn có câu hỏi hoặc yêu cầu tính năng không? Tham gia [nhóm fan t
 
 ## Có gì mới
 
+### Trong Phiên Bản 1.6.0
+*
+
 ### Trong Phiên Bản 1.5.0
 * [Thiết lập bố cục cho danh sách giao dịch](https://youtu.be/TzQj2pY6sWs): Bạn có thể thiết lập hiển thị giao dịch để ưu tiên tiền gửi trước hoặc rút tiền trước (mặc định, nếu tắt), và bạn cũng có thể chọn liệu ghi chú nên được đặt ở trên hoặc dưới (mặc định, nếu tắt) các chi tiết.
 * [Ẩn các tài khoản cũ không còn cần thiết](https://youtu.be/nKq7Mh_2nQA): Bạn có nhiều tài khoản cũ trong danh sách tài khoản của mình không còn sử dụng? Sử dụng tính năng ẩn để ngăn chúng làm rối tung các lựa chọn và thao tác của bạn.

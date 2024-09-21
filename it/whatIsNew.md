@@ -4,6 +4,9 @@ Hai domande o richieste di funzionalità? Unisciti al [gruppo di fan su Facebook
 
 ## Cosa c'è di nuovo
 
+### Nella Versione 1.6.0
+*
+
 ### Nella Versione 1.5.0
 * [Impostare il layout per l'elenco delle transazioni](https://youtu.be/TzQj2pY6sWs): Puoi impostare la visualizzazione delle transazioni per dare priorità ai depositi o ai prelievi per primi (impostazione predefinita, se disattivata), e puoi anche scegliere se la nota deve essere posizionata sopra o sotto (impostazione predefinita, se disattivata) i dettagli.
 * [Nascondere vecchi account che non sono più necessari](https://youtu.be/nKq7Mh_2nQA): Hai accumulato molti vecchi account nella tua lista che non sono più in uso? Usa la funzione di nascondere per evitare che interferiscano con le tue selezioni e operazioni.

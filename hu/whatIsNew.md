@@ -4,7 +4,10 @@ Vannak kérdései vagy javaslatai? Csatlakozzon a [Facebook rajongói csoporthoz
 
 ## Újdonságok
 
-### Az 1.4.0 verzióban
+### Az 1.6.0 verzióban
+*
+
+### Az 1.5.0 verzióban
 * [A tranzakciós lista elrendezésének beállítása](https://youtu.be/TzQj2pY6sWs): Beállíthatja a tranzakciók megjelenítését úgy, hogy először a befizetések vagy először a kifizetések (alapértelmezett, ha kikapcsolva) élvezzenek prioritást, és azt is kiválaszthatja, hogy a megjegyzés a részletek felett vagy alatt (alapértelmezett, ha kikapcsolva) helyezkedjen el.
 * [A régi, már nem szükséges fiókok elrejtése](https://youtu.be/nKq7Mh_2nQA): Felhalmozott sok régi fiókot a fióklistáján, amelyeket már nem használ? Használja az elrejtési funkciót, hogy megakadályozza őket a kiválasztás és a műveletek zavarásában.
 * A mérleg támogatja a fix tizedeshelyeket, és a záró nullák nem lesznek kihagyva, ami megkönnyíti az igazítást és az összehasonlítást.

@@ -4,6 +4,9 @@ Sorularınız veya özellik istekleriniz mi var? En son gelişmeleri almak için
 
 ## Yenilikler
 
+### Versiyon 1.6.0'da
+*
+
 ### Versiyon 1.5.0'da
 * [İşlem Listesi için Düzeni Ayarlama](https://youtu.be/TzQj2pY6sWs): İşlemlerin görüntülenmesini, öncelikli olarak para yatırma veya para çekme (kapalıysa varsayılan) olacak şekilde ayarlayabilirsiniz ve notun detayların üzerinde mi yoksa altında mı (kapalıysa varsayılan) yer alacağını seçebilirsiniz.
 * [Artık ihtiyaç duyulmayan eski hesapları gizle](https://youtu.be/nKq7Mh_2nQA): Hesap listenizde artık kullanılmayan birçok eski hesap biriktirdiniz mi? Seçimlerinizi ve işlemlerinizi karıştırmamaları için gizleme özelliğini kullanın.
