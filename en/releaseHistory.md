@@ -12,6 +12,11 @@
 
 ## History
 
+### 1.5.3
+> **Fixed Bugs**
+> * #72 Transaction List Does Not Load All Content When Accessed via Balance Sheet Screen 
+>
+
 ### 1.5.2
 > **Fixed Bugs**
 > * #68 i18n js error in some devices
