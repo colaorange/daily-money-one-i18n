@@ -21,7 +21,9 @@
     "message": {
         "serverMode": "將設備變為伺服器，通過電腦的瀏覽器連接設備，享受更大的螢幕和更方便的操作。請確保要連接的電腦位於同一區域網路，或已正確配置路由。",
         "networkSuggestion": "建議在設備使用 WiFi 或 Ethernet 連線。當前的網路連線類型為 {{type}}。",
-        "noNetwork": "未檢測到任何網路連線。"
+        "noNetwork": "未檢測到任何網路連線。",
+        "thankYouForClickAd": "謝謝您的支持，每一次的廣告點擊，都是對 $t(appName) 維護的一份助力。",
+        "thankYouForWatchAd": "謝謝您的支持，每一次的廣告觀看，都是對 $t(appName) 維護的巨大助力。"
     },
     "desktop": {
         "@": "桌面",
@@ -39,7 +41,7 @@
         "thisYear":"今年",
         "lastYear":"去年",
         "inAYear":"一年內",
-        "inThreeYears":"三年內",
+        "untilToday": "直到今天",
         "initDay": "初始日",
         "startFromInitDay": "從初始日開始",
         "startDate": "開始日期",
