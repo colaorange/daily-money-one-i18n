@@ -47,7 +47,7 @@
         "startDate": "Start Date",
         "endDate": "End Date",
         "period": "Period",
-        "allAccountTypes": "All Content Types",
+        "allAccountTypes": "All Account Types",
         "timeGranularity": {
             "@": "Granularity",
             "daily": "Daily",
