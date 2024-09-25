@@ -46,12 +46,16 @@
         "startFromInitDay": "Start from init day",
         "startDate": "Start Date",
         "endDate": "End Date",
+        "period": "Period",
+        "allAccountTypes": "All Content Types",
         "timeGranularity": {
             "@": "Granularity",
             "daily": "Daily",
             "weekly": "Weekly",
             "monthly": "Monthly",
             "yearly": "Yearly"
-        }
+        },
+        "accountTypeBalanceSheet": "Account Type - Balance Sheet",
+        "accountBalanceSheet": "Account - Balance Sheet"
     }
 }
