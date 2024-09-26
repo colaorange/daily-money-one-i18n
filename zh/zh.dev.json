@@ -51,7 +51,6 @@
         "timeGranularity": {
             "@": "粒度",
             "daily": "每日",
-            "weekly": "每周",
             "monthly": "每月",
             "yearly": "每年"
         },
