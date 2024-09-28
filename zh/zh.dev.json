@@ -55,6 +55,7 @@
             "yearly": "每年"
         },
         "accountTypeBalanceSheet": "帳戶類型-資產負債圖表",
-        "accountBalanceSheet": "帳戶-資產負債圖表"
+        "accountBalanceSheet": "帳戶-資產負債圖表",
+        "accumulatedAmount": "累加合計值"
     }
 }

@@ -55,6 +55,7 @@
             "yearly": "Yearly"
         },
         "accountTypeBalanceSheet": "Account Type - Balance Sheet",
-        "accountBalanceSheet": "Account - Balance Sheet"
+        "accountBalanceSheet": "Account - Balance Sheet",
+        "accumulatedAmount": "Accumulated Amount"
     }
 }
