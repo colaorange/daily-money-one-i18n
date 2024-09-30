@@ -23,7 +23,14 @@
         "networkSuggestion": "It's recommended to use WiFi or Ethernet on the device. The current network connection type is {{type}}.",
         "noNetwork": "No network connection detected.",
         "thankYouForClickAd": "Thank you for your support! Every ad click is a valuable contribution to maintaining $t(appName).",
-        "thankYouForWatchAd": "Thank you for your support! Every ad view is a tremendous help in maintaining $t(appName)."
+        "thankYouForWatchAd": "Thank you for your support! Every ad view is a tremendous help in maintaining $t(appName).",
+        "dayGranularityRangeInvalid": "When the time granularity for the query is $t(timeGranularity.daily), the start date must be set, and the time range must not exceed {{max}} days."
+    },
+    "timeGranularity": {
+        "@": "Granularity",
+        "daily": "Daily",
+        "monthly": "Monthly",
+        "yearly": "Yearly"
     },
     "desktop": {
         "@": "Desktop",
@@ -48,14 +55,10 @@
         "endDate": "End Date",
         "period": "Period",
         "allAccountTypes": "All Account Types",
-        "timeGranularity": {
-            "@": "Granularity",
-            "daily": "Daily",
-            "monthly": "Monthly",
-            "yearly": "Yearly"
-        },
-        "accountTypeBalanceSheet": "Account Type - Balance Sheet",
-        "accountBalanceSheet": "Account - Balance Sheet",
-        "accumulatedAmount": "Accumulated Amount"
+        "accountSummary": "Account - Summary",
+        "accumulatedAmount": "Accumulated Amount",
+        "initNAccumulatedAmount": "Init & Accumulated Amount",
+        "accountTypeTrend": "Account Type - Trend",
+        "accountTrend": "Account - Trend"
     }
 }
