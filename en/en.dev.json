@@ -1,1 +1,67 @@
-{}
+{
+    "serverMode": {
+        "deviceIp": "Device IP address",
+        "port": "Port number",
+        "portHint": "The service port on the phone. If the default port is occupied, you can choose another port.",
+        "connectionInfo": "Connection information",
+        "connectionToken": "Connection Token",
+        "connectionTokenHint": "The token to be used when connecting to the service, with a length of at least 6 characters. Once you start the server mode, the token will be automatically saved for easier reuse next time.",
+        "keepAwake": "Prevent standby",
+        "keepAwakeHint": "Prevent the device from entering standby mode and avoid sleep mode due to inactivity. If your device cannot provide connection services after entering standby mode, you can enable this feature."
+    },
+    "action": {
+        "start": "Start",
+        "stop": "Stop",
+        "authorize": "Authorize",
+        "exit": "Exit"
+    },
+    "screen": {
+        "serverMode": "Server mode"
+    },
+    "message": {
+        "serverMode": "Turn the device into a server and connect to it using a browser on a computer for a larger screen and more convenient operation. Please ensure the connecting computer is on the same local network or properly configured with routing.",
+        "networkSuggestion": "It's recommended to use WiFi or Ethernet on the device. The current network connection type is {{type}}.",
+        "noNetwork": "No network connection detected.",
+        "thankYouForClickAd": "Thank you for your support! Every ad click is a valuable contribution to maintaining $t(appName).",
+        "thankYouForWatchAd": "Thank you for your support! Every ad view is a tremendous help in maintaining $t(appName).",
+        "dayGranularityRangeInvalid": "When the time granularity for the query is $t(timeGranularity.daily), the start date must be set, and the time range must not exceed {{max}} days."
+    },
+    "timeGranularity": {
+        "@": "Granularity",
+        "daily": "Daily",
+        "monthly": "Monthly",
+        "yearly": "Yearly"
+    },
+    "desktop": {
+        "@": "Desktop",
+        "home": "Home Page",
+        "apiBasePath": "API Base URL",
+        "wrongConnectionToken": "Incorrect connection token. Please ensure the token matches the one set on the device.",
+        "balanceSheets": "Balance sheets",
+        "trendCharts": "Trend Charts",
+        "transactions": "Transactions",
+        "searchTransactions": "Search Transactions",
+        "thisMonth": "This Month",
+        "lastMonth": "Last Month",
+        "inAMonth": "Within a Month",
+        "inSixMonths": "Within Six Months",
+        "thisYear": "This Year",
+        "lastYear": "Last Year",
+        "inAYear": "Within a Year",
+        "untilToday": "Until Today",
+        "initDay": "Init Day",
+        "startFromInitDay": "Start from init day",
+        "startDate": "Start Date",
+        "endDate": "End Date",
+        "period": "Period",
+        "allAccountTypes": "All Account Types",
+        "accountSummary": "Account - Summary",
+        "accumulatedAmount": "Accumulated Amount",
+        "initNAccumulatedAmount": "Init & Accumulated Amount",
+        "accountTypeTrend": "Account Type - Trend",
+        "accountTrend": "Account - Trend",
+        "underConstruction": "$t(appName) needs your ad clicks, views, or donates to enhance its development and maintenance resources.",
+        "watchAds": "Watch ads on the device"
+    },
+    "underConstruction": "Under Construction"
+}

@@ -9,6 +9,7 @@ This application is developed using the following libraries, and their license d
  * @react-native-community/slider
  * @react-native-google-signin/google-signin
  * @react-navigation/bottom-tabs
+ * @react-native-community/netinfo
  * @react-navigation/material-bottom-tabs
  * @react-navigation/native
  * @react-navigation/native-stack
@@ -17,6 +18,7 @@ This application is developed using the following libraries, and their license d
  * base-x
  * browser-util-inspect
  * expo
+ * expo-clipboard
  * expo-document-picker
  * expo-haptics
  * expo-notifications
@@ -29,6 +31,8 @@ This application is developed using the following libraries, and their license d
  * lodash
  * moment
  * papaparse
+ * parse-multipart-data
+ * path-to-regexp
  * react
  * react-dom
  * react-native
@@ -39,7 +43,9 @@ This application is developed using the following libraries, and their license d
  * react-native-get-random-values
  * react-native-gifted-charts
  * react-native-linear-gradient
- * react-native-markdown-display  
+ * react-native-markdown-display
+ * react-native-mime-types  
+ * react-native-network-info
  * react-native-paper
  * react-native-paper-dates
  * react-native-quick-base64
@@ -47,6 +53,7 @@ This application is developed using the following libraries, and their license d
  * react-native-safe-area-context
  * react-native-screens
  * react-native-svg 
+ * react-native-tcp-socket
  * react-native-vector-icons
  * react-native-url-polyfill
  * react-native-web
