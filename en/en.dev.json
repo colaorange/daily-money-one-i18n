@@ -59,6 +59,9 @@
         "accumulatedAmount": "Accumulated Amount",
         "initNAccumulatedAmount": "Init & Accumulated Amount",
         "accountTypeTrend": "Account Type - Trend",
-        "accountTrend": "Account - Trend"
-    }
+        "accountTrend": "Account - Trend",
+        "underConstruction": "$t(appName) needs your ad clicks, views, or donates to enhance its development and maintenance resources.",
+        "watchAds": "Watch ads on the device"
+    },
+    "underConstruction": "Under Construction"
 }

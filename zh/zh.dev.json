@@ -59,6 +59,9 @@
         "initNAccumulatedAmount": "初始加累加合計值",
         "accountSummary": "帳戶 - 總覽",
         "accountTypeTrend": "帳戶類型 - 趨勢圖表",
-        "accountTrend": "帳戶 - 趨勢圖表"
-    }
+        "accountTrend": "帳戶 - 趨勢圖表",
+        "underConstruction": "$t(appName)需要您的廣告點擊，觀看或贊助來增加他的開發及維護能量",
+        "watchAds": "在設備上觀看廣告"
+    },
+    "underConstruction": "建構中"
 }
