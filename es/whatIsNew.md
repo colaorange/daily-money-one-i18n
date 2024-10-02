@@ -5,7 +5,7 @@
 ## Novedades
 
 ### En la Versión 1.6.0
-*
+* [Ver tus gráficos en tu computadora](https://youtu.be/Ag8cqg9gzi0): Proporciona el modo servidor. Después de habilitar este modo, podrás usar un navegador en la misma LAN para conectarte a tu teléfono y ver gráficos más detallados.
 
 ### En la Versión 1.5.0
 * [Establecer el diseño de la lista de transacciones](https://youtu.be/TzQj2pY6sWs): Puedes configurar la visualización de las transacciones para priorizar primero los depósitos o primero los retiros (por defecto, si está desactivado), y también puedes elegir si la nota debe estar posicionada arriba o abajo (por defecto, si está desactivado) de los detalles.

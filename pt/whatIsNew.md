@@ -5,6 +5,9 @@ Tem perguntas ou solicitações de funcionalidades? Junte-se ao [grupo de fãs n
 
 ## O Que Há de Novo
 
+### Na Versão 1.6.0
+* [Veja seus gráficos no computador](https://youtu.be/Ag8cqg9gzi0): Fornece o modo de servidor. Após ativar este modo, você poderá usar um navegador em um computador na mesma LAN para conectar-se ao seu telefone e visualizar gráficos mais detalhados.
+
 ### Na Versão 1.5.0
 * [Definir o layout para a lista de transações](https://youtu.be/TzQj2pY6sWs): Você pode configurar a exibição das transações para priorizar primeiro os depósitos ou primeiro os saques (padrão, se desativado), e também pode escolher se a nota deve ser posicionada acima ou abaixo (padrão, se desativado) dos detalhes.
 * [Ocultar contas antigas que não são mais necessárias](https://youtu.be/nKq7Mh_2nQA): Você acumulou muitas contas antigas na sua lista de contas que não estão mais em uso? Use a função de ocultar para evitar que interfiram na sua seleção e operações.

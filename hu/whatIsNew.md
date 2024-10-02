@@ -5,7 +5,7 @@ Vannak kérdései vagy javaslatai? Csatlakozzon a [Facebook rajongói csoporthoz
 ## Újdonságok
 
 ### Az 1.6.0 verzióban
-*
+* [Nézd meg a diagramokat a számítógépeden](https://youtu.be/Ag8cqg9gzi0): Szerver módot biztosít. Miután engedélyezte ezt a módot, egy számítógép böngészőjével, amely ugyanazon a LAN-on van, csatlakozhat a telefonjához és részletesebb diagramokat nézhet meg.
 
 ### Az 1.5.0 verzióban
 * [A tranzakciós lista elrendezésének beállítása](https://youtu.be/TzQj2pY6sWs): Beállíthatja a tranzakciók megjelenítését úgy, hogy először a befizetések vagy először a kifizetések (alapértelmezett, ha kikapcsolva) élvezzenek prioritást, és azt is kiválaszthatja, hogy a megjegyzés a részletek felett vagy alatt (alapértelmezett, ha kikapcsolva) helyezkedjen el.

@@ -5,7 +5,7 @@ Bạn có câu hỏi hoặc yêu cầu tính năng không? Tham gia [nhóm fan t
 ## Có gì mới
 
 ### Trong Phiên Bản 1.6.0
-*
+* [Xem biểu đồ trên máy tính của bạn](https://youtu.be/Ag8cqg9gzi0): Cung cấp chế độ máy chủ. Sau khi bật chế độ này, bạn sẽ có thể sử dụng trình duyệt trên máy tính trong cùng mạng LAN để kết nối với điện thoại và xem biểu đồ chi tiết hơn.
 
 ### Trong Phiên Bản 1.5.0
 * [Thiết lập bố cục cho danh sách giao dịch](https://youtu.be/TzQj2pY6sWs): Bạn có thể thiết lập hiển thị giao dịch để ưu tiên tiền gửi trước hoặc rút tiền trước (mặc định, nếu tắt), và bạn cũng có thể chọn liệu ghi chú nên được đặt ở trên hoặc dưới (mặc định, nếu tắt) các chi tiết.

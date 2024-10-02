@@ -5,7 +5,7 @@ Hai domande o richieste di funzionalità? Unisciti al [gruppo di fan su Facebook
 ## Cosa c'è di nuovo
 
 ### Nella Versione 1.6.0
-*
+* [Visualizza i tuoi grafici sul tuo computer](https://youtu.be/Ag8cqg9gzi0): Fornisce la modalità server. Dopo aver abilitato questa modalità, sarai in grado di utilizzare un browser su un computer nella stessa LAN per connetterti al tuo telefono e visualizzare grafici più dettagliati.
 
 ### Nella Versione 1.5.0
 * [Impostare il layout per l'elenco delle transazioni](https://youtu.be/TzQj2pY6sWs): Puoi impostare la visualizzazione delle transazioni per dare priorità ai depositi o ai prelievi per primi (impostazione predefinita, se disattivata), e puoi anche scegliere se la nota deve essere posizionata sopra o sotto (impostazione predefinita, se disattivata) i dettagli.

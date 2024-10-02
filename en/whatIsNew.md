@@ -5,7 +5,7 @@ Do you have questions or feature requests? Join [Facebook fan group](https://www
 ## What's New
 
 ### In Version 1.6.0
-*
+* [View your charts on your computer](https://youtu.be/Ag8cqg9gzi0): Provides server mode. After enabling this mode, you will be able to use a computer browser within the same LAN to connect to your phone and view more detailed charts.
 
 ### In Version 1.5.0
 * [Setting the Layout for the Transaction List](https://youtu.be/TzQj2pY6sWs): You can set the display of transactions to prioritize deposits first or withdrawals first (default, if turned off), and you can also choose whether the note should be positioned above or below(default, if turned off) the details.

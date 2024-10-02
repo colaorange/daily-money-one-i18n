@@ -6,7 +6,7 @@ Hast du Fragen oder Funktionswünsche? Trete der [Facebook-Fangruppe](https://ww
 ## Was ist neu
 
 ### In Version 1.6.0
-*
+* [Ihre Diagramme auf Ihrem Computer anzeigen](https://youtu.be/Ag8cqg9gzi0): Bietet den Servermodus. Nach dem Aktivieren dieses Modus können Sie einen Computerbrowser im selben LAN verwenden, um eine Verbindung zu Ihrem Telefon herzustellen und detailliertere Diagramme anzuzeigen.
 
 ### In Version 1.5.0
 * [Layout für die Transaktionsliste festlegen](https://youtu.be/TzQj2pY6sWs): Sie können die Anzeige von Transaktionen so einstellen, dass Einzahlungen zuerst oder Auszahlungen zuerst (Standard, wenn deaktiviert) priorisiert werden. Sie können auch wählen, ob die Notiz über oder unter (Standard, wenn deaktiviert) den Details positioniert werden soll.

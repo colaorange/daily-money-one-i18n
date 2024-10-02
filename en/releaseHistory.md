@@ -2,13 +2,8 @@
 
 ### 1.6.0
 > **Features**: 
-> * 
+> * #70 Provide a server mode that allows users to view their chart on a PC
 >
->**Enhancement**: 
-> * 
-> 
->**Fixed Bugs**
-> * 
 
 ## History
 

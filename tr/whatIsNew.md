@@ -5,7 +5,7 @@ Sorularınız veya özellik istekleriniz mi var? En son gelişmeleri almak için
 ## Yenilikler
 
 ### Versiyon 1.6.0'da
-*
+* [Grafiklerinizi bilgisayarınızda görüntüleyin](https://youtu.be/Ag8cqg9gzi0): Sunucu modu sağlar. Bu modu etkinleştirdikten sonra, aynı LAN içindeki bir bilgisayar tarayıcısını kullanarak telefonunuza bağlanabilir ve daha ayrıntılı grafikler görebilirsiniz.
 
 ### Versiyon 1.5.0'da
 * [İşlem Listesi için Düzeni Ayarlama](https://youtu.be/TzQj2pY6sWs): İşlemlerin görüntülenmesini, öncelikli olarak para yatırma veya para çekme (kapalıysa varsayılan) olacak şekilde ayarlayabilirsiniz ve notun detayların üzerinde mi yoksa altında mı (kapalıysa varsayılan) yer alacağını seçebilirsiniz.

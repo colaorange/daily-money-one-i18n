@@ -5,6 +5,14 @@ This application is developed using the following libraries, and their license d
 ### MIT
 
 [Link](https://en.wikipedia.org/wiki/MIT_License)
+ * @emotion/css
+ * @emotion/react
+ * @emotion/styled
+ * @fontsource/roboto
+ * @mui/icons-material
+ * @mui/x-charts
+ * @mui/material
+ * @mui/x-date-pickers
  * @react-native-async-storage/async-storage
  * @react-native-community/slider
  * @react-native-google-signin/google-signin
@@ -14,6 +22,7 @@ This application is developed using the following libraries, and their license d
  * @react-navigation/native
  * @react-navigation/native-stack
  * @robinbobin/react-native-google-drive-api-wrapper
+ * axios
  * buffer
  * base-x
  * browser-util-inspect
@@ -29,12 +38,18 @@ This application is developed using the following libraries, and their license d
  * iconv-lite
  * jsonschema
  * lodash
+ * mobx
+ * mobx-react-lite
  * moment
+ * moment-timezone
+ * notistack
  * papaparse
  * parse-multipart-data
  * path-to-regexp
  * react
  * react-dom
+ * react-error-boundary
+ * react-icons
  * react-native
  * react-native-device-info 
  * react-native-draggable-flatlist
@@ -57,8 +72,9 @@ This application is developed using the following libraries, and their license d
  * react-native-vector-icons
  * react-native-url-polyfill
  * react-native-web
- * uuid     
-
+ * react-router-dom
+ * uuid
+ 
 ### Apache-2.0
 
 [Link](https://www.apache.org/licenses/LICENSE-2.0)
@@ -69,6 +85,7 @@ This application is developed using the following libraries, and their license d
  * @realm/react
  * react-native-google-mobile-ads  
  * realm
+ * swagger-ui
  * typescript
  * xlsx
 
