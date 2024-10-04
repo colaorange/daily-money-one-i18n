@@ -4,6 +4,9 @@
 > **Features**: 
 > * #70 Provide a server mode that allows users to view their chart on a PC
 >
+> **Fixed Bugs**
+> * #73 Error adding some advance entry 
+> 
 
 ## History
 
