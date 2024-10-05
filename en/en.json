@@ -226,6 +226,7 @@
         "lastMonth": "Last Month",
         "lastYear": "Last Year",
         "period": "Period",
+        "playAdsInfo": "After authorization, ads will be played on the device.",
         "searchTransactions": "Search Transactions",
         "startDate": "Start Date",
         "startFromInitDay": "Start from init day",
