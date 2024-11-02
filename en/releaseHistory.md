@@ -3,7 +3,7 @@
 ### 1.6.1
 > **Fixed Bugs**
 > * #83 The home screen button label does not update after switching to a different language. 
-> 
+> * #80 The floating buttons are overlapping each other 
 
 ## History
 
