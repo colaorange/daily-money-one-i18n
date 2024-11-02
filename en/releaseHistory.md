@@ -1,5 +1,12 @@
 ## Daily Money One
 
+### 1.6.1
+> **Fixed Bugs**
+> * #83 The home screen button label does not update after switching to a different language. 
+> 
+
+## History
+
 ### 1.6.0
 > **Features**: 
 > * #70 Provide a server mode that allows users to view their chart on a PC
@@ -8,7 +15,6 @@
 > * #73 Error adding some advance entry 
 > 
 
-## History
 
 ### 1.5.3
 > **Fixed Bugs**
