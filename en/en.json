@@ -297,7 +297,8 @@
         "data": "License Data",
         "hint": "This software is free and relies on ads to support maintenance resources. It can be used without any license. However, users who contribute to the software (e.g., providing valuable multilingual translations, assisting with effective software promotion, identifying impactful bugs, etc.) can request an ad-free license from the author. You can set the acquired license here to enable and adjust ad levels in preferences. Please note that choosing an ad-free mode will reduce support for this software and affect maintenance resources and its lifecycle.",
         "invalidate": "Invalid License",
-        "signatureIncorrect": "The license signature is incorrect. Please ensure the content you provided has not been modified."
+        "signatureIncorrect": "The license signature is incorrect. Please ensure the content you provided has not been modified.",
+        "title": "Title"
     },
     "logs": "Logs",
     "menu": {

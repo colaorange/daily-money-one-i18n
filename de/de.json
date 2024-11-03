@@ -297,7 +297,8 @@
         "data": "Lizenzdaten",
         "hint": "Diese Software ist kostenlos und basiert auf Werbung, um Wartungsressourcen zu unterstützen. Sie kann ohne Lizenz verwendet werden. Benutzer, die zur Software beitragen (z.B. durch wertvolle mehrsprachige Übersetzungen, Unterstützung bei der effektiven Software-Promotion, Identifizierung von wichtigen Fehlern, etc.), können eine werbefreie Lizenz vom Autor anfordern. Sie können die erworbene Lizenz hier festlegen, um die Werbeeinstellungen in den Präferenzen zu aktivieren und anzupassen. Bitte beachten Sie, dass die Auswahl des werbefreien Modus die Unterstützung für diese Software reduziert und die Wartungsressourcen und den Lebenszyklus beeinträchtigt.",
         "invalidate": "Ungültige Lizenz",
-        "signatureIncorrect": "Die Lizenzsignatur ist falsch. Bitte stellen Sie sicher, dass der von Ihnen bereitgestellte Inhalt nicht geändert wurde."
+        "signatureIncorrect": "Die Lizenzsignatur ist falsch. Bitte stellen Sie sicher, dass der von Ihnen bereitgestellte Inhalt nicht geändert wurde.",
+        "title": "Titel"
     },
     "logs": "Protokolle",
     "menu": {

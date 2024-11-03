@@ -297,7 +297,8 @@
         "data": "Dati licenza",
         "hint": "Questo software è gratuito e si basa su annunci per supportare le risorse di manutenzione. Può essere utilizzato senza alcuna licenza. Tuttavia, gli utenti che contribuiscono al software (ad esempio, fornendo traduzioni multilingue di valore, assistendo nella promozione efficace del software, identificando bug significativi, ecc.) possono richiedere una licenza senza annunci dall'autore. È possibile impostare qui la licenza acquisita per abilitare e regolare i livelli di annunci nelle preferenze. Si prega di notare che scegliere una modalità senza annunci ridurrà il supporto per questo software e influenzerà le risorse di manutenzione e il suo ciclo di vita.",
         "invalidate": "Licenza non valida",
-        "signatureIncorrect": "La firma della licenza non è corretta. Assicurati che il contenuto fornito non sia stato modificato."
+        "signatureIncorrect": "La firma della licenza non è corretta. Assicurati che il contenuto fornito non sia stato modificato.",
+        "title": "Titolo"
     },
     "logs": "Log",
     "menu": {

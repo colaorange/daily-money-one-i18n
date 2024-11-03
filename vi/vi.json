@@ -297,7 +297,8 @@
         "data": "Dữ liệu giấy phép",
         "hint": "Phần mềm này miễn phí và dựa vào quảng cáo để hỗ trợ tài nguyên bảo trì. Nó có thể được sử dụng mà không cần giấy phép. Tuy nhiên, người dùng đóng góp cho phần mềm (ví dụ, cung cấp bản dịch đa ngôn ngữ có giá trị, hỗ trợ quảng bá phần mềm hiệu quả, xác định các lỗi quan trọng, v.v.) có thể yêu cầu giấy phép không có quảng cáo từ tác giả. Bạn có thể đặt giấy phép đã nhận ở đây để kích hoạt và điều chỉnh mức quảng cáo trong cài đặt. Xin lưu ý rằng việc chọn chế độ không có quảng cáo sẽ giảm sự hỗ trợ cho phần mềm này và ảnh hưởng đến tài nguyên bảo trì cũng như vòng đời của nó.",
         "invalidate": "Giấy phép không hợp lệ",
-        "signatureIncorrect": "Chữ ký của giấy phép không chính xác. Vui lòng đảm bảo nội dung bạn cung cấp không bị sửa đổi."
+        "signatureIncorrect": "Chữ ký của giấy phép không chính xác. Vui lòng đảm bảo nội dung bạn cung cấp không bị sửa đổi.",
+        "title": "Danh hiệu"
     },
     "logs": "Nhật Ký",
     "menu": {

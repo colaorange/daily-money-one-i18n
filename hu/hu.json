@@ -297,7 +297,8 @@
         "data": "Licencadatok",
         "hint": "Ez a szoftver ingyenes, és a hirdetésekre támaszkodik a karbantartási források támogatásához. Licenc nélkül is használható. Azok a felhasználók, akik hozzájárulnak a szoftverhez (pl. értékes többnyelvű fordítások biztosítása, hatékony szoftverpromóció támogatása, jelentős hibák azonosítása stb.), kérhetnek hirdetésmentes licencet a szerzőtől. Itt állíthatja be a megszerzett licencet, hogy engedélyezze és beállítsa a hirdetések szintjét a beállításokban. Felhívjuk figyelmét, hogy a hirdetésmentes mód kiválasztása csökkenti a szoftver támogatását, és befolyásolja a karbantartási forrásokat és annak életciklusát.",
         "invalidate": "Érvénytelen licenc",
-        "signatureIncorrect": "A licenc aláírása helytelen. Kérjük, győződjön meg arról, hogy az Ön által megadott tartalom nem változott."
+        "signatureIncorrect": "A licenc aláírása helytelen. Kérjük, győződjön meg arról, hogy az Ön által megadott tartalom nem változott.",
+        "title": "Cím"
     },
     "logs": "Naplók",
     "menu": {

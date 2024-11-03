@@ -297,7 +297,8 @@
         "data": "Lisans Verileri",
         "hint": "Bu yazılım ücretsizdir ve bakım kaynaklarını desteklemek için reklamlara dayanır. Herhangi bir lisans olmadan kullanılabilir. Bununla birlikte, yazılıma katkıda bulunan kullanıcılar (örneğin, değerli çok dilli çeviriler sağlamak, etkili yazılım tanıtımına yardımcı olmak, önemli hataları belirlemek, vb.) yazardan reklamsız bir lisans talep edebilirler. Burada elde edilen lisansı ayarlayarak reklam seviyelerini etkinleştirebilir ve tercihlerinizi ayarlayabilirsiniz. Reklamsız modu seçmenin, bu yazılım için desteği azaltacağını ve bakım kaynaklarını ve yaşam döngüsünü etkileyeceğini unutmayın.",
         "invalidate": "Geçersiz Lisans",
-        "signatureIncorrect": "Lisans imzası yanlış. Sağladığınız içeriğin değiştirilmediğinden emin olun."
+        "signatureIncorrect": "Lisans imzası yanlış. Sağladığınız içeriğin değiştirilmediğinden emin olun.",
+        "title": "Unvan"
     },
     "logs": "Kayıtlar",
     "menu": {
