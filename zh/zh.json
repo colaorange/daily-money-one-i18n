@@ -378,7 +378,7 @@
         "startJsonImportProcess": "開始 每日記帳本One 的JSON的匯入程序。",
         "startToRestoreReady": "選擇的備份檔案( 日期:  {{datetime}} )已經放入應用程式目錄, 請重新啟動應用程式來進行還原步驟(應用程式將會在重新啟動後, 再次詢問您是否要繼續進行還原)。",
         "storageDirectory": "目前許可存取的外部存取目錄為 /{{directory}}, 備份或匯出的檔案都會放在這個目錄。",
-        "swipForMoreFunction": "在各個項目上左右滑有更多的功能選項。",
+        "swipForMoreFunction": "在各個項目上左右滑動有更多的功能選項。",
         "thankYouForClickAd": "謝謝您的支持，每一次的廣告點擊，都是對 $t(appName) 維護的一份助力。",
         "thankYouForWatchAd": "謝謝您的支持，每一次的廣告觀看，都是對 $t(appName) 維護的巨大助力。",
         "transactionAccountMappingInvalid": "有{{size}}筆的帳目帳號資料對應不正確, 您仍可匯入, 但對應不正確的帳目帳號對應將被乎略",

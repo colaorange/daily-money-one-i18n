@@ -1,1 +1,11 @@
-{}
+{
+    "screen": {
+        "preferencesFunction": "功能設定"
+    },
+    "title": {
+        "selectionBeforeSwip": "滑動前需先選取項目"
+    },
+    "message": {
+        "selectionBeforeSwip": "您必須先選取清單中的項目，才能啟用該項目的左右滑動功能。此設定可提升清單操作效能，並有效避免滑動時的誤觸。"
+    }
+}
