@@ -3,7 +3,10 @@
         "preferencesFunction": "Function Settings"
     },
     "title": {
-        "selectionBeforeSwip": "Require Selection Before Swipe"
+        "selectionBeforeSwip": "Require Selection Before Swipe",
+        "monthEndTransactions": "Month-end Transactions",
+        "monthEndBalanceChart": "Month-end Balance Chart",
+        "monthEndBalanceSheet": "Month-end Balance Sheet"
     },
     "message": {
         "selectionBeforeSwip": "You must select an item in the list before enabling its swipe actions. This setting improves rendering performance and helps prevent accidental swipes while scrolling."
