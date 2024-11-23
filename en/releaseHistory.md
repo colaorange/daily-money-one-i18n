@@ -9,6 +9,7 @@
 > **Enhancement**
 > * #90 Suppor to import csv that has time information in detail list.
 > * #79 Improve Account Selection in Transaction Edit by Starting from Current Account in Daily Money One 
+> * #74 Show loading information when transaction or balance mode is changing and reloading 
 
 ## History
 
