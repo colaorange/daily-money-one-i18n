@@ -696,8 +696,8 @@
             "initial": "初始化"
         },
         "note": "備註",
-        "noteBeforeBody": "註解在前",
-        "noteBeforeBodyHint": "註解顯示在交易轉出轉入資訊之前",
+        "noteBeforeBody": "備解在前",
+        "noteBeforeBodyHint": "備解顯示在交易轉出轉入資訊之前",
         "noteHint": "帳目的備註, 長度0 - 1024個字元",
         "transDate": "日期",
         "transDatetime": "日期時間",

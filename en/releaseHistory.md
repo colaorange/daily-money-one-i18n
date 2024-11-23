@@ -4,6 +4,7 @@
 > **Features**: 
 > * #77 Add Option for First Touch Transaction Selection to Reduce Accidental Edits in Daily Money One 
 > * #78 Add Option to Set Default Balance Sheet View to 'Monthly Last Day' in Daily Money One 
+> * #86 Supoort open transaction note by default option
 >
 > **Enhancement**
 > * #90 Suppor to import csv that has time information in detail list.

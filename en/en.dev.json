@@ -10,5 +10,9 @@
     },
     "message": {
         "selectionBeforeSwip": "You must select an item in the list before enabling its swipe actions. This setting improves rendering performance and helps prevent accidental swipes while scrolling."
+    },
+    "transaction": {
+        "noteDefaultOpen": "Note Default Open",
+        "noteDefaultOpenHint": "Notes are opened by default, you can press a note to toggle the open state"
     }
 }
