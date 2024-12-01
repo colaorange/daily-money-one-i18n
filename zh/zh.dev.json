@@ -13,6 +13,11 @@
     },
     "transaction": {
         "noteDefaultOpen": "備註預設展開",
-        "noteDefaultOpenHint": "備註預設為展開狀態，您可以點擊筆記來切換展開或摺疊狀態"
+        "noteDefaultOpenHint": "備註預設為展開狀態，您可以點擊筆記來切換展開或摺疊狀態",
+        "backgroundMode": "背景顏色",
+        "backgroundModeHint": "使用透明或轉入或轉出帳戶的類別為背景顏色"
+    },
+    "default": {
+        "@": "預設"
     }
 }

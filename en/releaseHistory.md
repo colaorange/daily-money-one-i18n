@@ -7,6 +7,7 @@
 > * #86 Supoort open transaction note by default option
 > * #89 Support to reorder advanced transaction items enhancement
 > * #88 Support to delete advanced transaction's transfer object by any index enhancement
+> * #75 Add Option for Transaction View with Background Colors Based on Transaction Type in Daily Money One 
 >
 > **Enhancement**
 > * #90 Suppor to import csv that has time information in detail list.

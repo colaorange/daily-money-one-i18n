@@ -13,6 +13,13 @@
     },
     "transaction": {
         "noteDefaultOpen": "Note Default Open",
-        "noteDefaultOpenHint": "Notes are opened by default, you can press a note to toggle the open state"
+        "noteDefaultOpenHint": "Notes are opened by default, you can press a note to toggle the open state",
+        "backgroundMode": "Background Color",
+        "backgroundModeHint": "Use transparent or account type being transferred in or out as the background color.",
+        "depositFirst": "Transfer-in First",
+        "depositFirstHint": "Transfer-in items are shown first (account name on the left), and Transfer-out items are shown later (account name on the right)"
+    },
+    "default": {
+        "@": "Default"
     }
 }
