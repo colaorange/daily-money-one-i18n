@@ -4,6 +4,14 @@ Sorularınız veya özellik istekleriniz mi var? En son gelişmeleri almak için
 
 ## Yenilikler
 
+### Versiyon 1.7.0'da
+Bu sürüm, kullanıcı isteklerine dayalı olarak özellik güncellemelerini içerir:
+* **Seçim Yapılmadan Kaydırmayı Engelle**: Etkinleştirildiğinde, kaydırma işlemleri gerçekleştirilmeden önce öğelerin seçilmesi gerekir. Bu, istemeden kaydırmayı önler ve önemli ölçüde daha iyi bir işleme performansı sağlar, ancak ek bir seçim adımı gerektirir. (Tercihler > İşlev Ayarları)
+* **Not Varsayılan Açık**: Etkinleştirildiğinde, işlem listesindeki işlem notu varsayılan olarak açık olur. (Tercihler > Görünüm Ayarları > İşlem Listesi Ayarları)
+* **İşlem Arka Plan Rengi Seçenekleri**: Artık işlem listesindeki işlemin arka plan rengini değiştirebilirsiniz. Mevcut seçenekler şunları içerir: Varsayılan (tema arka plan rengi), Transfer-Çıkış Hesabı ve Transfer-Giriş Hesabı. (Tercihler > Görünüm Ayarları > İşlem Listesi Ayarları)
+* **Gelişmiş Modda İşlem Düzenleme Geliştirmeleri**: Gelişmiş düzenleme modunda, artık transferleri yeniden sıralayabilir ve herhangi bir sırada transferleri silebilirsiniz. Daha önce yalnızca son transfer silinebilir ve sıralama yapılamazdı.
+* **Ana Ekran Kısayol Ayarları**: Aşağıdaki kısayol seçenekleri eklendi: Ay Sonuna Kadar İşlemler, Ay Sonuna Kadar Bilanço, Ay Sonuna Kadar Bakiye Grafiği. 
+
 ### Versiyon 1.6.0'da
 * [Grafiklerinizi bilgisayarınızda görüntüleyin](https://youtu.be/Ag8cqg9gzi0): Sunucu modu sağlar. Bu modu etkinleştirdikten sonra, aynı LAN içindeki bir bilgisayar tarayıcısını kullanarak telefonunuza bağlanabilir ve daha ayrıntılı grafikler görebilirsiniz.
 

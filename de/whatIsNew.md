@@ -5,6 +5,14 @@ Hast du Fragen oder Funktionswünsche? Trete der [Facebook-Fangruppe](https://ww
 
 ## Was ist neu
 
+### In Version 1.7.0
+Dieses Release enthält Funktionsupdates basierend auf Benutzerwünschen:  
+* **Auswahl vor dem Wischen erforderlich**: Wenn aktiviert, müssen Elemente ausgewählt werden, bevor Wischaktionen ausgeführt werden können. Dies verhindert unbeabsichtigte Wischbewegungen und verbessert die Rendering-Leistung erheblich, erfordert jedoch einen zusätzlichen Auswahlvorgang. (Einstellungen > Funktions-Einstellungen)  
+* **Standardmäßiges Öffnen von Notizen**: Wenn aktiviert, wird die Transaktionsnotiz in der Transaktionsliste standardmäßig geöffnet. (Einstellungen > Anzeigeeinstellungen > Transaktionslisteneinstellungen)  
+* **Hintergrundfarboptionen für Transaktionen**: Sie können jetzt die Hintergrundfarbe von Transaktionen in der Transaktionsliste ändern. Verfügbare Optionen sind Standard (Design-Hintergrundfarbe), Abgangskonto und Zugangskonto. (Einstellungen > Anzeigeeinstellungen > Transaktionslisteneinstellungen)  
+* **Verbessertes erweitertes Bearbeitungsmodus für Transaktionen**: Im erweiterten Bearbeitungsmodus können Sie jetzt Überweisungen in beliebiger Reihenfolge umsortieren und löschen. Zuvor konnte nur die letzte Überweisung gelöscht werden, und eine Neuanordnung war nicht möglich.  
+* **Einstellungen für Startbildschirm-Verknüpfungen**: Folgende Verknüpfungsoptionen wurden hinzugefügt: Bis Monatsende Transaktionen, Bis Monatsende Bilanz, Bis Monatsende Balance-Diagramm.
+
 ### In Version 1.6.0
 * [Ihre Diagramme auf Ihrem Computer anzeigen](https://youtu.be/Ag8cqg9gzi0): Bietet den Servermodus. Nach dem Aktivieren dieses Modus können Sie einen Computerbrowser im selben LAN verwenden, um eine Verbindung zu Ihrem Telefon herzustellen und detailliertere Diagramme anzuzeigen.
 

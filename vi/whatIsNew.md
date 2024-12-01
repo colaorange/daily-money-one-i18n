@@ -4,6 +4,14 @@ Bạn có câu hỏi hoặc yêu cầu tính năng không? Tham gia [nhóm fan t
 
 ## Có gì mới
 
+### Trong Phiên Bản 1.7.0
+Bản phát hành này bao gồm các cập nhật tính năng dựa trên mong muốn của người dùng:
+* **Yêu cầu chọn trước khi vuốt**: Khi được bật, các mục phải được chọn trước khi có thể thực hiện các hành động vuốt. Điều này ngăn chặn vuốt nhầm và cải thiện đáng kể hiệu suất kết xuất, mặc dù cần thêm một bước chọn. (Tùy chọn > Cài đặt chức năng)
+* **Mở ghi chú mặc định**: Khi được bật, ghi chú giao dịch trong danh sách giao dịch sẽ được mở mặc định. (Tùy chọn > Cài đặt hiển thị > Cài đặt danh sách giao dịch)
+* **Tùy chọn màu nền giao dịch**: Bây giờ bạn có thể thay đổi màu nền của giao dịch trong danh sách giao dịch. Các tùy chọn bao gồm: Mặc định (màu nền theo chủ đề), Tài khoản chuyển ra, và Tài khoản chuyển vào. (Tùy chọn > Cài đặt hiển thị > Cài đặt danh sách giao dịch)
+* **Chỉnh sửa nâng cao cho giao dịch được cải thiện**: Trong chế độ chỉnh sửa nâng cao, giờ đây bạn có thể sắp xếp lại bất kỳ chuyển khoản nào và xóa các chuyển khoản theo bất kỳ thứ tự nào. Trước đây, chỉ có thể xóa chuyển khoản cuối cùng và không thể sắp xếp lại.
+* **Cài đặt phím tắt Màn hình chính**: Đã thêm các tùy chọn phím tắt sau: Giao dịch đến cuối tháng, Bảng cân đối đến cuối tháng, Biểu đồ số dư đến cuối tháng.
+
 ### Trong Phiên Bản 1.6.0
 * [Xem biểu đồ trên máy tính của bạn](https://youtu.be/Ag8cqg9gzi0): Cung cấp chế độ máy chủ. Sau khi bật chế độ này, bạn sẽ có thể sử dụng trình duyệt trên máy tính trong cùng mạng LAN để kết nối với điện thoại và xem biểu đồ chi tiết hơn.
 

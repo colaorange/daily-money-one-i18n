@@ -4,6 +4,14 @@ Vannak kérdései vagy javaslatai? Csatlakozzon a [Facebook rajongói csoporthoz
 
 ## Újdonságok
 
+### Az 1.7.0 verzióban
+Ez a kiadás felhasználói kívánságok alapján tartalmazza a funkciófrissítéseket:
+* **Kiválasztás Kötelezővé Tétele Mielőtt Elhúzna**: Engedélyezés esetén az elemeket ki kell választani, mielőtt a húzási műveletek végrehajthatók. Ez megakadályozza a véletlen húzásokat és jelentősen javítja a megjelenítési teljesítményt, bár egy további kiválasztási lépést igényel. (Beállítások > Funkcióbeállítások)
+* **Alapértelmezett Jegyzet Megnyitása**: Engedélyezés esetén a tranzakciólistában lévő tranzakciós jegyzet alapértelmezetten nyitva lesz. (Beállítások > Megjelenítés beállításai > Tranzakciólista beállításai)
+* **Tranzakció Háttérszín Beállítások**: Mostantól megváltoztathatja a tranzakciólistában lévő tranzakció háttérszínét. Az elérhető lehetőségek: Alapértelmezett (téma háttérszíne), Átutalási számla kimenő, és Átutalási számla bejövő. (Beállítások > Megjelenítés beállításai > Tranzakciólista beállításai)
+* **Továbbfejlesztett Haladó Módú Szerkesztés Tranzakciókhoz**: Haladó szerkesztési módban mostantól átrendezheti az átutalásokat és bármilyen sorrendben törölheti azokat. Korábban csak az utolsó átutalás volt törölhető, és az átrendezés nem volt lehetséges.
+* **Kezdőképernyő Gyorsbillentyű Beállítások**: A következő gyorsbillentyű opciók kerültek hozzáadásra: Hónap végéig tartó tranzakciók, Hónap végéig tartó mérleg, Hónap végéig tartó egyensúlyi diagram.
+
 ### Az 1.6.0 verzióban
 * [Nézd meg a diagramokat a számítógépeden](https://youtu.be/Ag8cqg9gzi0): Szerver módot biztosít. Miután engedélyezte ezt a módot, egy számítógép böngészőjével, amely ugyanazon a LAN-on van, csatlakozhat a telefonjához és részletesebb diagramokat nézhet meg.
 

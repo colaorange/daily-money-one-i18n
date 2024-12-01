@@ -5,6 +5,14 @@ Tem perguntas ou solicitações de funcionalidades? Junte-se ao [grupo de fãs n
 
 ## O Que Há de Novo
 
+### Na Versão 1.7.0
+Este lançamento inclui atualizações de recursos baseadas nos desejos dos usuários:  
+* **Exigir Seleção Antes de Deslizar**: Quando ativado, os itens devem ser selecionados antes que as ações de deslizar possam ser realizadas. Isso evita deslizes acidentais e melhora significativamente o desempenho de renderização, embora exija uma etapa adicional de seleção. (Preferências > Configurações de Função)  
+* **Abrir Nota por Padrão**: Quando ativado, a nota da transação na lista de transações será aberta por padrão. (Preferências > Configurações de Exibição > Configurações da Lista de Transações)  
+* **Opções de Cor de Fundo para Transações**: Agora você pode alterar a cor de fundo das transações na lista de transações. As opções disponíveis incluem Padrão (cor de fundo do tema), Conta de Transferência de Saída e Conta de Transferência de Entrada. (Preferências > Configurações de Exibição > Configurações da Lista de Transações)  
+* **Edição em Modo Avançado Aprimorada para Transações**: No modo de edição avançada, agora é possível reordenar qualquer transferência e excluir transferências em qualquer ordem. Anteriormente, apenas a última transferência podia ser excluída, e o reordenamento não era possível.  
+* **Configurações de Atalho da Tela Inicial**: Foram adicionadas as seguintes opções de atalho: Transações Até o Final do Mês, Balanço Até o Final do Mês, Gráfico de Saldo Até o Final do Mês.
+
 ### Na Versão 1.6.0
 * [Veja seus gráficos no computador](https://youtu.be/Ag8cqg9gzi0): Fornece o modo de servidor. Após ativar este modo, você poderá usar um navegador em um computador na mesma LAN para conectar-se ao seu telefone e visualizar gráficos mais detalhados.
 

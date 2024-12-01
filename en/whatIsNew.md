@@ -4,6 +4,14 @@ Do you have questions or feature requests? Join [Facebook fan group](https://www
 
 ## What's New
 
+### In Version 1.7.0
+This release includes feature updates based on user wishes:
+* **Require Selection Before Swiping**: When enabled, items must be selected before swipe actions can be performed. This prevents accidental swipes and significantly improves rendering performance, though it requires an additional selection step. (Preferences > Function Settings)
+* **Note Default Open**: When enabled, transaction note in the transaction list will be opened by default. (Preferences > Display Settings > Transaction List Settings)
+* **Transaction Background Color Options**: You can now change the background color of transaction in the transaction list. Available options include Default (theme background color), Transfer-out Account, and Transfer-in Account. ( Preferences > Display Settings > Transaction List Settings)
+* **Enhanced Advanced Mode Editing for Transaction**: In advanced editing mode, you can now reorder any transfers and delete transfers in any order. Previously, only the last transfer could be deleted, and reordering was not possible.
+* **HomeScreen Shortcut Settings**: Added the following shortcut options: Month-end Transactions, Month-end Balance Sheet, Month-end BalanceChart.
+
 ### In Version 1.6.0
 * [View your charts on your computer](https://youtu.be/Ag8cqg9gzi0): Provides server mode. After enabling this mode, you will be able to use a computer browser within the same LAN to connect to your phone and view more detailed charts.
 

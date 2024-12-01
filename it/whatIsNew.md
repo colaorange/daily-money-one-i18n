@@ -4,6 +4,14 @@ Hai domande o richieste di funzionalità? Unisciti al [gruppo di fan su Facebook
 
 ## Cosa c'è di nuovo
 
+### Nella Versione 1.7.0
+Questa versione include aggiornamenti delle funzionalità basati sui desideri degli utenti:  
+* **Richiedi Selezione Prima di Scorrere**: Quando abilitata, gli elementi devono essere selezionati prima che possano essere eseguite azioni di scorrimento. Questo previene scorrimenti accidentali e migliora significativamente le prestazioni di rendering, anche se richiede un passaggio aggiuntivo per la selezione. (Preferenze > Impostazioni Funzionali)  
+* **Nota Aperta di Default**: Quando abilitata, la nota della transazione nella lista delle transazioni sarà aperta per impostazione predefinita. (Preferenze > Impostazioni di Visualizzazione > Impostazioni Lista Transazioni)  
+* **Opzioni Colore di Sfondo delle Transazioni**: Ora è possibile modificare il colore di sfondo delle transazioni nella lista delle transazioni. Le opzioni disponibili includono Predefinito (colore di sfondo del tema), Account di trasferimento uscente e Account di trasferimento entrante. (Preferenze > Impostazioni di Visualizzazione > Impostazioni Lista Transazioni)  
+* **Modifica in Modalità Avanzata Migliorata per Transazioni**: In modalità di modifica avanzata, è ora possibile riordinare qualsiasi trasferimento ed eliminare trasferimenti in qualsiasi ordine. In precedenza, solo l'ultimo trasferimento poteva essere eliminato e non era possibile effettuare riordinamenti.  
+* **Impostazioni Scorciatoia della Schermata Home**: Aggiunte le seguenti opzioni di scorciatoia: Transazioni fino a fine mese, Bilancio fino a fine mese, Grafico del Bilancio fino a fine mese.  
+
 ### Nella Versione 1.6.0
 * [Visualizza i tuoi grafici sul tuo computer](https://youtu.be/Ag8cqg9gzi0): Fornisce la modalità server. Dopo aver abilitato questa modalità, sarai in grado di utilizzare un browser su un computer nella stessa LAN per connetterti al tuo telefono e visualizzare grafici più dettagliati.
 
