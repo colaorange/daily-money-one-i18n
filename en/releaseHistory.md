@@ -5,6 +5,8 @@
 > * #77 Add Option for First Touch Transaction Selection to Reduce Accidental Edits in Daily Money One 
 > * #78 Add Option to Set Default Balance Sheet View to 'Monthly Last Day' in Daily Money One 
 > * #86 Supoort open transaction note by default option
+> * #89 Support to reorder advanced transaction items enhancement
+> * #88 Support to delete advanced transaction's transfer object by any index enhancement
 >
 > **Enhancement**
 > * #90 Suppor to import csv that has time information in detail list.
