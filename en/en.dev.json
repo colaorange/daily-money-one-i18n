@@ -1,1 +1,6 @@
-{}
+{
+    "searchCondition": {
+        "withdrawalAccountsHint": "Accounts the transfer-in to search (multiple select)",
+        "depositAccountsHint": "Accounts for the transfer-out to search (multiple select)"
+    }
+}
