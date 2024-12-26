@@ -1,1 +1,6 @@
-{}
+{
+    "searchCondition": {
+        "withdrawalAccountsHint": "要搜尋的轉出帳戶(多選)",
+        "depositAccountsHint": "要搜尋的轉入帳戶(多選)"
+    }
+}
