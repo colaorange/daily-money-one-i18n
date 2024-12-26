@@ -2,5 +2,9 @@
     "searchCondition": {
         "withdrawalAccountsHint": "Accounts the transfer-in to search (multiple select)",
         "depositAccountsHint": "Accounts for the transfer-out to search (multiple select)"
+    },
+    "transaction": {
+        "initReverseValue": "Reverse Initial Amount",
+        "initReverseValueHint": "Use this when your initial amount is a negative value; checking this option will reverse the direction of the initial amount of the account."
     }
 }
