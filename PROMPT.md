@@ -7,7 +7,7 @@
  {{content}}
 
  * Translate this JSON into {{language}}, Keeping Key the same, keeping "Daily Money", "Daily Money One", "Google", "Google Drive" in English: {{content}}
-   > Reduce the content into smaller parts (maintain JSON style) if it exceeds a certain size
+   > Reduce the content into smaller parts (maintain JSON style) if it exceeds a certain size (e.g. 10000 characters)
 
  * keeping each language in their paragraph
 
@@ -28,6 +28,7 @@
  * `it`: `Italiano`,
  * `ja`: `日本語`,
  * `ko`: `한국어`,
+ * `nl`: `Nederlands`,
  * `pt`: `Português`,
  * `ru`: `Русский`,
  * `th`: `ไทย`,

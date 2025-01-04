@@ -6,5 +6,8 @@
     "transaction":{
         "initReverseValue": "反向初始金額",
         "initReverseValueHint": "當您的初始金額為負值時使用，勾選此項目將反轉帳啟的初始金額方向"
+    },
+    "language": {
+        "nl": "荷蘭語"
     }
 }
