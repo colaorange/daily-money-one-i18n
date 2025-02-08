@@ -5,6 +5,13 @@ Tem perguntas ou solicitações de funcionalidades? Junte-se ao [grupo de fãs n
 
 ## O Que Há de Novo
 
+### Na Versão 1.8.0
+Esta versão inclui também atualizações de funcionalidades baseadas nos desejos dos usuários:
+* **Notas Aprimoradas**: Suporta notas de várias linhas com quebras de linha e adiciona um botão de limpar no campo de entrada.
+* **Opções de Pesquisa de Conta Melhoradas**: Adiciona condições para contas de transferência de saída e de entrada na pesquisa de transações.
+* **Permitir Valor Inicial Invertido**: Quando o valor inicial for negativo, você pode definir a direção do valor inicial da conta inversa.
+* **Adicionado suporte ao idioma holandês**
+
 ### Na Versão 1.7.0
 Este lançamento inclui atualizações de recursos baseadas nos desejos dos usuários:  
 * **Exigir Seleção Antes de Deslizar**: Quando ativado, os itens devem ser selecionados antes que as ações de deslizar possam ser realizadas. Isso evita deslizes acidentais e melhora significativamente o desempenho de renderização, embora exija uma etapa adicional de seleção. (Preferências > Configurações de Função)  

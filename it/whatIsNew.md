@@ -4,6 +4,13 @@ Hai domande o richieste di funzionalità? Unisciti al [gruppo di fan su Facebook
 
 ## Cosa c'è di nuovo
 
+### Nella Versione 1.8.0
+Questa versione include anche aggiornamenti delle funzionalità basati sui desideri degli utenti:
+* **Note Migliorate**: Supporta note su più righe con interruzioni di riga e aggiunge un pulsante di cancellazione nel campo di input.
+* **Migliori Opzioni di Ricerca Account**: Aggiunge condizioni per i conti di trasferimento in uscita e in entrata nella ricerca delle transazioni.
+* **Consenti Importo Iniziale Invertito**: Quando l'importo iniziale è negativo, puoi impostare la direzione dell'importo iniziale del conto inverso.
+* **Aggiunto il Supporto per la Lingua Olandese**
+
 ### Nella Versione 1.7.0
 Questa versione include aggiornamenti delle funzionalità basati sui desideri degli utenti:  
 * **Richiedi Selezione Prima di Scorrere**: Quando abilitata, gli elementi devono essere selezionati prima che possano essere eseguite azioni di scorrimento. Questo previene scorrimenti accidentali e migliora significativamente le prestazioni di rendering, anche se richiede un passaggio aggiuntivo per la selezione. (Preferenze > Impostazioni Funzionali)  

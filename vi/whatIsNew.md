@@ -4,6 +4,13 @@ Bạn có câu hỏi hoặc yêu cầu tính năng không? Tham gia [nhóm fan t
 
 ## Có gì mới
 
+### Trong Phiên Bản 1.8.0
+Phiên bản này cũng bao gồm các cập nhật tính năng dựa trên mong muốn của người dùng:
+* **Ghi Chú Nâng Cao**: Hỗ trợ ghi chú nhiều dòng với ngắt dòng và thêm nút xóa trong trường nhập.
+* **Tùy Chọn Tìm Kiếm Tài Khoản Cải Tiến**: Thêm điều kiện cho cả tài khoản chuyển ra và chuyển vào trong tìm kiếm giao dịch.
+* **Cho Phép Số Dư Ban Đầu Đảo Ngược**: Khi số dư ban đầu của bạn là số âm, bạn có thể đặt hướng số dư ban đầu của tài khoản đảo ngược.
+* **Đã Thêm Hỗ Trợ Ngôn Ngữ Hà Lan**
+
 ### Trong Phiên Bản 1.7.0
 Bản phát hành này bao gồm các cập nhật tính năng dựa trên mong muốn của người dùng:
 * **Yêu cầu chọn trước khi vuốt**: Khi được bật, các mục phải được chọn trước khi có thể thực hiện các hành động vuốt. Điều này ngăn chặn vuốt nhầm và cải thiện đáng kể hiệu suất kết xuất, mặc dù cần thêm một bước chọn. (Tùy chọn > Cài đặt chức năng)

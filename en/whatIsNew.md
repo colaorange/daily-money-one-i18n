@@ -4,6 +4,13 @@ Do you have questions or feature requests? Join [Facebook fan group](https://www
 
 ## What's New
 
+### In Version 1.8.0
+This release includes feature updates based on user wishes too:
+* **Enhanced Notes**: Supports multi-line notes with line breaks and adds a clear button in the input field.
+* **Improved Account Search Options**: Adds conditions for both Transfer-out and Transfer-in accounts in transaction search.
+* **Allow Reversed Initial Amount**: When your initial amount is negative, you can set the reversed account's initial amount direction.
+* **Added Dutch Language Support**.
+
 ### In Version 1.7.0
 This release includes feature updates based on user wishes:
 * **Require Selection Before Swiping**: When enabled, items must be selected before swipe actions can be performed. This prevents accidental swipes and significantly improves rendering performance, though it requires an additional selection step. (Preferences > Function Settings)

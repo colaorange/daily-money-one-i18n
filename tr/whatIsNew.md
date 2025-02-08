@@ -4,6 +4,13 @@ Sorularınız veya özellik istekleriniz mi var? En son gelişmeleri almak için
 
 ## Yenilikler
 
+### Versiyon 1.8.0'da
+Bu sürüm, kullanıcı taleplerine dayalı özellik güncellemelerini de içermektedir:
+* **Gelişmiş Notlar**: Çok satırlı notları satır sonları ile destekler ve giriş alanına temizleme düğmesi ekler.
+* **Geliştirilmiş Hesap Arama Seçenekleri**: İşlem aramasında hem çıkış hem de giriş hesapları için koşullar ekler.
+* **Ters Başlangıç Tutarına İzin Ver**: Başlangıç tutarınız negatifse, ters hesabın başlangıç tutar yönünü ayarlayabilirsiniz.
+* **Hollandaca Dil Desteği Eklendi**
+
 ### Versiyon 1.7.0'da
 Bu sürüm, kullanıcı isteklerine dayalı olarak özellik güncellemelerini içerir:
 * **Seçim Yapılmadan Kaydırmayı Engelle**: Etkinleştirildiğinde, kaydırma işlemleri gerçekleştirilmeden önce öğelerin seçilmesi gerekir. Bu, istemeden kaydırmayı önler ve önemli ölçüde daha iyi bir işleme performansı sağlar, ancak ek bir seçim adımı gerektirir. (Tercihler > İşlev Ayarları)

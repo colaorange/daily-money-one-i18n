@@ -4,6 +4,13 @@ Heb je vragen of functieverzoeken? Word lid van de [Facebook-fangroep](https://w
 
 ## Wat is er nieuw
 
+### In versie 1.8.0  
+Deze release bevat ook functie-updates op basis van gebruikerswensen:
+* **Verbeterde Notities**: Ondersteunt notities met meerdere regels en regelafbrekingen en voegt een wis-knop toe in het invoerveld.
+* **Verbeterde Accountzoekopties**: Voegt voorwaarden toe voor zowel overboekingen uit als overboekingen in bij de transactiezoekfunctie.
+* **Omgekeerd Initieel Bedrag Toestaan**: Wanneer uw initiële bedrag negatief is, kunt u de richting van het initiële bedrag van de tegenrekening instellen.
+* **Nederlandse taalondersteuning toegevoegd**
+
 ### In versie 1.7.0  
 Deze release bevat functie-updates op basis van gebruikerswensen:  
 * **Selectie vereist voor vegen**: Wanneer ingeschakeld, moeten items worden geselecteerd voordat veegacties kunnen worden uitgevoerd. Dit voorkomt per ongeluk vegen en verbetert de weergaveprestaties aanzienlijk, hoewel een extra selectiestap nodig is. (Voorkeuren > Functie-instellingen)  

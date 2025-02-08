@@ -4,6 +4,13 @@ Vannak kérdései vagy javaslatai? Csatlakozzon a [Facebook rajongói csoporthoz
 
 ## Újdonságok
 
+### Az 1.8.0 verzióban
+Ez a kiadás felhasználói kívánságok alapján készült funkciófrissítéseket is tartalmaz:
+* **Továbbfejlesztett Jegyzetek**: Támogatja a több soros jegyzeteket sortörésekkel, és egy törlés gombot ad a beviteli mezőhöz.
+* **Fejlettebb Fiókkeresési Opciók**: Hozzáadja a feltételeket mind a kimenő, mind a bejövő átutalási számlákhoz a tranzakciókeresésben.
+* **Fordított Kezdeti Összeg Engedélyezése**: Ha a kezdeti összeg negatív, beállíthatja az ellenkező számla kezdeti összegének irányát.
+* **Hozzáadva a holland nyelv támogatása**
+
 ### Az 1.7.0 verzióban
 Ez a kiadás felhasználói kívánságok alapján tartalmazza a funkciófrissítéseket:
 * **Kiválasztás Kötelezővé Tétele Mielőtt Elhúzna**: Engedélyezés esetén az elemeket ki kell választani, mielőtt a húzási műveletek végrehajthatók. Ez megakadályozza a véletlen húzásokat és jelentősen javítja a megjelenítési teljesítményt, bár egy további kiválasztási lépést igényel. (Beállítások > Funkcióbeállítások)

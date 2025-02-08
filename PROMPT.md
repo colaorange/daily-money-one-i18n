@@ -1,12 +1,12 @@
 
 ### ChatGPT prompt to help me translate resources:
 
- * Translate all the English Markdown after %%%%%%%%%% into {{language}}, include the link label and header, but , but keeping "Daily Money", "Daily Money One", "Google", "Google Drive" in English, don't ignore any YouYube link: 
+ * Translate all the English Markdown after %%%%%%%%%% into {{language}}, include the link label and header, keeping each language in their paragraph, keeping "Daily Money", "Daily Money One", "Google", "Google Drive" in English, don't ignore any YouYube link: 
  %%%%%%%%%%
  
  {{content}}
 
- * Translate this JSON into {{language}}, Keeping Key the same, keeping "Daily Money", "Daily Money One", "Google", "Google Drive" in English: {{content}}
+ * Translate this JSON into {{language}}, keeping each language in their paragraph, keeping "Daily Money", "Daily Money One", "Google", "Google Drive" in English: {{content}}
    > Reduce the content into smaller parts (maintain JSON style) if it exceeds a certain size (e.g. 10000 characters)
 
  * keeping each language in their paragraph

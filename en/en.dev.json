@@ -1,16 +1,1 @@
-{
-    "searchCondition": {
-        "withdrawalAccountsHint": "Accounts the transfer-in to search (multiple select)",
-        "depositAccountsHint": "Accounts for the transfer-out to search (multiple select)"
-    },
-    "transaction": {
-        "initReverseValue": "Reverse Initial Amount",
-        "initReverseValueHint": "Use this when your initial amount is a negative value; checking this option will reverse the direction of the initial amount of the account."
-    },
-    "message": {
-        "transactionInitialModeHint": "The initial mode is a special transaction creation mode. It sets the initial value for an account when starting accounting or adding an account, without the need to set a date. Income and liability account types will create transfer-outs, while the remaining account types will create transfer-ins."
-    },
-    "language": {
-        "nl": "Dutch"
-    }
-}
+{}

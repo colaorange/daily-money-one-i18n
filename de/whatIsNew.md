@@ -5,6 +5,13 @@ Hast du Fragen oder Funktionswünsche? Trete der [Facebook-Fangruppe](https://ww
 
 ## Was ist neu
 
+### In Version 1.8.0
+Dieses Release enthält auch Funktionsaktualisierungen basierend auf Benutzerwünschen:
+* **Erweiterte Notizen**: Unterstützt mehrzeilige Notizen mit Zeilenumbrüchen und fügt eine Löschtaste im Eingabefeld hinzu.
+* **Verbesserte Kontosuchoptionen**: Fügt Bedingungen für sowohl Überweisungsausgangs- als auch Überweisungseingangskonten in der Transaktionssuche hinzu.
+* **Umgekehrten Anfangsbetrag erlauben**: Wenn Ihr Anfangsbetrag negativ ist, können Sie die Richtung des Anfangsbetrags des Gegenkontos festlegen.
+* **Niederländische Sprachunterstützung hinzugefügt**
+
 ### In Version 1.7.0
 Dieses Release enthält Funktionsupdates basierend auf Benutzerwünschen:  
 * **Auswahl vor dem Wischen erforderlich**: Wenn aktiviert, müssen Elemente ausgewählt werden, bevor Wischaktionen ausgeführt werden können. Dies verhindert unbeabsichtigte Wischbewegungen und verbessert die Rendering-Leistung erheblich, erfordert jedoch einen zusätzlichen Auswahlvorgang. (Einstellungen > Funktions-Einstellungen)  
