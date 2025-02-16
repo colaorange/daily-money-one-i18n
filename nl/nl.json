@@ -9,10 +9,10 @@
         "noteHint": "Notitie voor de rekening, lengte 0 - 1024 tekens",
         "type": {
             "@": "Type",
-            "asset": "Activa",
+            "asset": "Bezittingen",
             "expense": "Uitgaven",
             "income": "Inkomsten",
-            "liability": "Verplichtingen",
+            "liability": "Schulden",
             "other": "Overige"
         },
         "typeHint": "Type rekening"

@@ -19,8 +19,8 @@ Er zijn vijf verschillende soorten rekeningen die je kunt toevoegen, bewerken of
 
 > - `Inkomsten`: Salaris, etc.
 > - `Uitgaven`: Voedsel, entertainment, etc.
-> - `Activa`: Contant geld, bank, etc.
-> - `Passiva`: Creditcards, leningen, etc.
+> - `Bezittingen`: Contant geld, bank, etc.
+> - `Schulden`: Creditcards, leningen, etc.
 > - `Overig`: ...
 
 * Rekeningnamen kunnen punten (.) bevatten om ze te scheiden (bijv. Voedsel.Dineren, Voedsel.Verzamelen), wat een betere hiërarchische weergave biedt bij het selecteren van rekeningen of het bekijken van balansen.
@@ -41,26 +41,26 @@ Wanneer er een transactie tussen rekeningen plaatsvindt, zoals uitgaven, opnemen
 ### Salaris overboeken naar bank
 
 > Uitgaande `Inkomsten` Rekening: Salaris  
-> Inkomende `Activa` Rekening: Bank  
+> Inkomende `Bezittingen` Rekening: Bank  
 
 ### Contant geld opnemen van bank
 
-> Uitgaande `Activa` Rekening: Bank  
-> Inkomende `Activa` Rekening: Contant geld  
+> Uitgaande `Bezittingen` Rekening: Bank  
+> Inkomende `Bezittingen` Rekening: Contant geld  
 
 ### Telefoon kopen met creditcard
 
-> Uitgaande `Passiva` Rekening: Creditcard  
+> Uitgaande `Schulden` Rekening: Creditcard  
 > Inkomende `Uitgaven` Rekening: Elektronica  
 
 ### Creditcardrekening betalen met bank
 
-> Uitgaande `Activa` Rekening: Bank  
-> Inkomende `Passiva` Rekening: Creditcard  
+> Uitgaande `Bezittingen` Rekening: Bank  
+> Inkomende `Schulden` Rekening: Creditcard  
 
 ## ![Balansoverzicht](icon:///scale-balance)![Balansdiagram](icon:///chart-pie) Balansoverzicht & Diagram
 
-Met zorgvuldig boekhouden helpt de applicatie je om alle transactiedetails vast te leggen en een balansoverzicht te genereren op basis van zoekcriteria. Dit overzicht toont duidelijk de balans van activa en passiva in verschillende tijdsperioden, waardoor je beter inzicht krijgt in je financiële situatie. Daarnaast kan de applicatie verschillende diagrammen genereren om je inkomsten en uitgaven visueel weer te geven, zodat je je geldstroom beter begrijpt.
+Met zorgvuldig boekhouden helpt de applicatie je om alle transactiedetails vast te leggen en een balansoverzicht te genereren op basis van zoekcriteria. Dit overzicht toont duidelijk de balans van bezittingen en passiva in verschillende tijdsperioden, waardoor je beter inzicht krijgt in je financiële situatie. Daarnaast kan de applicatie verschillende diagrammen genereren om je inkomsten en uitgaven visueel weer te geven, zodat je je geldstroom beter begrijpt.
 
 ## Initiële waarden van rekeningen
 
@@ -76,7 +76,7 @@ Het programma maakt het mogelijk om bedragen tussen rekeningen in verschillende 
 
 ## Sneloverzicht van Balansoverzicht en Diagrammen
 
-Bij het bekijken van het balansoverzicht of de diagrammen kun je specifieke rekeningitems toevoegen aan het sneloverzicht op het startscherm [*1]. Veeg simpelweg naar rechts op het item in het balansoverzicht en klik op `Toevoegen aan Sneloverzicht`, of klik op "Toevoegen aan Sneloverzicht Pictogram" in de rechterbovenhoek van de diagramkaart. Vervolgens zie je op het startscherm de balans van activa en passiva voor dat item, of je kunt het bekijken op de diagrampagina van het startscherm. Daarnaast kun je deze items sorteren of verwijderen in `Voorkeuren > Startscherminstellingen`.
+Bij het bekijken van het balansoverzicht of de diagrammen kun je specifieke rekeningitems toevoegen aan het sneloverzicht op het startscherm [*1]. Veeg simpelweg naar rechts op het item in het balansoverzicht en klik op `Toevoegen aan Sneloverzicht`, of klik op "Toevoegen aan Sneloverzicht Pictogram" in de rechterbovenhoek van de diagramkaart. Vervolgens zie je op het startscherm de balans van bezittingen en passiva voor dat item, of je kunt het bekijken op de diagrampagina van het startscherm. Daarnaast kun je deze items sorteren of verwijderen in `Voorkeuren > Startscherminstellingen`.
 
 [*1] Te veel sneloverzichten op het startscherm kunnen invloed hebben op de laadtijd van het startscherm.
 
