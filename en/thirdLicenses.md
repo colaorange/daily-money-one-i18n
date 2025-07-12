@@ -30,6 +30,7 @@ This application is developed using the following libraries, and their license d
  * expo-clipboard
  * expo-document-picker
  * expo-haptics
+ * expo-network
  * expo-notifications
  * expo-sharing
  * expo-status-bar
