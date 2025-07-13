@@ -1,1 +1,5 @@
-{}
+{
+    "preferences": {
+        "firstDayOfMonth": "First Day Of Month"
+    }
+}
