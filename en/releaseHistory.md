@@ -1,5 +1,21 @@
 ## Daily Money One
 
+### 1.9.0
+> **Features**: 
+> * 
+>
+> **Enhancement**
+> * #101 Support to retry upload if getting error when backup and uploading
+
+### 1.8.0
+> **Features**: 
+> * #93 Support multiple lines note 
+> * #94 Support clear note button in transaction editor
+> * #95 Support deposit and withdraw account option to search
+> * #91 Allow negative value of inital transaction enhancement
+> * #96 Support Dutch
+
+
 ### 1.7.0
 > **Features**: 
 > * #77 Add Option for First Touch Transaction Selection to Reduce Accidental Edits in Daily Money One 
