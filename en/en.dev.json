@@ -1,5 +1,8 @@
 {
     "preferences": {
-        "firstDayOfMonth": "First Day Of Month"
-    }
+        "firstDayOfMonth": "First Day Of Month",
+        "firstDayOfYear": "First Day Of Year"
+    },
+    "daysOfMonth": "Days of Month",
+    "monthsOfYear": "Months of Year"
 }
