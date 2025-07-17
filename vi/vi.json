@@ -498,17 +498,17 @@
     },
     "schedule": {
         "@": "Lịch",
-        "daysOfMonth": "Các ngày trong tháng",
-        "daysOfWeek": "Các ngày trong tuần",
-        "daysOfYear": "Các ngày trong năm",
-        "lastNDays": "{{n}} ngày cuối cùng",
         "mode": {
             "monthly": "Hàng tháng",
             "weekly": "Hàng tuần",
             "yearly": "Hàng năm"
-        },
-        "monthsOfYear": "Các tháng trong năm"
+        }
     },
+    "daysOfMonth": "Các ngày trong tháng",
+    "daysOfWeek": "Các ngày trong tuần",
+    "daysOfYear": "Các ngày trong năm",
+    "lastNDays": "{{n}} ngày cuối cùng",
+    "monthsOfYear": "Các tháng trong năm",
     "scheduleMode": "Chế độ lên lịch",
     "screen": {
         "about": "Về",

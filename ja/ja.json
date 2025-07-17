@@ -498,17 +498,17 @@
     },
     "schedule": {
         "@": "スケジュール",
-        "daysOfMonth": "月の日",
-        "daysOfWeek": "曜日",
-        "daysOfYear": "年の日",
-        "lastNDays": "過去{{n}}日間",
         "mode": {
             "monthly": "毎月",
             "weekly": "毎週",
             "yearly": "毎年"
-        },
-        "monthsOfYear": "年の月"
+        }
     },
+    "daysOfMonth": "月の日",
+    "daysOfWeek": "週の日",
+    "daysOfYear": "年の日",
+    "lastNDays": "最後の{{n}}日",
+    "monthsOfYear": "年の月",
     "scheduleMode": "スケジュールモード",
     "screen": {
         "about": "について",

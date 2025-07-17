@@ -498,17 +498,17 @@
     },
     "schedule": {
         "@": "ตารางเวลา",
-        "daysOfMonth": "วันของเดือน",
-        "daysOfWeek": "วันของสัปดาห์",
-        "daysOfYear": "วันของปี",
-        "lastNDays": "{{n}} วันที่ผ่านมา",
         "mode": {
             "monthly": "รายเดือน",
             "weekly": "รายสัปดาห์",
             "yearly": "รายปี"
-        },
-        "monthsOfYear": "เดือนของปี"
+        }
     },
+    "daysOfMonth": "วันของเดือน",
+    "daysOfWeek": "วันของสัปดาห์",
+    "daysOfYear": "วันของปี",
+    "lastNDays": "{{n}} วันที่ผ่านมา",    
+    "monthsOfYear": "เดือนของปี",
     "scheduleMode": "โหมดตารางเวลา",
     "screen": {
         "about": "เกี่ยวกับ",

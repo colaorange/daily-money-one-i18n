@@ -498,17 +498,17 @@
     },
     "schedule": {
         "@": "Πρόγραμμα",
-        "daysOfMonth": "Ημέρες του Μήνα",
-        "daysOfWeek": "Ημέρες της Εβδομάδας",
-        "daysOfYear": "Ημέρες του Έτους",
-        "lastNDays": "Τελευταίες {{n}} ημέρες",
         "mode": {
             "monthly": "Μηνιαίο",
             "weekly": "Εβδομαδιαίο",
             "yearly": "Ετήσιο"
-        },
-        "monthsOfYear": "Μήνες του Έτους"
+        }
     },
+    "daysOfMonth": "Ημέρες του Μήνα",    
+    "daysOfWeek": "Ημέρες της Εβδομάδας",
+    "daysOfYear": "Ημέρες του Έτους",
+    "lastNDays": "Τελευταίες {{n}} ημέρες",
+    "monthsOfYear": "Μήνες του Έτους",
     "scheduleMode": "Λειτουργία Προγράμματος",
     "screen": {
         "about": "Σχετικά",

@@ -498,17 +498,17 @@
     },
     "schedule": {
         "@": "Program",
-        "daysOfMonth": "Ayın Günleri",
-        "daysOfWeek": "Haftanın Günleri",
-        "daysOfYear": "Yılın Günleri",
-        "lastNDays": "Son {{n}} gün",
         "mode": {
             "monthly": "Aylık",
             "weekly": "Haftalık",
             "yearly": "Yıllık"
-        },
-        "monthsOfYear": "Yılın Ayları"
+        }
     },
+    "daysOfMonth": "Ayın Günleri",
+    "daysOfWeek": "Haftanın Günleri",
+    "daysOfYear": "Yılın Günleri",
+    "lastNDays": "Son {{n}} gün",    
+    "monthsOfYear": "Yılın Ayları",
     "scheduleMode": "Program Modu",
     "screen": {
         "about": "Hakkında",
