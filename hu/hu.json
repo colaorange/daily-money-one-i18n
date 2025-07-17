@@ -498,17 +498,17 @@
     },
     "schedule": {
         "@": "Ütemezés",
-        "daysOfMonth": "Hónap napjai",
-        "daysOfWeek": "Hét napjai",
-        "daysOfYear": "Év napjai",
-        "lastNDays": "Utolsó {{n}} nap",
         "mode": {
             "monthly": "Havi",
             "weekly": "Heti",
             "yearly": "Éves"
-        },
-        "monthsOfYear": "Év hónapjai"
+        }
     },
+    "daysOfMonth": "Hónap napjai",
+    "daysOfWeek": "Hét napjai",
+    "daysOfYear": "Év napjai",
+    "lastNDays": "Utolsó {{n}} nap",    
+    "monthsOfYear": "Év hónapjai",
     "scheduleMode": "Ütemezési mód",
     "screen": {
         "about": "Névjegy",

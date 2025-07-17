@@ -498,17 +498,17 @@
     },
     "schedule": {
         "@": "Zeitplan",
-        "daysOfMonth": "Monatstage",
-        "daysOfWeek": "Wochentage",
-        "daysOfYear": "Jahrestage",
-        "lastNDays": "Letzte {{n}} Tage",
         "mode": {
             "monthly": "Monatlich",
             "weekly": "Wöchentlich",
             "yearly": "Jährlich"
-        },
-        "monthsOfYear": "Monate des Jahres"
+        }
     },
+    "daysOfMonth": "Monatstage",
+    "daysOfWeek": "Wochentage",
+    "daysOfYear": "Jahrestage",
+    "lastNDays": "Letzte {{n}} Tage",
+    "monthsOfYear": "Monate des Jahres",
     "scheduleMode": "Zeitplan-Modus",
     "screen": {
         "about": "Über",

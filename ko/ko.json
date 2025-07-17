@@ -498,17 +498,17 @@
     },
     "schedule": {
         "@": "일정",
-        "daysOfMonth": "달의 날들",
-        "daysOfWeek": "요일",
-        "daysOfYear": "년의 날들",
-        "lastNDays": "마지막 {{n}}일",
         "mode": {
             "monthly": "월간",
             "weekly": "주간",
             "yearly": "연간"
-        },
-        "monthsOfYear": "년의 달들"
+        }
     },
+    "daysOfMonth": "달의 날들",
+    "daysOfWeek": "요일",
+    "daysOfYear": "년의 날들",
+    "lastNDays": "마지막 {{n}}일",
+    "monthsOfYear": "년의 달들",
     "scheduleMode": "일정 모드",
     "screen": {
         "about": "정보",

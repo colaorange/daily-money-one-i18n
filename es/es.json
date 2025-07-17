@@ -498,17 +498,17 @@
     },
     "schedule": {
         "@": "Horario",
-        "daysOfMonth": "Días del mes",
-        "daysOfWeek": "Días de la semana",
-        "daysOfYear": "Días del año",
-        "lastNDays": "Últimos {{n}} días",
         "mode": {
             "monthly": "Mensual",
             "weekly": "Semanal",
             "yearly": "Anual"
-        },
-        "monthsOfYear": "Meses del año"
+        }
     },
+    "daysOfMonth": "Días del mes",
+    "daysOfWeek": "Días de la semana",
+    "daysOfYear": "Días del año",
+    "lastNDays": "Últimos {{n}} días",
+    "monthsOfYear": "Meses del año",
     "scheduleMode": "Modo de programación",
     "screen": {
         "about": "Acerca de",

@@ -498,17 +498,17 @@
     },
     "schedule": {
         "@": "সময়সূচী",
-        "daysOfMonth": "মাসের দিনগুলি",
-        "daysOfWeek": "সপ্তাহের দিনগুলি",
-        "daysOfYear": "বছরের দিনগুলি",
-        "lastNDays": "শেষ {{n}} দিন",
         "mode": {
             "monthly": "মাসিক",
             "weekly": "সাপ্তাহিক",
             "yearly": "বার্ষিক"
-        },
-        "monthsOfYear": "বছরের মাসগুলি"
+        }
     },
+    "daysOfMonth": "মাসের দিনগুলি",
+    "daysOfWeek": "সপ্তাহের দিনগুলি",
+    "daysOfYear": "বছরের দিনগুলি",
+    "lastNDays": "শেষ {{n}} দিন",
+    "monthsOfYear": "বছরের মাসগুলি",
     "scheduleMode": "সময়সূচী মোড",
     "screen": {
         "about": "সম্পর্কিত",

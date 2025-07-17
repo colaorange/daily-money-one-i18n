@@ -497,17 +497,17 @@
     },
     "schedule": {
         "@": "Schema",
-        "daysOfMonth": "Dagen van de maand",
-        "daysOfWeek": "Dagen van de week",
-        "daysOfYear": "Dagen van het jaar",
-        "lastNDays": "Laatste {{n}} dagen",
         "mode": {
             "monthly": "Maandelijks",
             "weekly": "Wekelijks",
             "yearly": "Jaarlijks"
-        },
-        "monthsOfYear": "Maanden van het jaar"
+        }
     },
+    "daysOfMonth": "Dagen van de maand",
+    "daysOfWeek": "Dagen van de week",
+    "daysOfYear": "Dagen van het jaar",
+    "lastNDays": "Laatste {{n}} dagen",    
+    "monthsOfYear": "Maanden van het jaar",
     "scheduleMode": "Schema modus",
     "screen": {
         "about": "Over",

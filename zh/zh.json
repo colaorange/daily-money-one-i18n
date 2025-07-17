@@ -498,17 +498,17 @@
     },
     "schedule": {
         "@": "排程",
-        "daysOfMonth": "每月的日期",
-        "daysOfWeek": "每週的日期",
-        "daysOfYear": "每年的日期",
-        "lastNDays": "最後第{{n}}天",
         "mode": {
             "monthly": "每月",
             "weekly": "每週",
             "yearly": "每年"
-        },
-        "monthsOfYear": "每年的月份"
+        }
     },
+    "daysOfMonth": "每月的日期",
+    "daysOfWeek": "每週的日期",
+    "daysOfYear": "每年的日期",
+    "lastNDays": "最後第{{n}}天",
+    "monthsOfYear": "每年的月份",
     "scheduleMode": "排程模式",
     "screen": {
         "about": "關於",

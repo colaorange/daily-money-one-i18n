@@ -1,1 +1,6 @@
-{}
+{
+    "preferences": {
+        "firstDayOfMonth": "每月的第1天",
+        "firstDayOfYear": "每年的第1天"
+    }
+}
