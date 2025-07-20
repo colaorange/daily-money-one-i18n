@@ -4,6 +4,12 @@ Heb je vragen of functieverzoeken? Word lid van de [Facebook-fangroep](https://w
 
 ## Wat is er nieuw
 
+### In versie 1.9.0  
+Deze release bevat functie-updates op basis van gebruikerswensen en het beleid van Google:
+* Google API-doel bijgewerkt naar niveau 35  
+* Je kunt nu de eerste dag van de maand en het jaar instellen voor periodenlijsten, saldi en grafieken  
+* Het saldosamenvatting verschijnt nu direct in je zoekresultaten  
+
 ### In versie 1.8.0  
 Deze release bevat ook functie-updates op basis van gebruikerswensen:
 * **Verbeterde Notities**: Ondersteunt notities met meerdere regels en regelafbrekingen en voegt een wis-knop toe in het invoerveld.

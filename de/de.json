@@ -174,6 +174,9 @@
         "transactionToCreate": "Insgesamt {{size}} Transaktionen zu erstellen"
     },
     "days": "Tage",
+    "daysOfMonth": "Monatstage",
+    "daysOfWeek": "Wochentage",
+    "daysOfYear": "Jahrestage",
     "default": {
         "@": "Standard",
         "account": {
@@ -292,6 +295,7 @@
         "zh": "Traditionelles Chinesisch",
         "zh-CN": "Vereinfachtes Chinesisch"
     },
+    "lastNDays": "Letzte {{n}} Tage",
     "license": {
         "@": "Lizenz",
         "constructionError": "Beim Parsen der Lizenz ist ein Fehler aufgetreten. Bitte stellen Sie sicher, dass der von Ihnen bereitgestellte Inhalt nicht geändert wurde.",
@@ -405,6 +409,7 @@
         "underConstruction": "Diese Funktion ist derzeit im Aufbau. Bitte haben Sie Geduld.",
         "withdrawalDepositSumNotEqual": "Der Gesamtbetrag der Auszahlungen {{withdrawalSum}} ist nicht gleich dem Gesamtbetrag der Einzahlungen {{depositSum}}."
     },
+    "monthsOfYear": "Monate des Jahres",
     "nAccountSelected": "{{n}} Konten ausgewählt",
     "nAccountTypeSelected": "{{n}} Kontotypen ausgewählt",
     "nBookSelected": "{{n}} Bücher ausgewählt",
@@ -458,12 +463,14 @@
             "MM/DD/YYYY": "Monat/Tag/Jahr",
             "YYYY/MM/DD": "Jahr/Monat/Tag"
         },
+        "firstDayOfMonth": "Erster Tag des Monats",
         "firstDayOfWeek": {
             "@": "Erster Tag der Woche",
             "mon": "Montag",
             "sat": "Samstag",
             "sun": "Sonntag"
         },
+        "firstDayOfYear": "Erster Tag des Jahres",
         "timeFormat": {
             "@": "Zeitformat",
             "HH:mm": "24-Stunden:Minute",
@@ -504,11 +511,6 @@
             "yearly": "Jährlich"
         }
     },
-    "daysOfMonth": "Monatstage",
-    "daysOfWeek": "Wochentage",
-    "daysOfYear": "Jahrestage",
-    "lastNDays": "Letzte {{n}} Tage",
-    "monthsOfYear": "Monate des Jahres",
     "scheduleMode": "Zeitplan-Modus",
     "screen": {
         "about": "Über",

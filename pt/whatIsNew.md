@@ -5,6 +5,12 @@ Tem perguntas ou solicitações de funcionalidades? Junte-se ao [grupo de fãs n
 
 ## O Que Há de Novo
 
+### Na Versão 1.9.0
+Esta versão inclui atualizações de recursos com base nos desejos dos usuários e na política do Google:
+* Atualizado o alvo da API do Google para o nível 35  
+* Agora é possível definir o primeiro dia do mês e do ano para listas de períodos, saldos e gráficos  
+* O resumo do saldo agora aparece diretamente nos resultados da busca  
+
 ### Na Versão 1.8.0
 Esta versão inclui também atualizações de funcionalidades baseadas nos desejos dos usuários:
 * **Notas Aprimoradas**: Suporta notas de várias linhas com quebras de linha e adiciona um botão de limpar no campo de entrada.

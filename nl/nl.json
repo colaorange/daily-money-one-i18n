@@ -174,6 +174,9 @@
         "transactionToCreate": "Totaal {{size}} transacties aan te maken"
     },
     "days": "Dagen",
+    "daysOfMonth": "Dagen van de maand",
+    "daysOfWeek": "Dagen van de week",
+    "daysOfYear": "Dagen van het jaar",
     "default": {
         "@": "Standaard",
         "account": {
@@ -283,6 +286,7 @@
         "it": "Italiaans",
         "ja": "Japans",
         "ko": "Koreaans",
+        "nl": "Dutch",
         "pt": "Portugees",
         "ru": "Russisch",
         "th": "Thais",
@@ -291,6 +295,7 @@
         "zh": "Traditioneel Chinees",
         "zh-CN": "Vereenvoudigd Chinees"
     },
+    "lastNDays": "Laatste {{n}} dagen",
     "license": {
         "@": "Licentie",
         "constructionError": "Er is een fout opgetreden bij het parseren van de licentie. Zorg ervoor dat de inhoud die je hebt verstrekt niet is gewijzigd.",
@@ -404,6 +409,7 @@
         "underConstruction": "Deze functie is in ontwikkeling.",
         "withdrawalDepositSumNotEqual": "Totaal uitgaand bedrag {{withdrawalSum}} is niet gelijk aan inkomend bedrag {{depositSum}}."
     },
+    "monthsOfYear": "Maanden van het jaar",
     "nAccountSelected": "{{n}} rekeningen geselecteerd",
     "nAccountTypeSelected": "{{n}} rekeningtypen geselecteerd",
     "nBookSelected": "{{n}} boeken geselecteerd",
@@ -457,12 +463,14 @@
             "MM/DD/YYYY": "Maand/Dag/Jaar",
             "YYYY/MM/DD": "Jaar/Maand/Dag"
         },
+        "firstDayOfMonth": "Eerste dag van de maand",
         "firstDayOfWeek": {
             "@": "Eerste dag van de week",
             "mon": "Maandag",
             "sat": "Zaterdag",
             "sun": "Zondag"
         },
+        "firstDayOfYear": "Eerste dag van het jaar",
         "timeFormat": {
             "@": "Tijdnotatie",
             "HH:mm": "24-Uur:Minuut",
@@ -503,11 +511,6 @@
             "yearly": "Jaarlijks"
         }
     },
-    "daysOfMonth": "Dagen van de maand",
-    "daysOfWeek": "Dagen van de week",
-    "daysOfYear": "Dagen van het jaar",
-    "lastNDays": "Laatste {{n}} dagen",    
-    "monthsOfYear": "Maanden van het jaar",
     "scheduleMode": "Schema modus",
     "screen": {
         "about": "Over",
@@ -568,11 +571,13 @@
         "beforeDate": "Voor datum",
         "beforeDateHint": "Transacties die plaatsvinden op of voor deze datum",
         "bookHint": "Boek om te doorzoeken (enkele selectie)",
+        "depositAccountsHint": "Accounts voor het overboeken naar (meerdere selecties mogelijk)",
         "maxValue": "Maximale waarde",
         "maxValueHint": "Overboekingsbedrag kleiner dan of gelijk aan deze waarde",
         "minValue": "Minimale waarde",
         "minValueHint": "Overboekingsbedrag groter dan of gelijk aan deze waarde",
-        "noteHint": "Notitie bevat deze tekst"
+        "noteHint": "Notitie bevat deze tekst",
+        "withdrawalAccountsHint": "Accounts voor het overboeken van (meerdere selecties mogelijk)"
     },
     "selectAccountOfBook": "Selecteer rekening in {{name}}",
     "selectAccountType": "Selecteer rekeningtype",
@@ -696,6 +701,8 @@
         },
         "initAccount": "Beginrekening",
         "initAccountHint": "Rekening voor uit of inboeken",
+        "initReverseValue": "Omkeren van het initiële bedrag",
+        "initReverseValueHint": "Gebruik dit als je initiële bedrag een negatieve waarde heeft; door deze optie aan te vinken wordt de richting van het initiële bedrag van de rekening omgekeerd.",
         "initValue": "Startbedrag",
         "initValueHint": "Bedrag voor uit of inboeken",
         "initialTransaction": "Initiële Transactie",

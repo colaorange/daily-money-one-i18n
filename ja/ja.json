@@ -174,6 +174,9 @@
         "transactionToCreate": "作成される取引の合計 {{size}}"
     },
     "days": "日数",
+    "daysOfMonth": "月の日",
+    "daysOfWeek": "週の日",
+    "daysOfYear": "年の日",
     "default": {
         "@": "デフォルト",
         "account": {
@@ -292,6 +295,7 @@
         "zh": "繁体中国語",
         "zh-CN": "簡体中国語"
     },
+    "lastNDays": "最後の{{n}}日",
     "license": {
         "@": "ライセンス",
         "constructionError": "ライセンスの解析中にエラーが発生しました。提供された内容が変更されていないことを確認してください。",
@@ -405,6 +409,7 @@
         "underConstruction": "この機能は現在構築中です。しばらくお待ちください。",
         "withdrawalDepositSumNotEqual": "振替出金の合計金額 {{withdrawalSum}} が振替入金の合計金額 {{depositSum}} と一致しません。"
     },
+    "monthsOfYear": "年の月",
     "nAccountSelected": "{{n}} アカウントが選択されました",
     "nAccountTypeSelected": "{{n}} アカウントタイプが選択されました",
     "nBookSelected": "{{n}} 帳簿が選択されました",
@@ -458,12 +463,14 @@
             "MM/DD/YYYY": "月/日/年",
             "YYYY/MM/DD": "年/月/日"
         },
+        "firstDayOfMonth": "月の初日",
         "firstDayOfWeek": {
             "@": "週の初日",
             "mon": "月曜日",
             "sat": "土曜日",
             "sun": "日曜日"
         },
+        "firstDayOfYear": "年の初日",
         "timeFormat": {
             "@": "時間形式",
             "HH:mm": "24時間：分",
@@ -504,11 +511,6 @@
             "yearly": "毎年"
         }
     },
-    "daysOfMonth": "月の日",
-    "daysOfWeek": "週の日",
-    "daysOfYear": "年の日",
-    "lastNDays": "最後の{{n}}日",
-    "monthsOfYear": "年の月",
     "scheduleMode": "スケジュールモード",
     "screen": {
         "about": "について",

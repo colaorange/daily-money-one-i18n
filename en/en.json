@@ -174,6 +174,9 @@
         "transactionToCreate": "Total {{size}} transactions to be created"
     },
     "days": "Days",
+    "daysOfMonth": "Days of Month",
+    "daysOfWeek": "Days of Week",
+    "daysOfYear": "Days of Year",
     "default": {
         "@": "Default",
         "account": {
@@ -292,6 +295,7 @@
         "zh": "Traditional Chinese",
         "zh-CN": "Simplified Chinese"
     },
+    "lastNDays": "Last {{n}} days",
     "license": {
         "@": "License",
         "constructionError": "An error occurred during license parsing. Please ensure the content you provided has not been modified.",
@@ -405,6 +409,7 @@
         "underConstruction": "This feature is currently under construction. Please be patient.",
         "withdrawalDepositSumNotEqual": "Total transfer-out amount {{withdrawalSum}} is not equal to total transfer-in amount {{depositSum}}."
     },
+    "monthsOfYear": "Months of Year",
     "nAccountSelected": "{{n}} accounts selected",
     "nAccountTypeSelected": "{{n}} Account Types Selected",
     "nBookSelected": "{{n}} Books Selected",
@@ -458,12 +463,14 @@
             "MM/DD/YYYY": "Month/Date/Year",
             "YYYY/MM/DD": "Year/Month/Date"
         },
+        "firstDayOfMonth": "First Day Of Month",
         "firstDayOfWeek": {
             "@": "First Day Of Week",
             "mon": "Monday",
             "sat": "Saturday",
             "sun": "Sunday"
         },
+        "firstDayOfYear": "First Day Of Year",
         "timeFormat": {
             "@": "Time Format",
             "HH:mm": "24-Hour:Minute",
@@ -504,11 +511,6 @@
             "yearly": "Yearly"
         }
     },
-    "daysOfMonth": "Days of Month",
-    "daysOfWeek": "Days of Week",
-    "daysOfYear": "Days of Year",
-    "lastNDays": "Last {{n}} days",
-    "monthsOfYear": "Months of Year",
     "scheduleMode": "Schedule Mode",
     "screen": {
         "about": "About",

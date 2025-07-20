@@ -4,6 +4,12 @@ Do you have questions or feature requests? Join [Facebook fan group](https://www
 
 ## What's New
 
+### In Version 1.9.0
+This release includes feature updates based on user wishes and google's policy:
+* Upgraded Google API target to level 35
+* You can now set the first day of the month and year for period lists, balances, and charts
+* Balance summary now shows up right in your search results
+
 ### In Version 1.8.0
 This release includes feature updates based on user wishes too:
 * **Enhanced Notes**: Supports multi-line notes with line breaks and adds a clear button in the input field.

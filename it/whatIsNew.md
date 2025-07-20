@@ -4,6 +4,12 @@ Hai domande o richieste di funzionalità? Unisciti al [gruppo di fan su Facebook
 
 ## Cosa c'è di nuovo
 
+### Nella Versione 1.9.0
+Questa versione include aggiornamenti delle funzionalità basati sui desideri degli utenti e sulle politiche di Google:
+* Aggiornato il target dell'API di Google al livello 35  
+* Ora puoi impostare il primo giorno del mese e dell'anno per elenchi di periodi, saldi e grafici  
+* Il riepilogo del saldo ora appare direttamente nei risultati di ricerca  
+
 ### Nella Versione 1.8.0
 Questa versione include anche aggiornamenti delle funzionalità basati sui desideri degli utenti:
 * **Note Migliorate**: Supporta note su più righe con interruzioni di riga e aggiunge un pulsante di cancellazione nel campo di input.

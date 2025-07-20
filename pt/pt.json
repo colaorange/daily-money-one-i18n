@@ -174,6 +174,9 @@
         "transactionToCreate": "Total de {{size}} transações a serem criadas"
     },
     "days": "Dias",
+    "daysOfMonth": "Dias do Mês",
+    "daysOfWeek": "Dias da Semana",
+    "daysOfYear": "Dias do Ano",
     "default": {
         "@": "Padrão",
         "account": {
@@ -292,6 +295,7 @@
         "zh": "Chinês Tradicional",
         "zh-CN": "Chinês Simplificado"
     },
+    "lastNDays": "Últimos {{n}} dias",
     "license": {
         "@": "Licença",
         "constructionError": "Ocorreu um erro durante a análise da licença. Certifique-se de que o conteúdo fornecido não foi modificado.",
@@ -405,6 +409,7 @@
         "underConstruction": "Este recurso está em construção. Por favor, seja paciente.",
         "withdrawalDepositSumNotEqual": "O valor total de transferências de saída {{withdrawalSum}} não é igual ao valor total de transferências de entrada {{depositSum}}."
     },
+    "monthsOfYear": "Meses do Ano",
     "nAccountSelected": "{{n}} contas selecionadas",
     "nAccountTypeSelected": "{{n}} Tipos de Conta Selecionados",
     "nBookSelected": "{{n}} Livros Selecionados",
@@ -458,12 +463,14 @@
             "MM/DD/YYYY": "Mês/Data/Ano",
             "YYYY/MM/DD": "Ano/Mês/Data"
         },
+        "firstDayOfMonth": "Primeiro dia do mês",
         "firstDayOfWeek": {
             "@": "Primeiro Dia da Semana",
             "mon": "Segunda-feira",
             "sat": "Sábado",
             "sun": "Domingo"
         },
+        "firstDayOfYear": "Primeiro dia do ano",
         "timeFormat": {
             "@": "Formato de Hora",
             "HH:mm": "24-Horas:Minutos",
@@ -504,11 +511,6 @@
             "yearly": "Anual"
         }
     },
-    "daysOfMonth": "Dias do Mês",
-    "daysOfWeek": "Dias da Semana",
-    "daysOfYear": "Dias do Ano",
-    "lastNDays": "Últimos {{n}} dias",
-    "monthsOfYear": "Meses do Ano",
     "scheduleMode": "Modo de Horário",
     "screen": {
         "about": "Sobre",

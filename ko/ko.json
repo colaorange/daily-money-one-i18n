@@ -174,6 +174,9 @@
         "transactionToCreate": "생성할 총 {{size}} 거래"
     },
     "days": "일",
+    "daysOfMonth": "달의 날들",
+    "daysOfWeek": "요일",
+    "daysOfYear": "년의 날들",
     "default": {
         "@": "기본값",
         "account": {
@@ -292,6 +295,7 @@
         "zh": "번체 중국어",
         "zh-CN": "간체 중국어"
     },
+    "lastNDays": "마지막 {{n}}일",
     "license": {
         "@": "라이선스",
         "constructionError": "라이선스를 파싱하는 동안 오류가 발생했습니다. 제공된 내용이 수정되지 않았는지 확인하십시오.",
@@ -405,6 +409,7 @@
         "underConstruction": "이 기능은 현재 구축 중입니다. 잠시만 기다려 주십시오.",
         "withdrawalDepositSumNotEqual": "총 출금 금액 {{withdrawalSum}}이(가) 총 입금 금액 {{depositSum}}과 같지 않습니다."
     },
+    "monthsOfYear": "년의 달들",
     "nAccountSelected": "{{n}} 계정 선택됨",
     "nAccountTypeSelected": "{{n}} 계정 유형 선택됨",
     "nBookSelected": "{{n}} 책 선택됨",
@@ -458,12 +463,14 @@
             "MM/DD/YYYY": "월/일/년",
             "YYYY/MM/DD": "년/월/일"
         },
+        "firstDayOfMonth": "월의 첫째 날",
         "firstDayOfWeek": {
             "@": "주의 첫날",
             "mon": "월요일",
             "sat": "토요일",
             "sun": "일요일"
         },
+        "firstDayOfYear": "연도의 첫째 날",
         "timeFormat": {
             "@": "시간 형식",
             "HH:mm": "24시간:분",
@@ -504,11 +511,6 @@
             "yearly": "연간"
         }
     },
-    "daysOfMonth": "달의 날들",
-    "daysOfWeek": "요일",
-    "daysOfYear": "년의 날들",
-    "lastNDays": "마지막 {{n}}일",
-    "monthsOfYear": "년의 달들",
     "scheduleMode": "일정 모드",
     "screen": {
         "about": "정보",

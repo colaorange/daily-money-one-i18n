@@ -5,6 +5,12 @@ Hast du Fragen oder Funktionswünsche? Trete der [Facebook-Fangruppe](https://ww
 
 ## Was ist neu
 
+### In Version 1.9.0
+Dieses Update enthält Funktionsaktualisierungen basierend auf Nutzerwünschen und den Google-Richtlinien:
+* Ziel-API-Level für Google wurde auf 35 aktualisiert  
+* Sie können jetzt den ersten Tag des Monats und des Jahres für Zeitraumlisten, Salden und Diagramme festlegen  
+* Die Bilanzzusammenfassung wird jetzt direkt in den Suchergebnissen angezeigt  
+
 ### In Version 1.8.0
 Dieses Release enthält auch Funktionsaktualisierungen basierend auf Benutzerwünschen:
 * **Erweiterte Notizen**: Unterstützt mehrzeilige Notizen mit Zeilenumbrüchen und fügt eine Löschtaste im Eingabefeld hinzu.

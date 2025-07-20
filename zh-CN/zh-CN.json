@@ -174,6 +174,9 @@
         "transactionToCreate": "即将建立的账目资料共{{size}}笔"
     },
     "days": "天",
+    "daysOfMonth": "每月的日期",
+    "daysOfWeek": "每周的日期",
+    "daysOfYear": "每年的日期",
     "default": {
         "@": "默认",
         "account": {
@@ -292,6 +295,7 @@
         "zh": "繁体中文",
         "zh-CN": "简体中文"
     },
+    "lastNDays": "最后第{{n}}天",
     "license": {
         "@": "授权",
         "constructionError": "授权解析时发生错误，请确认您提供的是未修改编辑过的内容",
@@ -405,6 +409,7 @@
         "underConstruction": "这个功能目前还在开发中，请耐心等候。",
         "withdrawalDepositSumNotEqual": "转出的总金额 {{withdrawalSum}} 不等于转入的总金额 {{depositSum}}。"
     },
+    "monthsOfYear": "每年的月份",
     "nAccountSelected": "已选择了 {{n}} 个账户",
     "nAccountTypeSelected": "已选择了 {{n}} 个账户类型",
     "nBookSelected": "已选择了 {{n}} 个账本",
@@ -458,12 +463,14 @@
             "MM/DD/YYYY": "月/日/年",
             "YYYY/MM/DD": "年/月/日"
         },
+        "firstDayOfMonth": "每月的第一天",
         "firstDayOfWeek": {
             "@": "每星期的第一天",
             "mon": "星期一",
             "sat": "星期六",
             "sun": "星期天"
         },
+        "firstDayOfYear": "每年的第一天",
         "timeFormat": {
             "@": "时间格式",
             "HH:mm": "24时制:分",
@@ -504,11 +511,6 @@
             "yearly": "每年"
         }
     },
-    "daysOfMonth": "每月的日期",
-    "daysOfWeek": "每周的日期",
-    "daysOfYear": "每年的日期",
-    "lastNDays": "最后第{{n}}天",    
-    "monthsOfYear": "每年的月份",
     "scheduleMode": "排程模式",
     "screen": {
         "about": "关于",

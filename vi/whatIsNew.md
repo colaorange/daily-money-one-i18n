@@ -4,6 +4,12 @@ Bạn có câu hỏi hoặc yêu cầu tính năng không? Tham gia [nhóm fan t
 
 ## Có gì mới
 
+### Trong Phiên Bản 1.9.0
+Phiên bản này bao gồm các cập nhật tính năng dựa trên mong muốn của người dùng và chính sách của Google:
+* Nâng cấp mục tiêu API của Google lên cấp độ 35  
+* Bây giờ bạn có thể đặt ngày đầu tiên của tháng và năm cho danh sách kỳ hạn, số dư và biểu đồ  
+* Bản tóm tắt số dư giờ sẽ hiển thị trực tiếp trong kết quả tìm kiếm 
+
 ### Trong Phiên Bản 1.8.0
 Phiên bản này cũng bao gồm các cập nhật tính năng dựa trên mong muốn của người dùng:
 * **Ghi Chú Nâng Cao**: Hỗ trợ ghi chú nhiều dòng với ngắt dòng và thêm nút xóa trong trường nhập.

@@ -4,6 +4,12 @@
 
 ## Novedades
 
+### En la Versión 1.9.0
+Esta versión incluye actualizaciones de funciones basadas en los deseos de los usuarios y la política de Google:
+* Objetivo de API de Google actualizado al nivel 35  
+* Ahora puedes establecer el primer día del mes y del año para las listas de períodos, balances y gráficos  
+* El resumen del balance ahora aparece directamente en los resultados de búsqueda  
+
 ### En la Versión 1.8.0
 Esta versión también incluye actualizaciones de funciones basadas en los deseos de los usuarios:
 * **Notas Mejoradas**: Admite notas de varias líneas con saltos de línea y agrega un botón de borrar en el campo de entrada.

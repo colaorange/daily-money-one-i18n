@@ -174,6 +174,9 @@
         "transactionToCreate": "Totale {{size}} transazioni da creare"
     },
     "days": "Giorni",
+    "daysOfMonth": "Giorni del mese",
+    "daysOfWeek": "Giorni della settimana",
+    "daysOfYear": "Giorni dell'anno",
     "default": {
         "@": "Predefinito",
         "account": {
@@ -292,6 +295,7 @@
         "zh": "Cinese tradizionale",
         "zh-CN": "Cinese semplificato"
     },
+    "lastNDays": "Ultimi {{n}} giorni",
     "license": {
         "@": "Licenza",
         "constructionError": "Si è verificato un errore durante l'analisi della licenza. Assicurati che il contenuto fornito non sia stato modificato.",
@@ -405,6 +409,7 @@
         "underConstruction": "Questa funzione è attualmente in fase di costruzione. Si prega di essere pazienti.",
         "withdrawalDepositSumNotEqual": "L'importo totale del trasferimento in uscita {{withdrawalSum}} non è uguale all'importo totale del trasferimento in entrata {{depositSum}}."
     },
+    "monthsOfYear": "Mesi dell'anno",
     "nAccountSelected": "{{n}} account selezionati",
     "nAccountTypeSelected": "{{n}} tipi di account selezionati",
     "nBookSelected": "{{n}} libri selezionati",
@@ -458,12 +463,14 @@
             "MM/DD/YYYY": "Mese/Data/Anno",
             "YYYY/MM/DD": "Anno/Mese/Data"
         },
+        "firstDayOfMonth": "Primo giorno del mese",
         "firstDayOfWeek": {
             "@": "Primo giorno della settimana",
             "mon": "Lunedì",
             "sat": "Sabato",
             "sun": "Domenica"
         },
+        "firstDayOfYear": "Primo giorno dell'anno",
         "timeFormat": {
             "@": "Formato orario",
             "HH:mm": "24-Ore:Minuti",
@@ -504,11 +511,6 @@
             "yearly": "Annuale"
         }
     },
-    "daysOfMonth": "Giorni del mese",
-    "daysOfWeek": "Giorni della settimana",
-    "daysOfYear": "Giorni dell'anno",
-    "lastNDays": "Ultimi {{n}} giorni",
-    "monthsOfYear": "Mesi dell'anno",
     "scheduleMode": "Modalità di pianificazione",
     "screen": {
         "about": "Informazioni",

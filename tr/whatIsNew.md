@@ -4,6 +4,12 @@ Sorularınız veya özellik istekleriniz mi var? En son gelişmeleri almak için
 
 ## Yenilikler
 
+### Versiyon 1.9.0'da
+Bu sürüm, kullanıcı istekleri ve Google politikası doğrultusunda özellik güncellemeleri içerir:
+* Google API hedef seviyesi 35'e yükseltildi  
+* Artık dönem listeleri, bakiyeler ve grafikler için ayın ve yılın ilk gününü ayarlayabilirsiniz  
+* Bakiye özeti artık doğrudan arama sonuçlarında gösteriliyor 
+
 ### Versiyon 1.8.0'da
 Bu sürüm, kullanıcı taleplerine dayalı özellik güncellemelerini de içermektedir:
 * **Gelişmiş Notlar**: Çok satırlı notları satır sonları ile destekler ve giriş alanına temizleme düğmesi ekler.

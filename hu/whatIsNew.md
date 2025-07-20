@@ -4,6 +4,12 @@ Vannak kérdései vagy javaslatai? Csatlakozzon a [Facebook rajongói csoporthoz
 
 ## Újdonságok
 
+### Az 1.9.0 verzióban
+Ez a kiadás funkciófrissítéseket tartalmaz a felhasználói igények és a Google irányelvei alapján:
+* A Google API célverziója 35-re lett frissítve  
+* Mostantól beállíthatod a hónap és az év első napját az időszaklistákhoz, egyenlegekhez és diagramokhoz  
+* Az egyenleg összegzése mostantól megjelenik a keresési eredmények között  
+
 ### Az 1.8.0 verzióban
 Ez a kiadás felhasználói kívánságok alapján készült funkciófrissítéseket is tartalmaz:
 * **Továbbfejlesztett Jegyzetek**: Támogatja a több soros jegyzeteket sortörésekkel, és egy törlés gombot ad a beviteli mezőhöz.

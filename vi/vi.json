@@ -174,6 +174,9 @@
         "transactionToCreate": "Tổng cộng {{size}} giao dịch sẽ được tạo"
     },
     "days": "Ngày",
+    "daysOfMonth": "Các ngày trong tháng",
+    "daysOfWeek": "Các ngày trong tuần",
+    "daysOfYear": "Các ngày trong năm",
     "default": {
         "@": "Mặc định",
         "account": {
@@ -292,6 +295,7 @@
         "zh": "Tiếng Trung Quốc (Phồn Thể)",
         "zh-CN": "Tiếng Trung Quốc (Giản Thể)"
     },
+    "lastNDays": "{{n}} ngày cuối cùng",
     "license": {
         "@": "Giấy phép",
         "constructionError": "Đã xảy ra lỗi khi phân tích giấy phép. Vui lòng đảm bảo nội dung bạn cung cấp không bị sửa đổi.",
@@ -405,6 +409,7 @@
         "underConstruction": "Tính năng này đang được xây dựng. Vui lòng kiên nhẫn.",
         "withdrawalDepositSumNotEqual": "Tổng số tiền chuyển ra {{withdrawalSum}} không bằng tổng số tiền chuyển vào {{depositSum}}."
     },
+    "monthsOfYear": "Các tháng trong năm",
     "nAccountSelected": "{{n}} tài khoản đã chọn",
     "nAccountTypeSelected": "{{n}} Loại Tài Khoản Đã Chọn",
     "nBookSelected": "{{n}} Sổ Đã Chọn",
@@ -458,12 +463,14 @@
             "MM/DD/YYYY": "Tháng/Ngày/Năm",
             "YYYY/MM/DD": "Năm/Tháng/Ngày"
         },
+        "firstDayOfMonth": "Ngày đầu tiên của tháng",
         "firstDayOfWeek": {
             "@": "Ngày Đầu Tuần",
             "mon": "Thứ Hai",
             "sat": "Thứ Bảy",
             "sun": "Chủ Nhật"
         },
+        "firstDayOfYear": "Ngày đầu tiên của năm",
         "timeFormat": {
             "@": "Định Dạng Thời Gian",
             "HH:mm": "24-Giờ:Phút",
@@ -504,11 +511,6 @@
             "yearly": "Hàng năm"
         }
     },
-    "daysOfMonth": "Các ngày trong tháng",
-    "daysOfWeek": "Các ngày trong tuần",
-    "daysOfYear": "Các ngày trong năm",
-    "lastNDays": "{{n}} ngày cuối cùng",
-    "monthsOfYear": "Các tháng trong năm",
     "scheduleMode": "Chế độ lên lịch",
     "screen": {
         "about": "Về",
