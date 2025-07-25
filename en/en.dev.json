@@ -1,6 +1,16 @@
 {
-    "preferences": {
-        "firstDayOfMonth": "First Day Of Month",
-        "firstDayOfYear": "First Day Of Year"
+    "message": {
+        "autoUploadBackup": "You must signin to Google and authorize it before automatic uploading can take place. Note: Uploads will occur internet is available and will consume network bandwidth and may incur costs.",
+        "uploadGDriveResultFail": "Upload to Google Drive failed: {{error}}",
+        "uploadGDriveResultSuccess": "Upload to Google Drive success: {{file}} ({{size}}) ({{count}} files)",
+        "autoUploadBackupInfo": "Last upload time: {{lastTime}}, name: {{lastName}}, size: {{lastSize}}.",
+        "displayAutoUploadBackupInfo": "When the automatic upload function is activated and an upload has been completed, the information of the last upload will be displayed on the main screen."
+    },
+    "title": {
+        "uploadGDrive": "Upload to Google Drive",
+        "displayAutoUploadBackupInfo": "Display automatic upload information"
+    },
+    "action": {
+        "autoUploadBackup": "Automatic Upload"
     }
 }
