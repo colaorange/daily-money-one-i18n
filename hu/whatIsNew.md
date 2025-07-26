@@ -9,6 +9,7 @@ Ez a kiadás funkciófrissítéseket tartalmaz a felhasználói igények és a G
 * A Google API célverziója 35-re lett frissítve  
 * Mostantól beállíthatod a hónap és az év első napját az időszaklistákhoz, egyenlegekhez és diagramokhoz  
 * Az egyenleg összegzése mostantól megjelenik a keresési eredmények között  
+* Újraírtuk a Google Drive feltöltési funkcióját: a fájlok először helyileg kerülnek mentésre, és csak akkor töltődnek fel, ha van elérhető hálózat.
 
 ### Az 1.8.0 verzióban
 Ez a kiadás felhasználói kívánságok alapján készült funkciófrissítéseket is tartalmaz:

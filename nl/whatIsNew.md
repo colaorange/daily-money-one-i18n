@@ -9,6 +9,7 @@ Deze release bevat functie-updates op basis van gebruikerswensen en het beleid v
 * Google API-doel bijgewerkt naar niveau 35  
 * Je kunt nu de eerste dag van de maand en het jaar instellen voor periodenlijsten, saldi en grafieken  
 * Het saldosamenvatting verschijnt nu direct in je zoekresultaten  
+* De Google Drive-uploadfunctie is herschreven: bestanden worden nu eerst lokaal opgeslagen en alleen geüpload wanneer er netwerk beschikbaar is.
 
 ### In versie 1.8.0  
 Deze release bevat ook functie-updates op basis van gebruikerswensen:

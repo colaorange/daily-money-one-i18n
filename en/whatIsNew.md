@@ -9,6 +9,7 @@ This release includes feature updates based on user wishes and google's policy:
 * Upgraded Google API target to level 35
 * You can now set the first day of the month and year for period lists, balances, and charts
 * Balance summary now shows up right in your search results
+* Rewrote the Google Drive upload feature: files are now saved locally first and uploaded only when the network is available.
 
 ### In Version 1.8.0
 This release includes feature updates based on user wishes too:
