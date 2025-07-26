@@ -1,16 +1,17 @@
 {
     "message": {
-        "autoUploadBackup": "You must signin to Google and authorize it before automatic uploading can take place. Note: Uploads will occur internet is available and will consume network bandwidth and may incur costs.",
+        "autoUploadGDrive": "You must signin to Google and authorize it before automatic uploading can take place. Note: Uploads will occur internet is available and will consume network bandwidth and may incur costs.",
+        "autoUploadGDriveInfo": "Last upload time: {{lastTime}}, name: {{lastName}}, size: {{lastSize}}.",
+        "displayAutoUploadGDriveInfo": "When the automatic upload function is activated and an upload has been completed, the information of the last upload will be displayed on the main screen.",
         "uploadGDriveResultFail": "Upload to Google Drive failed: {{error}}",
-        "uploadGDriveResultSuccess": "Upload to Google Drive success: {{file}} ({{size}}) ({{count}} files)",
-        "autoUploadBackupInfo": "Last upload time: {{lastTime}}, name: {{lastName}}, size: {{lastSize}}.",
-        "displayAutoUploadBackupInfo": "When the automatic upload function is activated and an upload has been completed, the information of the last upload will be displayed on the main screen."
+        "uploadGDriveResultSuccess": "Upload to Google Drive success: {{file}} ({{size}}) ({{count}} files)"
     },
     "title": {
         "uploadGDrive": "Upload to Google Drive",
-        "displayAutoUploadBackupInfo": "Display automatic upload information"
+        "displayAutoUploadGDriveInfo": "Display automatic upload information",
+        "autoUploadGDrive": "Automatic Upload to Google Drive"
     },
     "action": {
-        "autoUploadBackup": "Automatic Upload"
+        "autoUploadGDrive": "Automatic Upload to Google Drive"
     }
 }
