@@ -9,6 +9,7 @@ Phiên bản này bao gồm các cập nhật tính năng dựa trên mong muố
 * Nâng cấp mục tiêu API của Google lên cấp độ 35  
 * Bây giờ bạn có thể đặt ngày đầu tiên của tháng và năm cho danh sách kỳ hạn, số dư và biểu đồ  
 * Bản tóm tắt số dư giờ sẽ hiển thị trực tiếp trong kết quả tìm kiếm 
+* Đã viết lại chức năng tải lên Google Drive: tệp bây giờ được lưu cục bộ trước và chỉ được tải lên khi có mạng.
 
 ### Trong Phiên Bản 1.8.0
 Phiên bản này cũng bao gồm các cập nhật tính năng dựa trên mong muốn của người dùng:

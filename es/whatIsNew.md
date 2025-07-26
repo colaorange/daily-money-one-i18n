@@ -9,6 +9,7 @@ Esta versión incluye actualizaciones de funciones basadas en los deseos de los 
 * Objetivo de API de Google actualizado al nivel 35  
 * Ahora puedes establecer el primer día del mes y del año para las listas de períodos, balances y gráficos  
 * El resumen del balance ahora aparece directamente en los resultados de búsqueda  
+* Se reescribió la función de carga en Google Drive: los archivos ahora se guardan localmente primero y solo se suben cuando hay red disponible.
 
 ### En la Versión 1.8.0
 Esta versión también incluye actualizaciones de funciones basadas en los deseos de los usuarios:

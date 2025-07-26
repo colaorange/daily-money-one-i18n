@@ -9,6 +9,7 @@ Questa versione include aggiornamenti delle funzionalità basati sui desideri de
 * Aggiornato il target dell'API di Google al livello 35  
 * Ora puoi impostare il primo giorno del mese e dell'anno per elenchi di periodi, saldi e grafici  
 * Il riepilogo del saldo ora appare direttamente nei risultati di ricerca  
+* La funzione di caricamento su Google Drive è stata riscritta: i file ora vengono prima salvati localmente e caricati solo quando la rete è disponibile.
 
 ### Nella Versione 1.8.0
 Questa versione include anche aggiornamenti delle funzionalità basati sui desideri degli utenti:

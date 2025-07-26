@@ -10,6 +10,7 @@ Esta versão inclui atualizações de recursos com base nos desejos dos usuário
 * Atualizado o alvo da API do Google para o nível 35  
 * Agora é possível definir o primeiro dia do mês e do ano para listas de períodos, saldos e gráficos  
 * O resumo do saldo agora aparece diretamente nos resultados da busca  
+* A funcionalidade de upload para o Google Drive foi reescrita: os arquivos agora são salvos localmente primeiro e só são enviados quando houver rede disponível.
 
 ### Na Versão 1.8.0
 Esta versão inclui também atualizações de funcionalidades baseadas nos desejos dos usuários:

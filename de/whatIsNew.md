@@ -10,6 +10,7 @@ Dieses Update enthält Funktionsaktualisierungen basierend auf Nutzerwünschen u
 * Ziel-API-Level für Google wurde auf 35 aktualisiert  
 * Sie können jetzt den ersten Tag des Monats und des Jahres für Zeitraumlisten, Salden und Diagramme festlegen  
 * Die Bilanzzusammenfassung wird jetzt direkt in den Suchergebnissen angezeigt  
+* Die Google Drive-Upload-Funktion wurde neu geschrieben: Dateien werden jetzt zuerst lokal gespeichert und nur hochgeladen, wenn ein Netzwerk verfügbar ist.
 
 ### In Version 1.8.0
 Dieses Release enthält auch Funktionsaktualisierungen basierend auf Benutzerwünschen:

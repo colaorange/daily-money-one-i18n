@@ -5,8 +5,7 @@
 > * #5 Support first date of year
 > * #6 Support first date of month
 > * #97 Support summary under search result screen
-> **Enhancement**
-> * #101 Support to retry upload if getting error when backup and uploading
+> * #102 Rewrite Google Drive Upload Logic: Queue Files in Directory and Upload When Network is Ready
 
 ### 1.8.0
 > **Features**: 

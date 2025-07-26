@@ -9,6 +9,7 @@ Bu sürüm, kullanıcı istekleri ve Google politikası doğrultusunda özellik 
 * Google API hedef seviyesi 35'e yükseltildi  
 * Artık dönem listeleri, bakiyeler ve grafikler için ayın ve yılın ilk gününü ayarlayabilirsiniz  
 * Bakiye özeti artık doğrudan arama sonuçlarında gösteriliyor 
+* Google Drive yükleme özelliği yeniden yazıldı: dosyalar artık önce yerel olarak kaydediliyor ve yalnızca ağ kullanılabilir olduğunda yükleniyor.
 
 ### Versiyon 1.8.0'da
 Bu sürüm, kullanıcı taleplerine dayalı özellik güncellemelerini de içermektedir:
