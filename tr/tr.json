@@ -293,7 +293,8 @@
         "tr": "Türkçe",
         "vi": "Vietnamca",
         "zh": "Geleneksel Çince",
-        "zh-CN": "Basitleştirilmiş Çince"
+        "zh-CN": "Basitleştirilmiş Çince",
+        "zh-HK": "Geleneksel Çince (Hong Kong)"
     },
     "lastNDays": "Son {{n}} gün",
     "license": {

@@ -293,7 +293,8 @@
         "tr": "Türkisch",
         "vi": "Vietnamesisch",
         "zh": "Traditionelles Chinesisch",
-        "zh-CN": "Vereinfachtes Chinesisch"
+        "zh-CN": "Vereinfachtes Chinesisch",
+        "zh-HK": "Traditionelles Chinesisch (Hongkong)"
     },
     "lastNDays": "Letzte {{n}} Tage",
     "license": {
