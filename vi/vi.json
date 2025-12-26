@@ -293,7 +293,8 @@
         "tr": "Tiếng Thổ Nhĩ Kỳ",
         "vi": "Tiếng Việt",
         "zh": "Tiếng Trung Quốc (Phồn Thể)",
-        "zh-CN": "Tiếng Trung Quốc (Giản Thể)"
+        "zh-CN": "Tiếng Trung Quốc (Giản Thể)",
+        "zh-HK": "Tiếng Trung Quốc (Phồn Thể) (Hồng Kông)"
     },
     "lastNDays": "{{n}} ngày cuối cùng",
     "license": {

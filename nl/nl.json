@@ -293,7 +293,8 @@
         "tr": "Turks",
         "vi": "Vietnamees",
         "zh": "Traditioneel Chinees",
-        "zh-CN": "Vereenvoudigd Chinees"
+        "zh-CN": "Vereenvoudigd Chinees",
+        "zh-HK": "Traditioneel Chinees (Hongkong)"
     },
     "lastNDays": "Laatste {{n}} dagen",
     "license": {
