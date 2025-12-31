@@ -1,9 +1,13 @@
 {
+    "screen": {
+        "budgetManagement": "Budget Management"
+    },
     "action": {
         "addBudget": "Add Budget"
     },
     "title": {
-        "selectBudgetMode": "Select Budget Mode"
+        "selectBudgetMode": "Select Budget Mode",
+        "deleteBudget": "Delete Budget"
     },
     "budget": {
         "value": "Amount",
@@ -17,8 +21,12 @@
             "yearly": "Yearly"
         }
     },
+    "noBudget": "No budgets available",
+    "noBudgetSelected": "No budget selected",
     "message": {
-        "bookBudgetCreated": "The {{mode}} budget on {{accountType}}/{{accountNamePath}} (amount : {{value}}) has been successfully created.",
-        "accountBudgetCreated": "The {{mode}} budget of account {{accountName}} (amount : {{value}}) has been successfully created."
+        "budgetCreated": "The {{mode}} budget {{budgetName}} (amount: {{value}}) has been successfully created.",
+        "budgetDeleted": "The {{mode}} budget {{budgetName}} (amount: {{value}}) has been successfully deleted.",
+        "confirmDeleteBudget": "Are you sure you want to delete the {{mode}} budget {{budgetName}} (amount: {{value}})? Once deleted, this action cannot be undone.",
+        "confirmDeleteBudgetCheck": "I understand that deleting the budget is irreversible."
     }
 }
