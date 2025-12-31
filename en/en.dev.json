@@ -1,1 +1,24 @@
-{}
+{
+    "action": {
+        "addBudget": "Add Budget"
+    },
+    "title": {
+        "selectBudgetMode": "Select Budget Mode"
+    },
+    "budget": {
+        "value": "Amount",
+        "valueHint": "Amount for the budget, minimum 0",
+        "note": "Note",
+        "noteHint": "Note for the budget, length 0 - 1024 characters",
+        "mode": {
+            "monthly": "Monthly",
+            "until": "Until",
+            "weekly": "Weekly",
+            "yearly": "Yearly"
+        }
+    },
+    "message": {
+        "bookBudgetCreated": "The {{mode}} budget on {{accountType}}/{{accountNamePath}} (amount : {{value}}) has been successfully created.",
+        "accountBudgetCreated": "The {{mode}} budget of account {{accountName}} (amount : {{value}}) has been successfully created."
+    }
+}
