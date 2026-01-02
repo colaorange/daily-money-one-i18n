@@ -6,13 +6,13 @@
 
 The main concepts of Daily Money are very simple, there are only three:
 
-> 1. One or many `Account Books`
-> 2. Various `Accounts` within Account Books
+> 1. One or many `Books`
+> 2. Various `Accounts` within Books
 > 3. Transferring amounts between different accounts and recording these `Transactions`
 
-## ![Account Books](icon:///notebook-multiple) Account Books
+## ![Books](icon:///notebook-multiple) Books
 
-At least one Account Book is required, with accounts having the same currency unit. You can also create multiple Account Books with the same currency unit according to your needs.
+At least one Book is required, with accounts having the same currency unit. You can also create multiple Books with the same currency unit according to your needs.
 
 ## ![Accounts](icon:///bookmark-multiple) Accounts
 
@@ -20,9 +20,9 @@ There are five different types of accounts, which you can add, edit, or delete o
 
 > - `Income`: Salary, etc.
 > - `Expense`: Food, entertainment, etc.
-> - `Assets`: Cash, bank, etc.
-> - `Liabilities`: Credit cards, loans, etc.
-> - `Others`: ...
+> - `Asset`: Cash, bank, etc.
+> - `Liability`: Credit cards, loans, etc.
+> - `Other`: ...
 
 * Account names can use dots (.) to separate (e.g., Food.Dining, Food.Gathering), providing a better hierarchical display when selecting accounts or viewing balance sheets.
 * You can sort accounts to prioritize more frequently used accounts.
@@ -30,9 +30,9 @@ There are five different types of accounts, which you can add, edit, or delete o
 ## ![Transactions](icon:///receipt) Transactions 
 
 When there is a transaction between accounts, such as spending, withdrawing, depositing, or swiping a credit card (e.g., you spent 320 yuan on a meal), use `New Transaction` to create a new transaction.
-> - Select `Date and Time`: Date and time of the transaction.
-> - Select `Transfer-out Account`: Cash
-> - Select `Transfer-in Account`: Dining
+> - Select `Date & Time`: Date and time of the transaction.
+> - Select `Source`: Cash
+> - Select `Destination`: Dining
 > - Input `Amount`: 320
 > - Input `Note`: Gathering with friends
 > - Click `Create`
@@ -41,39 +41,39 @@ When there is a transaction between accounts, such as spending, withdrawing, dep
 
 ### Salary Transfer to Bank
 
-> Transfer-out `Income` Account: Salary
-> Transfer-in `Assets` Account: Bank
+> Source `Income` Account: Salary
+> Destination `Asset` Account: Bank
 
 ### Withdraw Cash from Bank
 
-> Transfer-out `Assets` Account: Bank
-> Transfer-in `Assets` Account: Cash
+> Source `Asset` Account: Bank
+> Destination `Asset` Account: Cash
 
 ### Purchase a Phone with Credit Card
 
-> Transfer-out `Liabilities` Account: Credit Card
-> Transfer-in `Expense` Account: Electronics
+> Source `Liability` Account: Credit Card
+> Destination `Expense` Account: Electronics
 
 ### Pay Credit Card Bill with Bank
 
-> Transfer-out `Assets` Account: Bank 
-> Transfer-in `Liabilities` Account: Credit Card
+> Source `Asset` Account: Bank 
+> Destination `Liability` Account: Credit Card
 
 ## ![Balance Sheet](icon:///scale-balance)![Balance Chart](icon:///chart-pie) Balance Sheet & Chart
 
 Through diligent accounting, the application will help you record all transaction details and generate a balance sheet according to query conditions. This sheet clearly presents the balance of assets and liabilities in different time periods, allowing you to better understand your financial situation. Additionally, the application can generate various charts to visually represent your income and expenses, making it easier for you to understand your financial flow.
 
-## Initial Values of Accounts
+## Initial Balances of Accounts
 
-When you first use the application, you may already have some current accounts with actual values, such as bank deposits, cash on hand, or credit card debts. To ensure that the balance sheet provides more accurate calculation results, you can use the function of initializing accounts to establish the correct initial values of these accounts. In this way, you can make the balance sheet reflect the true financial situation.
+When you first use the application, you may already have some current accounts with actual values, such as bank deposits, cash on hand, or credit card debts. To ensure that the balance sheet provides more accurate calculation results, you can use the function of initializing accounts to establish the correct starting balances of these accounts. In this way, you can make the balance sheet reflect the true financial situation.
 
-## One-to-Many Splitting
+## One-to-Many Splitting (Advanced)
 
-Sometimes, a single expense may involve multiple categories of expenditure. For example, when shopping at a supermarket, you may purchase food, daily necessities, and electronic products at once. To cope with this situation, the application provides advanced transaction creation editing, allowing a single expense to be allocated to multiple different expenditure categories. In other words, you can allocate the amount of a single credit card swipe expense to multiple categories such as food, daily necessities, and electronic products. Please note: In transactions within the same account book, because the currency units are equal, the total amount transferred out must be equal to the total amount transferred in, otherwise the program will reject your transaction creation.
+Sometimes, a single expense may involve multiple categories of expenditure. For example, when shopping at a supermarket, you may purchase food, daily necessities, and electronic products at once. To cope with this situation, the application provides advanced transaction creation editing, allowing a single expense to be allocated to multiple different expenditure categories. In other words, you can allocate the amount of a single credit card swipe expense to multiple categories such as food, daily necessities, and electronic products. Please note: In transactions within the same book, because the currency units are equal, the total amount transferred out must be equal to the total amount transferred in, otherwise the program will reject your transaction creation.
 
-## Transfer between Account Books
+## Transfer between Books
 
-The program allows you to transfer between accounts in different account books. Whether in the basic or advanced transaction editing or creation screen, you can select accounts from other account books when selecting accounts. Since the currency values between different account books may differ, and the exchange rate is not fixed at the moment, such as transferring from New Taiwan Dollars to US Dollars, the program will not limit you to create a transaction where the total amount transferred out must be equal to the total amount transferred in. Please create transactions based on the actual amounts when creating and be careful.
+The program allows you to transfer between accounts in different books. Whether in the basic or advanced transaction editing or creation screen, you can select accounts from other books when selecting accounts. Since the currency values between different books may differ, and the exchange rate is not fixed at the moment, such as transferring from New Taiwan Dollars to US Dollars, the program will not limit you to create a transaction where the total amount transferred out must be equal to the total amount transferred in. Please create transactions based on the actual amounts when creating and be careful.
 
 ## Quick View of Balance Sheet and Charts
 
@@ -81,6 +81,6 @@ When browsing the balance sheet or charts, you can add specific account items to
 
 [*1] Excessive quick views on the home screen may affect the loading time of the home screen.
 
-## Transaction Templates and Recurring Scheduling
+## Templates and Recurring Scheduling
 
-You can set up transaction templates for common accounting actions, allowing you to quickly add transaction. You can also set up recurring schedule templates for regularly recurring accounting actions. The program will notify you when due, enabling you to quickly add the transaction and automatically schedule it for the next due time. Simply swipe left on the item in the transaction list, then tap `Create Template`, and enter the scheduling time, then create it. Additionally, you can sort, edit, or remove these items in the `Transaction Template Management` page.
+You can set up transaction templates for common accounting actions, allowing you to quickly add transaction. You can also set up recurring schedule templates for regularly recurring accounting actions. The program will notify you when due, enabling you to quickly add the transaction and automatically schedule it for the next due time. Simply swipe left on the item in the transaction list, then tap `New Template`, and enter the scheduling time, then create it. Additionally, you can sort, edit, or remove these items in the `Transaction Template Management` page.
