@@ -83,3 +83,7 @@ Bij het bekijken van het balansoverzicht of de diagrammen kun je specifieke reke
 ## Transactiesjablonen en Terugkerende Planningen
 
 Je kunt transactiesjablonen instellen voor veelvoorkomende boekhoudacties, zodat je snel transacties kunt toevoegen. Je kunt ook terugkerende planningssjablonen instellen voor regelmatig terugkerende boekhoudacties. Het programma zal je bij vervaldatum herinneren, zodat je de transactie snel kunt toevoegen en deze automatisch voor de volgende vervaldatum kunt plannen. Veeg simpelweg naar links op het item in de transactielijst, tik op `Sjabloon Aanmaken`, voer de geplande tijd in en maak het aan. Daarnaast kun je deze items sorteren, bewerken of verwijderen op de pagina `Beheer Transactiesjablonen`.
+
+## Budgetinstellingen
+
+Wanneer u door de balans bladert, veegt u eenvoudig naar rechts over een accountitem, klikt u vervolgens op `Budget Aanmaken` en selecteert u de modus. Eenmaal aangemaakt, kunt u de voortgang van het budget bekijken in de balans of in het sneloverzicht op het startscherm. Bovendien kunt u deze items sorteren, bewerken of verwijderen op de pagina `Budgetbeheer`.

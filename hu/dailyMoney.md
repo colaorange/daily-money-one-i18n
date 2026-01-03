@@ -29,6 +29,7 @@ Jelenlegi funkciók:
 - Tranzakciók felosztása egy-a-többhöz számlák között.
 - Tranzakciók átvitele könyvek között.
 - Tranzakciós sablonok, ismétlődő ütemezés és emlékeztetők.
+- Időszakos költségvetések és a költségvetés végrehajtási arányának megjelenítése.
 - Különböző típusú és időszakos diagramok biztosítása.
 - Adatbázis biztonsági mentése mobileszközökre és felhőbe, valamint visszaállítás mobileszközökről.
 - Nyilvános JSON formátum biztonsági mentése mobileszközökre és visszaállítás mobileszközökről.

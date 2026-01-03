@@ -30,6 +30,7 @@ Recursos Atuais:
 - Dividir transações de um para muitos entre contas.
 - Transferir transações entre livros.
 - Modelos de transação, agendamento recorrente e lembretes.
+- Orçamentos periódicos e exibição da taxa de execução orçamentária.
 - Fornecer vários tipos e gráficos periódicos.
 - Backup do banco de dados para dispositivos móveis e nuvem, e restauração de dispositivos móveis.
 - Backup no formato JSON público para dispositivos móveis e restauração de dispositivos móveis.

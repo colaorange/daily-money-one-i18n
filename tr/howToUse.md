@@ -83,3 +83,7 @@ Bilanço veya grafikleri incelerken, belirli hesap öğelerini hızlı görünü
 ## İşlem Şablonları ve Düzenli Planlama
 
 Ortak muhasebe işlemleri için işlem şablonları oluşturabilirsiniz, böylece işlemleri hızlıca ekleyebilirsiniz. Ayrıca düzenli olarak tekrarlanan muhasebe işlemleri için düzenli planlama şablonları da oluşturabilirsiniz. Program, zamanı geldiğinde sizi bilgilendirerek işlemi hızlıca eklemenizi ve bir sonraki tarih için otomatik olarak planlamanızı sağlar. İşlem listesindeki öğeyi sola kaydırın, ardından `Şablon Oluştur`u tıklayın ve planlama zamanını girip oluşturun. Ayrıca, `İşlem Şablonu Yönetimi` sayfasında bu öğeleri sıralayabilir, düzenleyebilir veya kaldırabilirsiniz.
+
+## Bütçe Ayarları
+
+Bilanço tablosuna göz atarken, bir hesap öğesini sağa kaydırın, ardından `Bütçe Oluştur`u tıklayın ve modu seçin. Oluşturulduktan sonra, bütçe ilerlemesini bilanço tablosunda veya Ana Ekrandaki hızlı görünümde görüntüleyebilirsiniz. Ayrıca, `Bütçe Yönetimi` sayfasında bu öğeleri sıralayabilir, düzenleyebilir veya kaldırabilirsiniz.

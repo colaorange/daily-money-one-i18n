@@ -84,3 +84,7 @@ Ao navegar pelo balanço ou gráficos, você pode adicionar itens de conta espec
 
 Você pode configurar modelos de transação para ações contábeis comuns, permitindo que você adicione transações rapidamente. Também é possível configurar modelos de agendamento recorrente para ações contábeis que ocorrem regularmente. O programa notificará quando for devido, permitindo que você adicione rapidamente a transação e a agende automaticamente para a próxima data de vencimento. Basta deslizar para a esquerda no item na lista de transações, tocar em `Criar Modelo` e inserir o horário de agendamento, depois criar. Além disso, você pode classificar, editar ou remover esses itens na página `Gerenciamento de Modelos de Transação`.
 
+## Configurações de Orçamento
+
+Ao navegar pelo balanço patrimonial, basta deslizar para a direita em um item de conta, clicar em `Novo Orçamento` e selecionar o modo. Uma vez criado, você pode visualizar o progresso do orçamento no balanço patrimonial ou na visualização rápida na Tela Inicial. Além disso, você pode classificar, editar ou remover esses itens na página `Gerenciamento de Orçamento`.
+

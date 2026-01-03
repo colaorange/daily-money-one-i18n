@@ -30,6 +30,7 @@ Huidige Functies:
 - Splits transacties één-op-veel tussen rekeningen.
 - Draag transacties over tussen boeken.
 - Transactiesjablonen, terugkerende planning en herinneringen.
+- Periodieke budgetten en weergave van budgetuitvoeringsratio.
 - Bied verschillende soorten en periodieke grafieken.
 - Back-up van de database naar mobiele apparaten en de cloud, en herstel vanaf mobiele apparaten.
 - Back-up van openbaar JSON-formaat naar mobiele apparaten en herstel vanaf mobiele apparaten.

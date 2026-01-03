@@ -5,6 +5,11 @@ Tem perguntas ou solicitações de funcionalidades? Junte-se ao [grupo de fãs n
 
 ## O Que Há de Novo
 
+### Na Versão 1.10.0
+Esta versão inclui atualizações de recursos:
+* Destaque o Balanço Patrimonial na Tela Inicial para tornar suas despesas mensais claramente visíveis à primeira vista.
+* Suporte a configurações de orçamento recorrentes, facilitando o acompanhamento do seu saldo restante para o mês atual.
+
 ### Na Versão 1.9.0
 Esta versão inclui atualizações de recursos com base nos desejos dos usuários e na política do Google:
 * Atualizado o alvo da API do Google para o nível 35  

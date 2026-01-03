@@ -83,3 +83,7 @@ Khi duyệt bảng cân đối hoặc biểu đồ, bạn có thể thêm các m
 ## Mẫu Giao Dịch và Lịch Trình Định Kỳ
 
 Bạn có thể thiết lập các mẫu giao dịch cho các hành động kế toán thông thường, cho phép bạn nhanh chóng thêm giao dịch. Bạn cũng có thể thiết lập các mẫu lịch trình định kỳ cho các hành động kế toán thường xuyên. Chương trình sẽ thông báo cho bạn khi đến hạn, cho phép bạn nhanh chóng thêm giao dịch và tự động lên lịch cho lần tiếp theo. Chỉ cần vuốt sang trái trên mục trong danh sách giao dịch, sau đó nhấn `Tạo Mẫu` và nhập thời gian lên lịch, rồi tạo nó. Ngoài ra, bạn có thể sắp xếp, chỉnh sửa hoặc xóa các mục này trong trang `Quản Lý Mẫu Giao Dịch`.
+
+## Cài đặt Ngân sách
+
+Khi duyệt bảng cân đối kế toán, chỉ cần vuốt sang phải vào một mục tài khoản, sau đó nhấp vào `Tạo Ngân sách` và chọn chế độ. Sau khi tạo, bạn có thể xem tiến độ ngân sách trong bảng cân đối kế toán hoặc xem nhanh trên Màn hình chính. Ngoài ra, bạn có thể sắp xếp, chỉnh sửa hoặc xóa các mục này trong trang `Quản lý Ngân sách`.

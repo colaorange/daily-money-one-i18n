@@ -83,3 +83,7 @@ Al navegar por el balance general o los gráficos, puedes agregar elementos de c
 ## Plantillas de Transacciones y Programación Recurrente
 
 Puede configurar plantillas de transacciones para acciones contables comunes, lo que le permite agregar transacciones rápidamente. También puede configurar plantillas de programación recurrente para acciones contables recurrentes. El programa le notificará cuando sea necesario, permitiéndole agregar rápidamente la transacción y programarla automáticamente para el próximo vencimiento. Simplemente deslice hacia la izquierda en el elemento en la lista de transacciones, luego toque `Crear Plantilla`, ingrese el tiempo de programación y créelo. Además, puede ordenar, editar o eliminar estos elementos en la página de `Gestión de Plantillas de Transacciones`.
+
+## Configuración de Presupuesto
+
+Al navegar por el balance general, simplemente deslice hacia la derecha en un elemento de cuenta, luego haga clic en `Nuevo Presupuesto` y seleccione el modo. Una vez creado, puede ver el progreso del presupuesto en el balance general o en la vista rápida en la pantalla de inicio. Además, puede ordenar, editar o eliminar estos elementos en la página de `Gestión de Presupuestos`.

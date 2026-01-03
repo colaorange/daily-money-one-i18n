@@ -83,3 +83,7 @@ Quando navighi nel bilancio o nei grafici, puoi aggiungere elementi di conto spe
 ## Modelli di Transazione e Programmazione Ricorrente
 
 È possibile impostare modelli di transazione per le azioni contabili comuni, consentendo di aggiungere rapidamente le transazioni. È inoltre possibile impostare modelli di pianificazione ricorrente per azioni contabili ricorrenti. Il programma ti avviserà quando sarà il momento, consentendoti di aggiungere rapidamente la transazione e programmarla automaticamente per la prossima scadenza. Basta scorrere verso sinistra sull'elemento nell'elenco delle transazioni, quindi toccare `Crea Modello` e inserire l'orario di pianificazione, quindi crearlo. Inoltre, puoi ordinare, modificare o rimuovere questi elementi nella pagina `Gestione Modelli di Transazione`.
+
+## Impostazioni Budget
+
+Quando navighi nel bilancio, scorri semplicemente verso destra su un elemento del conto, quindi fai clic su `Nuovo Budget` e seleziona la modalità. Una volta creato, puoi visualizzare l'avanzamento del budget nel bilancio o nella visualizzazione rapida nella schermata Home. Inoltre, puoi ordinare, modificare o rimuovere questi elementi nella pagina `Gestione Budget`.

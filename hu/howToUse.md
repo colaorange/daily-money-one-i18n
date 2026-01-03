@@ -85,3 +85,7 @@ A mérleg vagy diagramok böngészésekor a konkrét számlatételeket hozzáadh
 
 Beállíthat tranzakciós sablonokat a gyakori könyvelési műveletekhez, így gyorsan hozzáadhat tranzakciókat. Ismétlődő ütemezési sablonokat is beállíthat a rendszeresen ismétlődő könyvelési műveletekhez. A program értesíti Önt, amikor esedékes, lehetővé téve, hogy gyorsan hozzáadja a tranzakciót és automatikusan ütemezze a következő esedékes időre. Egyszerűen húzza balra az elemet a tranzakciós listában, majd koppintson a `Sablon létrehozása` gombra, és adja meg az ütemezési időt, majd hozza létre. Ezenkívül rendezheti, szerkesztheti vagy eltávolíthatja ezeket az elemeket a `Tranzakciós sablonkezelés` oldalon.
 
+## Költségvetési beállítások
+
+A mérleg böngészésekor egyszerűen húzza jobbra a fiókelemet, majd kattintson a `Költségvetés létrehozása` gombra, és válassza ki a módot. A létrehozás után megtekintheti a költségvetés előrehaladását a mérlegben vagy a Kezdőképernyő gyors nézetében. Ezenkívül rendezheti, szerkesztheti vagy eltávolíthatja ezeket az elemeket a `Költségvetés-kezelés` oldalon.
+

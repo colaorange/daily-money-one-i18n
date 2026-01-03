@@ -4,6 +4,11 @@
 
 ## Novedades
 
+### En la Versión 1.10.0
+Esta versión incluye actualizaciones de características:
+* Resalte el balance general en la pantalla de inicio para que sus gastos mensuales sean claramente visibles de un vistazo.
+* Soporte para configuraciones de presupuesto recurrentes, lo que facilita el seguimiento de su saldo restante para el mes actual.
+
 ### En la Versión 1.9.0
 Esta versión incluye actualizaciones de funciones basadas en los deseos de los usuarios y la política de Google:
 * Objetivo de API de Google actualizado al nivel 35  

@@ -84,3 +84,7 @@ When browsing the balance sheet or charts, you can add specific account items to
 ## Templates and Recurring Scheduling
 
 You can set up transaction templates for common accounting actions, allowing you to quickly add transaction. You can also set up recurring schedule templates for regularly recurring accounting actions. The program will notify you when due, enabling you to quickly add the transaction and automatically schedule it for the next due time. Simply swipe left on the item in the transaction list, then tap `New Template`, and enter the scheduling time, then create it. Additionally, you can sort, edit, or remove these items in the `Transaction Template Management` page.
+
+## Budget Settings
+
+When browsing the balance sheet, simply swipe right on an account item, then click `New Budget` and select the mode. Once created, you can view the budget progress in the balance sheet or the quick view on the Home Screen. Additionally, you can sort, edit, or remove these items in the `Budget Management` page.

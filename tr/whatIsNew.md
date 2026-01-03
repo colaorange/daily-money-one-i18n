@@ -4,6 +4,11 @@ Sorularınız veya özellik istekleriniz mi var? En son gelişmeleri almak için
 
 ## Yenilikler
 
+### Versiyon 1.10.0'da
+Bu sürüm özellik güncellemeleri içerir:
+* Aylık harcamalarınızı bir bakışta net bir şekilde görebilmek için Ana Ekranda Bilançoyu vurgulayın.
+* Mevcut ay için kalan bakiyenizi takip etmeyi kolaylaştıran yinelenen bütçe ayarlarını destekleyin.
+
 ### Versiyon 1.9.0'da
 Bu sürüm, kullanıcı istekleri ve Google politikası doğrultusunda özellik güncellemeleri içerir:
 * Google API hedef seviyesi 35'e yükseltildi  

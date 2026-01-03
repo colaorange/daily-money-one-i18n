@@ -83,3 +83,7 @@ Beim Durchsuchen der Bilanz oder der Diagramme können Sie bestimmte Kontoartike
 ## Transaktionsvorlagen und wiederkehrende Zeitplanung
 
 Sie können Transaktionsvorlagen für häufige Buchungsvorgänge einrichten, sodass Sie schnell Transaktionen hinzufügen können. Sie können auch wiederkehrende Zeitplanvorlagen für regelmäßig wiederkehrende Buchungsvorgänge einrichten. Das Programm benachrichtigt Sie, wenn es fällig ist, sodass Sie die Transaktion schnell hinzufügen und automatisch für die nächste Fälligkeit planen können. Wischen Sie einfach nach links über das Element in der Transaktionsliste, tippen Sie dann auf `Vorlage erstellen` und geben Sie die Planungszeit ein, und erstellen Sie es dann. Zusätzlich können Sie diese Elemente auf der Seite `Transaktionsvorlagenverwaltung` sortieren, bearbeiten oder entfernen.
+
+## Budgeteinstellungen
+
+Wenn Sie die Bilanz durchsuchen, wischen Sie einfach nach rechts über ein Kontoelement, klicken Sie dann auf `Budget neu erstellen` und wählen Sie den Modus aus. Nach der Erstellung können Sie den Budgetfortschritt in der Bilanz oder in der Schnellansicht auf dem Startbildschirm anzeigen. Darüber hinaus können Sie diese Elemente auf der Seite `Budgetverwaltung` sortieren, bearbeiten oder entfernen.

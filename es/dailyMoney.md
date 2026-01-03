@@ -30,6 +30,7 @@ Características Actuales:
 - Dividir transacciones de uno a muchos entre cuentas.
 - Transferir transacciones entre libros.
 - Plantillas de transacciones, programación recurrente y recordatorios.
+- Presupuestos periódicos y visualización del ratio de ejecución presupuestaria.
 - Proporcionar varios tipos y gráficos periódicos.
 - Copia de seguridad de la base de datos en dispositivos móviles y la nube, y restauración desde dispositivos móviles.
 - Copia de seguridad en formato JSON público en dispositivos móviles y restauración desde dispositivos móviles.

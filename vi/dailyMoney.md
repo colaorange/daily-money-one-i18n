@@ -30,6 +30,7 @@ Các tính năng hiện tại:
 - Chia nhỏ các giao dịch một-nhiều giữa các tài khoản.
 - Chuyển các giao dịch giữa các sổ sách.
 - Mẫu giao dịch, lập lịch định kỳ và nhắc nhở.
+- Ngân sách định kỳ và hiển thị tỷ lệ thực hiện ngân sách.
 - Cung cấp các loại biểu đồ và biểu đồ định kỳ khác nhau.
 - Sao lưu cơ sở dữ liệu vào thiết bị di động và đám mây, và khôi phục từ thiết bị di động.
 - Sao lưu định dạng JSON công khai vào thiết bị di động và khôi phục từ thiết bị di động.

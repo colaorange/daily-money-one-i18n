@@ -5,6 +5,11 @@ Hast du Fragen oder Funktionswünsche? Trete der [Facebook-Fangruppe](https://ww
 
 ## Was ist neu
 
+### In Version 1.10.0
+Diese Version enthält folgende Funktionsaktualisierungen:
+* Heben Sie die Bilanz auf dem Startbildschirm hervor, um Ihre monatlichen Ausgaben auf einen Blick deutlich zu machen.
+* Unterstützung für wiederkehrende Budgeteinstellungen, damit Sie Ihr verbleibendes Guthaben für den aktuellen Monat leichter verfolgen können.
+
 ### In Version 1.9.0
 Dieses Update enthält Funktionsaktualisierungen basierend auf Nutzerwünschen und den Google-Richtlinien:
 * Ziel-API-Level für Google wurde auf 35 aktualisiert  

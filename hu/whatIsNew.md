@@ -4,6 +4,11 @@ Vannak kérdései vagy javaslatai? Csatlakozzon a [Facebook rajongói csoporthoz
 
 ## Újdonságok
 
+### Az 1.10.0 verzióban
+Ez a kiadás funkciófrissítéseket tartalmaz:
+* Emelje ki a Mérleget a Kezdőképernyőn, hogy havi kiadásai egy pillantással jól láthatóak legyenek.
+* Ismétlődő költségkeret-beállítások támogatása, megkönnyítve az aktuális hónap fennmaradó egyenlegének követését.
+
 ### Az 1.9.0 verzióban
 Ez a kiadás funkciófrissítéseket tartalmaz a felhasználói igények és a Google irányelvei alapján:
 * A Google API célverziója 35-re lett frissítve  
