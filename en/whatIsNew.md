@@ -6,7 +6,8 @@ Do you have questions or feature requests? Join [Facebook fan group](https://www
 
 ### In Version 1.10.0
 This release includes feature updates:
-* Highlight the Balance Sheet on the Home Screen
+* Highlight the Balance Sheet on the Home Screen to make your monthly expenses clearly visible at a glance.
+* Support recurring budget settings, making it easier for you to track your remaining balance for the current month.
 
 ### In Version 1.9.0
 This release includes feature updates based on user wishes and google's policy:
