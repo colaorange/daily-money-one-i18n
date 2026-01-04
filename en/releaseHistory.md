@@ -1,5 +1,18 @@
 ## Daily Money One
 
+### 1.10.0
+
+**Features**: 
+> * #33 Support budget
+> * #105 upport to highlight a quick view balance sheet in home screen
+
+## History
+
+### 1.9.1
+
+**Fixed Bugs**
+> * #103 Keyboard overlaps input field on Samsung S24 after upgrading to Google API level 35
+
 ### 1.9.0
 > **Features**: 
 > * #5 Support first date of year
@@ -15,7 +28,6 @@
 > * #91 Allow negative value of inital transaction enhancement
 > * #96 Support Dutch
 
-
 ### 1.7.0
 > **Features**: 
 > * #77 Add Option for First Touch Transaction Selection to Reduce Accidental Edits in Daily Money One 
@@ -29,8 +41,6 @@
 > * #90 Suppor to import csv that has time information in detail list.
 > * #79 Improve Account Selection in Transaction Edit by Starting from Current Account in Daily Money One 
 > * #74 Show loading information when transaction or balance mode is changing and reloading 
-
-## History
 
 ### 1.6.1
 > **Fixed Bugs**

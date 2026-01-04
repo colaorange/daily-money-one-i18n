@@ -4,60 +4,60 @@
 
 Các khái niệm chính của Daily Money rất đơn giản, chỉ có ba:
 
-> 1. Một hoặc nhiều `Account Books`
-> 2. Các `Accounts` khác nhau trong Account Books
-> 3. Chuyển khoản giữa các tài khoản khác nhau và ghi lại các `Transactions`
+> 1. Một hoặc nhiều `Sổ`
+> 2. Các `Tài khoản` khác nhau trong Sổ
+> 3. Chuyển khoản giữa các tài khoản khác nhau và ghi lại các `Giao dịch`
 
-## ![Account Books](icon:///notebook-multiple) Account Books
+## ![Sổ](icon:///notebook-multiple) Sổ
 
-Ít nhất cần một Account Book, với các tài khoản có cùng đơn vị tiền tệ. Bạn cũng có thể tạo nhiều Account Books với cùng đơn vị tiền tệ tùy theo nhu cầu.
+Ít nhất cần một Sổ, với các tài khoản có cùng đơn vị tiền tệ. Bạn cũng có thể tạo nhiều Sổ với cùng đơn vị tiền tệ tùy theo nhu cầu.
 
-## ![Accounts](icon:///bookmark-multiple) Accounts
+## ![Tài khoản](icon:///bookmark-multiple) Tài khoản
 
 Có năm loại tài khoản khác nhau, bạn có thể thêm, chỉnh sửa hoặc xóa trên màn hình quản lý tài khoản.
 
-> - `Income`: Lương, v.v.
-> - `Expense`: Thực phẩm, giải trí, v.v.
-> - `Assets`: Tiền mặt, ngân hàng, v.v.
-> - `Liabilities`: Thẻ tín dụng, khoản vay, v.v.
-> - `Others`: ...
+> - `Thu nhập`: Lương, v.v.
+> - `Chi phí`: Thực phẩm, giải trí, v.v.
+> - `Tài sản`: Tiền mặt, ngân hàng, v.v.
+> - `Nợ phải trả`: Thẻ tín dụng, khoản vay, v.v.
+> - `Khác`: ...
 
 * Tên tài khoản có thể sử dụng dấu chấm (.) để phân tách (ví dụ: Thực phẩm.Ăn uống, Thực phẩm.Tiệc tùng), cung cấp hiển thị phân cấp tốt hơn khi chọn tài khoản hoặc xem bảng cân đối.
 * Bạn có thể sắp xếp tài khoản để ưu tiên các tài khoản sử dụng thường xuyên hơn.
 
-## ![Transactions](icon:///receipt) Transactions 
+## ![Giao dịch](icon:///receipt) Giao dịch 
 
-Khi có giao dịch giữa các tài khoản, chẳng hạn như chi tiêu, rút tiền, gửi tiền hoặc quẹt thẻ tín dụng (ví dụ: bạn chi 320 đồng cho một bữa ăn), sử dụng `New Transaction` để tạo giao dịch mới.
-> - Chọn `Date and Time`: Ngày và giờ của giao dịch.
-> - Chọn `Transfer-out Account`: Tiền mặt
-> - Chọn `Transfer-in Account`: Ăn uống
-> - Nhập `Amount`: 320
-> - Nhập `Note`: Tiệc tùng với bạn bè
-> - Nhấn `Create`
+Khi có giao dịch giữa các tài khoản, chẳng hạn như chi tiêu, rút tiền, gửi tiền hoặc quẹt thẻ tín dụng (ví dụ: bạn chi 320 đồng cho một bữa ăn), sử dụng `Giao dịch mới` để tạo giao dịch mới.
+> - Chọn `Thời gian`: Ngày và giờ của giao dịch.
+> - Chọn `Rút tiền`: Tiền mặt
+> - Chọn `Tiền gửi`: Ăn uống
+> - Nhập `Số tiền`: 320
+> - Nhập `Ghi chú`: Tiệc tùng với bạn bè
+> - Nhấn `Tạo`
 
 ## Ví dụ
 
 ### Chuyển lương vào ngân hàng
 
-> Tài khoản `Income` chuyển ra: Lương
-> Tài khoản `Assets` chuyển vào: Ngân hàng
+> Tài khoản `Thu nhập` chuyển ra: Lương
+> Tài khoản `Tài sản` chuyển vào: Ngân hàng
 
 ### Rút tiền mặt từ ngân hàng
 
-> Tài khoản `Assets` chuyển ra: Ngân hàng
-> Tài khoản `Assets` chuyển vào: Tiền mặt
+> Tài khoản `Tài sản` chuyển ra: Ngân hàng
+> Tài khoản `Tài sản` chuyển vào: Tiền mặt
 
 ### Mua điện thoại bằng thẻ tín dụng
 
-> Tài khoản `Liabilities` chuyển ra: Thẻ tín dụng
-> Tài khoản `Expense` chuyển vào: Điện tử
+> Tài khoản `Nợ phải trả` chuyển ra: Thẻ tín dụng
+> Tài khoản `Chi phí` chuyển vào: Điện tử
 
 ### Thanh toán hóa đơn thẻ tín dụng bằng ngân hàng
 
-> Tài khoản `Assets` chuyển ra: Ngân hàng 
-> Tài khoản `Liabilities` chuyển vào: Thẻ tín dụng
+> Tài khoản `Tài sản` chuyển ra: Ngân hàng 
+> Tài khoản `Nợ phải trả` chuyển vào: Thẻ tín dụng
 
-## ![Balance Sheet](icon:///scale-balance)![Balance Chart](icon:///chart-pie) Balance Sheet & Chart
+## ![Bảng cân đối](icon:///scale-balance)![Biểu đồ số dư](icon:///chart-pie) Bảng cân đối & Biểu đồ số dư
 
 Thông qua việc kế toán cẩn thận, ứng dụng sẽ giúp bạn ghi lại tất cả các chi tiết giao dịch và tạo bảng cân đối theo điều kiện truy vấn. Bảng này trình bày rõ ràng số dư tài sản và nợ trong các khoảng thời gian khác nhau, cho phép bạn hiểu rõ hơn về tình hình tài chính của mình. Ngoài ra, ứng dụng có thể tạo ra các biểu đồ khác nhau để đại diện trực quan cho thu nhập và chi phí của bạn, giúp bạn dễ dàng hiểu dòng tiền của mình hơn.
 
@@ -75,7 +75,7 @@ Chương trình cho phép bạn chuyển khoản giữa các tài khoản trong 
 
 ## Xem Nhanh Bảng Cân Đối và Biểu Đồ
 
-Khi duyệt bảng cân đối hoặc biểu đồ, bạn có thể thêm các mục tài khoản cụ thể vào xem nhanh trên màn hình chính [*1]. Chỉ cần vuốt phải trên mục trong bảng cân đối và nhấp vào `Thêm vào Xem Nhanh`, hoặc nhấp vào "Thêm vào Biểu Tượng Xem Nhanh" ở góc trên cùng bên phải của thẻ biểu đồ cân đối. Tiếp theo, trên màn hình chính, bạn sẽ thấy số dư tài sản và nợ của mục đó, hoặc bạn có thể xem nó trên trang biểu đồ của màn hình chính. Ngoài ra, bạn có thể sắp xếp hoặc xóa các mục này trong `Tùy chọn > Cài đặt Màn hình Chính`.
+Khi duyệt bảng cân đối hoặc biểu đồ, bạn có thể thêm các mục tài khoản cụ thể vào xem nhanh trên màn hình chính [*1]. Chỉ cần vuốt phải trên mục trong bảng cân đối và nhấp vào `Thêm vào Xem nhanh`, hoặc nhấp vào "Thêm vào Biểu Tượng Xem Nhanh" ở góc trên cùng bên phải của thẻ biểu đồ cân đối. Tiếp theo, trên màn hình chính, bạn sẽ thấy số dư tài sản và nợ của mục đó, hoặc bạn có thể xem nó trên trang biểu đồ của màn hình chính. Ngoài ra, bạn có thể sắp xếp hoặc xóa các mục này trong `Tùy chọn > Màn hình chính`.
 
 [*1] Xem nhanh quá nhiều trên màn hình chính có thể ảnh hưởng đến thời gian tải màn hình chính.
 
@@ -86,4 +86,4 @@ Bạn có thể thiết lập các mẫu giao dịch cho các hành động kế
 
 ## Cài đặt Ngân sách
 
-Khi duyệt bảng cân đối kế toán, chỉ cần vuốt sang phải vào một mục tài khoản, sau đó nhấp vào `Tạo Ngân sách` và chọn chế độ. Sau khi tạo, bạn có thể xem tiến độ ngân sách trong bảng cân đối kế toán hoặc xem nhanh trên Màn hình chính. Ngoài ra, bạn có thể sắp xếp, chỉnh sửa hoặc xóa các mục này trong trang `Quản lý Ngân sách`.
+Khi duyệt bảng cân đối kế toán, chỉ cần vuốt sang phải vào một mục tài khoản, sau đó nhấp vào `Tạo ngân sách` và chọn chế độ. Sau khi tạo, bạn có thể xem tiến độ ngân sách trong bảng cân đối kế toán hoặc xem nhanh trên Màn hình chính. Ngoài ra, bạn có thể sắp xếp, chỉnh sửa hoặc xóa các mục này trong trang `Quản lý Ngân sách`.
