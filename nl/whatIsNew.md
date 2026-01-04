@@ -4,6 +4,11 @@ Heb je vragen of functieverzoeken? Word lid van de [Facebook-fangroep](https://w
 
 ## Wat is er nieuw
 
+### In versie 1.10.0
+Deze release bevat functie-updates:
+* Markeer de balans op het startscherm om uw maandelijkse uitgaven in één oogopslag duidelijk zichtbaar te maken.
+* Ondersteuning voor terugkerende budgetinstellingen, waardoor het gemakkelijker is om uw resterende saldo voor de huidige maand bij te houden.
+
 ### In versie 1.9.0  
 Deze release bevat functie-updates op basis van gebruikerswensen en het beleid van Google:
 * Google API-doel bijgewerkt naar niveau 35  

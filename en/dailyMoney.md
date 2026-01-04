@@ -30,6 +30,7 @@ Current Features：
 - Split transactions one-to-many between accounts.
 - Transfer transactions between books.
 - Transaction templates, recurring scheduling and reminders.
+- Periodic budgets and budget execution ratio display.
 - Provide various types and periodic charts.
 - Backup the database to mobile devices and the cloud, and restore from mobile devices.
 - Backup public JSON format to mobile devices and restore from mobile devices.

@@ -4,6 +4,11 @@ Bạn có câu hỏi hoặc yêu cầu tính năng không? Tham gia [nhóm fan t
 
 ## Có gì mới
 
+### Trong Phiên Bản 1.10.0
+Bản phát hành này bao gồm các cập nhật tính năng:
+* Làm nổi bật Bảng cân đối kế toán trên Màn hình chính để hiển thị rõ ràng chi phí hàng tháng của bạn trong nháy mắt.
+* Hỗ trợ cài đặt ngân sách định kỳ, giúp bạn dễ dàng theo dõi số dư còn lại của tháng hiện tại.
+
 ### Trong Phiên Bản 1.9.0
 Phiên bản này bao gồm các cập nhật tính năng dựa trên mong muốn của người dùng và chính sách của Google:
 * Nâng cấp mục tiêu API của Google lên cấp độ 35  

@@ -4,6 +4,11 @@ Hai domande o richieste di funzionalità? Unisciti al [gruppo di fan su Facebook
 
 ## Cosa c'è di nuovo
 
+### Nella Versione 1.10.0
+Questa versione include aggiornamenti delle funzionalità:
+* Metti in evidenza lo Stato Patrimoniale nella Schermata Home per rendere le tue spese mensili chiaramente visibili a colpo d'occhio.
+* Supporto per le impostazioni di budget ricorrenti, rendendo più facile tracciare il saldo rimanente per il mese corrente.
+
 ### Nella Versione 1.9.0
 Questa versione include aggiornamenti delle funzionalità basati sui desideri degli utenti e sulle politiche di Google:
 * Aggiornato il target dell'API di Google al livello 35  

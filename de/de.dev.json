@@ -1,1 +1,43 @@
-{}
+{
+    "screen": {
+        "budgetManagement": "Budgetverwaltung"
+    },
+    "action": {
+        "createBudget": "Budget erstellen"
+    },
+    "title": {
+        "selectBudgetMode": "Budgetmodus auswählen",
+        "createBudget": "Budget erstellen",
+        "deleteBudget": "Budget löschen",
+        "editBudget": "Budget bearbeiten"
+    },
+    "balance": {
+        "hideBudget": "Budget ausblenden"
+    },
+    "budget": {
+        "@": "Budget",
+        "value": "Betrag",
+        "valueHint": "Betrag für das Budget, Minimum 0",
+        "note": "Notiz",
+        "noteHint": "Notiz für das Budget, Länge 0 - 1024 Zeichen",
+        "mode": {
+            "@": "Modus",
+            "monthly": "Monatlich",
+            "until": "Bis",
+            "weekly": "Wöchentlich",
+            "yearly": "Jährlich"
+        },
+        "modeHint": "Wählen Sie den Budgetmodus"
+    },
+    "noBudget": "Keine Budgets verfügbar",
+    "noBudgetSelected": "Kein Budget ausgewählt",
+    "selectBudgetTimeRangeMode": "Wählen Sie den Budget-Zeitraum-Modus",
+    "noBudgetTimeRangeModeSelected": "Kein Budget-Zeitraum-Modus ausgewählt",
+    "message": {
+        "budgetCreated": "Das {{mode}} Budget {{budgetName}} (Betrag: {{value}}) wurde erfolgreich erstellt.",
+        "budgetDeleted": "Das {{mode}} Budget {{budgetName}} (Betrag: {{value}}) wurde erfolgreich gelöscht.",
+        "budgetUpdated": "Das {{mode}} Budget {{budgetName}} (Betrag: {{value}}) wurde erfolgreich aktualisiert.",
+        "confirmDeleteBudget": "Sind Sie sicher, dass Sie das {{mode}} Budget {{budgetName}} (Betrag: {{value}}) löschen möchten? Nach dem Löschen kann diese Aktion nicht rückgängig gemacht werden.",
+        "confirmDeleteBudgetCheck": "Ich verstehe, dass das Löschen des Budgets irreversibel ist."
+    }
+}

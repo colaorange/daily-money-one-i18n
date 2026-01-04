@@ -5,13 +5,13 @@
 
 Os principais conceitos do Daily Money são muito simples, há apenas três:
 
-> 1. Um ou muitos `Livros Contábeis`
-> 2. Várias `Contas` dentro dos Livros Contábeis
+> 1. Um ou muitos `Livros`
+> 2. Várias `Contas` dentro dos Livros
 > 3. Transferência de valores entre diferentes contas e registro dessas `Transações`
 
-## ![Livros Contábeis](icon:///notebook-multiple) Livros Contábeis
+## ![Livros](icon:///notebook-multiple) Livros
 
-É necessário pelo menos um Livro Contábil, com contas que tenham a mesma unidade monetária. Você também pode criar vários Livros Contábeis com a mesma unidade monetária conforme suas necessidades.
+É necessário pelo menos um Livro, com contas que tenham a mesma unidade monetária. Você também pode criar vários Livros com a mesma unidade monetária conforme suas necessidades.
 
 ## ![Contas](icon:///bookmark-multiple) Contas
 
@@ -19,8 +19,8 @@ Existem cinco diferentes tipos de contas, que você pode adicionar, editar ou ex
 
 > - `Receita`: Salário, etc.
 > - `Despesa`: Alimentação, entretenimento, etc.
-> - `Ativos`: Dinheiro, banco, etc.
-> - `Passivos`: Cartões de crédito, empréstimos, etc.
+> - `Ativo`: Dinheiro, banco, etc.
+> - `Passivo`: Cartões de crédito, empréstimos, etc.
 > - `Outros`: ...
 
 * Nomes de contas podem usar pontos (.) para separar (ex., Alimentação.Jantar, Alimentação.Reunião), proporcionando uma melhor exibição hierárquica ao selecionar contas ou visualizar balanços.
@@ -29,9 +29,9 @@ Existem cinco diferentes tipos de contas, que você pode adicionar, editar ou ex
 ## ![Transações](icon:///receipt) Transações 
 
 Quando há uma transação entre contas, como gastar, sacar, depositar ou usar um cartão de crédito (ex., você gastou 320 reais em uma refeição), use `Nova Transação` para criar uma nova transação.
-> - Selecionar `Data e Hora`: Data e hora da transação.
-> - Selecionar `Conta de Transferência de Saída`: Dinheiro
-> - Selecionar `Conta de Transferência de Entrada`: Jantar
+> - Selecionar `Hora`: Data e hora da transação.
+> - Selecionar `Retirada`: Dinheiro
+> - Selecionar `Depósito`: Jantar
 > - Inserir `Valor`: 320
 > - Inserir `Nota`: Reunião com amigos
 > - Clicar em `Criar`
@@ -40,25 +40,25 @@ Quando há uma transação entre contas, como gastar, sacar, depositar ou usar u
 
 ### Transferência de Salário para Banco
 
-> Conta de Transferência de Saída `Receita`: Salário
-> Conta de Transferência de Entrada `Ativos`: Banco
+> Retirada `Receita`: Salário
+> Depósito `Ativo`: Banco
 
 ### Sacar Dinheiro do Banco
 
-> Conta de Transferência de Saída `Ativos`: Banco
-> Conta de Transferência de Entrada `Ativos`: Dinheiro
+> Retirada `Ativo`: Banco
+> Depósito `Ativo`: Dinheiro
 
 ### Comprar um Telefone com Cartão de Crédito
 
-> Conta de Transferência de Saída `Passivos`: Cartão de Crédito
-> Conta de Transferência de Entrada `Despesa`: Eletrônicos
+> Retirada `Passivo`: Cartão de Crédito
+> Depósito `Despesa`: Eletrônicos
 
 ### Pagar Fatura do Cartão de Crédito com Banco
 
-> Conta de Transferência de Saída `Ativos`: Banco 
-> Conta de Transferência de Entrada `Passivos`: Cartão de Crédito
+> Retirada `Ativo`: Banco 
+> Depósito `Passivo`: Cartão de Crédito
 
-## ![Balanço](icon:///scale-balance)![Gráfico de Balanço](icon:///chart-pie) Balanço e Gráfico
+## ![Balanço Patrimonial](icon:///scale-balance)![Gráfico de Balanço](icon:///chart-pie) Balanço Patrimonial e Gráfico
 
 Através de uma contabilidade diligente, o aplicativo ajudará a registrar todos os detalhes das transações e gerar um balanço de acordo com as condições de consulta. Este balanço apresenta claramente o saldo de ativos e passivos em diferentes períodos, permitindo que você entenda melhor sua situação financeira. Além disso, o aplicativo pode gerar vários gráficos para representar visualmente suas receitas e despesas, facilitando a compreensão do fluxo financeiro.
 
@@ -68,19 +68,23 @@ Quando você usa o aplicativo pela primeira vez, pode já ter algumas contas com
 
 ## Divisão de Um-para-Muitos
 
-Às vezes, uma única despesa pode envolver várias categorias de gasto. Por exemplo, ao fazer compras em um supermercado, você pode comprar alimentos, itens de necessidade diária e produtos eletrônicos de uma vez. Para lidar com essa situação, o aplicativo oferece uma edição avançada de criação de transações, permitindo que uma única despesa seja alocada a várias categorias diferentes de gasto. Em outras palavras, você pode alocar o valor de uma única despesa de cartão de crédito para várias categorias, como alimentos, itens de necessidade diária e produtos eletrônicos. Nota: Nas transações dentro do mesmo livro contábil, como as unidades monetárias são iguais, o valor total transferido de saída deve ser igual ao valor total transferido de entrada, caso contrário, o programa rejeitará a criação da transação.
+Às vezes, uma única despesa pode envolver várias categorias de gasto. Por exemplo, ao fazer compras em um supermercado, você pode comprar alimentos, itens de necessidade diária e produtos eletrônicos de uma vez. Para lidar com essa situação, o aplicativo oferece uma edição avançada de criação de transações, permitindo que uma única despesa seja alocada a várias categorias diferentes de gasto. Em outras palavras, você pode alocar o valor de uma única despesa de cartão de crédito para várias categorias, como alimentos, itens de necessidade diária e produtos eletrônicos. Nota: Nas transações dentro do mesmo livro, como as unidades monetárias são iguais, o valor total transferido de saída deve ser igual ao valor total transferido de entrada, caso contrário, o programa rejeitará a criação da transação.
 
 ## Transferência entre Livros Contábeis
 
-O programa permite transferências entre contas em diferentes livros contábeis. Tanto na edição básica quanto na avançada de criação de transações, você pode selecionar contas de outros livros contábeis ao selecionar contas. Como os valores das moedas entre diferentes livros contábeis podem diferir e a taxa de câmbio não é fixa no momento, como transferir de Reais para Dólares Americanos, o programa não limitará você a criar uma transação onde o valor total transferido de saída deve ser igual ao valor total transferido de entrada. Por favor, crie transações com base nos valores reais ao criar e seja cuidadoso.
+O programa permite transferências entre contas em diferentes livros. Tanto na edição básica quanto na avançada de criação de transações, você pode selecionar contas de outros livros ao selecionar contas. Como os valores das moedas entre diferentes livros podem diferir e a taxa de câmbio não é fixa no momento, como transferir de Reais para Dólares Americanos, o programa não limitará você a criar uma transação onde o valor total transferido de saída deve ser igual ao valor total transferido de entrada. Por favor, crie transações com base nos valores reais ao criar e seja cuidadoso.
 
 ## Visualização Rápida do Balanço e Gráficos
 
-Ao navegar pelo balanço ou gráficos, você pode adicionar itens de conta específicos à visualização rápida na tela inicial [*1]. Basta deslizar para a direita no item no balanço e clicar em `Adicionar à Visualização Rápida`, ou clicar no "Ícone de Adicionar à Visualização Rápida" no canto superior direito do cartão do gráfico de balanço. Em seguida, na tela inicial, você verá o saldo de ativos e passivos para aquele item, ou poderá visualizá-lo na página de gráficos da tela inicial. Além disso, você pode classificar ou remover esses itens em `Preferências > Configurações da Tela Inicial`.
+Ao navegar pelo balanço ou gráficos, você pode adicionar itens de conta específicos à visualização rápida na tela inicial [*1]. Basta deslizar para a direita no item no balanço e clicar em `Adicionar à Visualização Rápida`, ou clicar no "Ícone de Adicionar à Visualização Rápida" no canto superior direito do cartão do gráfico de balanço. Em seguida, na tela inicial, você verá o saldo de ativos e passivos para aquele item, ou poderá visualizá-lo na página de gráficos da tela inicial. Além disso, você pode classificar ou remover esses itens em `Preferências > Tela Inicial`.
 
 [*1] Vistas rápidas excessivas na tela inicial podem afetar o tempo de carregamento da tela inicial.
 
 ## Modelos de Transação e Agendamento Recorrente
 
-Você pode configurar modelos de transação para ações contábeis comuns, permitindo que você adicione transações rapidamente. Também é possível configurar modelos de agendamento recorrente para ações contábeis que ocorrem regularmente. O programa notificará quando for devido, permitindo que você adicione rapidamente a transação e a agende automaticamente para a próxima data de vencimento. Basta deslizar para a esquerda no item na lista de transações, tocar em `Criar Modelo` e inserir o horário de agendamento, depois criar. Além disso, você pode classificar, editar ou remover esses itens na página `Gerenciamento de Modelos de Transação`.
+Você pode configurar modelos de transação para ações contábeis comuns, permitindo que você adicione transações rapidamente. Também é possível configurar modelos de agendamento recorrente para ações contábeis que ocorrem regularmente. O programa notificará quando for devido, permitindo que você adicione rapidamente a transação e a agende automaticamente para a próxima data de vencimento. Basta deslizar para a esquerda no item na lista de transações, tocar em `Novo Modelo` e inserir o horário de agendamento, depois criar. Além disso, você pode classificar, editar ou remover esses itens na página `Modelo`.
+
+## Configurações de Orçamento
+
+Ao navegar pelo balanço patrimonial, basta deslizar para a direita em um item de conta, clicar em `Criar Orçamento` e selecionar o modo. Uma vez criado, você pode visualizar o progresso do orçamento no balanço patrimonial ou na visualização rápida na Tela Inicial. Além disso, você pode classificar, editar ou remover esses itens na página `Orçamento`.
 

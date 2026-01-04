@@ -30,6 +30,7 @@ Mevcut Özellikler:
 - İşlemleri hesaplar arasında bire çok bölün.
 - İşlemleri defterler arasında aktarın.
 - İşlem şablonları, yinelenen planlama ve hatırlatıcılar.
+- Periyodik bütçeler ve bütçe uygulama oranı gösterimi.
 - Çeşitli türler ve periyodik grafikler sağlayın.
 - Veritabanını mobil cihazlara ve buluta yedekleyin ve mobil cihazlardan geri yükleyin.
 - Genel JSON biçimini mobil cihazlara yedekleyin ve mobil cihazlardan geri yükleyin.

@@ -30,6 +30,7 @@ Aktuelle Funktionen:
 - Teilen Sie Transaktionen eins-zu-viele zwischen Konten auf.
 - Übertragen Sie Transaktionen zwischen Büchern.
 - Transaktionsvorlagen, wiederkehrende Zeitpläne und Erinnerungen.
+- Periodische Budgets und Anzeige der Budgetausführungsquote.
 - Bereitstellung verschiedener Arten und periodischer Diagramme.
 - Sichern Sie die Datenbank auf Mobilgeräten und in der Cloud und stellen Sie sie von Mobilgeräten wieder her.
 - Sichern Sie das öffentliche JSON-Format auf Mobilgeräten und stellen Sie es von Mobilgeräten wieder her.

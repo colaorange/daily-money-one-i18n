@@ -30,6 +30,7 @@ Funzionalità attuali:
 - Dividi le transazioni uno-a-molti tra i conti.
 - Trasferisci transazioni tra libri.
 - Modelli di transazione, programmazione ricorrente e promemoria.
+- Budget periodici e visualizzazione del rapporto di esecuzione del budget.
 - Fornisce vari tipi e grafici periodici.
 - Esegui il backup del database su dispositivi mobili e cloud e ripristina da dispositivi mobili.
 - Esegui il backup del formato JSON pubblico su dispositivi mobili e ripristina da dispositivi mobili.
