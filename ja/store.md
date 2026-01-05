@@ -1,5 +1,5 @@
 App Name: 
-Daily Money One
+毎日の家計簿 One
 
 Short description: 
 個人、家族、小規模ビジネス向けの日常的な財務追跡アプリ。

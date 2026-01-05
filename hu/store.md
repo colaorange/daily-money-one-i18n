@@ -2,7 +2,7 @@ App Name:
 Daily Money One
 
 Short description: 
-Napi pénzügyi nyomon követés magánszemélyek, családok és kisvállalkozások számára.
+Napi pénzügyek: magánszemélyeknek, családoknak és kisvállalkozásoknak.
 
 Long description:
 【Daily Money One】 - Egyszerű, Erőteljes, Megbízható Pénzügyi Követés
