@@ -1,12 +1,21 @@
 ## Daily Money One
 
-### 1.10.0
 
+### 1.11.0
+
+**Features**: 
+> * #108 Enhance the schedule template shortcut on the home screen.
+
+## History
+
+### 1.10.1
+**Features**: 
+> * #106 transaction link on highlight quick sheet view
+
+### 1.10.0
 **Features**: 
 > * #33 Support budget
 > * #105 upport to highlight a quick view balance sheet in home screen
-
-## History
 
 ### 1.9.1
 

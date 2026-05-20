@@ -4,6 +4,11 @@ Do you have questions or feature requests? Join [Facebook fan group](https://www
 
 ## What's New
 
+### In Version 1.11.0
+This release includes feature updates:
+* If a button icon has a shadow, it indicates that long-pressing it will reveal additional related functions.
+* Added shortcut on the home screen for using transaction templates, while also enhancing functionality for quickly rescheduling templates.
+
 ### In Version 1.10.0
 This release includes feature updates:
 * Highlight the Balance Sheet on the Home Screen to make your monthly expenses clearly visible at a glance.
