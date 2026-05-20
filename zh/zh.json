@@ -91,7 +91,7 @@
         "talk": "我被開發出來後, 難免會存在一些錯誤。而隨著時間的推移和其他服務的更新, 如果我不跟著進行修改和更新, 也會導致我無法正常運作。這些都需要持續的維護成本, 而我主要依賴廣告收入來支援這些成本。如果我對您有幫助, 請考慮打開廣告, 點擊一下廣告, 以幫助我增加收入, 從而更好地繼續維護和開發新功能。"
     },
     "always": "總是",
-    "appName": "Daily Money One",
+    "appName": "每日記帳本One",
     "autoBackupDatabase": {
         "intervalDays": "間隔天數",
         "intervalDaysHint": "自動備份在背景被觸發後, 將檢查距離上次備份的時間是否超過此間隔。若超過, 則執行備份。",
@@ -103,7 +103,7 @@
         "retentionDaysHint": "自動備份在執行後, 若舊備份檔案的日期超過保留天數, 將刪除這些舊的備份檔案。"
     },
     "balance": {
-        "@": "資產負債",
+        "@": "資產負債表",
         "amount": "合計",
         "compactSheet": "緊湊的表格",
         "compactSheetHint": "減少文字間的間距，讓資產負債表顯示更多的項目",
@@ -175,19 +175,19 @@
         "newBookName": "新的帳本名稱",
         "numberSeparators": {
             "@": "數值分隔符號",
-            "commaDot": "逗號及點",
+            "commaDot": "1,000.00 (逗號及點)",
             "description": "'{{thousand}}'作為千位數分隔符號, '{{decimal}}'作為小數點分隔符號",
-            "dotComma": "點及逗號",
+            "dotComma": "1.000,00 (點及逗號)",
             "language": "依當前語言",
-            "spaceComma": "空白及逗號",
-            "spaceDot": "空白及點"
+            "spaceComma": "1 000,00 (空白及逗號)",
+            "spaceDot": "1 000.00 (空白及點)"
         },
         "pickAccountsCsv": "選取帳戶CSV檔",
         "pickDetailsCsv": "選取明細CSV檔",
         "provideAccountsCsv": "提供帳戶CSV檔案",
         "provideAccountsCsvHint": "請提供由每日記帳本+匯出的帳戶CSV檔案, 其檔名通常為accounts.csv或accounts-<數字>.csv",
         "provideDetailsCsv": "提供明細CSV檔案",
-        "provideDetailsCsvHint": "請提供由每日記帳本+匯出的明細CSV檔案, 其檔名通常為details.csv或detials-<數字>.csv",
+        "provideDetailsCsvHint": "請提供由每日記帳本+匯出的明細CSV檔案, 其檔名通常為details.csv或details-<數字>.csv",
         "transactionToCreate": "即將建立的帳目資料共{{size}}筆"
     },
     "days": "天",
@@ -364,7 +364,7 @@
         "confirmDeleteInitialTransaction": "您確定要刪除初始化帳目 {{account}} 嗎？ 帳目刪除後將無法回復。",
         "confirmDeleteTransaction": "您確定要刪除帳目從 {{withdrawals}} 轉入 {{deposits}} 於 {{transDatetime}} 嗎？帳目刪除後將無法回復, 跟其他帳本內的帳戶相關的轉出或轉入也會被清除(可能會影響其他帳本的資料)。",
         "confirmDeleteTransactionCheck": "我知道帳目刪除後無法復原。",
-        "confirmDeleteTransactionTrash": "您確定要清空初帳目垃圾桶嗎？ 帳目刪除後將無法回復。",
+        "confirmDeleteTransactionTrash": "您確定要清空帳目垃圾桶嗎？ 帳目刪除後將無法回復。",
         "confirmDeleteTransactionTrashCheck": "我知道垃圾桶清空後無法復原。",
         "confirmRemove": "您確定要移除 {{name}} 嗎？",
         "confirmResetPassword": "您確定要重設密碼嗎？一旦重設，您將可以在不輸入密碼的情況下使用應用程式。",
@@ -465,7 +465,7 @@
         "againMustMatch": "輸入的密碼必須與之前的密碼相同",
         "current": "當前密碼",
         "currentHint": "提供當前密碼才能清除或更新密碼",
-        "currentMustMatch": "當前密碼必須匹配",
+        "currentMustMatch": "與當前密碼不相符",
         "hint": "應用程式不會儲存您的原始密碼，因此在設置密碼保護時，請務必記住您的密碼",
         "new": "新密碼",
         "newHint": "使用的密碼必須至少有一個字符",
@@ -600,9 +600,9 @@
         "bookHint": "要搜尋的帳本(單選)",
         "depositAccountsHint": "要搜尋的轉入帳戶(多選)",
         "maxValue": "金額小於",
-        "maxValueHint": "提出或轉入金額小於金額(包含)",
+        "maxValueHint": "轉出或轉入金額小於金額(包含)",
         "minValue": "金額大於",
-        "minValueHint": "提出或轉入金額大於此金額(包含)",
+        "minValueHint": "轉出或轉入金額大於金額(包含)",
         "noteHint": "備註包含此字串",
         "withdrawalAccountsHint": "要搜尋的轉出帳戶(多選)"
     },
@@ -630,7 +630,7 @@
         "accountLiability": "$t(account.liability)",
         "accountOther": "$t(account.other)",
         "homeCharts": "圖表",
-        "homeMain": "主要",
+        "homeMain": "主頁",
         "homeTest": "測試",
         "transactionTemplateNormal": "一般",
         "transactionTemplateSchedule": "排程"
@@ -747,7 +747,7 @@
         },
         "note": "備註",
         "noteBeforeBody": "備註在前",
-        "noteBeforeBodyHint": "備註顯示在交易轉出轉入資訊之前",
+        "noteBeforeBodyHint": "備註顯示在帳目轉出轉入資訊之前",
         "noteDefaultOpen": "備註預設展開",
         "noteDefaultOpenHint": "備註預設為展開狀態，您可以點擊筆記來切換展開或摺疊狀態",
         "noteHint": "帳目的備註, 長度0 - 1024個字元",
