@@ -1,1 +1,7 @@
-{}
+{
+    "noExpiredTransactionTemplate": "沒有到期的帳目範本",
+    "message": {
+        "confirmScheduleBypass": "您確定要跳過並重新安排下次排程嗎？",
+        "confirmScheduleReset": "您確定要重設目前的排程嗎？"
+    }
+}
