@@ -1,49 +1,49 @@
 
 ## Ursprung
-![Daily Money](asset:///img/dmx480.png?height=200) 
+![Daily Money](asset:///img/dmx480.png?height=200)
 
-`Daily Money` ist eine Open-Source-, kostenlose und werbefreie Buchhaltungssoftware für Android-Smartphones aus dem Jahr 2011. Im Jahr 2018 wurde sie überarbeitet und in `Daily Money+` umbenannt, um sich an das damals neue Android-System anzupassen, wobei die Prinzipien der Kostenfreiheit und Werbefreiheit beibehalten wurden.
+`Daily Money` ist eine quelloffene, kostenlose und werbefreie Android-App für persönliche Buchführung, die 2011 entstanden ist. 2018 wurde sie überarbeitet und als `Daily Money+` neu veröffentlicht, damit sie zum damaligen Android-System passte, blieb dabei aber weiterhin kostenlos und werbefrei.
 
-Von der ersten Version im Jahr 2011 bis zur überarbeiteten Version im Jahr 2018 wurde die Software in der Freizeit des Autors während eines Jobwechsels entwickelt. Aufgrund von Zeit- und Ressourcenbeschränkungen sowie gesundheitlichen Bedingungen wurde nicht genügend Aufwand in die anschließende Programmpflege oder das Community-Management investiert. Schließlich wurde die Software aufgrund der geschäftigen Vollzeitbeschäftigung des Autors vollständig ignoriert.
+Von der ersten Version 2011 bis zur überarbeiteten Version 2018 entwickelte der Autor die Software in seiner Freizeit während beruflicher Wechsel. Wegen begrenzter Zeit, knapper Ressourcen und gesundheitlicher Gründe konnte später nicht genug Aufwand in Wartung und Community gesteckt werden. Schließlich blieb die Software wegen der anspruchsvollen Vollzeitstelle des Autors praktisch liegen.
 
-Obwohl der Autor nicht viel Zeit mit der Pflege der Software und der Community verbrachte, nutzt er die selbstentwickelte Software immer noch jeden Tag für die Buchhaltung. Mit der Zeit hinkt die Software jedoch den Systemaktualisierungen hinterher, und einige Funktionen können auf neuen Smartphones nicht mehr ausgeführt werden. Der Autor begann sich Sorgen zu machen, dass die Software eines Tages nicht mehr funktionieren würde und die Aufzeichnungen von zehn Jahren verloren gehen würden.
+Obwohl der Autor nur wenig Zeit für Wartung und Community hatte, verwendet er seine selbst entwickelte Software bis heute jeden Tag für die Buchführung. Mit der Zeit fiel die Software jedoch immer weiter hinter Systemupdates zurück, und manche Funktionen liefen auf neuen Smartphones nicht mehr. Der Autor begann zu befürchten, dass die App eines Tages nicht mehr funktionieren und zehn Jahre an Aufzeichnungen verloren gehen könnten.
 
 ## Krise als Chance
 
-Kurz gesagt, der Autor wurde Ende 2023 vom Unternehmen entlassen.
+Kurz gesagt: Der Autor wurde Ende 2023 vom Unternehmen entlassen.
 
-Angesichts der Situation, dass die gesamte Abteilung entlassen wurde, unabhängig von Leistung oder Fähigkeit, war der Autor äußerst entmutigt. Nach Monaten der Stille und als Mensch mittleren Alters ohne Beziehungen war es nicht einfach, einen guten Job zu finden. Die Erkenntnis, dass die Konzentration auf die eigene Programmentwicklung, um den Benutzern direkt zu dienen, eine sinnvollere Wahl sein könnte, als sich für andere abzurackern.
+Dass die gesamte Abteilung unabhängig von Leistung oder Fähigkeiten entlassen wurde, traf den Autor schwer. Nach Monaten der Stille und ohne starke Beziehungen war es in der Lebensmitte nicht leicht, eine gute Stelle zu finden. Dabei entstand die Erkenntnis, dass es sinnvoller sein könnte, sich auf eigene Softwareentwicklung zu konzentrieren und Nutzer direkt zu bedienen, statt nur für andere zu arbeiten.
 
-Daher kehrte der Autor zurück und beschloss, sich auf den Betrieb seines unabhängigen Softwareentwicklungsstudios zu konzentrieren. Das erste Produkt ist natürlich die Wiederherstellung von "Daily Money", das der Autor seit über einem Jahrzehnt nutzt. Immerhin gibt es noch viele Benutzer, die es seit der ersten Version nutzen, und der Autor ist dankbar für ihre Unterstützung.
+Darum ist der Autor zurückgekehrt und hat beschlossen, sich auf sein unabhängiges Softwarestudio zu konzentrieren. Das erste Produkt ist natürlich die Wiederbelebung von "Daily Money", das der Autor seit mehr als zehn Jahren selbst nutzt. Schließlich gibt es noch viele Nutzer, die es seit der ersten Version verwenden, und der Autor ist für diese Unterstützung dankbar.
 
 ## Daily Money One
 
-`Daily Money One` ist eine einfach zu bedienende Buchhaltungsanwendung, die auf einfachen Buchhaltungskonzepten basiert. Sie verfügt über eine einfache Benutzeroberfläche, kein ausgefallenes Design und keine spielerischen Inhalte, die nur dazu dienen, dass sich die Benutzer leicht auf die Buchhaltung konzentrieren können. Sie eignet sich nicht nur für die persönliche und haushaltsnahe Buchhaltung, sondern auch für die Buchhaltungsbedürfnisse kleiner Unternehmen. In Zukunft werden wir weitere Funktionen einführen, die auf die Buchhaltungsbedürfnisse von Haushalten und kleinen Unternehmen zugeschnitten sind, um umfassendere Dienstleistungen anzubieten.
+`Daily Money One` ist eine leicht bedienbare Buchführungs-App auf Basis einfacher Buchhaltungskonzepte. Sie hat eine schlichte Oberfläche, keine überladenen Designs und keine spielerischen Ablenkungen. Sie ist ganz darauf ausgelegt, dass Nutzer sich einfach auf ihre Buchführung konzentrieren können. Neben persönlicher und familiärer Buchführung eignet sie sich auch für kleine Unternehmen. In Zukunft werden weitere Funktionen für Haushalte und kleine Unternehmen ergänzt, um umfassendere Dienste anzubieten.
 
-`Über Werbung`: Um sicherzustellen, dass die beiden Katzen des Autors Futter haben und der Autor Kaffee zu trinken hat, und um die kontinuierliche Wartung und den Betrieb dieses Programms zu gewährleisten, wurde Werbung hinzugefügt. Derzeit gibt es zwei Stufen von Werbeeinstellungen, die von den Benutzern angepasst werden können, und Anpassungen werden in Zukunft auch basierend auf der Anzahl der Benutzer vorgenommen. Der Ausgangspunkt des Autors ist nach wie vor sicherzustellen, dass Werbung das Benutzererlebnis nicht beeinträchtigt. Sie können die Werbeeinstellungen nach der Installation unter „Einstellungen > Werbeeinstellungen“ (Preferences > Advertisement Settings) anpassen.
+`Über Werbung`: Damit die zwei Katzen des Autors Futter haben, der Autor Kaffee trinken kann und die App weiter gepflegt und betrieben wird, wurde Werbung ergänzt. Derzeit gibt es zwei Werbe-Stufen, die Nutzer anpassen können; je nach Nutzerzahl kann es künftig weitere Anpassungen geben. Ausgangspunkt des Autors bleibt, dass Werbung die Nutzung nicht beeinträchtigen soll. Nach der Installation können Sie die Werbeeinstellungen unter "Einstellungen > Werbung" anpassen.
 
 Aktuelle Funktionen:
-- Erfassen Sie tägliche Ausgaben, Einnahmen, Vermögenswerte und Verbindlichkeiten.
-- Führen Sie Salden für verschiedene Konten und beliebige Zeiträume durch.
-- Unterstützung mehrerer Bücher.
-- Erstellen Sie mehrere benutzerdefinierte Konten, hierarchische Konten.
-- Teilen Sie Transaktionen eins-zu-viele zwischen Konten auf.
-- Übertragen Sie Transaktionen zwischen Büchern.
-- Transaktionsvorlagen, wiederkehrende Zeitpläne und Erinnerungen.
-- Periodische Budgets und Anzeige der Budgetausführungsquote.
-- Bereitstellung verschiedener Arten und periodischer Diagramme.
-- Sichern Sie die Datenbank auf Mobilgeräten und in der Cloud und stellen Sie sie von Mobilgeräten wieder her.
-- Sichern Sie das öffentliche JSON-Format auf Mobilgeräten und stellen Sie es von Mobilgeräten wieder her.
+- Tägliche Ausgaben, Einnahmen, Vermögen und Verbindlichkeiten erfassen.
+- Bilanzen für verschiedene Konten und beliebige Zeiträume anzeigen.
+- Mehrere Bücher unterstützen.
+- Mehrere benutzerdefinierte Konten und hierarchische Konten erstellen.
+- Buchungen eins-zu-viele zwischen Konten aufteilen.
+- Buchungen zwischen Büchern übertragen.
+- Buchungsvorlagen, wiederkehrende Zeitpläne und Erinnerungen.
+- Periodische Budgets und Anzeige des Budgetfortschritts.
+- Verschiedene Diagrammtypen und Zeiträume.
+- Datenbank auf Mobilgeräten und in der Cloud sichern und von Mobilgeräten wiederherstellen.
+- Öffentliches JSON-Format auf Mobilgeräten sichern und von Mobilgeräten wiederherstellen.
 - Passwortschutz.
-- Exportieren Sie Transaktionen und Bilanzen nach XLSX.
-- Importieren Sie CSV-Exportdateien von "Daily Money+".
-- Keine Nutzungsbeschränkungen, völlig kostenlos.
+- Buchungen und Bilanzen als XLSX exportieren.
+- CSV-Exportdateien aus "Daily Money+" importieren.
+- Keine Nutzungslimits, vollständig kostenlos.
 - Weitere Funktionen in Entwicklung...
 
-[`Wie benutzt man.`](https://youtu.be/uN3GkA_Afuw)
+[`Anleitung.`](https://youtu.be/uN3GkA_Afuw)
 
-[`Importieren Sie Daily Money+ CSV.`](https://youtu.be/IkZsiJ5TAyw)
+[`Daily Money+ CSV importieren.`](https://youtu.be/IkZsiJ5TAyw)
 
-Wenn Ihnen dieses Programm gefällt, denken Sie bitte daran, ihm einen Stern zu geben, um seine Popularität zu steigern.
-- [`Bring mich zum Sterne geben.`](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone)
-- [`Treten Sie der Facebook-Fanpage bei.`](https://www.facebook.com/colaorange.daily.money/) (Stellen Sie Fragen hier statt im Play Store)
+Wenn Ihnen dieses Programm gefällt, geben Sie ihm bitte einen Stern, damit es sichtbarer wird.
+- [`Zur Bewertung.`](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone)
+- [`Der Facebook-Fanseite beitreten.`](https://www.facebook.com/colaorange.daily.money/) (Bitte stellen Sie Fragen hier statt im Play Store)

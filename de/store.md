@@ -1,54 +1,54 @@
-App Name: 
+App Name:
 Daily Money One
 
-Short description: 
-Tägliche Finanzerfassung für Einzelpersonen, Familien und kleine Unternehmen.
+Short description:
+Tägliche Finanzverfolgung für Personen, Familien und kleine Unternehmen.
 
 Long description:
-【Daily Money One】 - Einfach, Leistungsstark, Vertrauenswürdig
+Daily Money One - Einfache, starke und verlässliche Finanzverfolgung
 
-Abgeleitet von den Klassikern "Daily Money" und "Daily Money+", ist dies ein handgefertigtes Meisterwerk des ursprünglichen Autors.
-Wir glauben, dass Buchhaltung keine Last sein sollte, sondern ein Weg, die Kontrolle über Ihr Leben zu übernehmen.
-Dies ist keine App voller Werbung oder ablenkender Spiele; es ist ein reines Haushaltsbuch, entworfen für "Sie, die Finanzen ernst nehmen".
+Aus dem klassischen "Daily Money" und "Daily Money+" hervorgegangen, ist dies ein handgefertigtes Werk des ursprünglichen Autors.
+Wir glauben, dass Buchführung keine Last sein sollte, sondern ein Weg, das eigene Leben besser im Griff zu haben.
+Dies ist keine App voller Werbung oder ablenkender Spiele, sondern eine klare Buchführungs-App für Menschen, die ihre Finanzen ernst nehmen.
 
-Warum Daily Money One wählen?
+Warum Daily Money One?
 
-✅ Rein & Effizient, Keine Ablenkungen
-Keine komplexen sozialen Funktionen, keine ablenkende Gamification. Wir bieten die intuitivste Oberfläche, mit der Sie Transaktionen in Sekunden erfassen können.
+Rein und effizient, ohne Ablenkung
+Keine komplizierten sozialen Funktionen, keine störende Gamification. Wir bieten eine intuitive Oberfläche, mit der Sie Buchungen in Sekunden erfassen können.
 
-✅ Professionelle Buchhaltungskonzepte einfach gemacht
-Mehr als nur ein Cashflow-Protokoll! Mit einer einfachen Struktur aus Vermögenswerten, Verbindlichkeiten, Einnahmen und Ausgaben können Sie Ihren "Nettovermögensstatus" leicht erfassen.
-- Hierarchische Konten: Sie kennen Ihre Finanzstruktur am besten. Unterstützt unbegrenzte Ebenen von Unterkonten.
-- Multi-Buch-Verwaltung: Halten Sie persönliche, familiäre, geschäftliche oder Reiseausgaben komplett getrennt. Eine App für alle Szenarien.
-- One-to-Many Split-Transaktionen: Supermarktbeleg enthält Lebensmittel, Haushaltswaren und Geräte? Kein Problem. Eine Transaktion kann mehreren Ausgabenposten entsprechen und jeden Cent genau verfolgen.
+Praktische Buchhaltungskonzepte leicht gemacht
+Mehr als nur ein Kassenbuch. Mit einer einfachen Struktur aus Vermögen, Verbindlichkeiten, Einnahmen und Ausgaben behalten Sie Ihren Nettovermögensstatus leicht im Blick.
+- Hierarchische Konten: Sie kennen Ihre Finanzstruktur am besten. Unbegrenzt viele Unterkonto-Ebenen werden unterstützt.
+- Mehrere Bücher: Trennen Sie private, familiäre, geschäftliche oder Reiseausgaben vollständig. Eine App deckt alle Szenarien ab.
+- Eins-zu-viele-Aufteilungen: Der Supermarktbeleg enthält Lebensmittel, Haushaltsartikel und Geräte? Kein Problem. Eine Buchung kann mehrere Ausgabeposten enthalten und jeden Cent genau verfolgen.
 
-✅ Leistungsstarke Datenanalyse & Budgetkontrolle
-- Echtzeit-Berichte: Sehen Sie sich Bilanzen und Gewinn- und Verlustrechnungen jederzeit an. Ihr Finanzstatus auf einen Blick.
-- Budgetverwaltung: Legen Sie monatliche oder jährliche Budgets mit Echtzeit-Fortschrittsanzeigen fest, um Ausgaben effektiv zu kontrollieren und Überziehungen zu vermeiden.
-- Vielfältige Diagramme: Trenddiagramme und Kreisdiagramme für Tage, Wochen, Monate und Jahre helfen Ihnen, wichtige Sparmöglichkeiten zu finden.
+Starke Datenanalyse und Budgetkontrolle
+- Echtzeitberichte: Bilanzen und Diagramme jederzeit ansehen. Ihre finanzielle Lage auf einen Blick.
+- Budgets: Monatliche oder jährliche Budgets mit Echtzeitfortschritt festlegen, um Ausgaben wirksam zu steuern und Überziehungen zu vermeiden.
+- Vielfältige Diagramme: Trend- und Kreisdiagramme für Tage, Wochen, Monate und Jahre helfen, Sparchancen zu erkennen.
 
-✅ Exklusive Funktionen
-- PC-Server-Modus: Telefonbildschirm zu klein? Ein Klick, um den Server-Modus zu aktivieren. Sehen und analysieren Sie alle Daten in Ihrem Computerbrowser. Buchhaltung kann professionell sein!
-- Intelligente Vorlagen & Wiederkehrende Transaktionen: Automatisieren Sie Miete, Gehalt und Abonnements. Einmal einrichten, und das System erinnert Sie daran, es aufzuzeichnen.
-- Excel (XLSX) Export: Benötigen Sie eine tiefergehende Analyse? Exportieren Sie Transaktionen und Berichte im Excel-Format. Ihre Daten, Ihre Regeln.
+Exklusive Funktionen
+- Servermodus: Ist der Telefonbildschirm zu klein? Aktivieren Sie den Servermodus mit einem Klick und analysieren Sie alle Daten im Browser Ihres Computers.
+- Praktische Vorlagen und wiederkehrende Zeitpläne: Miete, Gehalt und Abonnements automatisieren. Einmal einrichten, dann erinnert Sie das System an die Erfassung.
+- Excel-Export (XLSX): Für tiefere Analysen exportieren Sie Buchungen und Berichte ins Excel-Format. Ihre Daten, Ihre Regeln.
 
-✅ Ihre Daten, komplett Ihre
-- Offenes Format: Unterstützt Backups im offenen JSON-Format. Keine Angst, an eine einzelne Software gebunden zu sein.
-- Doppeltes Backup: Unterstützt Backups auf lokalem Speicher und Google Drive. Ihre Daten sind sicher.
-- Datenschutz: Integrierte Passwortsperre zum Schutz Ihrer finanziellen Privatsphäre.
+Ihre Daten gehören vollständig Ihnen
+- Offenes Format: Sicherung im offenen JSON-Format. Keine Angst vor Bindung an eine einzelne Software.
+- Doppelte Sicherung: Sicherung in lokalem Speicher und Google Drive. Ihre Daten bleiben geschützt.
+- Datenschutz: Integrierte Passwortsperre schützt Ihre Finanzdaten.
 
 Weitere durchdachte Details:
-- Personalisierte Themen: Dunkelmodus und verschiedene Farbthemen nach Belieben.
-- Datenmigration: Volle Unterstützung für den Import von "Daily Money+" CSV-Exportdateien. Keine Barriere für zurückkehrende Benutzer.
-- Komplett kostenlos: Entwickelt, um die eigenen Bedürfnisse des Autors zu lösen, ist es für jeden kostenlos nutzbar.
+- Persönliche Designs: Dunkelmodus und verschiedene Farbdesigns lassen sich nach Wunsch wechseln.
+- Datenmigration: Vollständige Unterstützung für den Import von CSV-Exportdateien aus "Daily Money+". Kein Hindernis für zurückkehrende Nutzer.
+- Vollständig kostenlos: Entwickelt, um den eigenen Bedarf des Autors zu lösen, und für alle kostenlos nutzbar.
 
-Sehen Sie sich das Intro-Video hier an:
+Einführungsvideo:
 https://youtu.be/f0Go7GgXgCk
 
-[Anmerkung des Autors]
-Diese Software entspringt der Leidenschaft des Autors für das Programmieren und der Ausdauer in der Buchhaltung. Trotz einer Zeit, in der ich sie seit 2011 nicht warten konnte, entschied ich mich, sie neu aufzubauen, um jahrelange Daten zu bewahren.
-Wenn Ihnen dieses reine Buchhaltungstool gefällt, geben Sie uns bitte eine 5-Sterne-Bewertung. Das ist die größte Motivation für uns, die Wartung fortzusetzen und neue Funktionen zu entwickeln!
+[Hinweis des Autors]
+Diese Software entstand aus der Leidenschaft des Autors fürs Programmieren und seiner Beharrlichkeit bei der Buchführung. Nach einer Phase, in der sie seit 2011 nicht gepflegt werden konnte, habe ich beschlossen, sie neu aufzubauen, um jahrelange Daten zu bewahren.
+Wenn Ihnen dieses reine Buchführungswerkzeug gefällt, geben Sie uns bitte eine 5-Sterne-Bewertung. Das ist die größte Motivation, Wartung und neue Funktionen fortzuführen.
 
 Fragen oder Vorschläge?
-Besuchen Sie unsere Facebook-Seite. Wir schätzen das Feedback jedes Benutzers.
+Besuchen Sie unsere Facebook-Seite. Wir schätzen jedes Feedback.
 https://www.facebook.com/colaorange.daily.money/
