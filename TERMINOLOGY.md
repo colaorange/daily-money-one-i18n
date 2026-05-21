@@ -158,6 +158,8 @@ Use these consistently for report modes, budget modes, schedule modes, and trans
 | Import | Import | 匯入 |
 | Export | Export | 匯出 |
 
+When translating from English into other languages, keep `Daily Money One` and `Daily Money` untranslated and use the English names exactly.
+
 ## UI Terms
 
 Use these terms for screen names, navigation labels, settings pages, and other UI-facing labels.
@@ -208,6 +210,38 @@ Use `Home Screen` when referring to the app's main UI area or main tab. For Trad
 
 Use `Home` when referring to the home screen label already used by the app. For Traditional Chinese, use `主頁`.
 
+## Ambiguous Terms
+
+Some English terms have product-specific meanings in Daily Money One. Translate these terms by their app-specific meaning unless the source context clearly refers to a general software, identity, file, network, or platform concept.
+
+When a term is ambiguous, first decide whether the source refers to the Daily Money One domain model. If it does, use the product terminology. Only use the general UI translation when the surrounding source text clearly points to the general meaning.
+
+| Term | Product-specific meaning | General meaning examples |
+| --- | --- | --- |
+| Account | Accounting item inside a Book, used for classification and balance calculation | Login account, Google account, user account, credential account |
+| Book | Top-level accounting data container | Physical book, generic ledger, document |
+| Transaction | Accounting record that moves an amount from Source to Destination | Commercial trade, payment processor transaction, bank transaction |
+| Source | Side where the amount leaves in a Transaction | Data source, file source, origin |
+| Destination | Side where the amount enters in a Transaction | File destination, network destination, navigation destination |
+| Balance | Accounting balance in the app | General balance, equilibrium |
+
+### Account Context
+
+In Daily Money One, `Account` usually means an accounting item inside a Book. It can represent cash, bank accounts, credit cards, income categories, expense categories, liability categories, or other custom categories. Do not translate this accounting `Account` as a login or user account.
+
+When the source clearly refers to sign-in, Google identity, authorization, credentials, or app users, translate it as a login/user account term appropriate for the target language.
+
+Examples:
+
+| Source | Meaning |
+| --- | --- |
+| New Account | Accounting Account |
+| Account Type | Accounting Account |
+| Source account | Accounting Account |
+| Google account | Login/user account |
+| Sign in with Google | Login action |
+| User account | User identity |
+
 ## Adding New Languages
 
 When adding a Chinese-related language, use `zh` as the primary source and use `en` only as a secondary reference. When adding any other language, use `en` as the primary source and use `zh` only as a secondary reference to clarify the app-specific meaning.
@@ -236,3 +270,48 @@ Do not add the new language to every table in this document. Add a language sect
 - Use `資產負債表` when referring to the report/table screen.
 - Use `資產負債` when referring to the balance concept in a shorter UI label.
 - Keep UI labels short and consistent. Prefer `新增帳目`, `編輯帳目`, `帳目列表` over longer explanatory wording.
+
+### Simplified Chinese (`zh-CN`)
+
+- Use `zh` as the primary source.
+- Use Simplified Chinese wording and orthography.
+- Use `账本` for `Book`.
+- Use `账户` for accounting `Account`.
+- Use `账号` only when the source clearly refers to a login account, user account, platform account, authorization account, or credential account.
+- Use `记录` for `Transaction`.
+- Use `记录模板` for `Transaction Template`.
+- Use `转出` for `Source` or withdrawal-side concepts.
+- Use `转入` for `Destination` or deposit-side concepts.
+- Use `余额表` for `Balance Sheet`.
+- Use `余额` for the balance concept in shorter UI labels.
+- Keep UI labels short and consistent. Prefer `新建记录`, `编辑记录`, `记录列表` over longer explanatory wording.
+
+### Hong Kong Traditional Chinese (`zh-HK`)
+
+- Use `zh` as the primary source.
+- Use Hong Kong wording and orthography where it differs from `zh`.
+- Use `賬簿` for `Book`.
+- Use `戶口` for `Account`.
+- Use `賬目` for `Transaction`.
+- Use `賬目範本` for `Transaction Template`.
+- Use `記賬` instead of `記帳`.
+- Use `軟件` instead of `軟體`.
+- Use `用戶` instead of `使用者` when referring to app users.
+- Use `偏好設定` for `Preferences`.
+- Keep UI labels short and consistent. Prefer `新增賬目`, `編輯賬目`, `賬目列表` over longer explanatory wording.
+
+### Japanese (`ja`)
+
+- Use `en` as the primary source.
+- Keep `Daily Money One` and `Daily Money` untranslated.
+- Use `ブック` for `Book`.
+- Use `科目` for accounting `Account`.
+- Use `アカウント` only when the source clearly refers to a login account, Google account, user account, authorization account, or credential account.
+- Use `取引` for `Transaction`.
+- Use `取引テンプレート` for `Transaction Template`.
+- Use `テンプレート` when the UI context is already under transactions.
+- Use `出金元` for `Source` or withdrawal-side concepts.
+- Use `入金先` for `Destination` or deposit-side concepts.
+- Use `残高表` for `Balance Sheet`.
+- Use `残高` for the balance concept in shorter UI labels.
+- Keep UI labels short and consistent. Prefer `新規取引`, `取引を編集`, `取引一覧` over longer explanatory wording.
