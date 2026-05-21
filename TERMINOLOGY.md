@@ -326,3 +326,18 @@ Do not add the new language to every table in this document. Add a language sect
 - Use `残高表` for `Balance Sheet`.
 - Use `残高` for the balance concept in shorter UI labels.
 - Keep UI labels short and consistent. Prefer `新規取引`, `取引を編集`, `取引一覧` over longer explanatory wording.
+### Bengali (`bn`)
+
+- Use `en` as the primary source.
+- Keep `Daily Money One` and `Daily Money` untranslated.
+- Use `বই` for `Book`.
+- Use `হিসাব` for accounting `Account`.
+- Use `অ্যাকাউন্ট` only when the source clearly refers to a login account, Google account, user account, authorization account, or credential account.
+- Use `লেনদেন` for `Transaction`.
+- Use `লেনদেন টেমপ্লেট` for `Transaction Template`.
+- Use `টেমপ্লেট` when the UI context is already under transactions.
+- Use `উৎস` for `Source` or withdrawal-side concepts.
+- Use `গন্তব্য` for `Destination` or deposit-side concepts.
+- Use `ব্যালেন্স শিট` for `Balance Sheet`.
+- Use `ব্যালেন্স` for the balance concept in shorter UI labels.
+- Keep UI labels short and consistent. Prefer `নতুন লেনদেন`, `লেনদেন সম্পাদনা`, `লেনদেন` over longer explanatory wording.
