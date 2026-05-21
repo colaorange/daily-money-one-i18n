@@ -1,7 +1,7 @@
 {
     "noExpiredTransactionTemplate": "没有到期的记录模板",
     "message": {
-        "confirmScheduleBypass": "您确定要跳过并重新安排下次排程吗？",
-        "confirmScheduleReset": "您确定要重置目前的排程吗？"
+        "confirmScheduleBypass": "你确定要跳过并重新安排下次排程吗？",
+        "confirmScheduleReset": "你确定要重置当前排程吗？"
     }
 }

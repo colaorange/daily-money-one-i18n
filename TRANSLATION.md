@@ -24,24 +24,32 @@ When the task explicitly says to overwrite all target locale files, do not inspe
 - Use the maintained reference language files listed in `TERMINOLOGY.md`:
 - For Chinese-related languages workflow, the translated content was based on:
   - `./zh/zh.json`
+  - `./zh/zh.dev.json`
   - `./zh/dailyMoney.md`
   - `./zh/howToUse.md`
   - `./zh/store.md`
+  - `./zh/whatIsNew.md`
 - For non-Chinese languages workflow, the translated content was based on:
   - `./en/en.json`
+  - `./en/en.dev.json`
   - `./en/dailyMoney.md`
   - `./en/howToUse.md`
   - `./en/store.md`
+  - `./en/whatIsNew.md`
 
 ## Target Outputs
 
-- Write translated JSON to the target locale JSON file, for example `i18n/<locale>/<locale>.json`.
+- Write translated JSON to the target locale JSON file, for example:
+  - `./<locale>/<locale>.json` 
+  - `./<locale>/<locale>.dev.json`
 - Write translated Markdown files to the target locale directory, for example:
   - `./<locale>/dailyMoney.md`
   - `./<locale>/howToUse.md`
   - `./<locale>/store.md`
+  - `./<locale>/whatIsNew.md`
 - Existing files in the target locale directory may be overwritten when the task explicitly allows it.
 - When overwriting all target locale files, old target locale files are replacement targets only. Do not read them for translation decisions, consistency checks, or gap analysis.
+- Treat the target output list as the scope of the task. Do not create or update extra target files just because matching source files exist, unless the user explicitly asks for them.
 
 ## Translation Rules
 
@@ -53,8 +61,37 @@ When the task explicitly says to overwrite all target locale files, do not inspe
 - Keep UI labels short and consistent with the app terminology.
 - After translating or updating a locale, scan for ambiguous product terms listed in `TERMINOLOGY.md` and fix any target-language wording that uses a general UI meaning instead of the Daily Money One product meaning.
 - After translating or updating a locale, scan for terminology drift from other locales or older translations, including product terms, regional wording, orthography, and non-local phrasing.
-- For closely related locale variants, also check variant-specific writing systems and regional terms, such as Simplified/Traditional Chinese, European/Brazilian Portuguese, or regional Spanish wording.
+- For closely related locale variants, also check variant-specific writing systems and regional terms, such as Simplified/Traditional Chinese, European/Brazilian Portuguese, or regional Spanish wording. Resolve any leftover source-language characters, mixed orthography, or clearly non-local wording in context instead of maintaining long per-language replacement lists.
 - After translating JSON, validate that the file can be parsed and compare interpolation placeholders against the source file.
 - In `store.md`, keep `Short description` at 80 characters or fewer.
 - In `store.md`, keep `Long description` at 4000 characters or fewer.
 - After translating `store.md`, check both description lengths. If either exceeds the limit, shorten less important sentences while preserving key product meaning and terminology.
+
+## Translation Review
+
+Translation is not complete after the first written output. Always perform a second-pass review before reporting completion.
+
+- Review the translation against the surrounding context, not sentence by sentence in isolation.
+- Compare each translated section with the source meaning and confirm that no meaning was omitted, added, reversed, or over-literalized.
+- Check that product-specific terms follow `TERMINOLOGY.md`, and that general-language uses of ambiguous words are still translated by context.
+- If a target locale introduces new ambiguous words or product-specific wording risks that are not already covered by `TERMINOLOGY.md`, pause and propose them for confirmation. After confirmation, add them to `TERMINOLOGY.md` under `## Ambiguous Terms` and the target locale's Style Rules before continuing.
+- For JSON files, review short UI labels separately from longer messages:
+  - Short UI labels should be concise, natural, and consistent with app terminology.
+  - Longer messages should read naturally in the target locale and should not sound like direct machine translation.
+- For Markdown files, review headings, lists, links, image references, icon references, and paragraph flow after translation.
+- For store listing text, review the result as user-facing marketing copy in the target locale, while still respecting the length limits.
+- For every locale, check for wrong writing system, mixed orthography, leftover source-language words, and non-local phrasing. Fix these by context rather than by maintaining long per-locale replacement lists.
+- When the target language is not familiar to the requester, still perform the same self-review and report the checks that were completed.
+
+## Validation Checklist
+
+Before reporting completion, validate and summarize the following:
+
+- Target files are limited to the requested target outputs.
+- JSON files parse successfully.
+- JSON keys match the source reference files.
+- Interpolation placeholders such as `{{name}}` and i18n references such as `$t(...)` match the source.
+- Required terminology from `TERMINOLOGY.md` is used consistently.
+- The target locale's writing system and regional wording were checked.
+- Long-form Markdown and store text received a context and naturalness review.
+- `store.md` short and long description lengths are within limits.

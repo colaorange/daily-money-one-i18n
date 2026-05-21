@@ -290,6 +290,7 @@ Do not add the new language to every table in this document. Add a language sect
 - Use `转入` for `Destination` or deposit-side concepts.
 - Use `余额表` for `Balance Sheet`.
 - Use `余额` for the balance concept in shorter UI labels.
+- Use `排程` for `Schedule`.
 - Keep UI labels short and consistent. Prefer `新建记录`, `编辑记录`, `记录列表` over longer explanatory wording.
 
 ### Hong Kong Traditional Chinese (`zh-HK`)
@@ -297,7 +298,11 @@ Do not add the new language to every table in this document. Add a language sect
 - Use `zh` as the primary source.
 - Use Hong Kong wording and orthography where it differs from `zh`.
 - Use `賬簿` for `Book`.
-- Use `戶口` for `Account`.
+- Use `戶口` for accounting `Account`.
+- Use `帳戶` only when the source clearly refers to a login account, user account, platform account, authorization account, or credential account.
+- Use `用戶帳戶` for user accounts and `登入帳戶` for login-account contexts when an explicit account noun is needed.
+- Avoid `賬戶` for general login/user account contexts; prefer `帳戶`.
+- Do not use `戶口` for Google accounts, login accounts, authorization accounts, credential accounts, or other non-accounting identity concepts.
 - Use `賬目` for `Transaction`.
 - Use `賬目範本` for `Transaction Template`.
 - Use `記賬` instead of `記帳`.
