@@ -20,11 +20,11 @@ Therefore, the author returned and decided to focus on running his independent s
 
 `Daily Money One` is an easy-to-use accounting application based on simple accounting concepts. It features a simple user interface, no fancy designs, and no gamified content, designed solely for users to focus on accounting easily. In addition to being suitable for personal and household accounting, it is also suitable for the accounting needs of small businesses. In the future, we will introduce more features tailored to the accounting needs of households and small businesses to provide more comprehensive services.
 
-`About Ads`: In order to ensure that the author's two cats have food and the author has coffee to drink, and to ensure the continued maintenance and operation of this program, advertisements have been added. Currently, there are two levels of ad settings available for users to adjust, and adjustments will also be made based on user numbers in the future. The author's starting point is still to ensure that ads do not affect the user experience. You can adjust the ad settings by going to "Preferences > Advertisement Settings" after installation.
+`About Ads`: In order to ensure that the author's two cats have food and the author has coffee to drink, and to ensure the continued maintenance and operation of this program, advertisements have been added. Currently, there are two levels of ad settings available for users to adjust, and adjustments will also be made based on user numbers in the future. The author's starting point is still to ensure that ads do not affect the user experience. You can adjust the ad settings by going to "Preferences > Ads" after installation.
 
 Current Features：
 - Record daily expenses, income, assets, and liabilities.
-- Perform balance for various accounts and any period.
+- View balance sheets for various accounts and any period.
 - Support multiple books.
 - Create multiple custom accounts, hierarchical accounts.
 - Split transactions one-to-many between accounts.
