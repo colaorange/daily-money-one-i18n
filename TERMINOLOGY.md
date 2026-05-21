@@ -10,6 +10,12 @@ Only `en` and `zh` are maintained in this document for now. The tables below are
 
 For Chinese-related languages, such as Simplified Chinese and Traditional Chinese variants, use `zh` as the main reference. For other languages, use `en` as the main reference.
 
+## Term Selection Principles
+
+When translating product terms, choose the wording that best represents the app-specific concept naturally in the target language. Do not keep a short English-inspired term or loanword only because the English source is short.
+
+Prefer the clearest local term first. If that wording is too long for repeated UI labels, compact screens, tabs, buttons, or charts, then choose a shorter natural term that still preserves the app-specific meaning.
+
 ## Core Terms
 
 | Term | en | zh |
@@ -304,7 +310,7 @@ Do not add the new language to every table in this document. Add a language sect
 
 - Use `en` as the primary source.
 - Keep `Daily Money One` and `Daily Money` untranslated.
-- Use `ブック` for `Book`.
+- Use `帳簿` for `Book`.
 - Use `科目` for accounting `Account`.
 - Use `アカウント` only when the source clearly refers to a login account, Google account, user account, authorization account, or credential account.
 - Use `取引` for `Transaction`.
