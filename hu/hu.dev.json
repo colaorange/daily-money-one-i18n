@@ -1,1 +1,7 @@
-{}
+{
+  "noExpiredTransactionTemplate": "Nincs lejárt tranzakciósablon",
+  "message": {
+    "confirmScheduleBypass": "Biztosan kihagyod, es újrarendezed a következő ütemezést?",
+    "confirmScheduleReset": "Biztosan visszaallitod az aktualis ütemezést?"
+  }
+}
