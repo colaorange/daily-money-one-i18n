@@ -1,1 +1,7 @@
-{}
+{
+    "noExpiredTransactionTemplate": "No hay plantillas de transacción vencidas",
+    "message": {
+        "confirmScheduleBypass": "¿Seguro que quieres omitir y reorganizar la próxima programación?",
+        "confirmScheduleReset": "¿Seguro que quieres restablecer la programación actual?"
+    }
+}

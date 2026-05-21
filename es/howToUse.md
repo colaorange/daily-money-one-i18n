@@ -1,89 +1,90 @@
 
-[`Ver video de introducción en YouTube`](https://youtu.be/uN3GkA_Afuw)
+[`Ver video introductorio en YouTube`](https://youtu.be/uN3GkA_Afuw)
+[`Documento en línea`](https://colaorange.gitbook.io/daily-money-one-doc/eng)
 
 ## Conceptos
 
-Los conceptos principales de Daily Money son muy simples, solo hay tres:
+Los conceptos principales de Daily Money son muy simples; solo hay tres:
 
-> 1. Uno o muchos `Libros`
-> 2. Varios `Cuentas` dentro de los Libros
-> 3. Transferir montos entre diferentes cuentas y registrar estas `Transacciones`
+> 1. Uno o varios `Libros`
+> 2. Varias `Cuentas` dentro de los libros
+> 3. Transferir importes entre distintas cuentas y registrar estas `Transacciones`
 
 ## ![Libros](icon:///notebook-multiple) Libros
 
-Se requiere al menos un Libro, con cuentas que tengan la misma unidad monetaria. También puedes crear múltiples Libros con la misma unidad monetaria según tus necesidades.
+Se necesita al menos un libro, con cuentas que usen la misma unidad monetaria. También puedes crear varios libros con la misma unidad monetaria según tus necesidades.
 
 ## ![Cuentas](icon:///bookmark-multiple) Cuentas
 
-Hay cinco tipos diferentes de cuentas, que puedes agregar, editar o eliminar en la pantalla de gestión de cuentas.
+Hay cinco tipos distintos de cuentas, que puedes agregar, editar o eliminar en la pantalla de gestión de cuentas.
 
-> - `Ingreso`: Salario, etc.
-> - `Gasto`: Comida, entretenimiento, etc.
-> - `Activo`: Efectivo, banco, etc.
-> - `Pasivo`: Tarjetas de crédito, préstamos, etc.
+> - `Ingreso`: salario, etc.
+> - `Gasto`: comida, entretenimiento, etc.
+> - `Activo`: efectivo, banco, etc.
+> - `Deuda`: tarjetas de crédito, préstamos, etc.
 > - `Otro`: ...
 
-* Los nombres de las cuentas pueden usar puntos (.) para separar (por ejemplo, Comida.Cena, Comida.Reunión), proporcionando una mejor visualización jerárquica al seleccionar cuentas o ver balances.
-* Puedes ordenar las cuentas para priorizar las cuentas de uso más frecuente.
+* Los nombres de cuenta pueden usar puntos (.) para separar niveles (por ejemplo, Comida.Cenar, Comida.Reuniones), lo que ofrece una mejor visualización jerárquica al seleccionar cuentas o ver hojas de balance.
+* Puedes ordenar las cuentas para priorizar las que usas con más frecuencia.
 
 ## ![Transacciones](icon:///receipt) Transacciones 
 
-Cuando hay una transacción entre cuentas, como gastar, retirar, depositar o usar una tarjeta de crédito (por ejemplo, gastaste 320 yuanes en una comida), usa `Nueva Transacción` para crear una nueva transacción.
-> - Selecciona `Fecha y Hora`: Fecha y hora de la transacción.
+Cuando hay una transacción entre cuentas, como un gasto, mover dinero entre cuentas o pagar con tarjeta de crédito (por ejemplo, gastaste 320 yuanes en una comida), usa `Nueva transacción` para crear una transacción nueva.
+> - Selecciona `Fecha y hora`: fecha y hora de la transacción.
 > - Selecciona `Origen`: Efectivo
-> - Selecciona `Destino`: Cena
-> - Ingresa `Monto`: 320
+> - Selecciona `Destino`: Comidas
+> - Ingresa `Importe`: 320
 > - Ingresa `Nota`: Reunión con amigos
-> - Haz clic en `Crear`
+> - Pulsa `Crear`
 
 ## Ejemplos
 
-### Transferencia de Salario al Banco
+### Transferencia de salario al banco
 
-> Origen `Ingreso`: Salario
-> Destino `Activo`: Banco
+> Cuenta de `Ingreso` de origen: Salario
+> Cuenta de `Activo` de destino: Banco
 
-### Retirar Efectivo del Banco
+### Retirar efectivo del banco
 
-> Origen `Activo`: Banco
-> Destino `Activo`: Efectivo
+> Cuenta de `Activo` de origen: Banco
+> Cuenta de `Activo` de destino: Efectivo
 
-### Comprar un Teléfono con Tarjeta de Crédito
+### Comprar un teléfono con tarjeta de crédito
 
-> Origen `Pasivo`: Tarjeta de Crédito
-> Destino `Gasto`: Electrónicos
+> Cuenta de `Deuda` de origen: Tarjeta de crédito
+> Cuenta de `Gasto` de destino: Electrónica
 
-### Pagar Factura de Tarjeta de Crédito con el Banco
+### Pagar la factura de la tarjeta de crédito con el banco
 
-> Origen `Activo`: Banco 
-> Destino `Pasivo`: Tarjeta de Crédito
+> Cuenta de `Activo` de origen: Banco 
+> Cuenta de `Deuda` de destino: Tarjeta de crédito
 
-## ![Balance General](icon:///scale-balance)![Gráficos de Balance](icon:///chart-pie) Balance General y Gráfico
+## ![Hoja de balance](icon:///scale-balance)![Gráfico de balance](icon:///chart-pie) Hoja de balance y gráfico
 
-A través de una contabilidad diligente, la aplicación te ayudará a registrar todos los detalles de las transacciones y generará un balance general según las condiciones de consulta. Este balance presenta claramente el balance de activos y pasivos en diferentes períodos, permitiéndote comprender mejor tu situación financiera. Además, la aplicación puede generar varios gráficos para representar visualmente tus ingresos y gastos, facilitando la comprensión de tu flujo financiero.
+Al llevar tus cuentas con constancia, la aplicación te ayudará a registrar todos los detalles de las transacciones y generar una hoja de balance según las condiciones de consulta. Esta hoja muestra claramente el saldo de activos y deudas en distintos periodos, para que entiendas mejor tu situación financiera. Además, la aplicación puede generar varios gráficos para representar visualmente tus ingresos y gastos, facilitando la comprensión de tu flujo financiero.
 
-## Valores Iniciales de las Cuentas
+## Saldos iniciales de las cuentas
 
-Cuando usas la aplicación por primera vez, es posible que ya tengas algunas cuentas actuales con valores reales, como depósitos bancarios, efectivo disponible o deudas de tarjetas de crédito. Para asegurar que el balance general proporcione resultados de cálculo más precisos, puedes usar la función de inicializar cuentas para establecer los valores iniciales correctos de estas cuentas. De esta manera, puedes hacer que el balance general refleje la verdadera situación financiera.
+Cuando usas la aplicación por primera vez, puede que ya tengas algunas cuentas actuales con valores reales, como depósitos bancarios, efectivo disponible o deudas de tarjeta de crédito. Para que la hoja de balance ofrezca cálculos más precisos, puedes usar la función de inicializar cuentas para establecer los saldos iniciales correctos de estas cuentas. Así, la hoja de balance podrá reflejar tu situación financiera real.
 
-## División Uno-a-Muchos
+## División de uno a muchos (avanzado)
 
-A veces, un solo gasto puede involucrar múltiples categorías de gasto. Por ejemplo, al hacer compras en un supermercado, puedes comprar alimentos, productos de uso diario y productos electrónicos al mismo tiempo. Para enfrentar esta situación, la aplicación proporciona edición avanzada de creación de transacciones, permitiendo que un solo gasto se asigne a múltiples categorías de gasto diferentes. En otras palabras, puedes asignar el monto de un solo gasto con tarjeta de crédito a múltiples categorías como alimentos, productos de uso diario y productos electrónicos. Por favor, ten en cuenta: En las transacciones dentro del mismo libro, como las unidades monetarias son iguales, el monto total transferido debe ser igual al monto total recibido, de lo contrario, el programa rechazará la creación de tu transacción.
+A veces, un solo gasto puede involucrar varias categorías. Por ejemplo, al comprar en un supermercado, puedes adquirir comida, artículos de uso diario y productos electrónicos al mismo tiempo. Para esta situación, la aplicación ofrece creación y edición avanzada de transacciones, lo que permite asignar un solo gasto a varias categorías distintas. En otras palabras, puedes asignar el importe de un pago con tarjeta de crédito a varias categorías, como comida, artículos diarios y productos electrónicos. Ten en cuenta: en transacciones dentro del mismo libro, como las unidades monetarias son iguales, el importe total transferido desde el origen debe ser igual al importe total transferido al destino; de lo contrario, el programa rechazará la creación de la transacción.
 
-## Transferencia entre Libros de Cuentas
+## Transferencia entre libros
 
-El programa te permite transferir entre cuentas en diferentes libros. Ya sea en la edición o creación básica o avanzada de transacciones, puedes seleccionar cuentas de otros libros al seleccionar cuentas. Dado que los valores monetarios entre diferentes libros pueden diferir, y la tasa de cambio no es fija en el momento, como transferir de Dólares de Taiwán a Dólares Americanos, el programa no te limitará a crear una transacción donde el monto total transferido deba ser igual al monto total recibido. Por favor, crea transacciones basadas en los montos reales al crear y ten cuidado.
+El programa permite transferir entre cuentas de distintos libros. Ya sea en la pantalla básica o avanzada de edición o creación de transacciones, puedes seleccionar cuentas de otros libros al elegir las cuentas. Como los valores de moneda entre distintos libros pueden diferir y el tipo de cambio no es fijo en ese momento, por ejemplo al transferir de nuevos dólares taiwaneses a dólares estadounidenses, el programa no te limitará a crear una transacción donde el total transferido desde el origen deba ser igual al total transferido al destino. Crea las transacciones según los importes reales y ten cuidado.
 
-## Vista Rápida del Balance General y Gráficos
+## Vista rápida de hoja de balance y gráficos
 
-Al navegar por el balance general o los gráficos, puedes agregar elementos de cuenta específicos a la vista rápida en la pantalla de inicio [*1]. Simplemente desliza hacia la derecha en el elemento en el balance general y haz clic en `Añadir a Vista Rápida`, o haz clic en "Añadir a Vista Rápida Icono" en la esquina superior derecha de la tarjeta del gráfico de balance. Luego, en la pantalla de inicio, verás el balance de activos y pasivos de ese elemento, o puedes verlo en la página de gráficos de la pantalla de inicio. Además, puedes ordenar o eliminar estos elementos en `Preferencias > Pantalla de Inicio`.
+Al navegar por la hoja de balance o los gráficos, puedes agregar cuentas específicas a Vista rápida en la pantalla de inicio [*1]. Solo desliza a la derecha sobre el elemento en la hoja de balance y pulsa `Agregar a Vista rápida`, o pulsa el icono "Agregar a Vista rápida" en la esquina superior derecha de la tarjeta del gráfico de balance. Luego, en la pantalla de inicio, verás el saldo de activos y deudas de ese elemento, o podrás consultarlo en la página de gráficos de la pantalla de inicio. Además, puedes ordenar o quitar estos elementos en `Preferencias > Pantalla de inicio`.
 
-[*1] Vistas rápidas excesivas en la pantalla de inicio pueden afectar el tiempo de carga de la pantalla de inicio.
+[*1] Demasiados elementos de Vista rápida en la pantalla de inicio pueden afectar el tiempo de carga de la pantalla de inicio.
 
-## Plantillas de Transacciones y Programación Recurrente
+## Plantillas y programación recurrente
 
-Puede configurar plantillas de transacciones para acciones contables comunes, lo que le permite agregar transacciones rápidamente. También puede configurar plantillas de programación recurrente para acciones contables recurrentes. El programa le notificará cuando sea necesario, permitiéndole agregar rápidamente la transacción y programarla automáticamente para el próximo vencimiento. Simplemente deslice hacia la izquierda en el elemento en la lista de transacciones, luego toque `Nueva Plantilla`, ingrese el tiempo de programación y créelo. Además, puede ordenar, editar o eliminar estos elementos en la página de `Plantillas`.
+Puedes configurar plantillas de transacción para acciones contables comunes, lo que te permite agregar transacciones rápidamente. También puedes configurar plantillas de programación recurrente para acciones contables periódicas. El programa te notificará cuando venzan, permitiéndote agregar rápidamente la transacción y programarla automáticamente para la siguiente fecha. Solo desliza a la izquierda sobre el elemento en la lista de transacciones, pulsa `Nueva plantilla`, ingresa la hora de programación y créala. Además, puedes ordenar, editar o quitar estos elementos en la página `Plantillas`.
 
-## Configuración de Presupuesto
+## Configuración de presupuestos
 
-Al navegar por el balance general, simplemente deslice hacia la derecha en un elemento de cuenta, luego haga clic en `Crear Presupuesto` y seleccione el modo. Una vez creado, puede ver el progreso del presupuesto en el balance general o en la vista rápida en la pantalla de inicio. Además, puede ordenar, editar o eliminar estos elementos en la página de `Presupuestos`.
+Al navegar por la hoja de balance, simplemente desliza a la derecha sobre una cuenta, pulsa `Crear presupuesto` y selecciona el modo. Una vez creado, puedes ver el progreso del presupuesto en la hoja de balance o en Vista rápida en la pantalla de inicio. Además, puedes ordenar, editar o quitar estos elementos en la página `Presupuestos`.
