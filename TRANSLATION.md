@@ -18,6 +18,8 @@ For target locales that do not already have confirmed terminology in `./<locale>
 
 1. Terminology phase:
    - Translate the target locale terminology and style rules first.
+   - Include only product-specific terms, ambiguous terms, and locale-specific wording that must be fixed for consistent translation.
+   - Do not include ordinary UI words or general vocabulary in the terminology proposal unless the target locale needs a special fixed wording for that term.
    - Present the proposed terminology and style rules for review.
    - Do not translate or write target JSON or Markdown files in this phase.
    - After confirmation, write to `./<locale>/translationTerminology.md` only.

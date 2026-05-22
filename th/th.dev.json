@@ -1,1 +1,7 @@
-{}
+{
+    "noExpiredTransactionTemplate": "ไม่มีแม่แบบรายการที่หมดอายุ",
+    "message": {
+        "confirmScheduleBypass": "แน่ใจหรือไม่ว่าต้องการข้ามและจัดกำหนดการถัดไปใหม่",
+        "confirmScheduleReset": "แน่ใจหรือไม่ว่าต้องการรีเซ็ตกำหนดการปัจจุบัน"
+    }
+}
