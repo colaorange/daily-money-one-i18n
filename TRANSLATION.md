@@ -6,24 +6,24 @@ This document records the translation workflow used for Daily Money One localiza
 
 1. Before starting, ask whether to overwrite all target locale files and ignore old content, or only update specific parts.
 2. Use the directory containing the working `TRANSLATION.md` file as the working directory.
-3. Translate the target locale terminology first, following `./TERMINOLOGY.md`; wait for confirmation before continuing.
-4. After the target locale terminology is confirmed, write back or update the target locale terminology and Style Rules in `./TERMINOLOGY.md` before translating files.
-5. Re-read `./TERMINOLOGY.md` after the confirmed terminology update.
+3. Translate the target locale terminology first, following `./TERMINOLOGY.md` and the required `translationTerminology.md` files; wait for confirmation before continuing.
+4. After the target locale terminology is confirmed, write back or update the target locale terminology and Style Rules in `./<locale>/translationTerminology.md` before translating files.
+5. Re-read `./TERMINOLOGY.md` and the required `translationTerminology.md` files after the confirmed terminology update.
 6. Translate the target locale JSON file; wait for confirmation before continuing.
 7. Translate the remaining target locale documents.
 
 ### Mandatory Phase Separation
 
-For target locales that do not already have confirmed terminology in `TERMINOLOGY.md`, split the work into two separate phases:
+For target locales that do not already have confirmed terminology in `./<locale>/translationTerminology.md`, split the work into two separate phases:
 
 1. Terminology phase:
    - Translate the target locale terminology and style rules first.
    - Present the proposed terminology and style rules for review.
    - Do not translate or write target JSON or Markdown files in this phase.
-   - After confirmation, written to `TERMINOLOGY.md` only.
+   - After confirmation, write to `./<locale>/translationTerminology.md` only.
 
 2. File translation phase:
-   - Start only after the target locale terminology has been confirmed and written to `TERMINOLOGY.md`.
+   - Start only after the target locale terminology has been confirmed and written to `./<locale>/translationTerminology.md`.
    - Then translate and write the target JSON and Markdown files.
 
 Do not combine terminology updates and target file translation in the same execution step unless the user explicitly says the terminology is already confirmed and asks to proceed with all files.
@@ -38,7 +38,9 @@ When the task explicitly says to overwrite all target locale files, do not inspe
 ## Source References
 
 - Use `TERMINOLOGY.md` as the terminology and style authority.
-- Use the maintained reference language files listed in `TERMINOLOGY.md`:
+- Use only the terminology files needed for the target locale.
+- If the target locale has `./<locale>/translationTerminology.md`, read it together with the required base terminology files.
+- If the target locale does not have `./<locale>/translationTerminology.md`, create it only during the confirmed terminology phase.
 - For Chinese-related languages workflow, the translated content was based on:
   - `./zh/zh.json`
   - `./zh/zh.dev.json`
@@ -71,6 +73,7 @@ When the task explicitly says to overwrite all target locale files, do not inspe
 ## Translation Rules
 
 - Follow `TERMINOLOGY.md` for product terms, UI labels, and feature names.
+- Follow the required `translationTerminology.md` files for locale-specific style rules, regional wording, and target-locale terminology.
 - Do not rely on simple script or character conversion when translating between related languages.
 - Use the natural local wording, phrasing, and orthography of the target locale so local readers can understand the text easily.
 - Preserve Markdown structure, image links, icon links, URLs, headings, and list structure unless the source text requires a natural local rewrite.
@@ -91,7 +94,7 @@ Translation is not complete after the first written output. Always perform a sec
 - Review the translation against the surrounding context, not sentence by sentence in isolation.
 - Compare each translated section with the source meaning and confirm that no meaning was omitted, added, reversed, or over-literalized.
 - Check that product-specific terms follow `TERMINOLOGY.md`, and that general-language uses of ambiguous words are still translated by context.
-- If a target locale introduces new ambiguous words or product-specific wording risks that are not already covered by `TERMINOLOGY.md`, pause and propose them for confirmation. After confirmation, add them to `TERMINOLOGY.md` under `## Ambiguous Terms` and the target locale's Style Rules before continuing.
+- If a target locale introduces new ambiguous words or product-specific wording risks that are not already covered by `TERMINOLOGY.md`, pause and propose them for confirmation. After confirmation, add shared ambiguity rules to `TERMINOLOGY.md` under `## Ambiguous Terms` and add locale-specific rules to `./<locale>/translationTerminology.md` before continuing.
 - For JSON files, review short UI labels separately from longer messages:
   - Short UI labels should be concise, natural, and consistent with app terminology.
   - Longer messages should read naturally in the target locale and should not sound like direct machine translation.
@@ -108,7 +111,7 @@ Before reporting completion, validate and summarize the following:
 - JSON files parse successfully.
 - JSON keys match the source reference files.
 - Interpolation placeholders such as `{{name}}` and i18n references such as `$t(...)` match the source.
-- Required terminology from `TERMINOLOGY.md` is used consistently.
+- Required terminology from `TERMINOLOGY.md` and the required `translationTerminology.md` files is used consistently.
 - The target locale's writing system and regional wording were checked.
 - Long-form Markdown and store text received a context and naturalness review.
 - `store.md` short and long description lengths are within limits.

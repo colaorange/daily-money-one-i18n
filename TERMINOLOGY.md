@@ -256,202 +256,27 @@ Do not add the new language to every table in this document. Add a language sect
 
 ## Style Rules
 
-### English
+Locale-specific style rules are maintained in each locale directory as `translationTerminology.md`. Keep this document focused on shared product terminology, reference-language policy, and cross-locale ambiguity rules.
 
-- Keep the product wording simple and app-specific.
-- Use `Book`, not `Accounting Book`, `Ledger`, or `Account Book`.
-- Use `Account`, not `Category`, even when the account represents an income or expense category.
-- Use `Transaction`, not `Entry`, unless referring specifically to initial entries in import summaries.
-- Use `Source` and `Destination` for transaction directions.
-- Use title case for screen titles and action labels.
+When translating a target locale, read only the shared terminology in this file plus the terminology files needed for that locale:
 
-### Traditional Chinese
+- For English-based locales, use `./en/translationTerminology.md` as the primary base reference and `./zh/translationTerminology.md` only as a secondary reference when the product meaning is unclear.
+- For Chinese-based locales, use `./zh/translationTerminology.md` as the primary base reference and `./en/translationTerminology.md` only as a secondary reference when the product meaning is unclear.
+- If the target locale already has `./<locale>/translationTerminology.md`, read it together with the appropriate base reference files.
+- If the target locale does not yet have `translationTerminology.md`, create it during the terminology phase after the proposed locale-specific terminology and style rules are confirmed.
 
-- Use `帳本` for `Book`.
-- Use `帳戶` for `Account`.
-- Use `帳目` for `Transaction`.
-- Use `帳目範本` for `Transaction Template`.
-- Use `轉出` for `Source` or withdrawal-side concepts.
-- Use `轉入` for `Destination` or deposit-side concepts.
-- Use `資產負債表` when referring to the report/table screen.
-- Use `資產負債` when referring to the balance concept in a shorter UI label.
-- Keep UI labels short and consistent. Prefer `新增帳目`, `編輯帳目`, `帳目列表` over longer explanatory wording.
+Currently maintained locale terminology files:
 
-### Simplified Chinese (`zh-CN`)
-
-- Use `zh` as the primary source.
-- Use Simplified Chinese wording and orthography.
-- Use `账本` for `Book`.
-- Use `账户` for accounting `Account`.
-- Use `账号` only when the source clearly refers to a login account, user account, platform account, authorization account, or credential account.
-- Use `记录` for `Transaction`.
-- Use `记录模板` for `Transaction Template`.
-- Use `转出` for `Source` or withdrawal-side concepts.
-- Use `转入` for `Destination` or deposit-side concepts.
-- Use `余额表` for `Balance Sheet`.
-- Use `余额` for the balance concept in shorter UI labels.
-- Use `排程` for `Schedule`.
-- Keep UI labels short and consistent. Prefer `新建记录`, `编辑记录`, `记录列表` over longer explanatory wording.
-
-### Hong Kong Traditional Chinese (`zh-HK`)
-
-- Use `zh` as the primary source.
-- Use Hong Kong wording and orthography where it differs from `zh`.
-- Use `賬簿` for `Book`.
-- Use `戶口` for accounting `Account`.
-- Use `帳戶` only when the source clearly refers to a login account, user account, platform account, authorization account, or credential account.
-- Use `用戶帳戶` for user accounts and `登入帳戶` for login-account contexts when an explicit account noun is needed.
-- Avoid `賬戶` for general login/user account contexts; prefer `帳戶`.
-- Do not use `戶口` for Google accounts, login accounts, authorization accounts, credential accounts, or other non-accounting identity concepts.
-- Use `賬目` for `Transaction`.
-- Use `賬目範本` for `Transaction Template`.
-- Use `記賬` instead of `記帳`.
-- Use `軟件` instead of `軟體`.
-- Use `用戶` instead of `使用者` when referring to app users.
-- Use `偏好設定` for `Preferences`.
-- Keep UI labels short and consistent. Prefer `新增賬目`, `編輯賬目`, `賬目列表` over longer explanatory wording.
-
-### Japanese (`ja`)
-
-- Use `en` as the primary source.
-- Keep `Daily Money One` and `Daily Money` untranslated.
-- Use `帳簿` for `Book`.
-- Use `科目` for accounting `Account`.
-- Use `アカウント` only when the source clearly refers to a login account, Google account, user account, authorization account, or credential account.
-- Use `取引` for `Transaction`.
-- Use `取引テンプレート` for `Transaction Template`.
-- Use `テンプレート` when the UI context is already under transactions.
-- Use `出金元` for `Source` or withdrawal-side concepts.
-- Use `入金先` for `Destination` or deposit-side concepts.
-- Use `残高表` for `Balance Sheet`.
-- Use `残高` for the balance concept in shorter UI labels.
-- Keep UI labels short and consistent. Prefer `新規取引`, `取引を編集`, `取引一覧` over longer explanatory wording.
-### Bengali (`bn`)
-
-- Use `en` as the primary source.
-- Keep `Daily Money One` and `Daily Money` untranslated.
-- Use `বই` for `Book`.
-- Use `হিসাব` for accounting `Account`.
-- Use `অ্যাকাউন্ট` only when the source clearly refers to a login account, Google account, user account, authorization account, or credential account.
-- Use `লেনদেন` for `Transaction`.
-- Use `লেনদেন টেমপ্লেট` for `Transaction Template`.
-- Use `টেমপ্লেট` when the UI context is already under transactions.
-- Use `উৎস` for `Source` or withdrawal-side concepts.
-- Use `গন্তব্য` for `Destination` or deposit-side concepts.
-- Use `ব্যালেন্স শিট` for `Balance Sheet`.
-- Use `ব্যালেন্স` for the balance concept in shorter UI labels.
-- Keep UI labels short and consistent. Prefer `নতুন লেনদেন`, `লেনদেন সম্পাদনা`, `লেনদেন` over longer explanatory wording.
-
-### German (`de`)
-
-- Use `en` as the primary source.
-- Keep `Daily Money One` and `Daily Money` untranslated.
-- Use `Buch` for `Book`.
-- Use `Konto` for accounting `Account`.
-- Use `Benutzerkonto`, `Google-Konto`, or `Anmeldung` only when the source clearly refers to a login account, Google account, user account, authorization account, or credential account.
-- Use `Buchung` for `Transaction`.
-- Use `Buchungsvorlage` for `Transaction Template`.
-- Use `Quelle` for `Source` or withdrawal-side concepts.
-- Use `Ziel` for `Destination` or deposit-side concepts.
-- Use `Bilanz` for `Balance Sheet`.
-- Use `Saldo` for the balance concept in shorter UI labels.
-- Keep UI labels short and consistent. Prefer `Neue Buchung`, `Buchung bearbeiten`, `Buchungen` over longer explanatory wording.
-
-### Greek (`el`)
-
-- Use `en` as the primary source.
-- Keep `Daily Money One` and `Daily Money` untranslated.
-- Use `Βιβλίο` for `Book`.
-- Use `Λογαριασμός` for accounting `Account`.
-- Use `λογαριασμός χρήστη`, `λογαριασμός Google`, or `σύνδεση` only when the source clearly refers to a login account, Google account, user account, authorization account, or credential account.
-- Use `Συναλλαγή` for `Transaction`.
-- Use `Πρότυπο συναλλαγής` for `Transaction Template`.
-- Use `Πρότυπο` when the UI context is already under transactions.
-- Use `Προέλευση` for `Source` or withdrawal-side concepts.
-- Use `Προορισμός` for `Destination` or deposit-side concepts.
-- Use `Ισολογισμός` for `Balance Sheet`.
-- Use `Υπόλοιπο` for the balance concept in shorter UI labels.
-- Keep UI labels short and consistent. Prefer `Νέα συναλλαγή`, `Επεξεργασία συναλλαγής`, `Συναλλαγές` over longer explanatory wording.
-
-### Spanish (`es`)
-
-- Use `en` as the primary source.
-- Keep `Daily Money One` and `Daily Money` untranslated.
-- Use `Libro` for `Book`.
-- Use `Cuenta` for accounting `Account`.
-- Use `cuenta de usuario`, `cuenta de Google`, or `inicio de sesión` only when the source clearly refers to a login account, Google account, user account, authorization account, or credential account.
-- Use `Transacción` for `Transaction`.
-- Use `Plantilla de transacción` for `Transaction Template`.
-- Use `Plantilla` when the UI context is already under transactions.
-- Use `Origen` for `Source` or withdrawal-side concepts.
-- Use `Destino` for `Destination` or deposit-side concepts.
-- Use `Hoja de balance` for `Balance Sheet`.
-- Use `Saldo` for the balance concept in shorter UI labels.
-- Keep UI labels short and consistent. Prefer `Nueva transacción`, `Editar transacción`, `Transacciones` over longer explanatory wording.
-
-### Hungarian (`hu`)
-
-- Use `en` as the primary source.
-- Keep `Daily Money One` and `Daily Money` untranslated.
-- Use `Könyv` for `Book`.
-- Use `Számla` for accounting `Account`.
-- Use `felhasznaloi fiok`, `Google-fiok`, or `bejelentkezes` only when the source clearly refers to a login account, Google account, user account, authorization account, or credential account.
-- Use `Tranzakció` for `Transaction`.
-- Use `Tranzakciósablon` for `Transaction Template`.
-- Use `Sablon` when the UI context is already under transactions.
-- Use `Forrás` for `Source` or withdrawal-side concepts.
-- Use `Cél` for `Destination` or deposit-side concepts.
-- Use `Egyenlegkimutatás` for `Balance Sheet`.
-- Use `Egyenleg` for the balance concept in shorter UI labels.
-- Use `Költségkeret` for `Budget`.
-- Keep UI labels short and consistent. Prefer `Új tranzakció`, `Tranzakció szerkesztese`, `Tranzakciók` over longer explanatory wording.
-
-### Italian (`it`)
-
-- Use `en` as the primary source.
-- Keep `Daily Money One` and `Daily Money` untranslated.
-- Use `Libro` for `Book`.
-- Use `Conto` for accounting `Account`.
-- Use `account`, `account Google`, or `accesso` only when the source clearly refers to a login account, Google account, user account, authorization account, or credential account.
-- Use `Movimento` for `Transaction`.
-- Use `Modello di movimento` for `Transaction Template`.
-- Use `Modello` when the UI context is already under transactions.
-- Use `Origine` for `Source` or withdrawal-side concepts.
-- Use `Destinazione` for `Destination` or deposit-side concepts.
-- Use `Stato patrimoniale` for `Balance Sheet`.
-- Use `Saldo` for the balance concept in shorter UI labels.
-- Keep UI labels short and consistent. Prefer `Nuovo movimento`, `Modifica movimento`, `Movimenti` over longer explanatory wording.
-
-### Korean (`ko`)
-
-- Use `en` as the primary source.
-- Keep `Daily Money One` and `Daily Money` untranslated.
-- Use `장부` for `Book`.
-- Use `계정` for accounting `Account`.
-- Use `사용자 계정`, `Google 계정`, or `로그인` only when the source clearly refers to a login account, Google account, user account, authorization account, or credential account.
-- Use `거래` for `Transaction`.
-- Use `거래 템플릿` for `Transaction Template`.
-- Use `템플릿` when the UI context is already under transactions.
-- Use `출금` for `Source` or withdrawal-side concepts.
-- Use `입금` for `Destination` or deposit-side concepts.
-- Use `잔액표` for `Balance Sheet`.
-- Use `잔액` for the balance concept in shorter UI labels.
-- Use `예산` for `Budget`.
-- Keep UI labels short and consistent. Prefer `새 거래`, `거래 편집`, `거래` over longer explanatory wording.
-
-### Dutch (`nl`)
-
-- Use `en` as the primary source.
-- Keep `Daily Money One` and `Daily Money` untranslated.
-- Use `Boek` for `Book`.
-- Use `Rekening` for accounting `Account`.
-- Use `gebruikersaccount`, `Google-account`, or `inloggen` only when the source clearly refers to a login account, Google account, user account, authorization account, or credential account.
-- Use `Transactie` for `Transaction`.
-- Use `Transactiesjabloon` for `Transaction Template`.
-- Use `Sjabloon` when the UI context is already under transactions.
-- Use `Bron` for `Source` or withdrawal-side concepts.
-- Use `Bestemming` for `Destination` or deposit-side concepts.
-- Use `Balansoverzicht` for `Balance Sheet`.
-- Use `Saldo` for the balance concept in shorter UI labels.
-- Use `Budget` for `Budget`.
-- Keep UI labels short and consistent. Prefer `Nieuwe transactie`, `Transactie bewerken`, `Transacties` over longer explanatory wording.
+- `./en/translationTerminology.md`
+- `./zh/translationTerminology.md`
+- `./zh-CN/translationTerminology.md`
+- `./zh-HK/translationTerminology.md`
+- `./ja/translationTerminology.md`
+- `./bn/translationTerminology.md`
+- `./de/translationTerminology.md`
+- `./el/translationTerminology.md`
+- `./es/translationTerminology.md`
+- `./hu/translationTerminology.md`
+- `./it/translationTerminology.md`
+- `./ko/translationTerminology.md`
+- `./nl/translationTerminology.md`
