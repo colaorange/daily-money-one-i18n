@@ -1,1 +1,7 @@
-{}
+{
+    "noExpiredTransactionTemplate": "Geen verlopen transactiesjablonen",
+    "message": {
+        "confirmScheduleBypass": "Weet je zeker dat je wilt overslaan en de volgende planning opnieuw wilt regelen?",
+        "confirmScheduleReset": "Weet je zeker dat je de huidige planning wilt resetten?"
+    }
+}

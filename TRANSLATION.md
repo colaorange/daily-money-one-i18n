@@ -8,8 +8,25 @@ This document records the translation workflow used for Daily Money One localiza
 2. Use the directory containing the working `TRANSLATION.md` file as the working directory.
 3. Translate the target locale terminology first, following `./TERMINOLOGY.md`; wait for confirmation before continuing.
 4. After the target locale terminology is confirmed, write back or update the target locale terminology and Style Rules in `./TERMINOLOGY.md` before translating files.
-5. Translate the target locale JSON file; wait for confirmation before continuing.
-6. Translate the remaining target locale documents.
+5. Re-read `./TERMINOLOGY.md` after the confirmed terminology update.
+6. Translate the target locale JSON file; wait for confirmation before continuing.
+7. Translate the remaining target locale documents.
+
+### Mandatory Phase Separation
+
+For target locales that do not already have confirmed terminology in `TERMINOLOGY.md`, split the work into two separate phases:
+
+1. Terminology phase:
+   - Translate the target locale terminology and style rules first.
+   - Present the proposed terminology and style rules for review.
+   - Do not translate or write target JSON or Markdown files in this phase.
+   - After confirmation, written to `TERMINOLOGY.md` only.
+
+2. File translation phase:
+   - Start only after the target locale terminology has been confirmed and written to `TERMINOLOGY.md`.
+   - Then translate and write the target JSON and Markdown files.
+
+Do not combine terminology updates and target file translation in the same execution step unless the user explicitly says the terminology is already confirmed and asks to proceed with all files.
 
 When the task explicitly says to overwrite all target locale files, do not inspect, compare, or reuse the old target locale content. Use only the source references, terminology, and style rules to regenerate the target outputs.
 
