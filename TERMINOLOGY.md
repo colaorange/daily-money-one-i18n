@@ -263,5 +263,5 @@ When translating a target locale, read only the shared terminology in this file 
 - For English-based locales, use `./en/translationTerminology.md` as the primary base reference and `./zh/translationTerminology.md` only as a secondary reference when the product meaning is unclear.
 - For Chinese-based locales, use `./zh/translationTerminology.md` as the primary base reference and `./en/translationTerminology.md` only as a secondary reference when the product meaning is unclear.
 - If the target locale already has `./<locale>/translationTerminology.md`, read it together with the appropriate base reference files.
-- If the target locale does not yet have `translationTerminology.md`, create it during the terminology phase after the proposed locale-specific terminology and style rules are confirmed.
+- If the target locale does not yet have `translationTerminology.md`, create it during the terminology phase after the proposed locale-specific terminology and style rules are confirmed. This file must contain the localized terminology tables corresponding to all term tables in this document, followed by the target locale's specific style rules.
 

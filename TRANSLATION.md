@@ -18,11 +18,11 @@ For target locales that do not already have confirmed terminology in `./<locale>
 
 1. Terminology phase:
    - Translate the target locale terminology and style rules first.
-   - Include only product-specific terms, ambiguous terms, and locale-specific wording that must be fixed for consistent translation.
-   - Do not include ordinary UI words or general vocabulary in the terminology proposal unless the target locale needs a special fixed wording for that term.
+   - For the terminology tables, localize all the terminology tables found in `./TERMINOLOGY.md` (Core Terms, Direction Terms, Account Types, Feature Terms, UI Terms) to the target language.
+   - Include locale-specific style rules that must be fixed for consistent translation.
    - Present the proposed terminology and style rules for review.
    - Do not translate or write target JSON or Markdown files in this phase.
-   - After confirmation, write to `./<locale>/translationTerminology.md` only.
+   - After confirmation, write the localized terminology tables and style rules to `./<locale>/translationTerminology.md` only.
 
 2. File translation phase:
    - Start only after the target locale terminology has been confirmed and written to `./<locale>/translationTerminology.md`.
@@ -64,6 +64,8 @@ When the task explicitly says to overwrite all target locale files, do not inspe
 
 ## Target Outputs
 
+- Write the localized terminology tables and style rules to the target locale terminology file:
+  - `./<locale>/translationTerminology.md`
 - Write translated JSON to the target locale JSON file, for example:
   - `./<locale>/<locale>.json` 
   - `./<locale>/<locale>.dev.json`
