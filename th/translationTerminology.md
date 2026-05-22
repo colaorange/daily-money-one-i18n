@@ -1,10 +1,69 @@
 # Translation Terminology
 
-This file contains locale-specific terminology and style rules for th.
+This file contains locale-specific terminology and style rules for Thai (`th`).
+
+## Core Terms
+
+| Source | Thai |
+| --- | --- |
+| Book | สมุดบัญชี |
+| Account | บัญชี |
+| Transaction | รายการ |
+| Transaction Template | แม่แบบรายการ |
+| Template | แม่แบบ |
+| Budget | งบประมาณ |
+| Balance Sheet | งบดุล |
+| Balance | ยอดคงเหลือ |
+
+## Direction Terms
+
+| Source | Thai |
+| --- | --- |
+| Source | ต้นทาง |
+| Destination | ปลายทาง |
+| Amount Out | จำนวนเงินออก |
+| Amount In | จำนวนเงินเข้า |
+
+## Account Types
+
+| Source | Thai |
+| --- | --- |
+| Asset | สินทรัพย์ |
+| Expense | ค่าใช้จ่าย |
+| Income | รายรับ |
+| Liability | หนี้สิน |
+| Other | อื่นๆ |
+
+## Feature Terms
+
+| Source | Thai |
+| --- | --- |
+| Daily Money One | Daily Money One |
+| Daily Money | Daily Money |
+| Quick View | มุมมองด่วน |
+| Trash | ถังขยะ |
+| Schedule | กำหนดการ |
+| Preferences | การตั้งค่า |
+| License | ใบอนุญาต |
+| Backup | สำรอง |
+| Restore | กู้คืน |
+| Import | นำเข้า |
+| Export | ส่งออก |
+
+## UI Terms
+
+| Source | Thai |
+| --- | --- |
+| Home Screen | หน้าหลัก |
+| Home | หน้าหลัก |
+| Help | ความช่วยเหลือ |
+| What's New | มีอะไรใหม่ |
+| Release Notes | บันทึกประจำรุ่น |
+| Credits | เครดิต |
+| Device Info | ข้อมูลอุปกรณ์ |
+| Data Maintenance | ดูแลข้อมูล |
 
 ## Style Rules
-
-### Thai
 
 - Keep `Daily Money One` and `Daily Money` untranslated.
 - Use natural, concise Thai for UI labels and avoid overly literal wording.

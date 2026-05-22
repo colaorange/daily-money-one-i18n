@@ -1,10 +1,69 @@
 # Translation Terminology
 
-This file contains locale-specific terminology and style rules for ru.
+This file contains locale-specific terminology and style rules for Russian (`ru`)
+
+## Core Terms
+
+| Source | Russian |
+| --- | --- |
+| Book | Книга |
+| Account | Счёт |
+| Transaction | Операция |
+| Transaction Template | Шаблон операции |
+| Template | Шаблон |
+| Budget | Бюджет |
+| Balance Sheet | Балансовый отчёт |
+| Balance | Баланс |
+
+## Direction Terms
+
+| Source | Russian |
+| --- | --- |
+| Source | Источник |
+| Destination | Назначение |
+| Amount Out | Сумма списания |
+| Amount In | Сумма зачисления |
+
+## Account Types
+
+| Source | Russian |
+| --- | --- |
+| Asset | Актив |
+| Expense | Расход |
+| Income | Доход |
+| Liability | Обязательство |
+| Other | Другое |
+
+## Feature Terms
+
+| Source | Russian |
+| --- | --- |
+| Daily Money One | Daily Money One |
+| Daily Money | Daily Money |
+| Quick View | Быстрый просмотр |
+| Trash | Корзина |
+| Schedule | Расписание |
+| Preferences | Настройки |
+| License | Лицензия |
+| Backup | Резервная копия |
+| Restore | Восстановление |
+| Import | Импорт |
+| Export | Экспорт |
+
+## UI Terms
+
+| Source | Russian |
+| --- | --- |
+| Home Screen | Главный экран |
+| Home | Главная |
+| Help | Помощь |
+| What's New | Что нового |
+| Release Notes | История версий |
+| Credits | Благодарности |
+| Device Info | Устройство |
+| Data Maintenance | Обслуживание данных |
 
 ## Style Rules
-
-### Russian
 
 - Keep `Daily Money One` and `Daily Money` untranslated.
 - Use `Книга` for `Book`.

@@ -50,6 +50,8 @@ When the task explicitly says to overwrite all target locale files, do not inspe
   - `./zh/howToUse.md`
   - `./zh/store.md`
   - `./zh/whatIsNew.md`
+  - `./zh/eula.md`
+  - `./zh/gaca.md`
 - For non-Chinese languages workflow, the translated content was based on:
   - `./en/en.json`
   - `./en/en.dev.json`
@@ -57,6 +59,8 @@ When the task explicitly says to overwrite all target locale files, do not inspe
   - `./en/howToUse.md`
   - `./en/store.md`
   - `./en/whatIsNew.md`
+  - `./en/eula.md`
+  - `./en/gaca.md`
 
 ## Target Outputs
 
@@ -68,6 +72,8 @@ When the task explicitly says to overwrite all target locale files, do not inspe
   - `./<locale>/howToUse.md`
   - `./<locale>/store.md`
   - `./<locale>/whatIsNew.md`
+  - `./<locale>/eula.md`
+  - `./<locale>/gaca.md`
 - Existing files in the target locale directory may be overwritten when the task explicitly allows it.
 - When overwriting all target locale files, old target locale files are replacement targets only. Do not read them for translation decisions, consistency checks, or gap analysis.
 - Treat the target output list as the scope of the task. Do not create or update extra target files just because matching source files exist, unless the user explicitly asks for them.

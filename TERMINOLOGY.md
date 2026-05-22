@@ -265,18 +265,3 @@ When translating a target locale, read only the shared terminology in this file 
 - If the target locale already has `./<locale>/translationTerminology.md`, read it together with the appropriate base reference files.
 - If the target locale does not yet have `translationTerminology.md`, create it during the terminology phase after the proposed locale-specific terminology and style rules are confirmed.
 
-Currently maintained locale terminology files:
-
-- `./en/translationTerminology.md`
-- `./zh/translationTerminology.md`
-- `./zh-CN/translationTerminology.md`
-- `./zh-HK/translationTerminology.md`
-- `./ja/translationTerminology.md`
-- `./bn/translationTerminology.md`
-- `./de/translationTerminology.md`
-- `./el/translationTerminology.md`
-- `./es/translationTerminology.md`
-- `./hu/translationTerminology.md`
-- `./it/translationTerminology.md`
-- `./ko/translationTerminology.md`
-- `./nl/translationTerminology.md`

@@ -1,10 +1,8 @@
 # Translation Terminology
 
-This file contains locale-specific terminology and style rules for zh.
+This file contains locale-specific terminology and style rules for Traditional Chinese (`zh`).
 
 ## Style Rules
-
-### Traditional Chinese
 
 - Use `帳本` for `Book`.
 - Use `帳戶` for `Account`.

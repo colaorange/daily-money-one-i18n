@@ -1,10 +1,8 @@
 # Translation Terminology
 
-This file contains locale-specific terminology and style rules for en.
+This file contains locale-specific terminology and style rules for English (`en`).
 
 ## Style Rules
-
-### English
 
 - Keep the product wording simple and app-specific.
 - Use `Book`, not `Accounting Book`, `Ledger`, or `Account Book`.

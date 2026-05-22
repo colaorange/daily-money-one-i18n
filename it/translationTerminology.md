@@ -1,10 +1,109 @@
 # Translation Terminology
 
-This file contains locale-specific terminology and style rules for it.
+This file contains locale-specific terminology and style rules for Italian (`it`).
+
+## Core Terms
+
+| Term | it |
+| --- | --- |
+| Book | Libro |
+| Account | Conto |
+| Transaction | Movimento |
+| Transaction Template | Modello di movimento |
+| Template | Modello |
+| Budget | Budget |
+| Balance Sheet | Stato patrimoniale |
+| Balance | Saldo |
+
+Use `Modello` when the UI context is already under transactions. Use `Modello di movimento` when the context is ambiguous.
+
+## Direction Terms
+
+| Term | it |
+| --- | --- |
+| Source | Origine |
+| Destination | Destinazione |
+| Withdrawal | Origine |
+| Deposit | Destinazione |
+| Source account | Conto origine |
+| Destination account | Conto destinazione |
+| Source Book | Libro origine |
+| Destination Book | Libro dest. |
+| Amount Out | Importo in uscita |
+| Amount In | Importo in entrata |
+
+Use `uscita` and `entrata` only as explanatory wording when the source needs to clarify the direction, for example `Origine (uscita)` and `Destinazione (entrata)`.
+
+## Account Types
+
+| Term | it |
+| --- | --- |
+| Asset | Attivo |
+| Expense | Spesa |
+| Income | Entrata |
+| Liability | Passività |
+| Other | Altro |
+
+## Feature Terms
+
+| Term | it |
+| --- | --- |
+| Daily Money One | Daily Money One |
+| Daily Money | Daily Money |
+| Quick View | Vista rapida |
+| Chart | Grafico |
+| Trash | Cestino |
+| Schedule | Pianificazione |
+| Preferences | Preferenze |
+| License | Licenza |
+| Backup | Backup |
+| Restore | Ripristina |
+| Import | Importa |
+| Export | Esporta |
+
+## UI Terms
+
+| Term | it |
+| --- | --- |
+| Home Screen | Schermata Home |
+| Home | Home |
+| About | Informazioni |
+| Help | Aiuto |
+| UI | UI |
+| What's New | Novità |
+| Release Notes | Note di rilascio |
+| Credits | Ringraziamenti |
+| Third-Party Licenses | Licenze di terze parti |
+| Device Info | Info dispositivo |
+| Platform | Piattaforma |
+| EULA | EULA |
+| Ads Consent | Consenso annunci |
+| Accounts | Conti |
+| Books | Libri |
+| Budgets | Budget |
+| Transactions | Movimenti |
+| Daily Transactions | Movimenti giornalieri |
+| Recent Updates | Aggiornamenti recenti |
+| Search | Cerca |
+| Results | Risultati |
+| Templates | Modelli |
+| Shortcuts | Scorciatoie Home |
+| Preferences | Preferenze |
+| Display | Visualizzazione |
+| Functions | Funzioni |
+| Security | Sicurezza |
+| Language | Lingua |
+| Password | Password |
+| Clear Password | Cancella password |
+| Date & Time | Data e ora |
+| Server Mode | Modalità server |
+| Data Maintenance | Manutenzione dati |
+| Auto Backup | Backup automatico |
+| Import CSV | Importa CSV |
+| Import JSON | Importa JSON |
+| Google Drive Backups | Backup Google Drive |
 
 ## Style Rules
-
-### Italian (`it`)
 
 - Use `en` as the primary source.
 - Keep `Daily Money One` and `Daily Money` untranslated.

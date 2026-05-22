@@ -1,6 +1,6 @@
 # Translation Terminology
 
-This file contains locale-specific terminology and style rules for tr.
+This file contains locale-specific terminology and style rules for Turkish (`tr`).
 
 ## Core Terms
 
@@ -64,8 +64,6 @@ This file contains locale-specific terminology and style rules for tr.
 | Data Maintenance | Veri Bakımı |
 
 ## Style Rules
-
-### Turkish
 
 - Keep `Daily Money One` and `Daily Money` untranslated.
 - Use natural Turkish UI wording with short labels where possible.

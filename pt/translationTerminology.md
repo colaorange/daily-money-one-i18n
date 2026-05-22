@@ -1,10 +1,69 @@
 # Translation Terminology
 
-This file contains locale-specific terminology and style rules for pt.
+This file contains locale-specific terminology and style rules for Portuguese (`pt`, European Portuguese / `pt-PT`).
+
+## Core Terms
+
+| Source | Portuguese |
+| --- | --- |
+| Book | Livro |
+| Account | Conta |
+| Transaction | Movimento |
+| Transaction Template | Modelo de movimento |
+| Template | Modelo |
+| Budget | Orçamento |
+| Balance Sheet | Balanço |
+| Balance | Saldo |
+
+## Direction Terms
+
+| Source | Portuguese |
+| --- | --- |
+| Source | Origem |
+| Destination | Destino |
+| Amount Out | Montante de saída |
+| Amount In | Montante de entrada |
+
+## Account Types
+
+| Source | Portuguese |
+| --- | --- |
+| Asset | Ativo |
+| Expense | Despesa |
+| Income | Rendimento |
+| Liability | Passivo |
+| Other | Outro |
+
+## Feature Terms
+
+| Source | Portuguese |
+| --- | --- |
+| Daily Money One | Daily Money One |
+| Daily Money | Daily Money |
+| Quick View | Vista rápida |
+| Trash | Lixo |
+| Schedule | Agenda |
+| Preferences | Preferências |
+| License | Licença |
+| Backup | Cópia de segurança |
+| Restore | Restaurar |
+| Import | Importar |
+| Export | Exportar |
+
+## UI Terms
+
+| Source | Portuguese |
+| --- | --- |
+| Home Screen | Ecrã inicial |
+| Home | Início |
+| Help | Ajuda |
+| What's New | Novidades |
+| Release Notes | Notas de versão |
+| Credits | Agradecimentos |
+| Device Info | Info. do dispositivo |
+| Data Maintenance | Manutenção de dados |
 
 ## Style Rules
-
-### Portuguese (`pt`, European Portuguese / pt-PT)
 
 - Use `en` as the primary source.
 - Translate `pt` as European Portuguese (pt-PT), while keeping the locale code and file names as `pt`.
