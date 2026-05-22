@@ -5,49 +5,49 @@ Short description:
 Bireyler, aileler ve küçük işletmeler için günlük finans takibi.
 
 Long description:
-【Daily Money One】 - Basit, Güçlü, Güvenilir Finans Takibi
+【Daily Money One】 - Basit, Güçlü ve Güvenilir Finans Takibi
 
-Klasik "Daily Money" ve "Daily Money+" uygulamalarından türetilen bu uygulama, orijinal yazarın el yapımı bir şaheseridir.
-Muhasebenin bir yük değil, hayatınızın kontrolünü elinize almanın bir yolu olması gerektiğine inanıyoruz.
-Bu, reklamlarla veya dikkat dağıtıcı oyunlarla dolu bir uygulama değildir; "finansı ciddiye alan sizler" için tasarlanmış saf bir defterdir.
+Klasik "Daily Money" ve "Daily Money+" temel alınarak, özgün yazar tarafından özenle geliştirildi.
+Muhasebenin bir yük değil, hayatınızı kontrol altına almanın bir yolu olduğuna inanıyoruz.
+Bu, reklamlar veya dikkat dağıtan oyunlarla dolu bir uygulama değildir; finansını ciddiye alan sizin için tasarlanmış temiz bir muhasebe uygulamasıdır.
 
-Neden Daily Money One'ı Seçmelisiniz?
+Neden Daily Money One?
 
-✅ Saf ve Verimli, Dikkat Dağıtıcı Yok
-Karmaşık sosyal özellikler yok, dikkat dağıtıcı oyunlaştırma yok. İşlemleri saniyeler içinde kaydetmenizi sağlayan en sezgisel arayüzü sunuyoruz.
+✅ Sade ve Verimli, Dikkat Dağıtmaz
+Karmaşık sosyal özellikler yok, dikkat dağıtan oyunlaştırma yok. En sezgisel arayüzü sunarız, böylece işlemleri saniyeler içinde kaydedebilirsiniz.
 
-✅ Profesyonel Muhasebe Kavramları Basitleştirildi
-Sadece bir nakit akışı günlüğünden daha fazlası! Varlıklar, Yükümlülükler, Gelirler ve Giderlerden oluşan basit bir yapıyla "Net Varlık" durumunuzu kolayca kavrayabilirsiniz.
-- Hiyerarşik Hesaplar: Finansal yapınızı en iyi siz bilirsiniz. Sınırsız sayıda alt hesap seviyesini destekler.
-- Çoklu Kitap Yönetimi: Kişisel, aile, iş veya seyahat harcamalarını tamamen ayrı tutun. Tek bir Uygulama tüm senaryoları halleder.
-- Bir-Çok Bölünmüş İşlemler: Süpermarket fişi yiyecek, ev eşyaları ve aletleri içeriyor mu? Sorun değil. Bir işlem, her kuruşu doğru bir şekilde takip ederek birden fazla gider kalemine karşılık gelebilir.
+✅ Pratik Muhasebe Kavramları Kolaylaştı
+Sadece bir nakit akışı günlüğünden fazlası! Varlıklar, Borçlar, Gelir ve Giderlerden oluşan basit yapıyla "Net Varlık" durumunuzu kolayca kavrayabilirsiniz.
+- Hiyerarşik Hesaplar: Finansal yapınızı en iyi siz bilirsiniz. Sınırsız düzeyde alt hesap desteği.
+- Birden Çok Defter: Kişisel, aile, işletme veya seyahat giderlerini tamamen ayrı tutun. Tek uygulama tüm senaryoları yönetir.
+- Bire Çok Bölünmüş İşlemler: Süpermarket fişinde yiyecek, ev eşyası ve cihazlar mı var? Sorun değil. Tek işlem birden çok gider öğesine karşılık gelebilir ve her kuruşu doğru izler.
 
 ✅ Güçlü Veri Analizi ve Bütçe Kontrolü
-- Gerçek Zamanlı Raporlar: Bilançoları ve Gelir Tablolarını istediğiniz zaman görüntüleyin. Bir bakışta finansal durumunuz.
-- Bütçe Yönetimi: Harcamaları etkili bir şekilde kontrol etmek ve limit aşımlarını önlemek için gerçek zamanlı ilerleme göstergeleriyle aylık veya yıllık bütçeler belirleyin.
-- Çeşitli Grafikler: Günler, haftalar, aylar ve yıllar için trend grafikleri ve pasta grafikler, temel tasarruf fırsatlarını bulmanıza yardımcı olur.
+- Gerçek Zamanlı Raporlar: Bilançoları ve Grafikleri istediğiniz zaman görüntüleyin. Finansal durumunuz bir bakışta görünür.
+- Bütçeler: Harcamayı etkili biçimde kontrol etmek ve aşımı önlemek için aylık veya yıllık bütçeler belirleyin, ilerlemeyi gerçek zamanlı izleyin.
+- Çeşitli Grafikler: Gün, hafta, ay ve yıl için eğilim grafikleri ve pasta grafikler önemli tasarruf fırsatlarını bulmanıza yardımcı olur.
 
 ✅ Özel Özellikler
-- PC Sunucu Modu: Telefon ekranı çok mu küçük? Sunucu Modunu etkinleştirmek için tek tık. Bilgisayar tarayıcınızda tüm verileri görüntüleyin ve analiz edin. Muhasebe profesyonel olabilir!
-- Akıllı Şablonlar ve Tekrarlayan İşlemler: Kira, maaş ve abonelikleri otomatikleştirin. Bir kez ayarlayın ve sistem kaydetmenizi hatırlatsın.
-- Excel (XLSX) Dışa Aktarma: Daha derin bir analize mi ihtiyacınız var? İşlemleri ve raporları Excel formatına aktarın. Sizin verileriniz, sizin kurallarınız.
+- Sunucu Modu: Telefon ekranı küçük mü? Tek tıkla Sunucu Modunu etkinleştirin. Tüm verileri bilgisayar tarayıcınızda görüntüleyip analiz edin. Muhasebe profesyonel olabilir!
+- Kullanışlı Şablonlar ve Tekrarlayan Zamanlamalar: Kira, maaş ve abonelikleri otomatikleştirin. Bir kez ayarlayın, sistem kaydetmeniz için hatırlatsın.
+- Excel (XLSX) Dışa Aktarma: Daha derin analiz mi gerekiyor? İşlemleri ve raporları Excel biçimine dışa aktarın. Verileriniz, kurallarınız.
 
-✅ Verileriniz, Tamamen Sizin
-- Açık Format: Açık JSON formatına yedeklemeyi destekler. Tek bir yazılıma kilitlenme korkusu yok.
-- Çift Yedekleme: Yerel depolama ve Google Drive'a yedeklemeyi destekler. Verileriniz güvende.
-- Gizlilik Koruması: Finansal gizliliğinizi korumak için yerleşik şifre kilidi.
+✅ Verileriniz Tamamen Sizin
+- Açık Biçim: Açık JSON biçimine yedeklemeyi destekler. Tek bir yazılıma kilitlenme korkusu yok.
+- Çift Yedekleme: Yerel depolamaya ve Google Drive'a yedeklemeyi destekler. Verileriniz güvende.
+- Gizlilik Koruması: Finansal gizliliğinizi korumak için yerleşik parola kilidi.
 
-Daha Düşünceli Detaylar:
-- Kişiselleştirilmiş Temalar: Karanlık Mod ve istediğiniz gibi değiştirebileceğiniz çeşitli renk temaları.
-- Veri Taşıma: "Daily Money+" CSV dışa aktarma dosyalarını içe aktarmak için tam destek. Geri dönen kullanıcılar için engel yok.
-- Tamamen Ücretsiz: Yazarın kendi ihtiyaçlarını çözmek için geliştirilmiştir, herkesin kullanımı için ücretsizdir.
+Daha Düşünceli Ayrıntılar:
+- Kişiselleştirilmiş Temalar: Koyu mod ve çeşitli renk temaları arasında istediğiniz gibi geçiş yapın.
+- Veri Geçişi: "Daily Money+" CSV dışa aktarma dosyalarını içe aktarmayı tam destekler. Geri dönen kullanıcılar için sıfır engel.
+- Tamamen Ücretsiz: Yazarın kendi ihtiyaçlarını çözmek için geliştirildi ve herkesin kullanımına ücretsiz sunuldu.
 
 Tanıtım videosunu buradan izleyin:
 https://youtu.be/f0Go7GgXgCk
 
 [Yazarın Notu]
-Bu yazılım, yazarın kodlama tutkusundan ve muhasebedeki ısrarından kaynaklanmaktadır. 2011'den beri bakımını yapamadığım bir döneme rağmen, yılların verilerini korumak için yeniden oluşturmaya karar verdim.
-Bu saf muhasebe aracını beğenirseniz, lütfen bize 5 yıldızlı bir puan verin. Bakıma devam etmemiz ve yeni özellikler geliştirmemiz için en büyük motivasyonumuz bu!
+Bu yazılım, yazarın kodlamaya olan tutkusundan ve muhasebedeki sürekliliğinden doğdu. 2011'den beri bir dönem bakımını sürdürememiş olsam da yılların verisini korumak için onu yeniden inşa etmeye karar verdim.
+Bu saf muhasebe aracını beğendiyseniz lütfen bize 5 yıldız verin. Bu, bakımı sürdürmemiz ve yeni özellikler geliştirmemiz için en büyük motivasyondur!
 
 Sorularınız veya önerileriniz mi var?
 Facebook sayfamızı ziyaret edin. Her kullanıcının geri bildirimine değer veriyoruz.

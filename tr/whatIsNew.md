@@ -1,63 +1,69 @@
-`Daily Money One` size yardımcı oldu mu? Lütfen bir dakikanızı ayırarak [Google Store](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone) üzerinde ★★★★★ ile değerlendirin. Değerlendirmeniz, daha fazla insanın bu uygulamayı keşfetmesine ve kullanmasına yardımcı olacak, yazarın da bunu geliştirmek ve sürdürmek için daha fazla zaman ve kaynak bulmasını sağlayacaktır.
+`Daily Money One` size yardımcı oldu mu? Lütfen kısa bir zaman ayırıp [Google Store](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone) üzerinde ★★★★★ puan verin. Puanınız daha fazla kişinin uygulamayı keşfetmesine ve kullanmasına yardımcı olur, yazara da uygulamayı geliştirmeye ve bakımını sürdürmeye devam etmek için daha fazla zaman ve kaynak sağlar.
 
-Sorularınız veya özellik istekleriniz mi var? En son gelişmeleri almak için [Facebook hayran grubuna](https://www.facebook.com/colaorange.daily.money) katılın veya yazarla iletişime geçerek sorularınızı sorun ve isteklerinizi iletin.
+Sorularınız veya özellik istekleriniz mi var? En son geliştirme güncellemelerini almak için [Facebook hayran grubuna](https://www.facebook.com/colaorange.daily.money) katılın veya sorularınızı ve isteklerinizi yazara mesaj olarak gönderin.
 
 ## Yenilikler
 
-### Versiyon 1.10.0'da
+### Sürüm 1.11.0'da
 Bu sürüm özellik güncellemeleri içerir:
-* Aylık harcamalarınızı bir bakışta net bir şekilde görebilmek için Ana Ekranda Bilançoyu vurgulayın.
-* Mevcut ay için kalan bakiyenizi takip etmeyi kolaylaştıran yinelenen bütçe ayarlarını destekleyin.
+* Bir düğme simgesinde gölge varsa, uzun basıldığında ek ilgili işlevlerin açılacağını gösterir.
+* Ana ekrana işlem şablonlarını kullanmak için kısayol eklendi ve şablonları hızlıca yeniden zamanlama işlevi geliştirildi.
+* Tüm diller için çeviriler en yeni yapay zeka modelleriyle yeniden ayarlandı.
 
-### Versiyon 1.9.0'da
-Bu sürüm, kullanıcı istekleri ve Google politikası doğrultusunda özellik güncellemeleri içerir:
-* Google API hedef seviyesi 35'e yükseltildi  
-* Artık dönem listeleri, bakiyeler ve grafikler için ayın ve yılın ilk gününü ayarlayabilirsiniz  
-* Bakiye özeti artık doğrudan arama sonuçlarında gösteriliyor 
-* Google Drive yükleme özelliği yeniden yazıldı: dosyalar artık önce yerel olarak kaydediliyor ve yalnızca ağ kullanılabilir olduğunda yükleniyor.
+### Sürüm 1.10.0'da
+Bu sürüm özellik güncellemeleri içerir:
+* Aylık giderlerinizi bir bakışta net görebilmeniz için Ana Ekrandaki Bilanço vurgulandı.
+* Tekrarlayan bütçe ayarları desteklendi; böylece geçerli ay için kalan bakiyenizi takip etmek kolaylaştı.
 
-### Versiyon 1.8.0'da
-Bu sürüm, kullanıcı taleplerine dayalı özellik güncellemelerini de içermektedir:
-* **Gelişmiş Notlar**: Çok satırlı notları satır sonları ile destekler ve giriş alanına temizleme düğmesi ekler.
-* **Geliştirilmiş Hesap Arama Seçenekleri**: İşlem aramasında hem çıkış hem de giriş hesapları için koşullar ekler.
-* **Ters Başlangıç Tutarına İzin Ver**: Başlangıç tutarınız negatifse, ters hesabın başlangıç tutar yönünü ayarlayabilirsiniz.
-* **Hollandaca Dil Desteği Eklendi**
+### Sürüm 1.9.0'da
+Bu sürüm kullanıcı istekleri ve Google politikası temelinde özellik güncellemeleri içerir:
+* Google API hedefi seviye 35'e yükseltildi.
+* Dönem listeleri, bakiyeler ve grafikler için ayın ve yılın ilk gününü ayarlayabilirsiniz.
+* Bakiye özeti artık arama sonuçlarınızda doğrudan görünür.
+* Google Drive yükleme özelliği yeniden yazıldı: Dosyalar artık önce yerel olarak kaydedilir ve yalnızca ağ kullanılabilir olduğunda yüklenir.
 
-### Versiyon 1.7.0'da
-Bu sürüm, kullanıcı isteklerine dayalı olarak özellik güncellemelerini içerir:
-* **Seçim Yapılmadan Kaydırmayı Engelle**: Etkinleştirildiğinde, kaydırma işlemleri gerçekleştirilmeden önce öğelerin seçilmesi gerekir. Bu, istemeden kaydırmayı önler ve önemli ölçüde daha iyi bir işleme performansı sağlar, ancak ek bir seçim adımı gerektirir. (Tercihler > İşlev Ayarları)
-* **Not Varsayılan Açık**: Etkinleştirildiğinde, işlem listesindeki işlem notu varsayılan olarak açık olur. (Tercihler > Görünüm Ayarları > İşlem Listesi Ayarları)
-* **İşlem Arka Plan Rengi Seçenekleri**: Artık işlem listesindeki işlemin arka plan rengini değiştirebilirsiniz. Mevcut seçenekler şunları içerir: Varsayılan (tema arka plan rengi), Transfer-Çıkış Hesabı ve Transfer-Giriş Hesabı. (Tercihler > Görünüm Ayarları > İşlem Listesi Ayarları)
-* **Gelişmiş Modda İşlem Düzenleme Geliştirmeleri**: Gelişmiş düzenleme modunda, artık transferleri yeniden sıralayabilir ve herhangi bir sırada transferleri silebilirsiniz. Daha önce yalnızca son transfer silinebilir ve sıralama yapılamazdı.
-* **Ana Ekran Kısayol Ayarları**: Aşağıdaki kısayol seçenekleri eklendi: Ay Sonuna Kadar İşlemler, Ay Sonuna Kadar Bilanço, Ay Sonuna Kadar Bakiye Grafiği. 
+### Sürüm 1.8.0'da
+Bu sürüm yine kullanıcı istekleri temelinde özellik güncellemeleri içerir:
+* **Geliştirilmiş Notlar**: Satır sonlarıyla çok satırlı notları destekler ve giriş alanına temizle düğmesi ekler.
+* **Geliştirilmiş Hesap Arama Seçenekleri**: İşlem aramasında hem Kaynak hem de Hedef hesaplar için koşullar ekler.
+* **Ters Başlangıç Tutarına İzin Ver**: Başlangıç tutarınız negatif olduğunda ters hesabın başlangıç tutarı yönünü ayarlayabilirsiniz.
+* **Felemenkçe Dil Desteği Eklendi**.
 
-### Versiyon 1.6.0'da
-* [Grafiklerinizi bilgisayarınızda görüntüleyin](https://youtu.be/Ag8cqg9gzi0): Sunucu modu sağlar. Bu modu etkinleştirdikten sonra, aynı LAN içindeki bir bilgisayar tarayıcısını kullanarak telefonunuza bağlanabilir ve daha ayrıntılı grafikler görebilirsiniz.
+### Sürüm 1.7.0'da
+Bu sürüm kullanıcı istekleri temelinde özellik güncellemeleri içerir:
+* **Kaydırmadan Önce Seçim Gerekli**: Etkinleştirildiğinde kaydırma eylemleri yapılmadan önce öğelerin seçilmesi gerekir. Bu yanlışlıkla kaydırmayı önler ve render performansını önemli ölçüde iyileştirir, ancak ek bir seçim adımı gerektirir. (Tercihler > İşlev Ayarları)
+* **Not Varsayılan Açık**: Etkinleştirildiğinde işlem listesindeki işlem notu varsayılan olarak açık olur. (Tercihler > Görünüm Ayarları > İşlem Listesi Ayarları)
+* **İşlem Arka Plan Rengi Seçenekleri**: İşlem listesindeki işlemin arka plan rengini artık değiştirebilirsiniz. Kullanılabilir seçenekler: Varsayılan (tema arka plan rengi), Kaynak Hesap ve Hedef Hesap. (Tercihler > Görünüm Ayarları > İşlem Listesi Ayarları)
+* **İşlem için Gelişmiş Mod Düzenleme İyileştirildi**: Gelişmiş düzenleme modunda artık herhangi bir aktarımı yeniden sıralayabilir ve herhangi bir sıradaki aktarımı silebilirsiniz. Önceden yalnızca son aktarım silinebiliyor ve yeniden sıralama yapılamıyordu.
+* **Ana Ekran Kısayol Ayarları**: Şu kısayol seçenekleri eklendi: Ay sonu işlemleri, Ay sonu bilançosu, Ay sonu bilanço grafiği.
 
-### Versiyon 1.5.0'da
-* [İşlem Listesi için Düzeni Ayarlama](https://youtu.be/TzQj2pY6sWs): İşlemlerin görüntülenmesini, öncelikli olarak para yatırma veya para çekme (kapalıysa varsayılan) olacak şekilde ayarlayabilirsiniz ve notun detayların üzerinde mi yoksa altında mı (kapalıysa varsayılan) yer alacağını seçebilirsiniz.
-* [Artık ihtiyaç duyulmayan eski hesapları gizle](https://youtu.be/nKq7Mh_2nQA): Hesap listenizde artık kullanılmayan birçok eski hesap biriktirdiniz mi? Seçimlerinizi ve işlemlerinizi karıştırmamaları için gizleme özelliğini kullanın.
-* Bilanço, sabit ondalık basamakları destekler ve son sıfırlar atlanmaz, bu da hizalamayı ve karşılaştırmayı kolaylaştırır.
+### Sürüm 1.6.0'da
+* [Grafiklerinizi bilgisayarınızda görüntüleyin](https://youtu.be/Ag8cqg9gzi0): Sunucu modu sağlar. Bu modu etkinleştirdikten sonra aynı LAN içindeki bir bilgisayar tarayıcısıyla telefonunuza bağlanıp daha ayrıntılı grafikleri görüntüleyebilirsiniz.
 
-### Versiyon 1.4.0'da
-* [Yinelenen Planlanmış İşlemler Şablonu](https://youtu.be/TzQj2pY6sWs): Giderlerinizi takip etmeyi kolaylaştırmanın yanı sıra, bu şablon yinelenen programlar ve hatırlatıcılar için özellikler içerir. Otomatik kredi kartı ödemeleri veya yıllık ücretler için pratik ve düşünceli bir özelliktir.
-* [Hesap defterinizi şifre ile koruyun](https://youtu.be/peoYqNG_4pk): Başkalarının hesap defterinizi gözetlemesinden mi korkuyorsunuz? Yeni şifre özelliği etkinleştirildiğinde, hesap defteriniz açıldığında bir şifre ile korunacaktır. Şifrenin ne sıklıkta girilmesi gerektiğini de ayarlayabilirsiniz.
-* Bakiye Hesaplarını Sırala: `Tercihler > Görüntü Ayarları > Bakiye Hesap Türlerinin Sırası` bölümünden sıralamayı ayarlayın.
+### Sürüm 1.5.0'da
+* [İşlem Listesi Düzenini Ayarlama](https://youtu.be/TzQj2pY6sWs): İşlemlerin görüntülenmesinde önce hedeflerin mi yoksa önce kaynakların mı (kapalıysa varsayılan) öncelikli olacağını ayarlayabilir, notun ayrıntıların üstünde mi altında mı (kapalıysa varsayılan) yer alacağını seçebilirsiniz.
+* [Artık gerekmeyen eski hesapları gizleyin](https://youtu.be/nKq7Mh_2nQA): Hesap listenizde artık kullanılmayan çok sayıda eski hesap mı birikti? Seçim ve işlemleri kalabalıklaştırmalarını önlemek için gizleme özelliğini kullanın.
+* Bilanço sabit ondalık basamakları destekler ve sondaki sıfırlar atlanmaz; bu da hizalamayı ve karşılaştırmayı kolaylaştırır.
+
+### Sürüm 1.4.0'da
+* [Tekrarlayan Zamanlanmış İşlemler için Şablon](https://youtu.be/TzQj2pY6sWs): Giderlerinizi takip etmeyi kolaylaştırmanın yanı sıra bu şablon tekrarlayan zamanlamalar ve hatırlatmalar için özellikler içerir. Otomatik kredi kartı ödemeleri veya yıllık ücretler için pratik ve düşünceli bir özelliktir.
+* [Defterinizi parolayla koruyun](https://youtu.be/peoYqNG_4pk): Başkalarının defterinize bakmasından mı çekiniyorsunuz? Yeni parola özelliği etkinleştirildiğinde defteriniz her açıldığında parola ile korunur. Parolanın ne sıklıkta girileceğini de ayarlayabilirsiniz.
+* Bakiye Hesaplarını Sıralama: Sırayı `Tercihler > Görünüm Ayarları > Bakiye Hesap Türleri Sırası` içinde ayarlayın.
 
 ### Sürüm 1.3.0'da
-* [Özelleştirilebilir İşlem Listeleri ve Bilanço Aralıkları](https://youtu.be/O7EcLN82qIU): Sabit aralıklar için hızlı seçeneklere ek olarak, artık işlem listeleri, bilançolar ve grafikler oluşturmak için aralıkları özelleştirebilirsiniz.
-* [İşlem Listelerini XLSX Olarak Paylaş](https://youtu.be/Bf7j39fsCSc): Herhangi bir aralık için işlemleri Excel XLSX dosyaları olarak paylaşın.
-* [Bilançoları XLSX Olarak Paylaş](https://youtu.be/kpxJxNsButA): Herhangi bir aralık için bilançoları Excel XLSX dosyaları olarak paylaşın.
+* [Özelleştirilebilir İşlem Listeleri ve Bilanço Aralıkları](https://youtu.be/O7EcLN82qIU): Sabit aralıklar için hızlı seçeneklere ek olarak artık işlem listeleri, bilançolar ve grafikler oluşturmak için aralıkları özelleştirebilirsiniz.
+* [İşlem Listelerini XLSX Olarak Paylaş](https://youtu.be/Bf7j39fsCSc): Herhangi bir aralık için işlemleri Excel XLSX dosyası olarak paylaşın.
+* [Bilançoları XLSX Olarak Paylaş](https://youtu.be/kpxJxNsButA): Herhangi bir aralık için bilançoları Excel XLSX dosyası olarak paylaşın.
 
 ### Sürüm 1.2.0'da
-* [İşlem Şablonu](https://youtu.be/CtfJ5BecZfY): Muhasebeyi daha uygun hale getirmek için sık kullanılan işlem şablonlarını ayarlayın.
-* [JSON Format Kitaplarını Dışa ve İçe Aktarın](https://youtu.be/bHGEH7zcj78): Daha açık JSON formatını kullanarak kitapları dışa ve içe aktarın. Bu, verilerin sadece Daily Money One tarafından kilitlenmesini engellemekle kalmaz, aynı zamanda verilerinizin bir kısmını ailenizle paylaşmanıza olanak tanır.
-* [Daha Fazla Renk Teması](https://youtu.be/3Yw7m2AOvfc): Daha fazla renk teması sunarak, bugünkü ruh halinize uygun bir renk seçin.
+* [İşlem Şablonu](https://youtu.be/CtfJ5BecZfY): Sık kullanılan işlem şablonlarını ayarlayarak muhasebeyi daha kullanışlı hale getirin.
+* [JSON Biçimindeki Defterleri Dışa ve İçe Aktar](https://youtu.be/bHGEH7zcj78): Defterleri dışa ve içe aktarmak için daha açık JSON biçimini kullanın. Bu yalnızca verilerin Daily Money One'a daha az kilitli kalmasını sağlamakla kalmaz, aynı zamanda verilerinizin bir bölümünü ailenizle paylaşmanıza da olanak tanır.
+* [Daha Fazla Renk Teması](https://youtu.be/3Yw7m2AOvfc): Daha fazla renk teması sunar; bugün ruh halinize uyan rengi seçin.
 
 ### Sürüm 1.1.0'da
-* [Otomatik Veritabanı Yedekleme](https://youtube.com/shorts/dWePWDncx0k): Otomatik veritabanı yedekleme aralıklarını, saklanan yedekleme sayısını ve maksimum saklama günlerini yapılandırabilirsiniz.
-* [Yedeklemeden Sonra Google Drive'a Yükle](https://youtu.be/hOJdtKElLuw): Manuel veya otomatik yedeklemeden sonra, yedekleme dosyaları Google Drive'ınıza yüklenecektir.
+* [Otomatik Veritabanı Yedekleme](https://youtube.com/shorts/dWePWDncx0k): Otomatik veritabanı yedekleri için aralıkları, saklanacak yedek sayısını ve en fazla saklama gününü yapılandırabilirsiniz.
+* [Yedeklemeden Sonra Google Drive'a Yükleme](https://youtu.be/hOJdtKElLuw): Manuel veya otomatik yedeklemeden sonra yedek dosyaları Google Drive'ınıza yüklenir.
 * Daha fazla dil desteği: Bengalce, Almanca, Yunanca, İngilizce, İspanyolca, Macarca, İtalyanca, Japonca, Korece, Portekizce, Rusça, Tayca, Türkçe, Vietnamca, Geleneksel Çince, Basitleştirilmiş Çince.
 
 ### Nasıl Yapılır
- * [Bilanço Hızlı Görünümü](https://youtu.be/66tJxSrI_vQ): Nakit para, aylık giderler ve mevcut kredi kartı borcunu ana sayfada kolay erişim ve hızlı görüntüleme için görüntüleyebilirsiniz.
+ * [Bilanço Hızlı Görünümü](https://youtu.be/66tJxSrI_vQ)：Elde nakit, aylık giderler ve mevcut kredi kartı borcunu kolay erişim ve hızlı görüntüleme için ana sayfada gösterebilirsiniz.

@@ -1,1 +1,7 @@
-{}
+{
+    "noExpiredTransactionTemplate": "Süresi dolmuş işlem şablonu yok",
+    "message": {
+        "confirmScheduleBypass": "Sonraki zamanlamayı atlayıp yeniden düzenlemek istediğinizden emin misiniz?",
+        "confirmScheduleReset": "Geçerli zamanlamayı sıfırlamak istediğinizden emin misiniz?"
+    }
+}
