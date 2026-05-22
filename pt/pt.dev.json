@@ -1,1 +1,7 @@
-{}
+{
+    "noExpiredTransactionTemplate": "Sem modelos de movimento expirados",
+    "message": {
+        "confirmScheduleBypass": "Tem a certeza de que pretende ignorar e reorganizar a próxima agenda?",
+        "confirmScheduleReset": "Tem a certeza de que pretende repor a agenda atual?"
+    }
+}

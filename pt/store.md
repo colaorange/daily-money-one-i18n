@@ -2,53 +2,53 @@ App Name:
 Daily Money One
 
 Short description: 
-Rastreamento financeiro diário para indivíduos, famílias e pequenas empresas.
+Controlo financeiro diário para pessoas, famílias e pequenos negócios.
 
 Long description:
-【Daily Money One】 - Rastreamento Financeiro Simples, Poderoso e Confiável
+【Daily Money One】 - Contabilidade simples, poderosa e de confiança
 
-Derivado dos clássicos "Daily Money" e "Daily Money+", esta é uma obra-prima artesanal do autor original.
-Acreditamos que a contabilidade não deve ser um fardo, mas uma maneira de assumir o controle da sua vida.
-Este não é um aplicativo cheio de anúncios ou jogos que distraem; é um livro-razão puro projetado para "você que leva as finanças a sério".
+Derivado dos clássicos "Daily Money" e "Daily Money+", este é um trabalho artesanal criado pelo autor original.
+Acreditamos que a contabilidade não deve ser um peso, mas uma forma de ganhar controlo sobre a sua vida.
+Não é uma aplicação cheia de anúncios nem jogos distrativos; é uma aplicação de contabilidade limpa para quem leva as finanças a sério.
 
-Por que escolher o Daily Money One?
+Porquê escolher Daily Money One?
 
-✅ Puro e Eficiente, Sem Distrações
-Sem recursos sociais complexos, sem gamificação que distrai. Fornecemos a interface mais intuitiva, permitindo que você registre transações em segundos.
+✅ Puro e eficiente, sem distrações
+Sem funcionalidades sociais complexas e sem gamificação. Oferecemos uma interface intuitiva para registar movimentos em segundos.
 
-✅ Conceitos de Contabilidade Profissional Simplificados
-Mais do que apenas um registro de fluxo de caixa! Com uma estrutura simples de Ativos, Passivos, Receitas e Despesas, você pode entender facilmente seu status de "Patrimônio Líquido".
-- Contas Hierárquicas: Você conhece melhor sua estrutura financeira. Suporta níveis ilimitados de subcontas.
-- Gerenciamento de Múltiplos Livros: Mantenha despesas pessoais, familiares, comerciais ou de viagem completamente separadas. Um aplicativo lida com todos os cenários.
-- Transações Divididas Um-para-Muitos: Recibo de supermercado inclui comida, itens domésticos e eletrodomésticos? Sem problemas. Uma transação pode corresponder a vários itens de despesa, rastreando com precisão cada centavo.
+✅ Conceitos contabilísticos práticos, de forma simples
+Mais do que um registo de fluxo de caixa. Com uma estrutura simples de Ativos, Passivos, Rendimentos e Despesas, compreende facilmente o seu património líquido.
+- Contas hierárquicas: conhece melhor do que ninguém a sua estrutura financeira. Suporta subcontas sem limite de níveis.
+- Vários livros: mantenha despesas pessoais, familiares, profissionais ou de viagem totalmente separadas. Uma aplicação cobre todos os cenários.
+- Movimentos divididos um-para-muitos: o recibo do supermercado inclui comida, artigos domésticos e eletrodomésticos? Sem problema. Um movimento pode corresponder a várias despesas, acompanhando cada cêntimo.
 
-✅ Poderosa Análise de Dados e Controle de Orçamento
-- Relatórios em Tempo Real: Visualize Balanços Patrimoniais e Demonstrações de Resultados a qualquer momento. Seu status financeiro em um piscar de olhos.
-- Gerenciamento de Orçamento: Defina orçamentos mensais ou anuais com indicadores de progresso em tempo real para controlar efetivamente os gastos e evitar cheque especial.
-- Gráficos Diversos: Gráficos de tendências e gráficos de pizza para dias, semanas, meses e anos ajudam você a encontrar as principais oportunidades de economia.
+✅ Análise de dados e controlo de orçamento
+- Relatórios em tempo real: veja balanços e gráficos a qualquer momento. A sua situação financeira num relance.
+- Orçamentos: defina orçamentos mensais ou anuais com progresso em tempo real para controlar gastos e evitar derrapagens.
+- Gráficos variados: gráficos de tendência e circulares por dia, semana, mês e ano ajudam-no a encontrar oportunidades de poupança.
 
-✅ Recursos Exclusivos
-- Modo Servidor PC: Tela do telefone muito pequena? Um clique para ativar o Modo Servidor. Visualize e analise todos os dados no navegador do seu computador. A contabilidade pode ser profissional!
-- Modelos Inteligentes e Transações Recorrentes: Automatize aluguel, salário e assinaturas. Configure uma vez e o sistema o lembrará de registrar.
-- Exportação Excel (XLSX): Precisa de uma análise mais profunda? Exporte transações e relatórios para o formato Excel. Seus dados, suas regras.
+✅ Funcionalidades exclusivas
+- Modo de servidor: o ecrã do telemóvel é pequeno? Ative o modo de servidor com um toque e veja os dados no navegador do computador. A contabilidade também pode ser profissional.
+- Modelos e agendas recorrentes: automatize renda, salário e subscrições. Configure uma vez e o sistema lembra-o de registar.
+- Exportação Excel (XLSX): precisa de análise mais profunda? Exporte movimentos e relatórios para Excel. Os seus dados, as suas regras.
 
-✅ Seus Dados, Completamente Seus
-- Formato Aberto: Suporta backup em formato JSON aberto. Sem medo de ficar preso a um único software.
-- Backup Duplo: Suporta backup em armazenamento local e Google Drive. Seus dados estão seguros.
-- Proteção de Privacidade: Bloqueio de senha integrado para proteger sua privacidade financeira.
+✅ Os seus dados são mesmo seus
+- Formato aberto: suporta cópias de segurança em JSON aberto. Sem medo de ficar preso a um único software.
+- Cópia de segurança dupla: suporta armazenamento local e Google Drive. Os seus dados ficam protegidos.
+- Privacidade: bloqueio por palavra-passe para proteger a sua informação financeira.
 
-Mais Detalhes Atenciosos:
-- Temas Personalizados: Modo Escuro e vários temas de cores para mudar como quiser.
-- Migração de Dados: Suporte total para importação de arquivos de exportação CSV "Daily Money+". Nenhuma barreira para usuários que retornam.
-- Completamente Gratuito: Desenvolvido para resolver as próprias necessidades do autor, é gratuito para todos usarem.
+Mais detalhes úteis:
+- Temas personalizados: modo escuro e vários temas de cor.
+- Migração de dados: suporte completo para importar CSV do "Daily Money+". Sem barreiras para utilizadores antigos.
+- Totalmente gratuito: criado para resolver as necessidades do próprio autor, é gratuito para todos.
 
-Assista ao vídeo de introdução aqui:
+Veja o vídeo de apresentação:
 https://youtu.be/f0Go7GgXgCk
 
-[Nota do Autor]
-Este software decorre da paixão do autor por codificação e persistência na contabilidade. Apesar de um período de incapacidade de mantê-lo desde 2011, decidi reconstruí-lo para preservar anos de dados.
-Se você gosta desta ferramenta de contabilidade pura, por favor, nos dê uma avaliação de 5 estrelas. Esta é a maior motivação para continuarmos a manutenção e desenvolvermos novos recursos!
+[Nota do autor]
+Este software nasce da paixão do autor por programação e da sua persistência na contabilidade. Depois de um período sem conseguir mantê-lo desde 2011, decidi reconstruí-lo para preservar anos de dados.
+Se gosta desta ferramenta de contabilidade simples, dê-nos uma classificação de 5 estrelas. É a maior motivação para continuarmos a manter e desenvolver novas funcionalidades.
 
 Perguntas ou sugestões?
-Visite nossa página no Facebook. Valorizamos o feedback de cada usuário.
+Visite a nossa página do Facebook. Valorizamos o feedback de cada utilizador.
 https://www.facebook.com/colaorange.daily.money/

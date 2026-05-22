@@ -1,90 +1,90 @@
 
-[`Ver vídeo de introdução no YouTube`](https://youtu.be/uN3GkA_Afuw)
+[`Ver vídeo de apresentação no YouTube`](https://youtu.be/uN3GkA_Afuw)
+[`Documento online`](https://colaorange.gitbook.io/daily-money-one-doc/eng)
 
 ## Conceitos
 
 Os principais conceitos do Daily Money são muito simples, há apenas três:
 
-> 1. Um ou muitos `Livros`
-> 2. Várias `Contas` dentro dos Livros
-> 3. Transferência de valores entre diferentes contas e registro dessas `Transações`
+> 1. Um ou vários `Livros`
+> 2. Várias `Contas` dentro dos livros
+> 3. Transferir montantes entre contas diferentes e registar estes `Movimentos`
 
 ## ![Livros](icon:///notebook-multiple) Livros
 
-É necessário pelo menos um Livro, com contas que tenham a mesma unidade monetária. Você também pode criar vários Livros com a mesma unidade monetária conforme suas necessidades.
+É necessário pelo menos um livro, com contas que usam a mesma unidade monetária. Também pode criar vários livros com a mesma unidade monetária, conforme as suas necessidades.
 
 ## ![Contas](icon:///bookmark-multiple) Contas
 
-Existem cinco diferentes tipos de contas, que você pode adicionar, editar ou excluir na tela de gerenciamento de contas.
+Existem cinco tipos diferentes de contas, que pode adicionar, editar ou eliminar no ecrã de gestão de contas.
 
-> - `Receita`: Salário, etc.
-> - `Despesa`: Alimentação, entretenimento, etc.
-> - `Ativo`: Dinheiro, banco, etc.
-> - `Passivo`: Cartões de crédito, empréstimos, etc.
-> - `Outros`: ...
+> - `Rendimento`: salário, etc.
+> - `Despesa`: comida, entretenimento, etc.
+> - `Ativo`: dinheiro, banco, etc.
+> - `Passivo`: cartões de crédito, empréstimos, etc.
+> - `Outro`: ...
 
-* Nomes de contas podem usar pontos (.) para separar (ex., Alimentação.Jantar, Alimentação.Reunião), proporcionando uma melhor exibição hierárquica ao selecionar contas ou visualizar balanços.
-* Você pode classificar contas para priorizar as contas mais frequentemente usadas.
+* Os nomes das contas podem usar pontos (.) para separar níveis (por exemplo, Comida.Restaurante, Comida.Encontro), oferecendo uma apresentação hierárquica melhor ao selecionar contas ou ver balanços.
+* Pode ordenar as contas para dar prioridade às contas usadas com mais frequência.
 
-## ![Transações](icon:///receipt) Transações 
+## ![Movimentos](icon:///receipt) Movimentos 
 
-Quando há uma transação entre contas, como gastar, sacar, depositar ou usar um cartão de crédito (ex., você gastou 320 reais em uma refeição), use `Nova Transação` para criar uma nova transação.
-> - Selecionar `Hora`: Data e hora da transação.
-> - Selecionar `Retirada`: Dinheiro
-> - Selecionar `Depósito`: Jantar
-> - Inserir `Valor`: 320
-> - Inserir `Nota`: Reunião com amigos
-> - Clicar em `Criar`
+Quando há um movimento entre contas, como uma despesa, uma transferência de dinheiro entre contas ou uma compra com cartão de crédito (por exemplo, gastou 320 euros numa refeição), use `Novo movimento` para criar um novo movimento.
+> - Selecione `Data e hora`: data e hora do movimento.
+> - Selecione `Origem`: Dinheiro
+> - Selecione `Destino`: Restaurante
+> - Introduza `Montante`: 320
+> - Introduza `Nota`: Encontro com amigos
+> - Toque em `Criar`
 
 ## Exemplos
 
-### Transferência de Salário para Banco
+### Transferência de salário para o banco
 
-> Retirada `Receita`: Salário
-> Depósito `Ativo`: Banco
+> Conta de `Rendimento` de origem: Salário
+> Conta de `Ativo` de destino: Banco
 
-### Sacar Dinheiro do Banco
+### Levantar dinheiro do banco
 
-> Retirada `Ativo`: Banco
-> Depósito `Ativo`: Dinheiro
+> Conta de `Ativo` de origem: Banco
+> Conta de `Ativo` de destino: Dinheiro
 
-### Comprar um Telefone com Cartão de Crédito
+### Comprar um telemóvel com cartão de crédito
 
-> Retirada `Passivo`: Cartão de Crédito
-> Depósito `Despesa`: Eletrônicos
+> Conta de `Passivo` de origem: Cartão de crédito
+> Conta de `Despesa` de destino: Eletrónica
 
-### Pagar Fatura do Cartão de Crédito com Banco
+### Pagar a fatura do cartão de crédito com o banco
 
-> Retirada `Ativo`: Banco 
-> Depósito `Passivo`: Cartão de Crédito
+> Conta de `Ativo` de origem: Banco 
+> Conta de `Passivo` de destino: Cartão de crédito
 
-## ![Balanço Patrimonial](icon:///scale-balance)![Gráfico de Balanço](icon:///chart-pie) Balanço Patrimonial e Gráfico
+## ![Balanço](icon:///scale-balance)![Gráfico de saldo](icon:///chart-pie) Balanço e gráfico
 
-Através de uma contabilidade diligente, o aplicativo ajudará a registrar todos os detalhes das transações e gerar um balanço de acordo com as condições de consulta. Este balanço apresenta claramente o saldo de ativos e passivos em diferentes períodos, permitindo que você entenda melhor sua situação financeira. Além disso, o aplicativo pode gerar vários gráficos para representar visualmente suas receitas e despesas, facilitando a compreensão do fluxo financeiro.
+Com uma contabilidade cuidada, a aplicação ajuda-o a registar todos os detalhes dos movimentos e a gerar um balanço de acordo com as condições de pesquisa. Este balanço apresenta claramente o saldo de ativos e passivos em diferentes períodos, permitindo compreender melhor a sua situação financeira. Além disso, a aplicação pode gerar vários gráficos para representar visualmente rendimentos e despesas, tornando mais fácil compreender o seu fluxo financeiro.
 
-## Valores Iniciais das Contas
+## Saldos iniciais das contas
 
-Quando você usa o aplicativo pela primeira vez, pode já ter algumas contas com valores reais, como depósitos bancários, dinheiro em mãos ou dívidas de cartões de crédito. Para garantir que o balanço forneça resultados de cálculo mais precisos, você pode usar a função de inicialização de contas para estabelecer os valores iniciais corretos dessas contas. Dessa forma, o balanço refletirá a verdadeira situação financeira.
+Quando usa a aplicação pela primeira vez, pode já ter algumas contas atuais com valores reais, como depósitos bancários, dinheiro em mãos ou dívidas de cartão de crédito. Para garantir que o balanço apresenta cálculos mais exatos, pode usar a função de inicialização de contas para definir os saldos iniciais corretos. Desta forma, o balanço reflete a situação financeira real.
 
-## Divisão de Um-para-Muitos
+## Divisão um-para-muitos (avançado)
 
-Às vezes, uma única despesa pode envolver várias categorias de gasto. Por exemplo, ao fazer compras em um supermercado, você pode comprar alimentos, itens de necessidade diária e produtos eletrônicos de uma vez. Para lidar com essa situação, o aplicativo oferece uma edição avançada de criação de transações, permitindo que uma única despesa seja alocada a várias categorias diferentes de gasto. Em outras palavras, você pode alocar o valor de uma única despesa de cartão de crédito para várias categorias, como alimentos, itens de necessidade diária e produtos eletrônicos. Nota: Nas transações dentro do mesmo livro, como as unidades monetárias são iguais, o valor total transferido de saída deve ser igual ao valor total transferido de entrada, caso contrário, o programa rejeitará a criação da transação.
+Por vezes, uma única despesa pode envolver várias categorias. Por exemplo, ao fazer compras no supermercado, pode comprar comida, bens domésticos e produtos eletrónicos de uma só vez. Para lidar com esta situação, a aplicação oferece criação e edição avançada de movimentos, permitindo distribuir uma única despesa por várias categorias de despesa. Por outras palavras, pode distribuir o montante de uma compra com cartão de crédito por categorias como comida, bens domésticos e produtos eletrónicos. Atenção: em movimentos dentro do mesmo livro, como a unidade monetária é a mesma, o total transferido da origem tem de ser igual ao total transferido para o destino; caso contrário, o programa recusará a criação do movimento.
 
-## Transferência entre Livros Contábeis
+## Transferência entre livros
 
-O programa permite transferências entre contas em diferentes livros. Tanto na edição básica quanto na avançada de criação de transações, você pode selecionar contas de outros livros ao selecionar contas. Como os valores das moedas entre diferentes livros podem diferir e a taxa de câmbio não é fixa no momento, como transferir de Reais para Dólares Americanos, o programa não limitará você a criar uma transação onde o valor total transferido de saída deve ser igual ao valor total transferido de entrada. Por favor, crie transações com base nos valores reais ao criar e seja cuidadoso.
+O programa permite transferências entre contas de livros diferentes. Tanto no ecrã básico como no avançado de criação ou edição de movimentos, pode selecionar contas de outros livros. Como os valores monetários entre livros diferentes podem variar e a taxa de câmbio não é fixa no momento, por exemplo ao transferir de dólares taiwaneses para dólares americanos, o programa não limita a criação de movimentos em que o total transferido da origem tenha de ser igual ao total transferido para o destino. Crie os movimentos com base nos montantes reais e com atenção.
 
-## Visualização Rápida do Balanço e Gráficos
+## Vista rápida de balanço e gráficos
 
-Ao navegar pelo balanço ou gráficos, você pode adicionar itens de conta específicos à visualização rápida na tela inicial [*1]. Basta deslizar para a direita no item no balanço e clicar em `Adicionar à Visualização Rápida`, ou clicar no "Ícone de Adicionar à Visualização Rápida" no canto superior direito do cartão do gráfico de balanço. Em seguida, na tela inicial, você verá o saldo de ativos e passivos para aquele item, ou poderá visualizá-lo na página de gráficos da tela inicial. Além disso, você pode classificar ou remover esses itens em `Preferências > Tela Inicial`.
+Ao consultar o balanço ou os gráficos, pode adicionar contas específicas à Vista rápida no ecrã inicial [*1]. Basta deslizar para a direita no item do balanço e tocar em `Adicionar à Vista rápida`, ou tocar no ícone "Adicionar à Vista rápida" no canto superior direito do cartão do gráfico de saldo. Depois, no ecrã inicial, verá o saldo de ativos e passivos desse item, ou poderá vê-lo na página de gráficos do ecrã inicial. Além disso, pode ordenar ou remover estes itens em `Preferências > Ecrã inicial`.
 
-[*1] Vistas rápidas excessivas na tela inicial podem afetar o tempo de carregamento da tela inicial.
+[*1] Um número excessivo de itens de Vista rápida no ecrã inicial pode afetar o tempo de carregamento do ecrã inicial.
 
-## Modelos de Transação e Agendamento Recorrente
+## Modelos e agendamento recorrente
 
-Você pode configurar modelos de transação para ações contábeis comuns, permitindo que você adicione transações rapidamente. Também é possível configurar modelos de agendamento recorrente para ações contábeis que ocorrem regularmente. O programa notificará quando for devido, permitindo que você adicione rapidamente a transação e a agende automaticamente para a próxima data de vencimento. Basta deslizar para a esquerda no item na lista de transações, tocar em `Novo Modelo` e inserir o horário de agendamento, depois criar. Além disso, você pode classificar, editar ou remover esses itens na página `Modelo`.
+Pode configurar modelos de movimento para ações contabilísticas comuns, permitindo adicionar movimentos rapidamente. Também pode configurar modelos com agenda recorrente para ações contabilísticas que se repetem regularmente. O programa irá notificá-lo quando chegarem à data, permitindo adicionar rapidamente o movimento e agendá-lo automaticamente para a próxima data. Basta deslizar para a esquerda no item da lista de movimentos, tocar em `Novo modelo`, introduzir a hora do agendamento e criá-lo. Além disso, pode ordenar, editar ou remover estes itens na página `Modelos`.
 
-## Configurações de Orçamento
+## Definições de orçamento
 
-Ao navegar pelo balanço patrimonial, basta deslizar para a direita em um item de conta, clicar em `Criar Orçamento` e selecionar o modo. Uma vez criado, você pode visualizar o progresso do orçamento no balanço patrimonial ou na visualização rápida na Tela Inicial. Além disso, você pode classificar, editar ou remover esses itens na página `Orçamento`.
-
+Ao consultar o balanço, basta deslizar para a direita numa conta, tocar em `Criar orçamento` e selecionar o modo. Depois de criado, pode ver o progresso do orçamento no balanço ou na Vista rápida do ecrã inicial. Além disso, pode ordenar, editar ou remover estes itens na página `Orçamentos`.

@@ -2,48 +2,48 @@
 ## Origem
 ![Daily Money](asset:///img/dmx480.png?height=200) 
 
-`Daily Money` é um software de contabilidade para smartphones Android de código aberto, gratuito e sem anúncios, originário de 2011. Passou por uma reformulação em 2018, renomeado como `Daily Money+`, para se alinhar com o novo sistema Android da época, mantendo os princípios de ser gratuito e sem anúncios.
+`Daily Money` é uma aplicação de contabilidade para smartphones Android, de código aberto, gratuita e sem anúncios, criada em 2011. Em 2018 foi renovada e passou a chamar-se `Daily Money+`, para acompanhar o sistema Android da época, mantendo os princípios de ser gratuita e sem anúncios.
 
-Da versão inicial em 2011 até a versão reformulada em 2018, o software foi desenvolvido durante o tempo livre do autor, enquanto mudava de emprego. Devido ao tempo, restrições de recursos e condições de saúde, não foi investido esforço suficiente na manutenção subsequente do programa ou na gestão da comunidade. Eventualmente, devido ao trabalho em tempo integral do autor, o software foi completamente ignorado.
+Desde a versão inicial de 2011 até à renovação de 2018, a aplicação foi desenvolvida pelo autor nos tempos livres, durante mudanças de emprego. Devido a limitações de tempo, recursos e saúde, não foi possível dedicar esforço suficiente à manutenção posterior do programa nem à gestão da comunidade. Com o tempo, por causa do trabalho a tempo inteiro do autor, a aplicação acabou por ficar completamente esquecida.
 
-Embora o autor não tenha dedicado muito tempo à manutenção do software e da comunidade, o autor ainda usa o software desenvolvido por ele mesmo para contabilidade todos os dias. No entanto, com o passar do tempo, o software gradualmente fica para trás nas atualizações do sistema, e alguns recursos não podem ser executados nos novos smartphones. O autor começou a se preocupar que um dia o software deixasse de funcionar e os dez anos de registros fossem perdidos.
+Embora o autor não tenha dedicado muito tempo à manutenção da aplicação e da comunidade, continua a usar todos os dias a aplicação que criou para fazer a sua contabilidade. No entanto, com o passar do tempo, a aplicação foi ficando para trás face às atualizações do sistema, e algumas funcionalidades deixaram de funcionar em smartphones novos. O autor começou a preocupar-se com a possibilidade de, um dia, a aplicação deixar de funcionar e se perderem dez anos de registos.
 
-## Crise como Oportunidade
+## Crise como oportunidade
 
-Em resumo, o autor foi demitido pela empresa no final de 2023.
+Em poucas palavras, o autor foi despedido pela empresa no final de 2023.
 
-Enfrentar a situação em que todo o departamento foi demitido, independentemente do desempenho ou capacidade, deixou o autor extremamente desanimado. Após meses de silêncio e estando na meia-idade sem conexões, encontrar um bom emprego não foi fácil. Perceber que focar no desenvolvimento de programação própria para servir diretamente aos usuários pode ser uma escolha mais significativa do que trabalhar duro para os outros.
+Enfrentar uma situação em que todo o departamento foi despedido, independentemente do desempenho ou da capacidade, deixou o autor profundamente desanimado. Depois de meses em silêncio e já na meia-idade, sem contactos, encontrar um bom emprego não foi fácil. Percebeu então que concentrar-se no desenvolvimento independente de software, servindo diretamente os utilizadores, poderia ser uma escolha mais significativa do que trabalhar arduamente para outros.
 
-Portanto, o autor retornou e decidiu focar na gestão de seu estúdio de desenvolvimento de software independente. O primeiro produto, é claro, é restaurar o "Daily Money", que o autor usa há mais de uma década. Afinal, ainda existem muitos usuários que o utilizam desde a primeira versão, e o autor é grato pelo apoio.
+Por isso, o autor regressou e decidiu concentrar-se no seu estúdio independente de desenvolvimento de software. O primeiro produto, naturalmente, é recuperar o "Daily Money", que o autor usa há mais de dez anos. Afinal, ainda há muitos utilizadores que o usam desde a primeira versão, e o autor agradece esse apoio.
 
 ## Daily Money One
 
-`Daily Money One` é um aplicativo de contabilidade fácil de usar, baseado em conceitos simples de contabilidade. Possui uma interface de usuário simples, sem designs extravagantes e sem conteúdo gamificado, projetado exclusivamente para que os usuários se concentrem na contabilidade facilmente. Além de ser adequado para contabilidade pessoal e doméstica, também é adequado para as necessidades contábeis de pequenas empresas. No futuro, introduziremos mais recursos adaptados às necessidades contábeis de famílias e pequenas empresas para fornecer serviços mais abrangentes.
+`Daily Money One` é uma aplicação de contabilidade fácil de usar, baseada em conceitos contabilísticos simples. Tem uma interface simples, sem designs vistosos e sem conteúdo gamificado, criada apenas para ajudar os utilizadores a concentrarem-se facilmente na contabilidade. Além de ser adequada para contabilidade pessoal e familiar, também serve as necessidades contabilísticas de pequenas empresas. No futuro, iremos introduzir mais funcionalidades adaptadas às necessidades de famílias e pequenas empresas, para oferecer um serviço mais completo.
 
-`Sobre Anúncios`: Para garantir que os dois gatos do autor tenham comida e o autor tenha café para beber, e para garantir a manutenção e operação contínua deste programa, anúncios foram adicionados. Atualmente, existem dois níveis de configurações de anúncios disponíveis para os usuários ajustarem, e ajustes também serão feitos com base no número de usuários no futuro. O ponto de partida do autor ainda é garantir que os anúncios não afetem a experiência do usuário. Você pode ajustar as configurações de anúncios indo em "Preferências > Configurações de Anúncios" (Preferences > Advertisement Settings) após a instalação.
+`Sobre os anúncios`: Para garantir que os dois gatos do autor têm comida, que o autor tem café para beber, e que este programa continua a ser mantido e operado, foram adicionados anúncios. Atualmente existem dois níveis de definições de anúncios que os utilizadores podem ajustar, e esses ajustes também serão feitos no futuro de acordo com o número de utilizadores. O ponto de partida do autor continua a ser garantir que os anúncios não afetam a experiência de utilização. Pode ajustar as definições de anúncios em "Preferências > Anúncios" depois da instalação.
 
-Recursos Atuais:
-- Registrar despesas diárias, receitas, ativos e passivos.
-- Realizar balanço para várias contas e qualquer período.
+Funcionalidades atuais:
+- Registar despesas diárias, rendimentos, ativos e passivos.
+- Ver balanços de várias contas e de qualquer período.
 - Suporte para vários livros.
-- Criar várias contas personalizadas, contas hierárquicas.
-- Dividir transações de um para muitos entre contas.
-- Transferir transações entre livros.
-- Modelos de transação, agendamento recorrente e lembretes.
-- Orçamentos periódicos e exibição da taxa de execução orçamentária.
-- Fornecer vários tipos e gráficos periódicos.
-- Backup do banco de dados para dispositivos móveis e nuvem, e restauração de dispositivos móveis.
-- Backup no formato JSON público para dispositivos móveis e restauração de dispositivos móveis.
-- Proteção por senha.
-- Exportar transações e balanços para XLSX.
-- Importar arquivos de exportação CSV do "Daily Money+".
-- Sem limites de uso, completamente gratuito.
-- Mais recursos em desenvolvimento...
+- Criar várias contas personalizadas e contas hierárquicas.
+- Dividir movimentos um-para-muitos entre contas.
+- Transferir movimentos entre livros.
+- Modelos de movimento, agendamento recorrente e lembretes.
+- Orçamentos periódicos e apresentação da taxa de execução do orçamento.
+- Disponibilizar vários tipos de gráficos e gráficos por período.
+- Fazer cópia de segurança da base de dados no telemóvel e na nuvem, e restaurar a partir do telemóvel.
+- Fazer cópia de segurança em formato JSON público no telemóvel e restaurar a partir do telemóvel.
+- Proteção por palavra-passe.
+- Exportar movimentos e balanços para XLSX.
+- Importar ficheiros CSV exportados do "Daily Money+".
+- Sem limites de utilização, completamente gratuito.
+- Mais funcionalidades em desenvolvimento...
 
 [`Como usar.`](https://youtu.be/uN3GkA_Afuw)
 
-[`Importar Daily Money+ CSV.`](https://youtu.be/IkZsiJ5TAyw)
+[`Importar CSV do Daily Money+.`](https://youtu.be/IkZsiJ5TAyw)
 
-Se você gosta deste programa, lembre-se de dar uma estrela para aumentar sua popularidade.
+Se gostar deste programa, lembre-se de lhe dar uma estrela para aumentar a sua popularidade.
 - [`Leve-me para dar estrelas.`](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone)
-- [`Junte-se à página de fãs no Facebook.`](https://www.facebook.com/colaorange.daily.money/) (Faça perguntas aqui em vez de na Play Store)
+- [`Junte-se à página de fãs no Facebook.`](https://www.facebook.com/colaorange.daily.money/) (Faça perguntas aqui em vez de as fazer na Play Store)
