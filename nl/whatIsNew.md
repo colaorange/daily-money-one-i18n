@@ -1,63 +1,69 @@
-Heeft `Daily Money One` je geholpen?  Neem een moment om het te beoordelen met ★★★★★ op de [Google Store](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone). Jouw beoordeling helpt meer mensen het te ontdekken en te gebruiken, waardoor de auteur meer tijd en middelen krijgt om het verder te verbeteren en te onderhouden.
+Heeft `Daily Money One` je geholpen? Neem even de tijd om de app te beoordelen in de [Google Store](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone). Je beoordeling helpt meer mensen de app te ontdekken en te gebruiken, en geeft de auteur meer tijd en middelen om de app te blijven verbeteren en onderhouden.
 
-Heb je vragen of functieverzoeken? Word lid van de [Facebook-fangroep](https://www.facebook.com/colaorange.daily.money) om op de hoogte te blijven van de nieuwste ontwikkelingen, of stuur een bericht naar de auteur om vragen te stellen en verzoeken in te dienen.
+Heb je vragen of functieverzoeken? Word lid van de [Facebook-fangroep](https://www.facebook.com/colaorange.daily.money) om de nieuwste ontwikkelingsupdates te ontvangen, of stuur de auteur een bericht met je vragen en verzoeken.
 
-## Wat is er nieuw
+## Wat is nieuw
+
+### In versie 1.11.0
+Deze release bevat functie-updates:
+* Als een knopicoon een schaduw heeft, betekent dit dat lang indrukken extra gerelateerde functies toont.
+* Een snelkoppeling op het startscherm toegevoegd voor transactiesjablonen, met verbeteringen voor het snel opnieuw plannen van sjablonen.
+* De vertalingen voor alle talen opnieuw afgestemd met de nieuwste AI-modellen.
 
 ### In versie 1.10.0
 Deze release bevat functie-updates:
-* Markeer de balans op het startscherm om uw maandelijkse uitgaven in één oogopslag duidelijk zichtbaar te maken.
-* Ondersteuning voor terugkerende budgetinstellingen, waardoor het gemakkelijker is om uw resterende saldo voor de huidige maand bij te houden.
+* Het balansoverzicht op het Startscherm uitgelicht, zodat je maandelijkse uitgaven in een oogopslag zichtbaar zijn.
+* Ondersteuning voor terugkerende budgetinstellingen, zodat je makkelijker het resterende saldo voor de huidige maand volgt.
 
-### In versie 1.9.0  
-Deze release bevat functie-updates op basis van gebruikerswensen en het beleid van Google:
-* Google API-doel bijgewerkt naar niveau 35  
-* Je kunt nu de eerste dag van de maand en het jaar instellen voor periodenlijsten, saldi en grafieken  
-* Het saldosamenvatting verschijnt nu direct in je zoekresultaten  
-* De Google Drive-uploadfunctie is herschreven: bestanden worden nu eerst lokaal opgeslagen en alleen geüpload wanneer er netwerk beschikbaar is.
+### In versie 1.9.0
+Deze release bevat functie-updates op basis van gebruikerswensen en Google-beleid:
+* Google API-target bijgewerkt naar niveau 35.
+* Je kunt nu de eerste dag van de maand en het jaar instellen voor periodelijsten, saldi en diagrammen.
+* Het saldo-overzicht verschijnt nu direct in je zoekresultaten.
+* De Google Drive-uploadfunctie is herschreven: bestanden worden nu eerst lokaal opgeslagen en alleen geupload wanneer het netwerk beschikbaar is.
 
-### In versie 1.8.0  
+### In versie 1.8.0
 Deze release bevat ook functie-updates op basis van gebruikerswensen:
-* **Verbeterde Notities**: Ondersteunt notities met meerdere regels en regelafbrekingen en voegt een wis-knop toe in het invoerveld.
-* **Verbeterde Accountzoekopties**: Voegt voorwaarden toe voor zowel overboekingen uit als overboekingen in bij de transactiezoekfunctie.
-* **Omgekeerd Initieel Bedrag Toestaan**: Wanneer uw initiële bedrag negatief is, kunt u de richting van het initiële bedrag van de tegenrekening instellen.
-* **Nederlandse taalondersteuning toegevoegd**
+* **Verbeterde notities**: ondersteunt notities met meerdere regels en voegt een wisknop toe in het invoerveld.
+* **Verbeterde zoekopties voor rekeningen**: voegt voorwaarden toe voor zowel bron- als bestemmingsrekeningen in transacties zoeken.
+* **Omgekeerd initieel bedrag toestaan**: wanneer je initiele bedrag negatief is, kun je de richting van het initiele bedrag van de omgekeerde rekening instellen.
+* **Nederlandse taalondersteuning toegevoegd**.
 
-### In versie 1.7.0  
-Deze release bevat functie-updates op basis van gebruikerswensen:  
-* **Selectie vereist voor vegen**: Wanneer ingeschakeld, moeten items worden geselecteerd voordat veegacties kunnen worden uitgevoerd. Dit voorkomt per ongeluk vegen en verbetert de weergaveprestaties aanzienlijk, hoewel een extra selectiestap nodig is. (Voorkeuren > Functie-instellingen)  
-* **Standaard notitie openen**: Wanneer ingeschakeld, wordt de transactienotitie in de transactielijst standaard geopend. (Voorkeuren > Weergave-instellingen > Instellingen transactielijst)  
-* **Opties voor achtergrondkleur transacties**: Je kunt nu de achtergrondkleur van transacties in de transactielijst wijzigen. Beschikbare opties zijn standaard (thema-achtergrondkleur), Uitgaande rekening en Inkomende rekening. (Voorkeuren > Weergave-instellingen > Instellingen transactielijst)  
-* **Verbeterde geavanceerde modus bewerking voor transacties**: In de geavanceerde bewerkingsmodus kun je nu overdrachten herschikken en overdrachten in elke volgorde verwijderen. Voorheen kon alleen de laatste overdracht worden verwijderd en herschikken was niet mogelijk.  
-* **Homescreen snelkoppeling-instellingen**: De volgende snelkoppelingsopties zijn toegevoegd: Maandeinde transacties, Maandeinde balansoverzicht, Maandeinde balansgrafiek.  
+### In versie 1.7.0
+Deze release bevat functie-updates op basis van gebruikerswensen:
+* **Selectie vereist voor vegen**: wanneer ingeschakeld, moeten items geselecteerd worden voordat veegacties mogelijk zijn. Dit voorkomt per ongeluk vegen en verbetert de renderprestaties aanzienlijk, maar vereist een extra selectiestap. (Voorkeuren > Functie-instellingen)
+* **Notitie standaard geopend**: wanneer ingeschakeld, wordt de transactienotitie in de transactielijst standaard geopend. (Voorkeuren > Weergave-instellingen > Transactielijstinstellingen)
+* **Achtergrondkleuropties voor transacties**: je kunt nu de achtergrondkleur van transacties in de transactielijst wijzigen. Beschikbare opties zijn Standaard (thema-achtergrondkleur), Bronrekening en Bestemmingsrekening. (Voorkeuren > Weergave-instellingen > Transactielijstinstellingen)
+* **Verbeterde bewerking in geavanceerde transactiemodus**: in geavanceerde bewerkingsmodus kun je nu elke overboeking herschikken en in elke volgorde verwijderen. Voorheen kon alleen de laatste overboeking worden verwijderd en was herschikken niet mogelijk.
+* **Snelkoppelingen voor Startscherm**: opties toegevoegd voor Maandeindtransacties, Maandeindbalansoverzicht en Maandeindbalansdiagram.
 
-### In versie 1.6.0  
-* [Bekijk je grafieken op je computer](https://youtu.be/Ag8cqg9gzi0): Biedt servermodus. Nadat deze modus is ingeschakeld, kun je met een computerbrowser binnen hetzelfde LAN verbinding maken met je telefoon om meer gedetailleerde grafieken te bekijken.
+### In versie 1.6.0
+* [Bekijk je diagrammen op je computer](https://youtu.be/Ag8cqg9gzi0): biedt servermodus. Na inschakelen kun je via een computerbrowser binnen hetzelfde LAN verbinding maken met je telefoon en gedetailleerdere diagrammen bekijken.
 
-### In versie 1.5.0  
-* [Instellen van de lay-out voor de transactielijst](https://youtu.be/TzQj2pY6sWs): Je kunt instellen dat transacties prioriteit geven aan eerst stortingen of eerst opnames (standaard, als uitgeschakeld). Je kunt ook kiezen of de notitie boven of onder de details moet worden geplaatst (standaard, als uitgeschakeld).  
-* [Verberg oude accounts die niet meer nodig zijn](https://youtu.be/nKq7Mh_2nQA): Heb je veel oude accounts in je lijst die niet meer in gebruik zijn? Gebruik de verbergfunctie om te voorkomen dat ze je selectie en bewerkingen verstoren.  
-* Het balansoverzicht ondersteunt vaste decimalen, waarbij nullen niet worden weggelaten, wat de uitlijning en vergelijking gemakkelijker maakt.  
+### In versie 1.5.0
+* [Indeling voor de transactielijst instellen](https://youtu.be/TzQj2pY6sWs): je kunt instellen dat transacties eerst bestemmingen of eerst bronnen tonen, en kiezen of de notitie boven of onder de details staat.
+* [Oude rekeningen verbergen die niet meer nodig zijn](https://youtu.be/nKq7Mh_2nQA): heb je veel oude rekeningen in je lijst die niet meer gebruikt worden? Gebruik verbergen zodat ze selectie en bediening niet rommelig maken.
+* Het balansoverzicht ondersteunt vaste decimalen; afsluitende nullen worden niet weggelaten, wat uitlijnen en vergelijken makkelijker maakt.
 
-### In versie 1.4.0  
-* [Sjabloon voor terugkerende geplande transacties](https://youtu.be/TzQj2pY6sWs): Naast het handig bijhouden van je uitgaven, bevat dit sjabloon functies voor terugkerende schema's en herinneringen. Handig voor automatische creditcardbetalingen of jaarlijkse kosten.  
-* [Beveilig je kasboek met een wachtwoord](https://youtu.be/peoYqNG_4pk): Ben je bang dat anderen in je kasboek kijken? Met de nieuwe wachtwoordfunctie ingeschakeld, wordt je kasboek beveiligd met een wachtwoord wanneer het wordt geopend. Je kunt ook instellen hoe vaak het wachtwoord moet worden ingevoerd.  
-* Sorteer balansaccounts: Stel de volgorde in via `Voorkeuren > Weergave-instellingen > Volgorde van balansaccounttypen`.  
+### In versie 1.4.0
+* [Sjabloon voor terugkerende geplande transacties](https://youtu.be/TzQj2pY6sWs): naast handig uitgaven bijhouden bevat dit sjabloon functies voor terugkerende planningen en herinneringen. Praktisch voor automatische creditcardbetalingen of jaarlijkse kosten.
+* [Bescherm je boek met een wachtwoord](https://youtu.be/peoYqNG_4pk): bang dat anderen in je boek kijken? Met de nieuwe wachtwoordfunctie wordt je boek bij openen beschermd met een wachtwoord. Je kunt ook instellen hoe vaak het wachtwoord nodig is.
+* Balansrekeningen sorteren: stel de volgorde in via `Voorkeuren > Weergave-instellingen > Volgorde van balansrekeningtypen`.
 
-### In versie 1.3.0  
-* [Aanpasbare transactielijsten en balansinterval](https://youtu.be/O7EcLN82qIU): Naast snelle opties voor vaste intervallen, kun je nu intervallen aanpassen om transactielijsten, balansoverzichten en grafieken te genereren.  
-* [Deel transactielijsten als XLSX](https://youtu.be/Bf7j39fsCSc): Deel transacties voor elk interval als Excel XLSX-bestanden.  
-* [Deel balansoverzichten als XLSX](https://youtu.be/kpxJxNsButA): Deel balansoverzichten voor elk interval als Excel XLSX-bestanden.  
+### In versie 1.3.0
+* [Aanpasbare transactielijsten en intervallen voor balansoverzicht](https://youtu.be/O7EcLN82qIU): naast snelle opties voor vaste intervallen kun je nu aangepaste intervallen instellen voor transactielijsten, balansoverzichten en diagrammen.
+* [Transactielijsten delen als XLSX](https://youtu.be/Bf7j39fsCSc): deel transacties voor elke periode als Excel XLSX-bestanden.
+* [Balansoverzichten delen als XLSX](https://youtu.be/kpxJxNsButA): deel balansoverzichten voor elke periode als Excel XLSX-bestanden.
 
-### In versie 1.2.0  
-* [Transactiesjabloon](https://youtu.be/CtfJ5BecZfY): Stel vaak gebruikte transactiesjablonen in om boekhouden eenvoudiger te maken.  
-* [Exporteren en importeren van boeken in JSON-indeling](https://youtu.be/bHGEH7zcj78): Gebruik het meer open JSON-formaat om boeken te exporteren en importeren. Dit maakt niet alleen de gegevens minder gebonden aan Daily Money One, maar stelt je ook in staat om delen van je gegevens te delen met je familie.  
-* [Meer kleurthema's](https://youtu.be/3Yw7m2AOvfc): Kies een kleur die bij je stemming past.  
+### In versie 1.2.0
+* [Transactiesjabloon](https://youtu.be/CtfJ5BecZfY): stel vaak gebruikte transactiesjablonen in om boekhouden gemakkelijker te maken.
+* [Boeken exporteren en importeren in JSON-formaat](https://youtu.be/bHGEH7zcj78): gebruik het meer open JSON-formaat om boeken te exporteren en importeren. Dit maakt gegevens minder afhankelijk van Daily Money One en laat je delen van je gegevens met familie delen.
+* [Meer kleurthema's](https://youtu.be/3Yw7m2AOvfc): meer kleurthema's om een kleur te kiezen die past bij je stemming vandaag.
 
-### In versie 1.1.0  
-* [Automatische databaseback-up](https://youtube.com/shorts/dWePWDncx0k): Je kunt de intervallen voor automatische databaseback-ups configureren, evenals het aantal te behouden back-ups en de maximale retentiedagen.  
-* [Upload naar Google Drive na back-up](https://youtu.be/hOJdtKElLuw): Na handmatige of automatische back-up worden de back-upbestanden geüpload naar je Google Drive.  
-* Ondersteunt meer talen: Bengaals, Duits, Grieks, Engels, Spaans, Hongaars, Italiaans, Japans, Koreaans, Portugees, Russisch, Thais, Turks, Vietnamees, Traditioneel Chinees, Vereenvoudigd Chinees.  
+### In versie 1.1.0
+* [Automatische databaseback-up](https://youtube.com/shorts/dWePWDncx0k): je kunt intervallen voor automatische databaseback-ups instellen, plus het aantal bewaarde back-ups en de maximale bewaartermijn.
+* [Uploaden naar Google Drive na back-up](https://youtu.be/hOJdtKElLuw): na handmatige of automatische back-up worden de back-upbestanden naar je Google Drive geupload.
+* Ondersteuning voor meer talen: Bengaals, Duits, Grieks, Engels, Spaans, Hongaars, Italiaans, Japans, Koreaans, Portugees, Russisch, Thais, Turks, Vietnamees, Traditioneel Chinees en Vereenvoudigd Chinees.
 
-### Hoe te gebruiken  
- * [Balansoverzicht snelle weergave](https://youtu.be/66tJxSrI_vQ): Toon contant geld, maandelijkse uitgaven en huidige creditcardschuld op de hoofdpagina voor gemakkelijke toegang en snelle weergave.  
+### Hoe
+ * [Snelle weergave voor balansoverzicht](https://youtu.be/66tJxSrI_vQ): je kunt contant geld, maandelijkse uitgaven en huidige creditcardschuld op de hoofdpagina tonen voor snelle toegang en overzicht.

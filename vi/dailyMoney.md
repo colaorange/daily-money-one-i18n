@@ -1,49 +1,48 @@
-
 ## Nguồn gốc
-![Daily Money](asset:///img/dmx480.png?height=200) 
+![Daily Money](asset:///img/dmx480.png?height=200)
 
-`Daily Money` là một phần mềm kế toán trên điện thoại thông minh Android mã nguồn mở, miễn phí và không có quảng cáo, ra đời từ năm 2011. Nó đã trải qua một cuộc cải tổ vào năm 2018, đổi tên thành `Daily Money+`, để phù hợp với hệ thống Android mới vào thời điểm đó trong khi vẫn tuân thủ các nguyên tắc miễn phí và không có quảng cáo.
+`Daily Money` là phần mềm ghi chép tài chính cho điện thoại Android, mã nguồn mở, miễn phí và không quảng cáo, ra đời từ năm 2011. Năm 2018, phần mềm được làm mới và đổi tên thành `Daily Money+` để phù hợp với hệ thống Android lúc đó, đồng thời vẫn giữ nguyên nguyên tắc miễn phí và không quảng cáo.
 
-Từ phiên bản ban đầu năm 2011 đến phiên bản cải tiến năm 2018, phần mềm được phát triển trong thời gian rảnh rỗi của tác giả khi chuyển đổi công việc. Do hạn chế về thời gian, nguồn lực và điều kiện sức khỏe, không đủ nỗ lực được đầu tư vào việc bảo trì chương trình hoặc quản lý cộng đồng sau đó. Cuối cùng, do công việc toàn thời gian bận rộn của tác giả, phần mềm đã hoàn toàn bị bỏ qua.
+Từ phiên bản đầu tiên năm 2011 đến bản làm mới năm 2018, phần mềm được phát triển trong thời gian rảnh của tác giả khi chuyển việc. Do hạn chế về thời gian, nguồn lực và sức khỏe, việc bảo trì chương trình và quản lý cộng đồng sau đó không được đầu tư đủ. Cuối cùng, vì công việc toàn thời gian quá bận, phần mềm gần như bị bỏ quên.
 
-Mặc dù tác giả không dành nhiều thời gian để duy trì phần mềm và cộng đồng, nhưng tác giả vẫn sử dụng phần mềm tự phát triển để kế toán mỗi ngày. Tuy nhiên, thời gian trôi qua, phần mềm dần tụt hậu so với các bản cập nhật hệ thống và một số tính năng không thể chạy trên điện thoại thông minh mới. Tác giả bắt đầu lo lắng rằng một ngày nào đó phần mềm sẽ ngừng hoạt động và mười năm ghi chép sẽ bị mất.
+Dù không dành nhiều thời gian bảo trì phần mềm và cộng đồng, tác giả vẫn dùng phần mềm tự phát triển này để ghi chép tài chính hằng ngày. Nhưng theo thời gian, phần mềm dần tụt hậu so với các bản cập nhật hệ thống, và một số tính năng không thể chạy trên điện thoại mới. Tác giả bắt đầu lo rằng một ngày nào đó phần mềm sẽ không còn hoạt động, và hơn mười năm dữ liệu sẽ bị mất.
 
-## Khủng hoảng là Cơ hội
+## Khủng hoảng cũng là cơ hội
 
-Tóm lại, tác giả đã bị công ty sa thải vào cuối năm 2023.
+Nói ngắn gọn, tác giả bị công ty cho nghỉ việc vào cuối năm 2023.
 
-Đối mặt với tình huống toàn bộ bộ phận bị sa thải, bất kể hiệu suất hay năng lực, khiến tác giả vô cùng chán nản. Sau nhiều tháng im lặng và ở độ tuổi trung niên không có mối quan hệ, việc tìm kiếm một công việc tốt không phải là điều dễ dàng. Nhận ra rằng tập trung vào việc phát triển lập trình của riêng mình để phục vụ trực tiếp người dùng có thể là một lựa chọn ý nghĩa hơn là làm việc vất vả cho người khác.
+Khi cả bộ phận bị cắt giảm bất kể hiệu suất hay năng lực, tác giả cảm thấy vô cùng nản lòng. Sau nhiều tháng im lặng, ở độ tuổi trung niên và không có nhiều quan hệ, việc tìm một công việc tốt không hề dễ. Tác giả nhận ra rằng tập trung phát triển phần mềm độc lập để trực tiếp phục vụ người dùng có thể là lựa chọn ý nghĩa hơn so với làm việc vất vả cho người khác.
 
-Do đó, tác giả đã trở lại và quyết định tập trung vào việc điều hành studio phát triển phần mềm độc lập của mình. Sản phẩm đầu tiên tất nhiên là khôi phục "Daily Money", mà tác giả đã sử dụng trong hơn một thập kỷ. Rốt cuộc, vẫn còn nhiều người dùng đã sử dụng nó từ phiên bản đầu tiên và tác giả rất biết ơn sự ủng hộ của họ.
+Vì vậy, tác giả quay lại và quyết định tập trung vận hành studio phát triển phần mềm độc lập của mình. Sản phẩm đầu tiên tất nhiên là khôi phục "Daily Money", công cụ mà tác giả đã dùng hơn một thập kỷ. Dù sao vẫn còn nhiều người dùng đã gắn bó từ phiên bản đầu tiên, và tác giả rất biết ơn sự ủng hộ của họ.
 
 ## Daily Money One
 
-`Daily Money One` là một ứng dụng kế toán dễ sử dụng dựa trên các khái niệm kế toán đơn giản. Nó có giao diện người dùng đơn giản, không có thiết kế cầu kỳ và không có nội dung trò chơi hóa, được thiết kế chỉ để người dùng tập trung vào kế toán một cách dễ dàng. Ngoài việc phù hợp cho kế toán cá nhân và gia đình, nó cũng phù hợp với nhu cầu kế toán của các doanh nghiệp nhỏ. Trong tương lai, chúng tôi sẽ giới thiệu nhiều tính năng hơn phù hợp với nhu cầu kế toán của các hộ gia đình và doanh nghiệp nhỏ để cung cấp các dịch vụ toàn diện hơn.
+`Daily Money One` là ứng dụng ghi chép tài chính dễ dùng, dựa trên các khái niệm kế toán đơn giản. Ứng dụng có giao diện đơn giản, không thiết kế cầu kỳ và không có nội dung trò chơi hóa, chỉ nhằm giúp người dùng tập trung ghi chép tài chính một cách nhẹ nhàng. Ngoài việc phù hợp cho cá nhân và gia đình, ứng dụng cũng đáp ứng nhu cầu ghi chép của doanh nghiệp nhỏ. Trong tương lai, chúng tôi sẽ bổ sung thêm các tính năng phù hợp với nhu cầu của hộ gia đình và doanh nghiệp nhỏ để cung cấp dịch vụ toàn diện hơn.
 
-`Giới thiệu về Quảng cáo`: Để đảm bảo rằng hai con mèo của tác giả có thức ăn và tác giả có cà phê để uống, và để đảm bảo việc bảo trì và vận hành liên tục của chương trình này, quảng cáo đã được thêm vào. Hiện tại, có hai cấp độ cài đặt quảng cáo có sẵn cho người dùng điều chỉnh và các điều chỉnh cũng sẽ được thực hiện dựa trên số lượng người dùng trong tương lai. Điểm xuất phát của tác giả vẫn là đảm bảo rằng quảng cáo không ảnh hưởng đến trải nghiệm người dùng. Bạn có thể điều chỉnh cài đặt quảng cáo bằng cách đi tới "Tùy chọn > Cài đặt Quảng cáo" (Preferences > Advertisement Settings) sau khi cài đặt.
+`Về quảng cáo`: Để đảm bảo việc bảo trì và vận hành chương trình được tiếp tục, ứng dụng đã thêm quảng cáo. Hiện có hai mức quảng cáo để người dùng điều chỉnh, và trong tương lai cũng sẽ điều chỉnh theo số lượng người dùng. Điểm xuất phát của tác giả vẫn là đảm bảo quảng cáo không ảnh hưởng đến trải nghiệm sử dụng. Sau khi cài đặt, bạn có thể vào "Tùy chọn > Quảng cáo" để điều chỉnh.
 
-Các tính năng hiện tại:
-- Ghi lại chi phí, thu nhập, tài sản và nợ phải trả hàng ngày.
-- Thực hiện số dư cho các tài khoản khác nhau và bất kỳ giai đoạn nào.
-- Hỗ trợ nhiều sổ sách.
-- Tạo nhiều tài khoản tùy chỉnh, tài khoản phân cấp.
-- Chia nhỏ các giao dịch một-nhiều giữa các tài khoản.
-- Chuyển các giao dịch giữa các sổ sách.
-- Mẫu giao dịch, lập lịch định kỳ và nhắc nhở.
+Tính năng hiện có:
+- Ghi lại chi phí, thu nhập, tài sản và nợ hằng ngày.
+- Xem bảng số dư cho nhiều tài khoản và bất kỳ khoảng thời gian nào.
+- Hỗ trợ nhiều sổ.
+- Tạo nhiều tài khoản tùy chỉnh và tài khoản phân cấp.
+- Tách giao dịch một-nhiều giữa các tài khoản.
+- Chuyển giao dịch giữa các sổ.
+- Mẫu giao dịch, lịch lặp lại và nhắc nhở.
 - Ngân sách định kỳ và hiển thị tỷ lệ thực hiện ngân sách.
-- Cung cấp các loại biểu đồ và biểu đồ định kỳ khác nhau.
-- Sao lưu cơ sở dữ liệu vào thiết bị di động và đám mây, và khôi phục từ thiết bị di động.
+- Cung cấp nhiều loại biểu đồ theo các kỳ khác nhau.
+- Sao lưu cơ sở dữ liệu vào thiết bị di động và đám mây, đồng thời khôi phục từ thiết bị di động.
 - Sao lưu định dạng JSON công khai vào thiết bị di động và khôi phục từ thiết bị di động.
 - Bảo vệ bằng mật khẩu.
-- Xuất các giao dịch và bảng cân đối kế toán sang XLSX.
-- Nhập tệp xuất CSV từ "Daily Money+".
+- Xuất giao dịch và bảng số dư sang XLSX.
+- Nhập tệp CSV được xuất từ "Daily Money+".
 - Không giới hạn sử dụng, hoàn toàn miễn phí.
-- Nhiều tính năng đang được phát triển...
+- Nhiều tính năng khác đang được phát triển...
 
 [`Cách sử dụng.`](https://youtu.be/uN3GkA_Afuw)
 
-[`Nhập Daily Money+ CSV.`](https://youtu.be/IkZsiJ5TAyw)
+[`Nhập CSV Daily Money+.`](https://youtu.be/IkZsiJ5TAyw)
 
-Nếu bạn thích chương trình này, hãy nhớ cho nó một sao để tăng độ phổ biến của nó.
-- [`Đưa tôi đi cho sao.`](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone)
-- [`Tham gia trang fanpage Facebook.`](https://www.facebook.com/colaorange.daily.money/) (Đặt câu hỏi tại đây thay vì trên Play Store)
+Nếu bạn thích chương trình này, hãy nhớ đánh giá sao để giúp chương trình được nhiều người biết đến hơn.
+- [`Đưa tôi đến nơi đánh giá sao.`](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone)
+- [`Tham gia trang Facebook.`](https://www.facebook.com/colaorange.daily.money/) (Hãy đặt câu hỏi tại đây thay vì trên Play Store)

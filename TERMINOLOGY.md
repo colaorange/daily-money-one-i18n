@@ -10,6 +10,12 @@ Only `en` and `zh` are maintained in this document for now. The tables below are
 
 For Chinese-related languages, such as Simplified Chinese and Traditional Chinese variants, use `zh` as the main reference. For other languages, use `en` as the main reference.
 
+## Term Selection Principles
+
+When translating product terms, choose the wording that best represents the app-specific concept naturally in the target language. Do not keep a short English-inspired term or loanword only because the English source is short.
+
+Prefer the clearest local term first. If that wording is too long for repeated UI labels, compact screens, tabs, buttons, or charts, then choose a shorter natural term that still preserves the app-specific meaning.
+
 ## Core Terms
 
 | Term | en | zh |
@@ -158,6 +164,8 @@ Use these consistently for report modes, budget modes, schedule modes, and trans
 | Import | Import | 匯入 |
 | Export | Export | 匯出 |
 
+When translating from English into other languages, keep `Daily Money One` and `Daily Money` untranslated and use the English names exactly.
+
 ## UI Terms
 
 Use these terms for screen names, navigation labels, settings pages, and other UI-facing labels.
@@ -208,6 +216,38 @@ Use `Home Screen` when referring to the app's main UI area or main tab. For Trad
 
 Use `Home` when referring to the home screen label already used by the app. For Traditional Chinese, use `主頁`.
 
+## Ambiguous Terms
+
+Some English terms have product-specific meanings in Daily Money One. Translate these terms by their app-specific meaning unless the source context clearly refers to a general software, identity, file, network, or platform concept.
+
+When a term is ambiguous, first decide whether the source refers to the Daily Money One domain model. If it does, use the product terminology. Only use the general UI translation when the surrounding source text clearly points to the general meaning.
+
+| Term | Product-specific meaning | General meaning examples |
+| --- | --- | --- |
+| Account | Accounting item inside a Book, used for classification and balance calculation | Login account, Google account, user account, credential account |
+| Book | Top-level accounting data container | Physical book, generic ledger, document |
+| Transaction | Accounting record that moves an amount from Source to Destination | Commercial trade, payment processor transaction, bank transaction |
+| Source | Side where the amount leaves in a Transaction | Data source, file source, origin |
+| Destination | Side where the amount enters in a Transaction | File destination, network destination, navigation destination |
+| Balance | Accounting balance in the app | General balance, equilibrium |
+
+### Account Context
+
+In Daily Money One, `Account` usually means an accounting item inside a Book. It can represent cash, bank accounts, credit cards, income categories, expense categories, liability categories, or other custom categories. Do not translate this accounting `Account` as a login or user account.
+
+When the source clearly refers to sign-in, Google identity, authorization, credentials, or app users, translate it as a login/user account term appropriate for the target language.
+
+Examples:
+
+| Source | Meaning |
+| --- | --- |
+| New Account | Accounting Account |
+| Account Type | Accounting Account |
+| Source account | Accounting Account |
+| Google account | Login/user account |
+| Sign in with Google | Login action |
+| User account | User identity |
+
 ## Adding New Languages
 
 When adding a Chinese-related language, use `zh` as the primary source and use `en` only as a secondary reference. When adding any other language, use `en` as the primary source and use `zh` only as a secondary reference to clarify the app-specific meaning.
@@ -216,23 +256,12 @@ Do not add the new language to every table in this document. Add a language sect
 
 ## Style Rules
 
-### English
+Locale-specific style rules are maintained in each locale directory as `translationTerminology.md`. Keep this document focused on shared product terminology, reference-language policy, and cross-locale ambiguity rules.
 
-- Keep the product wording simple and app-specific.
-- Use `Book`, not `Accounting Book`, `Ledger`, or `Account Book`.
-- Use `Account`, not `Category`, even when the account represents an income or expense category.
-- Use `Transaction`, not `Entry`, unless referring specifically to initial entries in import summaries.
-- Use `Source` and `Destination` for transaction directions.
-- Use title case for screen titles and action labels.
+When translating a target locale, read only the shared terminology in this file plus the terminology files needed for that locale:
 
-### Traditional Chinese
+- For English-based locales, use `./en/translationTerminology.md` as the primary base reference and `./zh/translationTerminology.md` only as a secondary reference when the product meaning is unclear.
+- For Chinese-based locales, use `./zh/translationTerminology.md` as the primary base reference and `./en/translationTerminology.md` only as a secondary reference when the product meaning is unclear.
+- If the target locale already has `./<locale>/translationTerminology.md`, read it together with the appropriate base reference files.
+- If the target locale does not yet have `translationTerminology.md`, create it during the terminology phase after the proposed locale-specific terminology and style rules are confirmed. This file must contain the localized terminology tables corresponding to all term tables in this document, followed by the target locale's specific style rules.
 
-- Use `帳本` for `Book`.
-- Use `帳戶` for `Account`.
-- Use `帳目` for `Transaction`.
-- Use `帳目範本` for `Transaction Template`.
-- Use `轉出` for `Source` or withdrawal-side concepts.
-- Use `轉入` for `Destination` or deposit-side concepts.
-- Use `資產負債表` when referring to the report/table screen.
-- Use `資產負債` when referring to the balance concept in a shorter UI label.
-- Keep UI labels short and consistent. Prefer `新增帳目`, `編輯帳目`, `帳目列表` over longer explanatory wording.

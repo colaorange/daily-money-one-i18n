@@ -1,63 +1,69 @@
-Használta már a `Daily Money One` alkalmazást? Kérjük, szánjon egy pillanatot arra, hogy értékelje ★★★★★ a [Google Store](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone) oldalon. Az értékelése segít abban, hogy többen fedezzék fel és használják az alkalmazást, így a szerző több időt és erőforrást kap a fejlesztés és karbantartás folytatásához.
+Hasznos volt szamodra a `Daily Money One`? Kerlek szanj egy percet az ertekelesere a [Google Store-ban](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone). Az ertekelesed segit, hogy többen felfedezzek es hasznaljak, a szerzőnek pedig több időt es erőforrást ad a fejlesztes es karbantartas folytatasahoz.
 
-Vannak kérdései vagy javaslatai? Csatlakozzon a [Facebook rajongói csoporthoz](https://www.facebook.com/colaorange.daily.money), hogy megkapja a legfrissebb fejlesztési híreket, vagy küldjön üzenetet a szerzőnek, hogy kérdéseket tegyen fel és javaslatokat tegyen.
+Kerdeseid vagy funkciokereseid vannakő Csatlakozz a [Facebook rajongoi csoporthoz](https://www.facebook.com/colaorange.daily.money), hogy megkapd a legújabb fejlesztesi hireket, vagy kuldj uzenetet a szerzőnek kerdesekkel es keresekkel.
 
-## Újdonságok
+## Újdonsagok
 
-### Az 1.10.0 verzióban
-Ez a kiadás funkciófrissítéseket tartalmaz:
-* Emelje ki a Mérleget a Kezdőképernyőn, hogy havi kiadásai egy pillantással jól láthatóak legyenek.
-* Ismétlődő költségkeret-beállítások támogatása, megkönnyítve az aktuális hónap fennmaradó egyenlegének követését.
+### Az 1.11.0 verzioban
+Ez a kiadás funkciofrissiteseket tartalmaz:
+* Ha egy gombikon arnyekot kapott, az azt jelzi, hogy hosszu nyomassal tovabbi kapcsolodo funkciok jelennek meg.
+* Új kezdőképernyő-parancsikon kerult be a tranzakciósablonok hasznalatahoz, mikozben a sablonok gyors atütemezése is erősebb lett.
+* Az osszes nyelv forditasa újrahangolva a legújabb AI modellekkel.
 
-### Az 1.9.0 verzióban
-Ez a kiadás funkciófrissítéseket tartalmaz a felhasználói igények és a Google irányelvei alapján:
-* A Google API célverziója 35-re lett frissítve  
-* Mostantól beállíthatod a hónap és az év első napját az időszaklistákhoz, egyenlegekhez és diagramokhoz  
-* Az egyenleg összegzése mostantól megjelenik a keresési eredmények között  
-* Újraírtuk a Google Drive feltöltési funkcióját: a fájlok először helyileg kerülnek mentésre, és csak akkor töltődnek fel, ha van elérhető hálózat.
+### Az 1.10.0 verzioban
+Ez a kiadás funkciofrissiteseket tartalmaz:
+* Az egyenlegkimutatás kiemelve jelenik meg a Kezdőképernyőn, hogy havi kiadásaid egy pillantassal láthatók legyenek.
+* Ismétlődő költségkeret-beallitasok támogatása, igy konnyebben kovetheted az aktualis honap fennmarado keretet.
 
-### Az 1.8.0 verzióban
-Ez a kiadás felhasználói kívánságok alapján készült funkciófrissítéseket is tartalmaz:
-* **Továbbfejlesztett Jegyzetek**: Támogatja a több soros jegyzeteket sortörésekkel, és egy törlés gombot ad a beviteli mezőhöz.
-* **Fejlettebb Fiókkeresési Opciók**: Hozzáadja a feltételeket mind a kimenő, mind a bejövő átutalási számlákhoz a tranzakciókeresésben.
-* **Fordított Kezdeti Összeg Engedélyezése**: Ha a kezdeti összeg negatív, beállíthatja az ellenkező számla kezdeti összegének irányát.
-* **Hozzáadva a holland nyelv támogatása**
+### Az 1.9.0 verzioban
+Ez a kiadás felhasznaloi keresek es a Google iranyelvei alapjan keszult funkciofrissiteseket tartalmaz:
+* A Google API célverzioja 35-re frissult.
+* Mostantol beallithato a honap es az ev első napja az időszaklistakhoz, egyenlegekhez es diagramokhoz.
+* Az egyenlegösszegzes kozvetlenul megjelenik a keresesi eredmenyekben.
+* A Google Drive feltoltesi funkcio újrairasra kerult: a fajlok előszor helyben mentődnek, es csak akkor töltődnek fel, amikor elérhető a halozat.
 
-### Az 1.7.0 verzióban
-Ez a kiadás felhasználói kívánságok alapján tartalmazza a funkciófrissítéseket:
-* **Kiválasztás Kötelezővé Tétele Mielőtt Elhúzna**: Engedélyezés esetén az elemeket ki kell választani, mielőtt a húzási műveletek végrehajthatók. Ez megakadályozza a véletlen húzásokat és jelentősen javítja a megjelenítési teljesítményt, bár egy további kiválasztási lépést igényel. (Beállítások > Funkcióbeállítások)
-* **Alapértelmezett Jegyzet Megnyitása**: Engedélyezés esetén a tranzakciólistában lévő tranzakciós jegyzet alapértelmezetten nyitva lesz. (Beállítások > Megjelenítés beállításai > Tranzakciólista beállításai)
-* **Tranzakció Háttérszín Beállítások**: Mostantól megváltoztathatja a tranzakciólistában lévő tranzakció háttérszínét. Az elérhető lehetőségek: Alapértelmezett (téma háttérszíne), Átutalási számla kimenő, és Átutalási számla bejövő. (Beállítások > Megjelenítés beállításai > Tranzakciólista beállításai)
-* **Továbbfejlesztett Haladó Módú Szerkesztés Tranzakciókhoz**: Haladó szerkesztési módban mostantól átrendezheti az átutalásokat és bármilyen sorrendben törölheti azokat. Korábban csak az utolsó átutalás volt törölhető, és az átrendezés nem volt lehetséges.
-* **Kezdőképernyő Gyorsbillentyű Beállítások**: A következő gyorsbillentyű opciók kerültek hozzáadásra: Hónap végéig tartó tranzakciók, Hónap végéig tartó mérleg, Hónap végéig tartó egyensúlyi diagram.
+### Az 1.8.0 verzioban
+Ez a kiadás szinten felhasznaloi keresek alapjan keszult funkciofrissiteseket tartalmaz:
+* **Bővített jegyzetek**: tamogatja a sortoreseket tartalmazo több soros jegyzeteket, es torles gombot ad a beviteli mezőhoz.
+* **Fejlettebb számlákeresesi opciok**: feltetelek adhatok meg a kimenő es bejövő számlákhoz is a tranzakciókeresesben.
+* **Forditott kezdő összeg engedelyezese**: ha a kezdő összeg negativ, beallithatod a forditott számla kezdőösszeg-iranyat.
+* **Holland nyelvi tamogatas hozzaadva**.
 
-### Az 1.6.0 verzióban
-* [Nézd meg a diagramokat a számítógépeden](https://youtu.be/Ag8cqg9gzi0): Szerver módot biztosít. Miután engedélyezte ezt a módot, egy számítógép böngészőjével, amely ugyanazon a LAN-on van, csatlakozhat a telefonjához és részletesebb diagramokat nézhet meg.
+### Az 1.7.0 verzioban
+Ez a kiadás felhasznaloi keresek alapjan keszult funkciofrissiteseket tartalmaz:
+* **Kijeloles megkovetelese huzas előtt**: ha engedelyezve van, az elemeket ki kell jelolni, mielőtt huzasi műveletek végezhetők. Ez megelőzi a veletlen huzasokat es jelentősen javitja a renderelesi teljesitmenyt, bar egy extra kijelolesi lepest igenyel. (Beallitasok > Funkciobeallitasok)
+* **Jegyzet alapertelmezett megnyitasa**: ha engedelyezve van, a tranzakciójegyzet a tranzakciólistaban alapertelmezetten nyitva jelenik meg. (Beallitasok > Megjelenitesi beallitasok > Tranzakciólista beallitasai)
+* **Tranzakcióhatter szinbeallitasai**: mostantol modosithato a tranzakció hatterszine a tranzakciólistaban. Az elérhető opciok: alapertelmezett (tema hatterszine), kimenő számla es bejövő számla. (Beallitasok > Megjelenitesi beallitasok > Tranzakciólista beallitasai)
+* **Fejlettebb halado modu tranzakciószerkesztes**: halado szerkesztesi modban barmely atvezetes átrendezhető, es barmelyik atvezetes tetszőleges sorrendben törölhető. Korabban csak az utolso atvezetes volt törölhető, es az atrendezes nem volt lehetseges.
+* **Kezdőképernyő-parancsikon beallitasok**: új opciok kerultek be: hovegi tranzakciók, hovegi egyenlegkimutatás, hovegi egyenlegdiagram.
 
-### Az 1.5.0 verzióban
-* [A tranzakciós lista elrendezésének beállítása](https://youtu.be/TzQj2pY6sWs): Beállíthatja a tranzakciók megjelenítését úgy, hogy először a befizetések vagy először a kifizetések (alapértelmezett, ha kikapcsolva) élvezzenek prioritást, és azt is kiválaszthatja, hogy a megjegyzés a részletek felett vagy alatt (alapértelmezett, ha kikapcsolva) helyezkedjen el.
-* [A régi, már nem szükséges fiókok elrejtése](https://youtu.be/nKq7Mh_2nQA): Felhalmozott sok régi fiókot a fióklistáján, amelyeket már nem használ? Használja az elrejtési funkciót, hogy megakadályozza őket a kiválasztás és a műveletek zavarásában.
-* A mérleg támogatja a fix tizedeshelyeket, és a záró nullák nem lesznek kihagyva, ami megkönnyíti az igazítást és az összehasonlítást.
+### Az 1.6.0 verzioban
+* [Diagramok megtekintese szamitogepen](https://youtu.be/Ag8cqg9gzi0): szerver modot biztosit. A mod engedelyezese utan úgyanazon a helyi halozaton szamitogepes böngészőből csatlakozhatsz a telefonhoz, es reszletesebb diagramokat nezhetsz meg.
 
-### Az 1.4.0 verzióban
-* [Sablon Ismétlődő Ütemezett Tranzakciókhoz](https://youtu.be/TzQj2pY6sWs): Amellett, hogy kényelmesebbé teszi a kiadásainak nyomon követését, ez a sablon olyan funkciókat is tartalmaz, mint az ismétlődő ütemezések és emlékeztetők. Ez egy praktikus és figyelmes funkció automatikus hitelkártya-fizetésekhez vagy éves díjakhoz.
-* [Védje jelszóval a számlakönyvét](https://youtu.be/peoYqNG_4pk): Attól tart, hogy mások belepillanthatnak a számlakönyvébe? Az új jelszó funkció bekapcsolásával a számlakönyve jelszóval lesz védve, amikor megnyitja. Beállíthatja azt is, hogy milyen gyakran kell megadni a jelszót.
-* Egyenleg számlák rendezése: Állítsa be a sorrendet a `Beállítások > Kijelző beállítások > Egyenleg számlatípusok sorrendje` menüpontban.
+### Az 1.5.0 verzioban
+* [A tranzakciólista elrendezesenek beallitasa](https://youtu.be/TzQj2pY6sWs): beallithatod, hogy a tranzakciók megjelenitesenel a célok vagy a források legyenek előrebb (alapertelmezes szerint, ha kikapcsolt), es azt is kivalaszthatod, hogy a jegyzet a reszletek folott vagy alatt legyen (alapertelmezes szerint, ha kikapcsolt).
+* [Regi, mar nem szukseges számlák elrejtese](https://youtu.be/nKq7Mh_2nQA): sok regi, mar nem hasznalt számla gyűlt ossze a számlalistadban? Az elrejtes funkcioval megakadalyozhatod, hogy zavarjak a kivalasztast es a műveleteket.
+* Az egyenlegkimutatás tamogatja a rogzitett tizedesjegyeket, es a zaro nullak nem maradnak el, igy konnyebb az igazitas es osszehasonlitas.
 
-### 1.3.0 verzióban
-* [Testreszabható Tranzakciós Listák és Mérlegidőszakok](https://youtu.be/O7EcLN82qIU): A rögzített időszakokra vonatkozó gyors opciók mellett most már testreszabhatja az időszakokat, hogy tranzakciós listákat, mérlegeket és diagramokat generálhasson.
-* [Tranzakciós Listák Megosztása XLSX Formátumban](https://youtu.be/Bf7j39fsCSc): Megoszthatja a tranzakciókat bármely időszakra Excel XLSX fájlokban.
-* [Mérleg Megosztása XLSX Formátumban](https://youtu.be/kpxJxNsButA): Megoszthatja a mérlegeket bármely időszakra Excel XLSX fájlokban.
+### Az 1.4.0 verzioban
+* [Sablon ismétlődő utemezett tranzakciókhoz](https://youtu.be/TzQj2pY6sWs): amellett, hogy kenyelmesebbe teszi a kiadások követéset, ez a sablon ismétlődő ütemezést es emlékeztet?ket is tartalmaz. Praktikus es figyelmes funkcio automatikus hitelkartya-fizetesekhez vagy éves dijakhoz.
+* [Könyved vedelme jelszoval](https://youtu.be/peoYqNG_4pk): aggodsz, hogy masok belenezhetnek a konyvedbe? Az új jelszofunkcioval a konyv minden megnyitaskor jelszoval vedhet?. Azt is beallithatod, milyen gyakran kell megadni a jelszot.
+* Egyenlegszámlák rendezese: a sorrendet itt allithatod be: `Beallitasok > Megjelenitesi beallitasok > Egyenlegszámlatipusok sorrendje`.
 
-### 1.2.0 verzióban
-* [Tranzakciós sablon](https://youtu.be/CtfJ5BecZfY): Állítsa be a gyakran használt tranzakciós sablonokat, hogy a könyvelés kényelmesebb legyen.
-* [Exportálás és importálás JSON formátumú könyvekhez](https://youtu.be/bHGEH7zcj78): Használja a nyitottabb JSON formátumot a könyvek exportálásához és importálásához. Ez nemcsak kevésbé zárja be az adatokat a Daily Money One-ba, hanem lehetővé teszi, hogy megossza az adatainak egy részét a családjával.
-* [Több színtéma](https://youtu.be/3Yw7m2AOvfc): Több színtémát kínál, válasszon egy színt, amely megfelel a mai hangulatának.
+### Az 1.3.0 verzioban
+* [Testreszabhato tranzakciólistak es egyenlegkimutatási időkozok](https://youtu.be/O7EcLN82qIU): a rogzitett időkozok gyors opcioi mellett mostantol egyeni időkozoket is beállíthatsz tranzakciólistak, egyenlegkimutatások es diagramok keszitesehez.
+* [Tranzakciólistak megosztasa XLSX-kent](https://youtu.be/Bf7j39fsCSc): tranzakciók megosztasa barmely időkozre Excél XLSX fajlkent.
+* [Egyenlegkimutatások megosztasa XLSX-kent](https://youtu.be/kpxJxNsButA): egyenlegkimutatások megosztasa barmely időkozre Excél XLSX fajlkent.
 
-### 1.1.0 verzióban
-* [Automatizált adatbázis-mentés](https://youtube.com/shorts/dWePWDncx0k): Beállíthatja az automatizált adatbázis-mentések időközeit, a megőrzött mentések számát és a maximális megőrzési napokat.
-* [Feltöltés Google Drive-ra mentés után](https://youtu.be/hOJdtKElLuw): Kézi vagy automatizált mentés után a mentési fájlok feltöltésre kerülnek a Google Drive-ra.
-* Támogasson több nyelvet: bengáli, német, görög, angol, spanyol, magyar, olasz, japán, koreai, portugál, orosz, thai, török, vietnámi, hagyományos kínai, egyszerűsített kínai.
+### Az 1.2.0 verzioban
+* [Tranzakciósablon](https://youtu.be/CtfJ5BecZfY): gyakran hasznalt tranzakciósablonok beallitasa a kenyelmesebb könyveléshez.
+* [JSON formatumu konyvek exportalasa es importalasa](https://youtu.be/bHGEH7zcj78): nyitottabb JSON formatummal exportalhatsz es importalhatsz konyveket. Ez nemcsak csokkenti a Daily Money One-hoz valo kotottseget, hanem lehetőve teszi, hogy adataid egy reszet megoszd a csaladoddal.
+* [Több szintema](https://youtu.be/3Yw7m2AOvfc): több szintema kozul valaszthatsz, az aktualis hangulatodhoz illően.
 
-### Hogyan
- * [Mérleg Gyors Nézet](https://youtu.be/66tJxSrI_vQ)：Megjelenítheti a készpénzállományt, a havi kiadásokat és a jelenlegi hitelkártya-tartozást a főoldalon a könnyű hozzáférés és gyors megtekintés érdekében.
+### Az 1.1.0 verzioban
+* [Automatikus adatbazis-mentes](https://youtube.com/shorts/dWePWDncx0k): beallithatod az automatikus adatbazis-mentesek időkozet, a megőrzott mentesek szamat es a maximalis megőrzesi napokat.
+* [Feltoltes Google Drive-ra mentes utan](https://youtu.be/hOJdtKElLuw): kezi vagy automatikus mentes utan a mentesi fajlok feltöltődnek a Google Drive-odra.
+* Tovabbi nyelvek támogatása: bengali, nemet, gorog, angol, spanyol, magyar, olasz, japan, koreai, portugal, orosz, thai, torok, vietnami, hagyomanyos kinai, egyszerűsitett kinai.
+
+### Hogyan hasznald
+ * [Egyenlegkimutatás gyorsnezet](https://youtu.be/66tJxSrI_vQ): a főoldalon megjelenitheted a keszpenzt, havi kiadásokat es aktualis hitelkartya-tartozast a gyors elereshez es attekinteshez.

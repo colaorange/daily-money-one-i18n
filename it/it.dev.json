@@ -1,1 +1,7 @@
-{}
+{
+    "noExpiredTransactionTemplate": "Nessun modello di movimento scaduto",
+    "message": {
+        "confirmScheduleBypass": "Vuoi davvero saltare e riorganizzare la prossima pianificazione?",
+        "confirmScheduleReset": "Vuoi davvero reimpostare la pianificazione attuale?"
+    }
+}

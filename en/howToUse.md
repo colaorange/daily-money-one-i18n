@@ -29,7 +29,7 @@ There are five different types of accounts, which you can add, edit, or delete o
 
 ## ![Transactions](icon:///receipt) Transactions 
 
-When there is a transaction between accounts, such as spending, withdrawing, depositing, or swiping a credit card (e.g., you spent 320 yuan on a meal), use `New Transaction` to create a new transaction.
+When there is a transaction between accounts, such as spending, moving money between accounts, or swiping a credit card (e.g., you spent 320 yuan on a meal), use `New Transaction` to create a new transaction.
 > - Select `Date & Time`: Date and time of the transaction.
 > - Select `Source`: Cash
 > - Select `Destination`: Dining
@@ -77,14 +77,14 @@ The program allows you to transfer between accounts in different books. Whether 
 
 ## Quick View of Balance Sheet and Charts
 
-When browsing the balance sheet or charts, you can add specific account items to the quick view to the home screen [*1]. Simply swipe right on the item in the balance sheet and click `Add to Quick View`, or click "Add to Quick View Icon" at the upper right corner of the balance chart card. Next, on the home screen, you'll see the balance of assets and liabilities for that item, or you can view it on the chart page of the home screen. Additionally, you can sort or remove these items in `Preferences > Home Screen Settings`.
+When browsing the balance sheet or charts, you can add specific account items to Quick View on the Home Screen [*1]. Simply swipe right on the item in the balance sheet and click `Add to Quick View`, or click the "Add to Quick View" Icon at the upper right corner of the balance chart card. Next, on the Home Screen, you'll see the balance of assets and liabilities for that item, or you can view it on the chart page of the Home Screen. Additionally, you can sort or remove these items in `Preferences > Home Screen`.
 
-[*1] Excessive quick views on the home screen may affect the loading time of the home screen.
+[*1] Excessive Quick View items on the Home Screen may affect the loading time of the Home Screen.
 
 ## Templates and Recurring Scheduling
 
-You can set up transaction templates for common accounting actions, allowing you to quickly add transaction. You can also set up recurring schedule templates for regularly recurring accounting actions. The program will notify you when due, enabling you to quickly add the transaction and automatically schedule it for the next due time. Simply swipe left on the item in the transaction list, then tap `New Template`, and enter the scheduling time, then create it. Additionally, you can sort, edit, or remove these items in the `Transaction Template Management` page.
+You can set up transaction templates for common accounting actions, allowing you to quickly add transaction. You can also set up recurring schedule templates for regularly recurring accounting actions. The program will notify you when due, enabling you to quickly add the transaction and automatically schedule it for the next due time. Simply swipe left on the item in the transaction list, then tap `New Template`, and enter the scheduling time, then create it. Additionally, you can sort, edit, or remove these items in the `Templates` page.
 
 ## Budget Settings
 
-When browsing the balance sheet, simply swipe right on an account item, then click `New Budget` and select the mode. Once created, you can view the budget progress in the balance sheet or the quick view on the Home Screen. Additionally, you can sort, edit, or remove these items in the `Budget Management` page.
+When browsing the balance sheet, simply swipe right on an account item, then click `Create Budget` and select the mode. Once created, you can view the budget progress in the balance sheet or Quick View on the Home Screen. Additionally, you can sort, edit, or remove these items in the `Budgets` page.

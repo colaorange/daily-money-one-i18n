@@ -1,1 +1,7 @@
-{}
+{
+    "noExpiredTransactionTemplate": "만료된 거래 템플릿이 없습니다",
+    "message": {
+        "confirmScheduleBypass": "현재 일정을 건너뛰고 다음 일정을 다시 배치하시겠습니까?",
+        "confirmScheduleReset": "현재 일정을 재설정하시겠습니까?"
+    }
+}

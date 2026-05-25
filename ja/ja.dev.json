@@ -1,1 +1,7 @@
-{}
+{
+    "noExpiredTransactionTemplate": "期限切れの取引テンプレートはありません",
+    "message": {
+        "confirmScheduleBypass": "現在の予定をスキップして次回予定を再設定しますか？",
+        "confirmScheduleReset": "現在の予定をリセットしますか？"
+    }
+}

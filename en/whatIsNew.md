@@ -8,6 +8,7 @@ Do you have questions or feature requests? Join [Facebook fan group](https://www
 This release includes feature updates:
 * If a button icon has a shadow, it indicates that long-pressing it will reveal additional related functions.
 * Added shortcut on the home screen for using transaction templates, while also enhancing functionality for quickly rescheduling templates.
+* Retune the translations for all languages using the latest AI models.
 
 ### In Version 1.10.0
 This release includes feature updates:

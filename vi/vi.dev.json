@@ -1,1 +1,7 @@
-{}
+{
+    "noExpiredTransactionTemplate": "Không có mẫu giao dịch đã hết hạn",
+    "message": {
+        "confirmScheduleBypass": "Bạn có chắc muốn bỏ qua và sắp xếp lại lịch tiếp theo không?",
+        "confirmScheduleReset": "Bạn có chắc muốn đặt lại lịch hiện tại không?"
+    }
+}
