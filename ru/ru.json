@@ -660,7 +660,7 @@
     },
     "title": {
         "autoBackupDatabase": "Автокопирование",
-        "autoUploadGDrive": "Автозагрузка",
+        "autoUploadGDrive": "Автоматическая загрузка на Google Диск",
         "backupExport": "Копия / экспорт",
         "confirm": "Подтверждение",
         "createBudget": "Создать бюджет",

@@ -660,7 +660,7 @@
     },
     "title": {
         "autoBackupDatabase": "Automatische back-up",
-        "autoUploadGDrive": "Automatisch uploaden",
+        "autoUploadGDrive": "Automatisch uploaden naar Google Drive",
         "backupExport": "Back-up / Export",
         "confirm": "Bevestigen",
         "createBudget": "Budget maken",

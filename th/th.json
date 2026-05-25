@@ -660,7 +660,7 @@
     },
     "title": {
         "autoBackupDatabase": "สำรองอัตโนมัติ",
-        "autoUploadGDrive": "อัปโหลดอัตโนมัติ",
+        "autoUploadGDrive": "อัปโหลดไปยัง Google Drive อัตโนมัติ",
         "backupExport": "สำรอง / ส่งออก",
         "confirm": "ยืนยัน",
         "createBudget": "สร้างงบประมาณ",

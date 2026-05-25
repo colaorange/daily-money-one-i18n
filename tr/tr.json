@@ -660,7 +660,7 @@
     },
     "title": {
         "autoBackupDatabase": "Otomatik yedekleme",
-        "autoUploadGDrive": "Otomatik yükleme",
+        "autoUploadGDrive": "Google Drive'a otomatik yükleme",
         "backupExport": "Yedekleme / dışa aktarma",
         "confirm": "Onayla",
         "createBudget": "Bütçe oluştur",

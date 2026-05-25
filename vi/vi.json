@@ -660,7 +660,7 @@
     },
     "title": {
         "autoBackupDatabase": "Tự động sao lưu",
-        "autoUploadGDrive": "Tự động tải lên",
+        "autoUploadGDrive": "Tự động tải lên Google Drive",
         "backupExport": "Sao lưu / xuất",
         "confirm": "Xác nhận",
         "createBudget": "Tạo ngân sách",

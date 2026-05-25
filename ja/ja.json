@@ -660,7 +660,7 @@
     },
     "title": {
         "autoBackupDatabase": "自動バックアップ",
-        "autoUploadGDrive": "自動アップロード",
+        "autoUploadGDrive": "Google ドライブに自動アップロード",
         "backupExport": "バックアップ / エクスポート",
         "confirm": "確認",
         "createBudget": "予算を作成",

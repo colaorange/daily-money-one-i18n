@@ -660,7 +660,7 @@
     },
     "title": {
         "autoBackupDatabase": "স্বয়ংক্রিয় ব্যাকআপ",
-        "autoUploadGDrive": "স্বয়ংক্রিয় আপলোড",
+        "autoUploadGDrive": "Google Drive-এ স্বয়ংক্রিয় আপলোড",
         "backupExport": "ব্যাকআপ / রপ্তানি",
         "confirm": "নিশ্চিত করুন",
         "createBudget": "বাজেট তৈরি",

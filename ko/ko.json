@@ -660,7 +660,7 @@
     },
     "title": {
         "autoBackupDatabase": "자동 백업",
-        "autoUploadGDrive": "Auto Upload",
+        "autoUploadGDrive": "Google Drive에 자동 업로드",
         "backupExport": "백업 / 내보내기",
         "confirm": "확인",
         "createBudget": "예산 생성",

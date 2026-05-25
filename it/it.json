@@ -660,7 +660,7 @@
     },
     "title": {
         "autoBackupDatabase": "Backup automatico",
-        "autoUploadGDrive": "Caricamento automatico",
+        "autoUploadGDrive": "Caricamento automatico su Google Drive",
         "backupExport": "Backup / Esporta",
         "confirm": "Conferma",
         "createBudget": "Crea budget",

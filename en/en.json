@@ -660,7 +660,7 @@
     },
     "title": {
         "autoBackupDatabase": "Auto Backup",
-        "autoUploadGDrive": "Auto Upload",
+        "autoUploadGDrive": "Auto Upload to Google Drive",
         "backupExport": "Backup / Export",
         "confirm": "Confirm",
         "createBudget": "Create Budget",

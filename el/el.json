@@ -660,7 +660,7 @@
     },
     "title": {
         "autoBackupDatabase": "Αυτόματο αντίγραφο",
-        "autoUploadGDrive": "Αυτόματη μεταφόρτωση",
+        "autoUploadGDrive": "Αυτόματη μεταφόρτωση στο Google Drive",
         "backupExport": "Αντίγραφο / Εξαγωγή",
         "confirm": "Επιβεβαίωση",
         "createBudget": "Δημιουργία προϋπολογισμού",

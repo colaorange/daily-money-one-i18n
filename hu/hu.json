@@ -660,7 +660,7 @@
     },
     "title": {
         "autoBackupDatabase": "Automatikus mentes",
-        "autoUploadGDrive": "Automatikus feltoltes",
+        "autoUploadGDrive": "Automatikus feltöltés a Google Drive-ra",
         "backupExport": "Mentes / Exportalas",
         "confirm": "Megerősites",
         "createBudget": "Költségkeret letrehozasa",
