@@ -4,5 +4,8 @@
         "accountExists": "Account {{name}} already exists.",
         "confirmScheduleBypass": "Are you sure you want to bypass and rearrange the next schedule?",
         "confirmScheduleReset": "Are you sure you want to reset the current schedule?"
+    },
+    "action":{
+        "copyAccountFromExisting": "Copy from existing"
     }
 }

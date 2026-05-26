@@ -3,5 +3,8 @@
     "message": {
         "confirmScheduleBypass": "您確定要跳過並安排下次排程嗎？",
         "confirmScheduleReset": "您確定要重設目前的排程嗎？"
+    },
+    "action":{
+        "copyAccountFromExisting": "從其他帳本複製"
     }
 }
