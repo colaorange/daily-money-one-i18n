@@ -1,8 +1,17 @@
 {
     "noExpiredTransactionTemplate": "No expired transaction templates",
+    "title": {
+        "cloneAccounts": "Clone Accounts"
+    },
     "message": {
         "accountExists": "Account {{name}} already exists.",
         "confirmScheduleBypass": "Are you sure you want to bypass and rearrange the next schedule?",
-        "confirmScheduleReset": "Are you sure you want to reset the current schedule?"
+        "confirmScheduleReset": "Are you sure you want to reset the current schedule?",
+        "cloneAccounts": "The following {{n}} accounts will be copied to the current ledger. Accounts with the same name that already exist will be skipped.",
+        "accountBatchCreated": "{{n}} accounts have been created."
+    },
+    "action":{
+        "cloneAccountFromExisting": "Clone from existing",
+        "selectAll": "Select all"
     }
 }
