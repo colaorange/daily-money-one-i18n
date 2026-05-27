@@ -6,9 +6,10 @@
 
 ### En la versión 1.11.0
 Esta versión incluye actualizaciones de funciones:
-* Si el icono de un botón tiene sombra, indica que al mantenerlo pulsado aparecerán funciones relacionadas adicionales.
-* Se agregó un acceso directo en la pantalla de inicio para usar plantillas de transacción, y también se mejoró la función para reprogramar plantillas rápidamente.
-* Se reajustaron las traducciones de todos los idiomas usando los modelos de IA más recientes.
+* ¿Ves el icono de un botón con sombra? ¡Prueba a mantenerlo pulsado para mostrar otra función!
+* ¡Hemos añadido accesos directos en la pantalla de inicio para elegir plantillas de transacción, haciendo que reprogramarlas sea superfácil y rápido!
+* ¡Ahora puedes copiar otras cuentas al crear un nuevo libro! Copiar otras cuentas también es compatible en la pantalla Cuentas.
+* La IA más reciente ha optimizado las traducciones en todos los idiomas.
 
 ### En la versión 1.10.0
 Esta versión incluye actualizaciones de funciones:

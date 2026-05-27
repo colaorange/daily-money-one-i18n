@@ -6,9 +6,10 @@ Hai domande o richieste di funzioni? Unisciti al [gruppo Facebook](https://www.f
 
 ### Nella versione 1.11.0
 Questa versione include aggiornamenti delle funzioni:
-* Se l'icona di un pulsante ha un'ombra, significa che una pressione prolungata mostrera altre funzioni correlate.
-* Aggiunta una scorciatoia nella schermata Home per usare i modelli di movimento, migliorando anche la funzione per ripianificare rapidamente i modelli.
-* Ritarate le traduzioni per tutte le lingue usando i modelli IA più recenti.
+* Vedi l'icona di un pulsante con un'ombra? Prova a tenere premuto per scoprire un'altra funzione!
+* Abbiamo aggiunto scorciatoie nella schermata Home per scegliere i modelli di movimento, rendendo la ripianificazione semplicissima e veloce!
+* Ora puoi copiare altri conti quando crei un nuovo libro! La copia di altri conti è supportata anche nella schermata Conti.
+* L'intelligenza artificiale più recente ha perfezionato le traduzioni in tutte le lingue.
 
 ### Nella versione 1.10.0
 Questa versione include aggiornamenti delle funzioni:

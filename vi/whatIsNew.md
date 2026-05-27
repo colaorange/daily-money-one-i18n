@@ -6,9 +6,10 @@ Bạn có câu hỏi hoặc yêu cầu tính năng? Hãy tham gia [nhóm Faceboo
 
 ### Trong phiên bản 1.11.0
 Bản phát hành này bao gồm các cập nhật tính năng:
-* Nếu biểu tượng nút có bóng, điều đó cho biết nhấn giữ sẽ hiển thị thêm các chức năng liên quan.
-* Thêm lối tắt trên màn hình chính để dùng mẫu giao dịch, đồng thời tăng cường chức năng lên lịch lại mẫu nhanh chóng.
-* Tinh chỉnh bản dịch cho tất cả ngôn ngữ bằng các mô hình AI mới nhất.
+* Bạn có thấy biểu tượng nút có bóng mờ không? Hãy thử nhấn giữ để khám phá thêm chức năng khác nhé!
+* Chúng tôi đã thêm các lối tắt để chọn mẫu giao dịch ngay trên màn hình chính, giúp việc lên lịch lại trở nên vô cùng đơn giản và nhanh chóng!
+* Giờ đây bạn có thể sao chép các tài khoản khác khi tạo sổ mới! Việc sao chép các tài khoản khác cũng được hỗ trợ trên màn hình Tài khoản.
+* Trí tuệ nhân tạo (AI) mới nhất đã tinh chỉnh bản dịch của tất cả các ngôn ngữ.
 
 ### Trong phiên bản 1.10.0
 Bản phát hành này bao gồm các cập nhật tính năng:

@@ -6,9 +6,10 @@ Tem perguntas ou pedidos de funcionalidades? Junte-se ao [grupo de fãs no Faceb
 
 ### Na versão 1.11.0
 Esta versão inclui atualizações de funcionalidades:
-* Se o ícone de um botão tiver sombra, isso indica que uma pressão longa revela funções relacionadas adicionais.
-* Adicionado um atalho no ecrã inicial para usar modelos de movimento, melhorando também a funcionalidade para reagendar rapidamente modelos.
-* Ajustadas as traduções de todos os idiomas com os modelos de IA mais recentes.
+* Vê o ícone de um botão com sombra? Tente mantê-lo premido para revelar outra função!
+* Adicionámos atalhos no ecrã inicial para escolher modelos de movimento, tornando o reagendamento superfácil e rápido!
+* Agora pode copiar outras contas ao criar um novo livro! A cópia de outras contas também é suportada no ecrã Contas.
+* A IA mais recente otimizou as traduções em todos os idiomas.
 
 ### Na versão 1.10.0
 Esta versão inclui atualizações de funcionalidades:

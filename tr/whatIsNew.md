@@ -6,9 +6,10 @@ Sorularınız veya özellik istekleriniz mi var? En son geliştirme güncellemel
 
 ### Sürüm 1.11.0'da
 Bu sürüm özellik güncellemeleri içerir:
-* Bir düğme simgesinde gölge varsa, uzun basıldığında ek ilgili işlevlerin açılacağını gösterir.
-* Ana ekrana işlem şablonlarını kullanmak için kısayol eklendi ve şablonları hızlıca yeniden zamanlama işlevi geliştirildi.
-* Tüm diller için çeviriler en yeni yapay zeka modelleriyle yeniden ayarlandı.
+* Gölgeli bir düğme simgesi mi gördünüz? Başka bir işlevi görmek için basılı tutmayı deneyin!
+* İşlem şablonlarını seçmek için ana ekrana kısayollar ekledik; böylece yeniden zamanlama yapmak artık son derece kolay ve hızlı!
+* Yeni bir defter oluştururken artık diğer hesapları kopyalayabilirsiniz! Diğer hesapları kopyalama işlemi Hesaplar ekranında da desteklenir.
+* En yeni yapay zeka, tüm dillerdeki çevirileri ince ayarlarla optimize etti.
 
 ### Sürüm 1.10.0'da
 Bu sürüm özellik güncellemeleri içerir:

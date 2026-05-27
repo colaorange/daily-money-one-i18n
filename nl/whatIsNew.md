@@ -6,9 +6,10 @@ Heb je vragen of functieverzoeken? Word lid van de [Facebook-fangroep](https://w
 
 ### In versie 1.11.0
 Deze release bevat functie-updates:
-* Als een knopicoon een schaduw heeft, betekent dit dat lang indrukken extra gerelateerde functies toont.
-* Een snelkoppeling op het startscherm toegevoegd voor transactiesjablonen, met verbeteringen voor het snel opnieuw plannen van sjablonen.
-* De vertalingen voor alle talen opnieuw afgestemd met de nieuwste AI-modellen.
+* Zie je een knopicoon met een schaduw? Houd het lang ingedrukt om een andere functie te onthullen!
+* We hebben snelkoppelingen voor het kiezen van transactiesjablonen toegevoegd aan het startscherm, waardoor opnieuw plannen supersimpel en snel wordt!
+* Je kunt nu andere rekeningen kopiëren bij het maken van een nieuw boek! Het kopiëren van andere rekeningen wordt ook ondersteund op het scherm Rekeningen.
+* De nieuwste AI heeft de vertalingen voor alle talen verfijnd.
 
 ### In versie 1.10.0
 Deze release bevat functie-updates:

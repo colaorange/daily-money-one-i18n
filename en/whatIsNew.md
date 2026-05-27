@@ -6,9 +6,10 @@ Do you have questions or feature requests? Join [Facebook fan group](https://www
 
 ### In Version 1.11.0
 This release includes feature updates:
-* If a button icon has a shadow, it indicates that long-pressing it will reveal additional related functions.
-* Added shortcut on the home screen for using transaction templates, while also enhancing functionality for quickly rescheduling templates.
-* Retune the translations for all languages using the latest AI models.
+* Spot a button icon with a shadow? Try long-pressing it to reveal another function!
+* We've added shortcuts for picking transaction templates to the home screen, making rescheduling super simple and fast!
+* You can now copy other accounts when creating a new book! Copying other accounts is also supported on the manage accounts screen.
+* The latest AI has fine-tuned translations across all languages.
 
 ### In Version 1.10.0
 This release includes feature updates:

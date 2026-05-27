@@ -5,6 +5,8 @@
 
 **Features**: 
 > * #108 Enhance the schedule template shortcut on the home screen.
+> * #104 Support to copy a account and follow the origianl position.
+> * #109 Support copy account from another book
 
 ## History
 
