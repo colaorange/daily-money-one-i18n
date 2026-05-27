@@ -1,7 +1,17 @@
 {
-    "noExpiredTransactionTemplate": "Không có mẫu giao dịch đã hết hạn",
-    "message": {
-        "confirmScheduleBypass": "Bạn có chắc muốn bỏ qua và sắp xếp lại lịch tiếp theo không?",
-        "confirmScheduleReset": "Bạn có chắc muốn đặt lại lịch hiện tại không?"
-    }
+  "noExpiredTransactionTemplate": "Không có mẫu giao dịch đã hết hạn",
+  "title": {
+    "cloneAccounts": "Nhân bản tài khoản"
+  },
+  "message": {
+    "accountExists": "Tài khoản {{name}} đã tồn tại.",
+    "confirmScheduleBypass": "Bạn có chắc chắn muốn bỏ qua và sắp xếp lại lịch tiếp theo không?",
+    "confirmScheduleReset": "Bạn có chắc chắn muốn đặt lại lịch hiện tại không?",
+    "cloneAccounts": "{{n}} tài khoản sau sẽ được sao chép vào sổ hiện tại. Các tài khoản có cùng tên đã tồn tại sẽ bị bỏ qua.",
+    "accountBatchCreated": "Đã tạo {{n}} tài khoản."
+  },
+  "action": {
+    "cloneAccountFromExisting": "Nhân bản từ mục hiện có",
+    "selectAll": "Chọn tất cả"
+  }
 }

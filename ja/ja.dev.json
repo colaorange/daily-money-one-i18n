@@ -1,7 +1,17 @@
 {
-    "noExpiredTransactionTemplate": "期限切れの取引テンプレートはありません",
-    "message": {
-        "confirmScheduleBypass": "現在の予定をスキップして次回予定を再設定しますか？",
-        "confirmScheduleReset": "現在の予定をリセットしますか？"
-    }
+  "noExpiredTransactionTemplate": "期限切れの取引テンプレートはありません",
+  "title": {
+    "cloneAccounts": "科目を複製"
+  },
+  "message": {
+    "accountExists": "科目 {{name}} はすでに存在します。",
+    "confirmScheduleBypass": "次のスケジュールをスキップして再調整してもよろしいですか？",
+    "confirmScheduleReset": "現在のスケジュールをリセットしてもよろしいですか？",
+    "cloneAccounts": "次の {{n}} 件の科目を現在の帳簿にコピーします。同じ名前の科目がすでに存在する場合はスキップされます。",
+    "accountBatchCreated": "{{n}} 件の科目を作成しました。"
+  },
+  "action": {
+    "cloneAccountFromExisting": "既存から複製",
+    "selectAll": "すべて選択"
+  }
 }

@@ -104,6 +104,7 @@ Translation is not complete after the first written output. Always perform a sec
 - Review the translation against the surrounding context, not sentence by sentence in isolation.
 - Compare each translated section with the source meaning and confirm that no meaning was omitted, added, reversed, or over-literalized.
 - Check that product-specific terms follow `TERMINOLOGY.md`, and that general-language uses of ambiguous words are still translated by context.
+- After translating, produce a terminology conformance report before reporting completion. For each target locale, read that locale's actual `./<locale>/translationTerminology.md`, identify the terminology entries relevant to the translated content, and report the source/product term, required target term, applied key or string, and PASS/FAIL result. Build this report from the terminology file used for that locale, not from a fixed global checklist. If a relevant term is defined in the terminology file but the translation does not use it, fix the translation before reporting completion.
 - If a target locale introduces new ambiguous words or product-specific wording risks that are not already covered by `TERMINOLOGY.md`, pause and propose them for confirmation. After confirmation, add shared ambiguity rules to `TERMINOLOGY.md` under `## Ambiguous Terms` and add locale-specific rules to `./<locale>/translationTerminology.md` before continuing.
 - For JSON files, review short UI labels separately from longer messages:
   - Short UI labels should be concise, natural, and consistent with app terminology.
@@ -122,6 +123,7 @@ Before reporting completion, validate and summarize the following:
 - JSON keys match the source reference files.
 - Interpolation placeholders such as `{{name}}` and i18n references such as `$t(...)` match the source.
 - Required terminology from `TERMINOLOGY.md` and the required `translationTerminology.md` files is used consistently.
+- A target-locale terminology conformance report was included, generated from the actual `./<locale>/translationTerminology.md` entries relevant to the translated content.
 - The target locale's writing system and regional wording were checked.
 - Long-form Markdown and store text received a context and naturalness review.
 - `store.md` short and long description lengths are within limits.

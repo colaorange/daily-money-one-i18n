@@ -1,7 +1,17 @@
 {
-    "noExpiredTransactionTemplate": "Süresi dolmuş işlem şablonu yok",
-    "message": {
-        "confirmScheduleBypass": "Sonraki zamanlamayı atlayıp yeniden düzenlemek istediğinizden emin misiniz?",
-        "confirmScheduleReset": "Geçerli zamanlamayı sıfırlamak istediğinizden emin misiniz?"
-    }
+  "noExpiredTransactionTemplate": "Süresi dolmuş işlem şablonu yok",
+  "title": {
+    "cloneAccounts": "Hesapları klonla"
+  },
+  "message": {
+    "accountExists": "{{name}} hesabı zaten var.",
+    "confirmScheduleBypass": "Sonraki zamanlamayı atlayıp yeniden düzenlemek istediğinizden emin misiniz?",
+    "confirmScheduleReset": "Geçerli zamanlamayı sıfırlamak istediğinizden emin misiniz?",
+    "cloneAccounts": "Aşağıdaki {{n}} hesap geçerli deftere kopyalanacak. Aynı ada sahip ve zaten var olan hesaplar atlanacak.",
+    "accountBatchCreated": "{{n}} hesap oluşturuldu."
+  },
+  "action": {
+    "cloneAccountFromExisting": "Mevcut olandan klonla",
+    "selectAll": "Tümünü seç"
+  }
 }

@@ -1,7 +1,17 @@
 {
-    "noExpiredTransactionTemplate": "ไม่มีแม่แบบรายการที่หมดอายุ",
-    "message": {
-        "confirmScheduleBypass": "แน่ใจหรือไม่ว่าต้องการข้ามและจัดกำหนดการถัดไปใหม่",
-        "confirmScheduleReset": "แน่ใจหรือไม่ว่าต้องการรีเซ็ตกำหนดการปัจจุบัน"
-    }
+  "noExpiredTransactionTemplate": "ไม่มีแม่แบบรายการที่หมดอายุ",
+  "title": {
+    "cloneAccounts": "โคลนบัญชี"
+  },
+  "message": {
+    "accountExists": "บัญชี {{name}} มีอยู่แล้ว",
+    "confirmScheduleBypass": "คุณแน่ใจหรือไม่ว่าต้องการข้ามและจัดเรียงกำหนดการถัดไปใหม่?",
+    "confirmScheduleReset": "คุณแน่ใจหรือไม่ว่าต้องการรีเซ็ตกำหนดการปัจจุบัน?",
+    "cloneAccounts": "บัญชี {{n}} รายการต่อไปนี้จะถูกคัดลอกไปยังสมุดบัญชีปัจจุบัน บัญชีที่มีชื่อเดียวกันและมีอยู่แล้วจะถูกข้าม",
+    "accountBatchCreated": "สร้างบัญชีแล้ว {{n}} รายการ"
+  },
+  "action": {
+    "cloneAccountFromExisting": "โคลนจากรายการที่มีอยู่",
+    "selectAll": "เลือกทั้งหมด"
+  }
 }

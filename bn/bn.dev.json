@@ -1,7 +1,17 @@
 {
-    "noExpiredTransactionTemplate": "মেয়াদোত্তীর্ণ কোনো লেনদেন টেমপ্লেট নেই",
-    "message": {
-        "confirmScheduleBypass": "আপনি কি নিশ্চিতভাবে এড়িয়ে গিয়ে পরবর্তী সময়সূচি পুনর্বিন্যাস করতে চান?",
-        "confirmScheduleReset": "আপনি কি নিশ্চিতভাবে বর্তমান সময়সূচি রিসেট করতে চান?"
-    }
+  "noExpiredTransactionTemplate": "মেয়াদোত্তীর্ণ কোনো লেনদেন টেমপ্লেট নেই",
+  "title": {
+    "cloneAccounts": "হিসাব ক্লোন করুন"
+  },
+  "message": {
+    "accountExists": "হিসাব {{name}} ইতিমধ্যে রয়েছে।",
+    "confirmScheduleBypass": "আপনি কি নিশ্চিত যে পরবর্তী সময়সূচি এড়িয়ে পুনর্বিন্যাস করতে চান?",
+    "confirmScheduleReset": "আপনি কি নিশ্চিত যে বর্তমান সময়সূচি রিসেট করতে চান?",
+    "cloneAccounts": "নিম্নলিখিত {{n}}টি হিসাব বর্তমান বইয়ে কপি করা হবে। একই নামে আগে থেকেই থাকা হিসাবগুলো এড়িয়ে যাওয়া হবে।",
+    "accountBatchCreated": "{{n}}টি হিসাব তৈরি করা হয়েছে।"
+  },
+  "action": {
+    "cloneAccountFromExisting": "বিদ্যমান থেকে ক্লোন করুন",
+    "selectAll": "সব নির্বাচন করুন"
+  }
 }

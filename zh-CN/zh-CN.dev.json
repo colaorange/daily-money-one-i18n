@@ -1,7 +1,17 @@
 {
     "noExpiredTransactionTemplate": "没有到期的记录模板",
+    "title": {
+        "cloneAccounts": "复制账户"
+    },
     "message": {
+        "accountExists": "账户 {{name}} 已经存在。",
         "confirmScheduleBypass": "你确定要跳过并安排下次排程吗？",
-        "confirmScheduleReset": "你确定要重置当前排程吗？"
+        "confirmScheduleReset": "你确定要重置当前排程吗？",
+        "cloneAccounts": "将复制以下 {{n}} 个账户到当前账本。已存在的同名账户将会跳过。",
+        "accountBatchCreated": "已成功创建 {{n}} 个账户。"
+    },
+    "action":{
+        "cloneAccountFromExisting": "从其他账户复制",
+        "selectAll": "全选"
     }
 }

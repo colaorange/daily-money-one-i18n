@@ -1,7 +1,17 @@
 {
-    "noExpiredTransactionTemplate": "Sem modelos de movimento expirados",
-    "message": {
-        "confirmScheduleBypass": "Tem a certeza de que pretende ignorar e reorganizar a próxima agenda?",
-        "confirmScheduleReset": "Tem a certeza de que pretende repor a agenda atual?"
-    }
+  "noExpiredTransactionTemplate": "Sem modelos de movimento expirados",
+  "title": {
+    "cloneAccounts": "Clonar contas"
+  },
+  "message": {
+    "accountExists": "A conta {{name}} já existe.",
+    "confirmScheduleBypass": "Tem a certeza de que pretende ignorar e reorganizar a próxima agenda?",
+    "confirmScheduleReset": "Tem a certeza de que pretende repor a agenda atual?",
+    "cloneAccounts": "As seguintes {{n}} contas serão copiadas para o livro atual. As contas com o mesmo nome que já existam serão ignoradas.",
+    "accountBatchCreated": "{{n}} contas foram criadas."
+  },
+  "action": {
+    "cloneAccountFromExisting": "Clonar a partir de existente",
+    "selectAll": "Selecionar tudo"
+  }
 }

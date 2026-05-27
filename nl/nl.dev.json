@@ -1,7 +1,17 @@
 {
-    "noExpiredTransactionTemplate": "Geen verlopen transactiesjablonen",
-    "message": {
-        "confirmScheduleBypass": "Weet je zeker dat je wilt overslaan en de volgende planning opnieuw wilt regelen?",
-        "confirmScheduleReset": "Weet je zeker dat je de huidige planning wilt resetten?"
-    }
+  "noExpiredTransactionTemplate": "Geen verlopen transactiesjablonen",
+  "title": {
+    "cloneAccounts": "Rekeningen klonen"
+  },
+  "message": {
+    "accountExists": "Rekening {{name}} bestaat al.",
+    "confirmScheduleBypass": "Weet je zeker dat je de volgende planning wilt overslaan en opnieuw wilt ordenen?",
+    "confirmScheduleReset": "Weet je zeker dat je de huidige planning wilt resetten?",
+    "cloneAccounts": "De volgende {{n}} rekeningen worden naar het huidige boek gekopieerd. Rekeningen met dezelfde naam die al bestaan, worden overgeslagen.",
+    "accountBatchCreated": "{{n}} rekeningen zijn aangemaakt."
+  },
+  "action": {
+    "cloneAccountFromExisting": "Klonen uit bestaande",
+    "selectAll": "Alles selecteren"
+  }
 }
