@@ -1,48 +1,49 @@
+
 ## Eredet
-![Daily Money](asset:///img/dmx480.png?height=200)
+![Daily Money](asset:///img/dmx480.png?height=200) 
 
-A `Daily Money` egy 2011-ből szarmazo, nyilt forráskodu, ingyenes es reklammentes androidos okostelefonos könyvelőalkalmazás. 2018-ban megújult, es `Daily Money+` neven folytatta, hogy illeszkedjen az akkori új Android rendszerhez, mikozben meg?rizte az ingyenes es reklammentes működes elvet.
+A `Daily Money` egy nyílt forráskódú, ingyenes és reklámmentes Android okostelefonos könyvelőszoftver, amely 2011-ből származik. 2018-ban átalakításon esett át, és `Daily Money+` néven született újjá, hogy igazodjon az akkori új Android rendszerhez, miközben továbbra is ragaszkodott az ingyenesség és reklámmentesség elveihez.
 
-A 2011-es első verziotol a 2018-as megújitasig a szoftver a szerző szabadidejeben keszult, főkent munkahelyvaltasok kozott. Az idő, az erőforrások es az egeszsegi allapot korlatai miatt később nem jutott eleg energia a program karbantartasara vagy a kozosseg kezelésere. Vegul a szerző teljes munkaidős allasanak leterheltsege miatt a szoftver teljesen hatterbe szorult.
+A 2011-es első verziótól a 2018-as megújult változatig a szoftver a szerző szabadidejében, állásváltoztatások között készült. Idő- és erőforráskorlátok, valamint egészségügyi okok miatt nem jutott elég energia a program későbbi karbantartására vagy a közösség kezelésére. Végül a szerző sűrű főállású munkája miatt a szoftver fejlesztése teljesen leállt.
 
-Bár a szerző kéves időt forditott a szoftver es a kozosseg fenntartasara, a sajat fejlesztes? appot tovabbra is naponta hasznalta könyvelésre. Ahogy telt az idő, a szoftver egyre inkabb lemaradt a rendszerfrissítésektől, es bizonyos funkciok mar nem futottak új okostelefonokon. A szerző aggodni kezdett, hogy egy nap az app teljesen működeskeptelenne valik, es tiz evnyi feljegyzes elveszik.
+Bár a szerző nem töltött sok időt a szoftver és a közösség karbantartásával, a saját fejlesztésű szoftvert a mai napig minden nap használja könyvelésre. Az idő múlásával azonban a szoftver fokozatosan lemaradt a rendszerfrissítések mögött, és egyes funkciók már nem működnek az új okostelefonokon. A szerző aggódni kezdett, hogy egy nap a szoftver teljesen leáll, és a tíz évnyi bejegyzés elveszik.
 
-## Valsagbol lehetőseg
+## Válság mint lehetőség
 
-Roviden: a szerzőt 2023 vegen elbocsatotta a cege.
+Röviden: a szerzőt 2023 végén elbocsátotta a cége. 
 
-Az, hogy az egesz reszleget teljesítménytől es képességektől fuggetlenul elkuldtek, nagyon elkeserítő volt. Honapok hallgatasa utan, kozepkorukent es kapcsolatok nelkul nem volt könnyű jo allast talalni. Ekkor valt vilagossa, hogy masokert dolgozni helyett talan ertelmesebb ut a sajat szoftverfejlesztesre osszpontositani, es kozvetlenul a felhasznalokat szolgalni.
+Az a helyzet, hogy a teljes részleget leépítették a teljesítménytől vagy képességektől függetlenül, rendkívül elkedvetlenítette a szerzőt. Hónapokig tartó csend után, középkorúként és kapcsolatok nélkül nem volt könnyű jó állást találni. Ekkor jött a felismerés, hogy a saját szoftverfejlesztésre való összpontosítás és a felhasználók közvetlen kiszolgálása tartalmasabb döntés lehet, mint másoknak gürcölni.
 
-Ezert a szerző visszatert, es úgy dontott, hogy sajat fuggetlen szoftverfejlesztő studiojara koncentral. Az első termek termeszetesen a több mint tiz eve hasznalt "Daily Money" helyreallitasa lett. Hiszen sok felhasznalo az első verzio ota hasznalja, es a szerző halas a tamogatasukert.
+Ezért a szerző visszatért, és elhatározta, hogy független szoftverfejlesztő stúdiójának működtetésére koncentrál. Az első termék természetesen a „Daily Money” helyreállítása, amelyet a szerző már több mint egy évtizede használ. Végül is még mindig sok olyan felhasználó van, aki az első verzió óta használja, és a szerző nagyon hálás a támogatásukért.
 
 ## Daily Money One
 
-A `Daily Money One` egy könnyen használható könyvelőalkalmazás, amely egyszerű könyvelési fogalmakra épül. Egyszerő felületet kinal, latvanyos diszitesek es játékos elemek nelkul, hogy a felhasznalok könnyen a könyvelésre figyelhessenek. Szemelyes es csaladi penzúgyekhez is alkalmas, de kisvallalkozasok könyvelési igenyeihez is használható. A jövőben tovabbi, haztartasokra es kisvallalkozasokra szabott funkciok erkeznek, hogy teljesebb szolgaltatast nyújtson.
+A `Daily Money One` egy könnyen használható, egyszerű számviteli alapelvekre épülő könyvelési alkalmazás. Egyszerű felhasználói felülettel rendelkezik, nincsenek csicsás dizájnok vagy játékosított elemek – kizárólag arra tervezték, hogy a felhasználók könnyedén a könyvelésre koncentrálhassanak. Amellett, hogy alkalmas személyes és családi könyvelésre, kisvállalkozások számviteli igényeinek is megfelel. A jövőben több olyan funkciót fogunk bevezetni, amelyeket kifejezetten a háztartások és kisvállalkozások igényeire szabtunk, hogy még átfogóbb szolgáltatást nyújtsunk.
 
-`A reklamokrol`: Azert, hogy a program karbantartasa es működtetese folytatodhasson, reklamok kerultek az alkalmazasba. Jelenleg ket reklamszint allithato be, es a jövőben a felhasznaloi szamok alapjan is tortenhetnek modositasok. A szerző célja tovabbra is az, hogy a reklamok ne rontsak a felhasznaloi elmenyt. Telepites utan a reklambeallitasokat itt modosithatod: "Beallitasok > Reklamok".
+`A reklámokról`: Annak érdekében, hogy a szerző két macskájának jusson eledel, a szerzőnek pedig kávé, valamint a program folyamatos karbantartása és működtetése biztosított legyen, reklámok kerültek beépítésre. Jelenleg két reklámszint áll a felhasználók rendelkezésére a beállításhoz, és a jövőben a felhasználók száma alapján további finomításokat végzünk. A szerző kiindulópontja továbbra is az, hogy a reklámok ne rontsák a felhasználói élményt. Telepítés után a „Beállítások > Reklámok” menüpontban módosíthatja a reklámbeállításokat.
 
-Jelenlegi funkciok:
-- Napi kiadások, bevételek, eszközok es kötelezettségek rogzitese.
-- Egyenlegkimutatások megtekintese különböző számlákhoz es barmely időszakhoz.
-- Több konyv támogatása.
-- Több egyeni számla es hierarchikus számlák letrehozasa.
-- Egy-a-többhoz tranzakciófelosztas számlák kozott.
-- Tranzakciók atvezetese konyvek kozott.
-- Tranzakciósablonok, ismétlődő ütemezések es emlékeztet?k.
-- Időszakos költségkeretek es teljesulesi arany megjelenitese.
-- Kulonboz? tipusu es időszaku diagramok.
-- Adatbazis mentese mobileszközre es felhőbe, majd visszaallitas mobileszközről.
-- Nyilvanos JSON formatum mentese mobileszközre es visszaallitasa mobileszközről.
-- Jelszavas vedelem.
-- Tranzakciók es egyenlegkimutatások exportalasa XLSX-be.
-- CSV exportfajlok importalasa a "Daily Money+" alkalmazasbol.
-- Nincs hasznalati korlat, teljesen ingyenes.
-- Tovabbi funkciok fejlesztes alatt...
+Jelenlegi funkciók:
+- Napi kiadások, bevételek, eszközök és kötelezettségek rögzítése.
+- Egyenlegkimutatások megtekintése a különböző számlákhoz és tetszőleges időszakokhoz.
+- Több könyv támogatása.
+- Több egyéni számla és hierarchikus számla létrehozása.
+- Tranzakciók megosztása egy-a-többhöz arányban a számlák között.
+- Tranzakciók átvitele könyvek között.
+- Tranzakciósablonok, ismétlődő ütemezések és emlékeztetők.
+- Időszakos költségkeretek és a költségkeret-teljesülési arány megjelenítése.
+- Különféle típusú és időszakos diagramok biztosítása.
+- Adatbázis mentése mobil eszközre és felhőbe, valamint visszaállítása mobil eszközről.
+- Nyilvános JSON formátumú mentés mobil eszközre, és visszaállítás mobil eszközről.
+- Jelszavas védelem
+- Tranzakciók és egyenlegkimutatások exportálása XLSX formátumba.
+- CSV exportfájlok importálása a „Daily Money+” alkalmazásból.
+- Használati korlátok nélkül, teljesen ingyenes.
+- További funkciók fejlesztése folyamatban...
 
-[`Hasznalati utmutato.`](https://youtu.be/uN3GkA_Afuw)
+[`Hogyan kell használni.`](https://youtu.be/uN3GkA_Afuw)
 
-[`Daily Money+ CSV importalasa.`](https://youtu.be/IkZsiJ5TAyw)
+[`Daily Money+ CSV importálása.`](https://youtu.be/IkZsiJ5TAyw)
 
-Ha tetszik a program, kérlek adj neki csillagot, hogy többen megismerjek.
-- [`Csillagozashoz ide visz.`](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone)
-- [`Csatlakozas a Facebook rajongoi oldalhoz.`](https://www.facebook.com/colaorange.daily.money/) (Kerdeseket inkabb itt tegyel fel, ne a Play Aruhazban)
+Ha tetszik ez a program, kérjük, ne felejts el értékelést adni a népszerűsítéséhez.
+- [`Csillagok adása (Értékelés).`](https://play.google.com/store/apps/details?id=com.colaorange.dailymoneyone)
+- [`Csatlakozás a Facebook rajongói oldalhoz.`](https://www.facebook.com/colaorange.daily.money/) (Kérdéseidet itt tedd fel a Play Áruház helyett)

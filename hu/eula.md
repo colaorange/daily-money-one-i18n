@@ -1,36 +1,36 @@
-## Végfelhasználói licencszerződés
+## Végfelhasználói Licencszerződés
 
-A szoftver használata előtt figyelmesen olvassa el ezt a Végfelhasználói licencszerződést ("Szerződés"). Ez a Szerződés meghatározza a szoftver használatára vonatkozó, jogilag kötelező feltételeket.
+Kérjük, a szoftver használata előtt figyelmesen olvasd el ezt a Végfelhasználói Licencszerződést („Szerződés”). Ez a Szerződés határozza meg a szoftver használatára vonatkozó, jogilag kötelező érvényű feltételeket.
 
-### A licenc hatálya:
+### A licenc hatóköre:
 
-A szoftver kizárólag személyes használatra licencelt, és nem adható bérbe, nem értékesíthető, nem ruházható át és nem terjeszthető tovább.
-A szoftver visszafejtése, dekompilálása, visszafejtett dekódolása, módosítása, újraösszeállítása vagy újjáépítése tilos.
+A szoftver licence kizárólag személyes használatra jogosít fel, és nem adható bérbe, nem értékesíthető, nem ruházható át, és nem terjeszthető tovább.
+A szoftver visszafejtése, forráskódjának visszaállítása (dekompilálása), visszafejtése (dekódolása), módosítása, szétbontása vagy újraépítése tilos.
 
 ### Szellemi tulajdon:
 
-A szoftvert és minden kapcsolódó fájlt, képet, hanganyagot stb. szerzői jogi és egyéb szellemi tulajdonra vonatkozó törvények védik.
-A szoftvert vagy annak bármely részét nem használhatja kereskedelmi célokra, ideértve többek között a közzétételt, megjelenítést, sugárzást stb.
+A szoftver és a kapcsolódó fájlok, képek, hanganyagok stb. szerzői jogi és egyéb szellemi tulajdonvédelmi törvények védelme alatt állnak.
+Nem használhatod a szoftvert vagy annak bármely részét kereskedelmi célokra, beleértve, de nem kizárólagosan a publikálást, megjelenítést, közvetítést stb.
 
-### Felelősség korlátozása:
+### A felelősség korlátozása:
 
-A szoftver fejlesztője nem felel a szoftver használatából eredő semmilyen közvetlen vagy közvetett veszteségért, ideértve többek között az elmaradt nyereséget, az üzletmenet megszakadását stb.
+A szoftverfejlesztő nem vállal felelősséget a szoftver használatából eredő semmilyen közvetlen vagy közvetett veszteségért, beleértve, de nem kizárólagosan az elmaradt hasznot, az üzletmenet megszakadását stb.
 
 ### Jótállás kizárása:
 
-A szoftver "adott állapotban" kerül rendelkezésre bocsátásra, minden kifejezett vagy hallgatólagos jótállás nélkül, ideértve többek között a forgalomképességet, egy adott célra való alkalmasságot stb.
+A szoftvert „jelenlegi állapotában” biztosítjuk, bármilyen kifejezett vagy hallgatólagos garancia nélkül, beleértve, de nem kizárólagosan az eladhatóságot, a konkrét célra való alkalmasságot stb.
 
-### Megszüntetés:
+### Felmondás:
 
-A szoftver fejlesztője fenntartja a jogot, hogy a jelen Szerződés megsértése esetén azonnal megszüntesse az Ön szoftverhasználati licencét, és fenntartja a jogot, hogy jogi lépéseket tegyen Önnel szemben.
+A szoftverfejlesztő fenntartja a jogot, hogy a jelen Szerződés megsértése esetén azonnal visszavonja a szoftver használatára vonatkozó licencedet, és fenntartja a jogot, hogy jogi lépéseket tegyen ellened.
 
 ### Egyéb feltételek:
 
-Ez a Szerződés képezi az Ön és a szoftver fejlesztője közötti teljes megállapodást, és felülír minden korábbi írásbeli vagy szóbeli megállapodást.
+Ez a Szerződés alkotja a teljes megállapodást közted és a szoftverfejlesztő között, és felülmúl minden korábbi írásbeli vagy szóbeli megállapodást.
 
-### Elfogadás:
+### Megállapodás:
 
-Az "Elolvastam és elfogadom" gombra kattintva Ön elismeri, hogy elolvasta, megértette és elfogadja ezt a szerződést.
+Az „Elolvastam és elfogadom” gombra kattintva elismered, hogy elolvastad, megértetted és elfogadod ezt a megállapodást.
 
 ----
-Verzió 1. 2024-05-01
+1. verzió, 2024-05-01

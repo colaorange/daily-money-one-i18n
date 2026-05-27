@@ -1,35 +1,35 @@
-## Google Ads-hozzájárulási szerződés
+## Google Hirdetési Hozzájárulási Szerződés
 
-Alkalmazásunk használatával Ön elfogadja a következőket:
+Alkalmazásunk használatával elfogadod az alábbiakat:
 
 ### Személyre szabott hirdetések:
 
-Érdeklődési körei és böngészési viselkedése alapján személyre szabott hirdetéseket jeleníthetünk meg.
+Az érdeklődési köröd és böngészési szokásaid alapján személyre szabott hirdetéseket jeleníthetünk meg számodra.
 
 ### Hirdetésmérés:
 
-A hirdetések hatékonyságának értékeléséhez használhatjuk a Google Analytics szolgáltatást vagy hasonló elemzőeszközöket.
+A Google Analytics vagy hasonló elemző eszközök segítségével értékelhetjük a hirdetések hatékonyságát.
 
 ### Helyadatok:
 
-Adott esetben gyűjthetjük a helyadatait, hogy az Ön tartózkodási helyéhez kapcsolódó hirdetéseket jelenítsünk meg.
+Adott esetben gyűjthetjük a helyadataidat, hogy a tartózkodási helyednek megfelelő hirdetéseket jelenítsünk meg.
 
-### Eszközinformációk:
+### Eszközinformáció:
 
-Gyűjthetünk információkat az Ön által használt eszközről, beleértve az eszköz modelljét, az operációs rendszer verzióját stb.
+Gyűjthetünk információkat az általad használt eszközről, beleértve az eszköz modellt, az operációs rendszer verzióját stb.
 
 ### Egyéb információk:
 
-A hirdetési élmény javítása érdekében gyűjthetünk más, a hirdetések megjelenítéséhez kapcsolódó információkat.
+A hirdetési élmény javítása érdekében egyéb, a hirdetések megjelenítésével kapcsolatos információkat is gyűjthetünk.
 
-### Az Ön választási lehetőségei:
+### Választási lehetőségeid:
 
-Lehetősége van elutasítani a személyre szabott hirdetéseket, vagy kezelni hirdetési beállításait.
-Hirdetési beállításait kezelheti az eszköz beállításaiban vagy a Google hirdetésbeállításainak felkeresésével.
+Lehetőséged van elutasítani a személyre szabott hirdetéseket, vagy kezelni a hirdetési beállításaidat.
+A hirdetési beállításaidat az eszközöd beállításaiban vagy a Google hirdetési beállítások oldalán kezelheted.
 
-### Elfogadás:
+### Megállapodás:
 
-Az "Elolvastam és elfogadom." lehetőségre kattintva Ön elismeri, hogy elolvasta és megértette a Google Ads-hozzájárulási szerződésünket, és hozzájárul adatainak a jelen szerződésben leírtak szerinti gyűjtéséhez és feldolgozásához.
+Az „Elolvastam és elfogadom” gombra kattintva elismered, hogy elolvastad és megértetted a Google Hirdetési Hozzájárulási Szerződésünket, és hozzájárulsz az adataid gyűjtéséhez és feldolgozásához a jelen szerződésben leírtak szerint.
 
 ----
-Verzió 1. 2025-05-01
+1. verzió, 2025-05-01

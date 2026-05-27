@@ -1,89 +1,90 @@
-[`Bevezető video megtekintese YouTube-on`](https://youtu.be/uN3GkA_Afuw)
-[`Online dokumentacio`](https://colaorange.gitbook.io/daily-money-one-doc/eng)
 
-## Fogalmak
+[`Bemutató videó megtekintése a YouTube-on`](https://youtu.be/uN3GkA_Afuw)
+[`Online dokumentáció`](https://colaorange.gitbook.io/daily-money-one-doc/eng)
 
-A Daily Money fő fogalmai nagyon egyszerűek, mindossze harom van belőluk:
+## Alapelvek
+
+A Daily Money fő alapelvei rendkívül egyszerűek, mindössze három van belőlük:
 
 > 1. Egy vagy több `Könyv`
-> 2. A konyvekben talalhato kulonfele `Számlak`
-> 3. Összegek athelyezese különböző számlák kozott, es ezeknek a `Tranzakcióknak` a rogzitese
+> 2. Különböző `Számlák` a könyveken belül
+> 3. Összegek átvitele a különböző számlák között, és ezen `Tranzakciók` rögzítése
 
 ## ![Könyvek](icon:///notebook-multiple) Könyvek
 
-Legalabb egy Könyvre szukseg van, amelyben a számlák azonos pénznemet hasznalnak. Igeny szerint több, azonos pénznem? Könyvet is letrehozhatsz.
+Legalább egy Könyv szükséges, amelyben a számlák azonos pénznemmel rendelkeznek. Igényeid szerint több, azonos pénznemű Könyvet is létrehozhatsz.
 
-## ![Számlak](icon:///bookmark-multiple) Számlak
+## ![Számlák](icon:///bookmark-multiple) Számlák
 
-Ot különböző számlatipus letezik, amelyeket a számlákezelő képernyőn adhatsz hozza, szerkeszthetsz vagy torolhetsz.
+Öt különböző típusú számla létezik, amelyeket a számlakezelő képernyőn adhatsz hozzá, szerkeszthetsz vagy törölhetsz.
 
-> - `Bevétel`: fizetes stb.
-> - `Kiadás`: etel, szorakozas stb.
-> - `Eszköz`: keszpenz, bank stb.
-> - `Kötelezettség`: hitelkartyak, hitelek stb.
+> - `Bevétel`: Fizetés stb.
+> - `Kiadás`: Étel, szórakozás stb.
+> - `Eszköz`: Készpénz, bank stb.
+> - `Kötelezettség`: Hitelkártyák, hitelek stb.
 > - `Egyéb`: ...
 
-* A számlanevekben ponttal (.) lehet elvalasztani az alszinteket (pl. Etel.Etterem, Etel.Osszejovetel), igy számlavalasztaskor es egyenlegkimutatásnal áttekinthetőbb hierarchia jelenik meg.
-* A számlák sorrendezhetők, hogy a gyakrabban hasznalt számlák előrebb keruljenek.
+* A számlanevekben használhatsz pontot (.) az elválasztáshoz (pl. Étel.Étterem, Étel.Összejövetel), ami szebb hierarchikus megjelenítést biztosít a számlák kiválasztásakor vagy az egyenlegkimutatások megtekintésekor.
+* Rendezheted a számlákat, hogy a gyakrabban használtak kerüljenek előtérbe.
 
 ## ![Tranzakciók](icon:///receipt) Tranzakciók
 
-Amikor számlák kozott tranzakció tortenik, peldaul koltes, penz athelyezese vagy hitelkartyas fizetes (peldaul 320 forintot koltottel etkezesre), az `Új tranzakció` funkcioval hozz letre új tranzakciót.
-> - Valaszd ki a `Datum es idő` erteket: a tranzakció datuma es ideje.
-> - Valaszd ki a `Forrás` erteket: Keszpenz
-> - Valaszd ki a `Cél` erteket: Etterem
-> - Add meg az `Összeg` erteket: 320
-> - Add meg a `Jegyzet` erteket: Bárati osszejovetel
-> - Kattints a `Letrehozas` gombra
+Ha tranzakció történik a számlák között – például költés, pénzmozgatás a számlák között, vagy hitelkártyás fizetés (pl. elköltöttél 320 forintot egy étkezésre) –, használd az `Új tranzakció` lehetőséget egy új tranzakció létrehozásához.
+> - Válaszd ki a `Dátum és idő` mezőt: a tranzakció dátuma és ideje.
+> - Válaszd ki a `Forrás` mezőt: Készpénz
+> - Válaszd ki a `Cél` mezőt: Étkezés
+> - Add meg az `Összeg` mezőt: 320
+> - Add meg a `Jegyzet` mezőt: Összejövetel a barátokkal
+> - Kattints a `Létrehozás` gombra.
 
-## Peldak
+## Példák
 
-### Fizetes atvezetese bankba
+### Fizetés átutalása a bankba
 
-> `Bevétel` tipusu Forrásszámla: Fizetes
-> `Eszköz` tipusu Célszámla: Bank
+> Forrás `Bevétel` számla: Fizetés
+> Cél `Eszköz` számla: Bank
 
-### Keszpenzfelvetel bankbol
+### Készpénz felvétele bankból
 
-> `Eszköz` tipusu Forrásszámla: Bank
-> `Eszköz` tipusu Célszámla: Keszpenz
+> Forrás `Eszköz` számla: Bank
+> Cél `Eszköz` számla: Készpénz
 
-### Telefon vasarlasa hitelkartyaval
+### Telefon vásárlása hitelkártyával
 
-> `Kötelezettség` tipusu Forrásszámla: Hitelkartya
-> `Kiadás` tipusu Célszámla: Elektronika
+> Forrás `Kötelezettség` számla: Hitelkártya
+> Cél `Kiadás` számla: Elektronika
 
-### Hitelkartya-számla fizetese bankbol
+### Hitelkártya-számla kiegyenlítése bankból
 
-> `Eszköz` tipusu Forrásszámla: Bank
-> `Kötelezettség` tipusu Célszámla: Hitelkartya
+> Forrás `Eszköz` számla: Bank 
+> Cél `Kötelezettség` számla: Hitelkártya
 
-## ![Egyenlegkimutatás](icon:///scale-balance)![Egyenlegdiagram](icon:///chart-pie) Egyenlegkimutatás es diagram
+## ![Egyenlegkimutatás](icon:///scale-balance)![Egyenlegdiagram](icon:///chart-pie) Egyenlegkimutatás és diagram
 
-A rendszeres könyveléssel az alkalmazas segit minden tranzakció reszletet rogziteni, majd a lekerdezesi feltetelek alapjan egyenlegkimutatást keszit. Ez a kimutatas vilagosan megjeleniti az eszközok es kötelezettségek egyenleget különböző időszakokban, igy jobban átláthatod pénzügyi helyzetedet. Emellett az alkalmazas kulonfele diagramokat is keszithet a bevételek es kiadások vizualis megjelenitesehez, hogy konnyebben megertsd penzaramlasodat.
+A szorgalmas könyvelés révén az alkalmazás segít rögzíteni az összes tranzakció részleteit, és a keresési feltételek alapján egyenlegkimutatást készít. Ez a kimutatás egyértelműen mutatja az eszközök és kötelezettségek egyenlegét a különböző időszakokban, így jobban átláthatod a pénzügyi helyzetedet. Ezenkívül az alkalmazás különféle diagramokat is tud készíteni, amelyek vizuálisan ábrázolják a bevételeidet és kiadásaidat, megkönnyítve a pénzmozgások megértését.
 
-## Számlak kezdő egyenlegei
+## Számlák kezdő egyenlege
 
-Az első hasznalatkor mar lehetnek meglévő számlaid valos ertekekkel, peldaul bankszámla-egyenleg, keszpenz vagy hitelkartya-tartozas. Ahhoz, hogy az egyenlegkimutatás pontosabb szamitasokat adjon, a számlák inicializalasaval beallithatod ezek helyes kezdő egyenleget. Igy az egyenlegkimutatás a valos pénzügyi helyzetedet tukrozheti.
+Amikor először használod az alkalmazást, előfordulhat, hogy már rendelkezel néhány valós egyenleggel rendelkező számlával, mint például banki betétek, készpénz vagy hitelkártya-tartozások. Annak érdekében, hogy az egyenlegkimutatás pontosabb számítási eredményeket mutasson, használhatod a számlák inicializálása funkciót, amellyel beállíthatod ezen számlák helyes kezdő egyenlegét. Így elérheted, hogy az egyenlegkimutatás a valós pénzügyi helyzetet tükrözze.
 
-## Egy-a-többhoz felosztas (halado)
+## Egy-a-többhöz megosztás (Haladó)
 
-Előfordulhat, hogy egyetlen kiadás több kategoriat erint. Peldaul egy szupermarketben egyszerre vasarolhatsz elelmiszert, haztartasi cikkeket es elektronikai termekeket. Erre az alkalmazas halado tranzakció-letrehozasi es szerkesztesi lehetőseget ad, amellyel egyetlen kiadást több különböző kiadási kategoriara oszthatsz. Mas szoval egy hitelkartyas vasarlas összeget több kategoria, peldaul elelmiszer, haztartasi cikk es elektronika kozott oszthatod fel. Megjegyzes: azonos konyvon beluli tranzakcióknal, mivel a pénznem azonos, a kimenő összeg teljes ertekenek meg kell egyeznie a bejövő összeg teljes ertekevel, kulonben a program elutasitja a tranzakció letrehozasat.
+Esetenként egyetlen kiadás több különböző kiadási kategóriát is érinthet. Például egy szupermarketben történő vásárlás során egyszerre vehetsz élelmiszert, napi szükségleti cikkeket és elektronikai termékeket is. Ennek kezelésére az alkalmazás haladó tranzakciószerkesztést biztosít, amellyel egyetlen kiadást több különböző kiadási kategóriához rendelhetsz. Más szóval, egyetlen hitelkártyás vásárlás összegét feloszthatod például élelmiszerre, napi szükségletekre és elektronikai cikkekre. Kérjük, vedd figyelembe: Az ugyanazon a könyvön belüli tranzakcióknál – mivel a pénznemek megegyeznek – a kimenő (forrás) összegek összegének meg kell egyeznie a bejövő (cél) összegek összegével, különben a program elutasítja a tranzakció létrehozását.
 
-## Atvezetes konyvek kozott
+## Átvitel könyvek között
 
-A program lehetőve teszi az atvezetest különböző konyvek számlai kozott. Akar alap, akar halado tranzakciószerkesztő vagy -letrehozo képernyőn vagy, számlavalasztaskor mas konyvek számlait is kivalaszthatod. Mivel a különböző konyvek pénznemertekei elterhetnek, es az arfolyam nem rogzitett, peldaul új tajvani dollarrol amerikai dollarra történő atvezetesnel a program nem korlatozza, hogy a kimenő es bejövő összegek teljes erteke egyezzen. A tranzakciókat a tenyleges összegek alapjan, körültekintően hozd letre.
+A program lehetővé teszi a különböző könyvekben lévő számlák közötti átvitelt is. Akár az alap, akár a haladó tranzakciószerkesztő vagy -létrehozó képernyőn vagy, a számlák kiválasztásakor választhatsz számlákat más könyvekből is. Mivel a különböző könyvek pénznemei eltérhetnek, és az átváltási árfolyam nem rögzített (például ha forintról euróra utalsz), a program nem korlátozza a tranzakció létrehozását az alapján, hogy a kimenő és bejövő összegeknek meg kell egyezniük. Kérjük, a tranzakciók létrehozásakor a tényleges összegek alapján járj el, és légy körültekintő.
 
-## Egyenlegkimutatás es diagramok gyorsnezete
+## Egyenlegkimutatások és diagramok gyorsnézete
 
-Egyenlegkimutatás vagy diagramok bongeszesekor konkret számlaelemeket adhatsz hozza a Kezdőképernyő gyorsnezetehez [*1]. Egyszerően huzd jobbra az elemet az egyenlegkimutatásban, es koppints a `Hozzaadas a gyorsnezethez` gombra, vagy koppints a diagramkartya jobb felső sarkaban lévő "Hozzaadas a gyorsnezethez" ikonra. Ezutan a Kezdőképernyőn latni fogod az adott elem eszköz- es kötelezettségegyenleget, illetve a Kezdőképernyő diagramoldalan is megtekintheted. Ezeket az elemeket a `Beallitasok > Kezdőképernyő` alatt rendezheted vagy eltavolithatod.
+Az egyenlegkimutatás vagy a diagramok böngészése közben bizonyos számlaelemeket hozzáadhatsz a Kezdőlap Gyorsnézetéhez [*1]. Egyszerűen húzd jobbra az elemet az egyenlegkimutatásban, és kattints a `Hozzáadás a gyorsnézethez` gombra, vagy kattints a diagram kártya jobb felső sarkában található „Hozzáadás a gyorsnézethez” ikonra. Ezután a Kezdőlapon láthatod majd az adott elem eszközeinek és kötelezettségeinek egyenlegét, illetve a Kezdőlap diagram oldalán is megtekintheted azt. Ezenkívül rendezheted vagy eltávolíthatod ezeket az elemeket a `Beállítások > Kezdőképernyő` menüpontban.
 
-[*1] A tul sok gyorsnezeti elem novelheti a Kezdőképernyő betoltesi idejet.
+[*1] Túl sok Gyorsnézet elem a Kezdőlapon növelheti a Kezdőlap betöltési idejét.
 
-## Sablonok es ismétlődő ütemezés
+## Sablonok és ismétlődő ütemezések
 
-Gyakori könyvelési műveletekhez tranzakciósablonokat állíthatsz be, igy gyorsabban adhatsz hozza tranzakciókat. Rendszeresen ismétlődő könyvelési műveletekhez ismétlődő ütemezés? sablonokat is letrehozhatsz. A program esedekessegkor ertesit, igy gyorsan hozzaadhatod a tranzakciót, es automatikusan beutemezi a következő esedekesseget. Ehhez huzd balra az elemet a tranzakciólistaban, koppints az `Új sablon` elemre, add meg az ütemezési időt, majd hozd letre. Ezeket az elemeket a `Sablonok` oldalon rendezheted, szerkesztheted vagy eltavolithatod.
+A gyakori könyvelési műveletekhez tranzakciósablonokat állíthatsz be, így gyorsan hozzáadhatsz tranzakciókat. Rendszeresen ismétlődő könyvelési tételekhez is beállíthatsz ismétlődő ütemezési sablonokat. A program értesítést küld az esedékességkor, lehetővé téve a tranzakció gyors hozzáadását, és automatikusan ütemezi a következő esedékességet. Egyszerűen húzd balra az elemet a tranzakciólistában, koppints az `Új sablon` lehetőségre, add meg az ütemezési időt, majd hozd létre. Ezenkívül rendezheted, szerkesztheted vagy eltávolíthatod ezeket az elemeket a `Sablonok` oldalon.
 
-## Költségkeret-beallitasok
+## Költségkeret-beállítások
 
-Az egyenlegkimutatás bongeszese kozben huzd jobbra a számlaelemet, majd koppints a `Költségkeret letrehozasa` gombra, es válaszd ki a modot. Letrehozas utan a költségkeret előrehaladasat az egyenlegkimutatásban vagy a Kezdőképernyő gyorsnezeteben láthatód. Ezeket az elemeket a `Költségkeretek` oldalon rendezheted, szerkesztheted vagy eltavolithatod.
+Az egyenlegkimutatás böngészése közben egyszerűen húzz jobbra egy számlát, kattints a `Költségkeret létrehozása` gombra, és válaszd ki a módot. A létrehozás után a költségkeret állását az egyenlegkimutatásban vagy a Kezdőlap Gyorsnézetében követheted nyomon. Ezenkívül rendezheted, szerkesztheted vagy eltávolíthatod ezeket a tételeket a `Költségkeretek` oldalon.

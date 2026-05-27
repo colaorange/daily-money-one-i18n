@@ -1,54 +1,54 @@
-App Name:
+App Name: 
 Daily Money One
 
-Short description:
-Napi pénzügyi követés magánszemélyeknek, családoknak es kisvállalkozásoknak.
+Short description: 
+Napi pénzügyi követés egyéneknek, családoknak és kisvállalkozásoknak.
 
 Long description:
-Daily Money One - egyszerű, erős es megbízható pénzügyi követés
+【Daily Money One】 - Egyszerű, hatékony és megbízható pénzügyi követés
 
-A klasszikus "Daily Money" es "Daily Money+" alapjaira épül, az eredeti szerző kézzel készített új alkalmazásaként.
-Hiszünk abban, hogy a könyvelés nem teher, hanem eszköz ahhoz, hogy kézben tartsd az életed.
-Ez nem reklámokkal es zavaró játékos elemekkel teli app, hanem tiszta könyvelőalkalmazás azoknak, akik komolyan veszik pénzügyeiket.
+A klasszikus „Daily Money” és „Daily Money+” alkalmazásokon alapuló, a szerző által kézzel készített remekmű.
+Hiszünk abban, hogy a könyvelés nem teher, hanem a saját életed irányításának módja.
+Ez nem egy reklámokkal vagy zavaró játékokkal teli app; ez egy tiszta könyvelő alkalmazás azok számára, akik komolyan veszik a pénzügyeiket.
 
 Miért válaszd a Daily Money One-t?
 
-Tiszta es hatekony, zavaró elemek nelkul
-Nincsenek bonyolult közösségi funkciok vagy figyelemelterelő játékositas. Átlátható felületet kapsz, amellyel másodpercek alatt rögzíthetsz tranzakciókat.
+✅ Tiszta és hatékony, zavaró tényezők nélkül
+Nincsenek bonyolult közösségi funkciók vagy zavaró játékosítás. A leginkább intuitív felületet biztosítjuk, amellyel másodpercek alatt rögzítheted a tranzakciókat.
 
-Gyakorlati könyvelési fogalmak egyszerűen
-Több mint egyszerű pénzmozgásnapló. Az Eszközök, Kötelezettségek, Bevételek es Kiadások egyszerű szerkezetével könnyen átláthatod nettó vagyonodat.
-- Hierarchikus számlák: te ismered legjobban a pénzügyi struktúrádat. Korlátlan szintű alszámlák támogatása.
-- Több konyv: kulon tarthatod a szemelyes, csaladi, uzleti vagy utazasi kiadásokat. Egy app minden helyzethez.
-- Egy-a-többhoz tranzakciófelosztas: egy szupermarketes blokk etelt, haztartasi cikkeket es eszközoket is tartalmaz? Nem gond. Egy tranzakció több kiadási tételhez kapcsolhato, igy minden forint pontosan követhető.
+✅ Praktikus számviteli alapelvek egyszerűen
+Több mint egy egyszerű készpénzáramlási napló! Az eszközök, kötelezettségek, bevételek és kiadások egyszerű struktúrájával könnyedén átláthatod a „Nettó eszköz” állapotodat.
+- Hierarchikus számlák: Te ismered a legjobban a pénzügyi struktúrádat. Végtelen szintű alszámlát támogatunk.
+- Több könyv: Tartsd teljesen külön a személyes, családi, üzleti vagy utazási kiadásokat. Egyetlen alkalmazás minden élethelyzetre.
+- Egy-a-többhöz megosztott tranzakciók: A szupermarket számláján élelmiszer, háztartási cikkek és elektronikai cikkek is szerepelnek? Nem probléma. Egyetlen tranzakció több kiadási tételhez is tartozhat, pontosan követve minden fillért.
 
-Erős adatelemzés es költségkeret-kezelés
-- Valós idejű jelentések: bármikor megtekintheted az egyenlegkimutatásokat es diagramokat. Penzúgyi helyzeted egy pillantásra látható.
-- Költségkeretek: havi vagy éves költségkereteket állíthatsz be valos idejű előrehaladással, hogy hatekonyabban kezeld a költéseket.
-- Sokféle diagram: napi, heti, havi es éves trend- es kordiagramok segitenek megtalalni a megtakaritasi lehetőségeket.
+✅ Erőteljes adatelemzés és költségkeret-ellenőrzés
+- Valós idejű jelentések: Bármikor megtekintheted az egyenlegkimutatásokat és diagramokat. Pénzügyi helyzeted egy pillantással átlátható.
+- Költségkeretek: Állíts be havi vagy éves költségkereteket valós idejű előrehaladási mutatókkal a költések hatékony szabályozása és a túllépések elkerülése érdekében.
+- Különféle diagramok: Napi, heti, havi és éves trend- és kördiagramok segítenek megtalálni a megtakarítási lehetőségeket.
 
-Kulonleges funkciok
-- Szerver mod: tul kicsi a telefon képernyője? Egy koppintassal bekapcsolhatod a Szerver modot, es szamitogepes böngészőben nezheted es elemezheted az adatokat.
-- Kényelmes sablonok es ismétlődő ütemezések: automatizald a bérleti díjat, fizetest es előfizetéseket. Egyszer beallitod, a rendszer emlékeztet a rögzítésre.
-- Excél (XLSX) export: mélyebb elemzesre van szükséged? Exportáld a tranzakciókat es jelentéseket Excél formátumba. Az adataid felett te rendelkezel.
+✅ Exkluzív funkciók
+- Szerver mód: Túl kicsi a telefon képernyője? Egy kattintással engedélyezheted a Szerver módot. Tekintsd meg és elemezd az összes adatot a számítógéped böngészőjében. A könyvelés lehet professzionális is!
+- Kényelmes sablonok és ismétlődő ütemezések: Automatizáld a lakbért, a fizetést és az előfizetéseket. Állítsd be egyszer, és a rendszer emlékeztet a rögzítésre.
+- Excel (XLSX) exportálás: Mélyebb elemzésre van szükséged? Exportáld a tranzakciókat és jelentéseket Excel formátumba. A te adataid, a te szabályaid.
 
-Az adataid teljesen a tieid
-- Nyilt formatum: tamogatja a mentest nyilt JSON formátumba, igy nem zar be egyetlen szoftverbe.
-- Kettős mentes: helyi tárhelyre es Google Drive-ra is menthetsz. Az adataid biztonságban vannak.
-- Adatvedelem: beepitett jelszo vedi pénzügyi maganszferadat.
+✅ Az adataid teljesen a tieid
+- Nyitott formátum: Támogatja a nyílt JSON formátumba történő mentést. Nem kell attól tartanod, hogy egyetlen szoftverhez láncolod magad.
+- Kettős mentés: Támogatja a helyi tárhelyre és a Google Drive-ra történő mentést. Az adataid biztonságban vannak.
+- Magánélet védelme: Beépített jelszózár védi a pénzügyi adataid magánéletét.
 
-Tovabbi hasznos reszletek:
-- Szemelyre szabhato temak: sotet mod es több szintema kozul valaszthatsz.
-- Adatmigracio: teljes tamogatas a "Daily Money+" CSV exportfajlok importalasahoz. Visszatérő felhasznaloknak zökkenőmentes.
-- Teljesen ingyenes: a szerző sajat igényeiből született, es mindenki számára ingyen használható.
+További figyelmes részletek:
+- Személyre szabott témák: Sötét mód és különféle színtémák, amelyek közül kedvedre válogathatsz.
+- Adatmigráció: A „Daily Money+” CSV exportfájljainak teljes körű importálása. Akadálymentes átállás a visszatérő felhasználóknak.
+- Teljesen ingyenes: A szerző saját igényeinek megoldására fejlesztve, mindenki számára ingyenesen használható.
 
-Nézd meg a bevezető videót itt:
+Nézd meg a bemutató videót itt:
 https://youtu.be/f0Go7GgXgCk
 
-[A szerző megjegyzése]
-Ez a szoftver a szerző programozas iránti szenvedélyéből es a könyveléshez valo kitartásából született. Bár 2011 utan egy ideig nem tudtam karbantartani, úgy döntöttem, újraepitem, hogy megőrizzem az evek alatt összegyűlt adatokat.
-Ha tetszik ez a tiszta konyvelőeszköz, kérlek adj 5 csillagos értékelést. Ez a legnagyobb motiváció a folyamatos karbantartáshoz es új funkciok fejlesztéséhez.
+[Szerzői megjegyzés]
+Ez a szoftver a szerző kódolási szenvedélyéből és a könyvelés melletti elkötelezettségéből ered. Bár 2011 óta egy ideig nem tudtam karbantartani, úgy döntöttem, újraépítem, hogy megőrizzem az évek során felhalmozott adatokat.
+Ha tetszik ez a tiszta könyvelő eszköz, kérjük, adj nekünk egy 5 csillagos értékelést. Ez a legnagyobb motiváció számunkra a karbantartás folytatásához és az új funkciók fejlesztéséhez!
 
-Kérdésed vagy javaslatod van?
-Latogasd meg Facebook oldalunkat. Minden felhasznaloi visszajelzest ertekelunk.
+Kérdéseid vagy javaslataid vannak?
+Látogasd meg Facebook oldalunkat. Minden felhasználó visszajelzését nagyra értékeljük.
 https://www.facebook.com/colaorange.daily.money/
