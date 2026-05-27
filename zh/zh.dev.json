@@ -11,7 +11,7 @@
         "accountBatchCreated": "已成功建立 {{n}} 個帳戶。"
     },
     "action":{
-        "cloneAccountFromExisting": "從其他帳本複製",
+        "cloneAccountFromExisting": "從其他帳戶複製",
         "selectAll": "全選"
     }
 }
