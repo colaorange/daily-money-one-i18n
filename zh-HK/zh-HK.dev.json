@@ -1,17 +1,2 @@
 {
-    "noExpiredTransactionTemplate": "沒有到期的賬目範本",
-    "title": {
-        "cloneAccounts": "複製戶口"
-    },
-    "message": {
-        "accountExists": "戶口 {{name}} 已經存在。",
-        "confirmScheduleBypass": "你確定要跳過並安排下次排程嗎？",
-        "confirmScheduleReset": "你確定要重設目前的排程嗎？",
-        "cloneAccounts": "將複製下列 {{n}} 個戶口到目前賬簿。已存在的同名戶口將會略過。",
-        "accountBatchCreated": "已成功建立 {{n}} 個戶口。"
-    },
-    "action":{
-        "cloneAccountFromExisting": "從其他戶口複製",
-        "selectAll": "全選"
-    }
 }

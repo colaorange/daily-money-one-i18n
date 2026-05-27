@@ -1,17 +1,2 @@
 {
-  "noExpiredTransactionTemplate": "Keine abgelaufenen Buchungsvorlagen",
-  "title": {
-    "cloneAccounts": "Konten klonen"
-  },
-  "message": {
-    "accountExists": "Konto {{name}} existiert bereits.",
-    "confirmScheduleBypass": "Möchten Sie den nächsten Zeitplan wirklich überspringen und neu anordnen?",
-    "confirmScheduleReset": "Möchten Sie den aktuellen Zeitplan wirklich zurücksetzen?",
-    "cloneAccounts": "Die folgenden {{n}} Konten werden in das aktuelle Buch kopiert. Konten mit demselben Namen, die bereits vorhanden sind, werden übersprungen.",
-    "accountBatchCreated": "{{n}} Konten wurden erstellt."
-  },
-  "action": {
-    "cloneAccountFromExisting": "Aus bestehendem klonen",
-    "selectAll": "Alle auswählen"
-  }
 }

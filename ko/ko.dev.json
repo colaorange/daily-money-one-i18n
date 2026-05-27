@@ -1,17 +1,2 @@
 {
-  "noExpiredTransactionTemplate": "만료된 거래 템플릿 없음",
-  "title": {
-    "cloneAccounts": "계정 복제"
-  },
-  "message": {
-    "accountExists": "{{name}} 계정이 이미 있습니다.",
-    "confirmScheduleBypass": "다음 일정을 건너뛰고 다시 정렬하시겠습니까?",
-    "confirmScheduleReset": "현재 일정을 초기화하시겠습니까?",
-    "cloneAccounts": "다음 {{n}}개 계정이 현재 장부로 복사됩니다. 같은 이름의 기존 계정은 건너뜁니다.",
-    "accountBatchCreated": "{{n}}개 계정이 생성되었습니다."
-  },
-  "action": {
-    "cloneAccountFromExisting": "기존 항목에서 복제",
-    "selectAll": "모두 선택"
-  }
 }

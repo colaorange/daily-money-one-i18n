@@ -1,17 +1,2 @@
 {
-  "noExpiredTransactionTemplate": "Nincsenek lejárt tranzakciósablonok",
-  "title": {
-    "cloneAccounts": "Számlák klónozása"
-  },
-  "message": {
-    "accountExists": "A(z) {{name}} számla már létezik.",
-    "confirmScheduleBypass": "Biztosan kihagyod és újrarendezed a következő ütemezést?",
-    "confirmScheduleReset": "Biztosan visszaállítod az aktuális ütemezést?",
-    "cloneAccounts": "A következő {{n}} számla át lesz másolva az aktuális könyvbe. A már létező, azonos nevű számlák ki lesznek hagyva.",
-    "accountBatchCreated": "{{n}} számla létrehozva."
-  },
-  "action": {
-    "cloneAccountFromExisting": "Klónozás meglévőből",
-    "selectAll": "Összes kijelölése"
-  }
 }

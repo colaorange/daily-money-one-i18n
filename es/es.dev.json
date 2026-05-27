@@ -1,17 +1,2 @@
 {
-  "noExpiredTransactionTemplate": "No hay plantillas de transacción vencidas",
-  "title": {
-    "cloneAccounts": "Clonar cuentas"
-  },
-  "message": {
-    "accountExists": "La cuenta {{name}} ya existe.",
-    "confirmScheduleBypass": "¿Seguro que quieres omitir y reordenar la siguiente programación?",
-    "confirmScheduleReset": "¿Seguro que quieres restablecer la programación actual?",
-    "cloneAccounts": "Las siguientes {{n}} cuentas se copiarán al libro actual. Se omitirán las cuentas con el mismo nombre que ya existan.",
-    "accountBatchCreated": "Se han creado {{n}} cuentas."
-  },
-  "action": {
-    "cloneAccountFromExisting": "Clonar desde existente",
-    "selectAll": "Seleccionar todo"
-  }
 }

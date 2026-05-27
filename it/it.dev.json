@@ -1,17 +1,2 @@
 {
-  "noExpiredTransactionTemplate": "Nessun modello di movimento scaduto",
-  "title": {
-    "cloneAccounts": "Clona conti"
-  },
-  "message": {
-    "accountExists": "Il conto {{name}} esiste già.",
-    "confirmScheduleBypass": "Vuoi davvero ignorare e riorganizzare la prossima pianificazione?",
-    "confirmScheduleReset": "Vuoi davvero reimpostare la pianificazione corrente?",
-    "cloneAccounts": "I seguenti {{n}} conti verranno copiati nel libro corrente. I conti con lo stesso nome già esistenti verranno ignorati.",
-    "accountBatchCreated": "{{n}} conti sono stati creati."
-  },
-  "action": {
-    "cloneAccountFromExisting": "Clona da esistente",
-    "selectAll": "Seleziona tutto"
-  }
 }
