@@ -29,7 +29,7 @@
         "cancel": "Cancel",
         "clear": "Clear",
         "clone": "Clone",
-        "cloneAccountFromExisting": "Clone from existing",
+        "cloneAccountFromExisting": "Clone accounts from existing",
         "close": "Close",
         "create": "Create",
         "createBudget": "Create Budget",
@@ -129,7 +129,7 @@
     },
     "book": {
         "@": "Book",
-        "createDefaultAccounts": "Create Default Accounts",
+        "createDefaultAccounts": "Create default accounts",
         "currency": "Currency",
         "currencyHint": "Currency code (e.g., USD, JPY). 0-5 chars.",
         "fractionDigits": "Decimal Places",
