@@ -375,7 +375,7 @@
         "confirmResetPassword": "你确定要重置密码吗？一旦重置，你将可以在不输入密码的情况下使用应用程序。",
         "confirmRestoreDatabase": "在应用程序的目录中发现一个数据库还原文件(日期: {{datetime}}), 如果你刚才启动了还原步骤, 请按下确定来进行还原, 或是按下取消。不管那个方式, 还原文件将会被删除, 并进入应用程序。",
         "confirmRestoreDatabaseCheck": "我知道正要还原数据库, 并且当前的数据会被还原的数据取代。",
-        "confirmScheduleBypass": "你确定要跳过并安排下次排程吗？",
+        "confirmScheduleSkip": "你确定要跳过并安排下次排程吗？",
         "confirmScheduleReset": "你确定要重置当前排程吗？",
         "confirmSetPassword": "你确定要设置密码吗？一旦设置，启动应用程序时或在某段时间后，你将需要输入密码才能继续使用。",
         "dataVerificationFail": "数据验证失敗",

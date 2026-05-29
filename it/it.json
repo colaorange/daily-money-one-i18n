@@ -375,7 +375,7 @@
         "confirmResetPassword": "Cancellare la password? Non sarà più necessaria per entrare.",
         "confirmRestoreDatabase": "È stato trovato un file di ripristino database nella cartella dell'app (data: {{datetime}}). Se hai appena avviato il ripristino, premi OK per ripristinare, oppure Annulla per saltarlo. In ogni caso, il file di ripristino sarà eliminato e l'app continuerà.",
         "confirmRestoreDatabaseCheck": "Capisco che i dati attuali saranno sostituiti.",
-        "confirmScheduleBypass": "Vuoi davvero ignorare e riorganizzare la prossima pianificazione?",
+        "confirmScheduleSkip": "Vuoi davvero ignorare e riorganizzare la prossima pianificazione?",
         "confirmScheduleReset": "Vuoi davvero reimpostare la pianificazione corrente?",
         "confirmSetPassword": "Impostare la password? Sarà necessaria per aprire l'app.",
         "dataVerificationFail": "Verifica dati non riuscita.",

@@ -375,7 +375,7 @@
         "confirmResetPassword": "Clear password? You will no longer need a password to enter.",
         "confirmRestoreDatabase": "A database restore file was found in the app directory (date: {{datetime}}). If you just started the restore process, press OK to restore, or Cancel to skip it. Either way, the restore file will be deleted and the app will continue.",
         "confirmRestoreDatabaseCheck": "I understand current data will be replaced.",
-        "confirmScheduleBypass": "Are you sure you want to bypass and rearrange the next schedule?",
+        "confirmScheduleSkip": "Are you sure you want to skip and rearrange the next schedule?",
         "confirmScheduleReset": "Are you sure you want to reset the current schedule?",
         "confirmSetPassword": "Set password? You will need it to open the app.",
         "dataVerificationFail": "Data verification failed.",

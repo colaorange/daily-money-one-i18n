@@ -375,7 +375,7 @@
         "confirmResetPassword": "Wachtwoord wissen? Je hebt dan geen wachtwoord meer nodig om binnen te komen.",
         "confirmRestoreDatabase": "Er is een databaseherstelbestand gevonden in de appmap (datum: {{datetime}}). Als je net het herstelproces bent gestart, druk dan op OK om te herstellen, of op Annuleren om over te slaan. In beide gevallen wordt het herstelbestand verwijderd en gaat de app verder.",
         "confirmRestoreDatabaseCheck": "Ik begrijp dat huidige gegevens worden vervangen.",
-        "confirmScheduleBypass": "Weet je zeker dat je de volgende planning wilt overslaan en opnieuw wilt ordenen?",
+        "confirmScheduleSkip": "Weet je zeker dat je de volgende planning wilt overslaan en opnieuw wilt ordenen?",
         "confirmScheduleReset": "Weet je zeker dat je de huidige planning wilt resetten?",
         "confirmSetPassword": "Wachtwoord instellen? Je hebt het nodig om de app te openen.",
         "dataVerificationFail": "Gegevenscontrole mislukt.",

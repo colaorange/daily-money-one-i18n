@@ -375,7 +375,7 @@
         "confirmResetPassword": "你確定要重設密碼嗎？一旦重設，你將可以在不輸入密碼的情況下使用應用程式。",
         "confirmRestoreDatabase": "在應用程式的資料夾中發現一個資料庫還原檔案(日期: {{datetime}}), 如果你剛有啟動還原步驟, 請按下確定來進行還原, 或是按下取消。不管那個方式, 還原檔將會被刪除, 並進入應用程式。",
         "confirmRestoreDatabaseCheck": "我知道正要還原資料庫, 並且目前的資料會被還原的資料取代。",
-        "confirmScheduleBypass": "你確定要跳過並安排下次排程嗎？",
+        "confirmScheduleSkip": "你確定要跳過並安排下次排程嗎？",
         "confirmScheduleReset": "你確定要重設目前的排程嗎？",
         "confirmSetPassword": "你確定要設定密碼嗎？一旦設定，啟動應用程式時或在某段時間後，你將需要輸入密碼才能繼續使用。",
         "dataVerificationFail": "資料驗證失敗",

@@ -375,7 +375,7 @@
         "confirmResetPassword": "Xóa mật khẩu? Bạn sẽ không còn cần mật khẩu để vào ứng dụng.",
         "confirmRestoreDatabase": "Đã tìm thấy tệp khôi phục cơ sở dữ liệu trong thư mục ứng dụng (ngày: {{datetime}}). Nếu bạn vừa bắt đầu quy trình khôi phục, bấm OK để khôi phục hoặc Hủy để bỏ qua. Dù chọn cách nào, tệp khôi phục sẽ bị xóa và ứng dụng sẽ tiếp tục.",
         "confirmRestoreDatabaseCheck": "Tôi hiểu dữ liệu hiện tại sẽ bị thay thế.",
-        "confirmScheduleBypass": "Bạn có chắc chắn muốn bỏ qua và sắp xếp lại lịch tiếp theo không?",
+        "confirmScheduleSkip": "Bạn có chắc chắn muốn bỏ qua và sắp xếp lại lịch tiếp theo không?",
         "confirmScheduleReset": "Bạn có chắc chắn muốn đặt lại lịch hiện tại không?",
         "confirmSetPassword": "Đặt mật khẩu? Bạn sẽ cần mật khẩu để mở ứng dụng.",
         "dataVerificationFail": "Xác minh dữ liệu thất bại.",

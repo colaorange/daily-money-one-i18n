@@ -375,7 +375,7 @@
         "confirmResetPassword": "¿Borrar contraseña? Ya no necesitarás contraseña para entrar.",
         "confirmRestoreDatabase": "Se encontró un archivo de restauración de base de datos en el directorio de la app (fecha: {{datetime}}). Si acabas de iniciar el proceso de restauración, pulsa Aceptar para restaurar, o Cancelar para omitirlo. En ambos casos, el archivo de restauración se eliminará y la app continuará.",
         "confirmRestoreDatabaseCheck": "Entiendo que los datos actuales serán reemplazados.",
-        "confirmScheduleBypass": "¿Seguro que quieres omitir y reordenar la siguiente programación?",
+        "confirmScheduleSkip": "¿Seguro que quieres omitir y reordenar la siguiente programación?",
         "confirmScheduleReset": "¿Seguro que quieres restablecer la programación actual?",
         "confirmSetPassword": "¿Configurar contraseña? La necesitarás para abrir la app.",
         "dataVerificationFail": "Falló la verificación de datos.",

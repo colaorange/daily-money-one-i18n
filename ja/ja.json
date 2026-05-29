@@ -375,7 +375,7 @@
         "confirmResetPassword": "パスワードをリセットしますか？入室にパスワードは不要になります。",
         "confirmRestoreDatabase": "復元ファイルが見つかりました ({{datetime}})。今すぐ復元しますか？現在のデータは置き換えられます。",
         "confirmRestoreDatabaseCheck": "現在のデータが置き換えられることを理解しています。",
-        "confirmScheduleBypass": "次のスケジュールをスキップして再調整してもよろしいですか？",
+        "confirmScheduleSkip": "次のスケジュールをスキップして再調整してもよろしいですか？",
         "confirmScheduleReset": "現在のスケジュールをリセットしてもよろしいですか？",
         "confirmSetPassword": "パスワードを設定しますか？アプリを開くために必要になります。",
         "dataVerificationFail": "データ検証に失敗しました。",

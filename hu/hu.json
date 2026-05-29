@@ -375,7 +375,7 @@
         "confirmResetPassword": "Törlöd a jelszót? Ezután nem kell jelszó a belépéshez.",
         "confirmRestoreDatabase": "Adatbázis-visszaállítási fájl található az alkalmazás könyvtárában (dátum: {{datetime}}). Ha most indítottad a visszaállítást, nyomj OK-t a visszaállításhoz, vagy Mégse-t a kihagyáshoz. A visszaállítási fájl mindkét esetben törlődik, és az alkalmazás folytatódik.",
         "confirmRestoreDatabaseCheck": "Megértettem, hogy a jelenlegi adatok le lesznek cserélve.",
-        "confirmScheduleBypass": "Biztosan kihagyod és újrarendezed a következő ütemezést?",
+        "confirmScheduleSkip": "Biztosan kihagyod és újrarendezed a következő ütemezést?",
         "confirmScheduleReset": "Biztosan visszaállítod az aktuális ütemezést?",
         "confirmSetPassword": "Beállítod a jelszót? Szükséged lesz rá az app megnyitásához.",
         "dataVerificationFail": "Az adatellenőrzés sikertelen.",

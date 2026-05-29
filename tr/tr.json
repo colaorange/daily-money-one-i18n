@@ -375,7 +375,7 @@
         "confirmResetPassword": "Parola temizlensin mi? Artık giriş için parola gerekmez.",
         "confirmRestoreDatabase": "Uygulama dizininde bir veritabanı geri yükleme dosyası bulundu (tarih: {{datetime}}). Geri yükleme işlemini yeni başlattıysanız geri yüklemek için Tamam'a, atlamak için İptal'e basın. Her iki durumda da geri yükleme dosyası silinecek ve uygulama devam edecektir.",
         "confirmRestoreDatabaseCheck": "Mevcut verilerin değiştirileceğini anlıyorum.",
-        "confirmScheduleBypass": "Sonraki zamanlamayı atlayıp yeniden düzenlemek istediğinizden emin misiniz?",
+        "confirmScheduleSkip": "Sonraki zamanlamayı atlayıp yeniden düzenlemek istediğinizden emin misiniz?",
         "confirmScheduleReset": "Geçerli zamanlamayı sıfırlamak istediğinizden emin misiniz?",
         "confirmSetPassword": "Parola ayarlansın mı? Uygulamayı açmak için buna ihtiyacınız olacak.",
         "dataVerificationFail": "Veri doğrulaması başarısız oldu.",

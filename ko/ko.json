@@ -375,7 +375,7 @@
         "confirmResetPassword": "비밀번호를 해제하시겠습니까? 더 이상 앱을 열 때 비밀번호가 필요하지 않습니다.",
         "confirmRestoreDatabase": "앱 디렉터리에서 데이터베이스 복원 파일을 찾았습니다(날짜: {{datetime}}). 방금 복원 절차를 시작했다면 확인을 눌러 복원하고, 아니면 취소를 눌러 건너뛰세요. 어느 쪽이든 복원 파일은 삭제되고 앱은 계속 실행됩니다.",
         "confirmRestoreDatabaseCheck": "현재 데이터가 대체됨을 이해했습니다.",
-        "confirmScheduleBypass": "다음 일정을 건너뛰고 다시 정렬하시겠습니까?",
+        "confirmScheduleSkip": "다음 일정을 건너뛰고 다시 정렬하시겠습니까?",
         "confirmScheduleReset": "현재 일정을 초기화하시겠습니까?",
         "confirmSetPassword": "비밀번호를 설정하시겠습니까? 앱을 열 때 필요합니다.",
         "dataVerificationFail": "데이터 검증에 실패했습니다.",

@@ -375,7 +375,7 @@
         "confirmResetPassword": "Passwort löschen? Sie benötigen dann kein Passwort mehr zum Öffnen.",
         "confirmRestoreDatabase": "Im App-Verzeichnis wurde eine Datenbank-Wiederherstellungsdatei gefunden (Datum: {{datetime}}). Wenn Sie gerade die Wiederherstellung gestartet haben, drücken Sie OK zum Wiederherstellen oder Abbrechen zum Überspringen. In jedem Fall wird die Wiederherstellungsdatei gelöscht und die App fortgesetzt.",
         "confirmRestoreDatabaseCheck": "Ich verstehe, dass aktuelle Daten ersetzt werden.",
-        "confirmScheduleBypass": "Möchten Sie den nächsten Zeitplan wirklich überspringen und neu anordnen?",
+        "confirmScheduleSkip": "Möchten Sie den nächsten Zeitplan wirklich überspringen und neu anordnen?",
         "confirmScheduleReset": "Möchten Sie den aktuellen Zeitplan wirklich zurücksetzen?",
         "confirmSetPassword": "Passwort festlegen? Sie benötigen es zum Öffnen der App.",
         "dataVerificationFail": "Datenprüfung fehlgeschlagen.",

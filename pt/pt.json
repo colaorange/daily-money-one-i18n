@@ -375,7 +375,7 @@
         "confirmResetPassword": "Limpar palavra-passe? Já não precisará dela para entrar.",
         "confirmRestoreDatabase": "Foi encontrado um ficheiro de restauro da base de dados na pasta da aplicação (data: {{datetime}}). Se acabou de iniciar o restauro, toque em OK para restaurar, ou em Cancelar para ignorar. Em qualquer caso, o ficheiro de restauro será eliminado e a aplicação continuará.",
         "confirmRestoreDatabaseCheck": "Compreendo que os dados atuais serão substituídos.",
-        "confirmScheduleBypass": "Tem a certeza de que pretende ignorar e reorganizar a próxima agenda?",
+        "confirmScheduleSkip": "Tem a certeza de que pretende ignorar e reorganizar a próxima agenda?",
         "confirmScheduleReset": "Tem a certeza de que pretende repor a agenda atual?",
         "confirmSetPassword": "Definir palavra-passe? Será necessária para abrir a aplicação.",
         "dataVerificationFail": "Falha na verificação dos dados.",
