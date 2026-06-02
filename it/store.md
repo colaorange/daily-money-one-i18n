@@ -5,7 +5,7 @@ Short description:
 Contabilità quotidiana per persone, famiglie e piccole imprese.
 
 Long description:
-【Daily Money One】 - Contabilità semplice, potente e affidabile
+Daily Money One - Contabilità semplice, potente e affidabile
 
 Derivata dai classici "Daily Money" e "Daily Money+", questa app è stata realizzata a mano dall'autore originale.
 Crediamo che tenere la contabilità non debba essere un peso, ma un modo per riprendere il controllo della propria vita.

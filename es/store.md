@@ -5,7 +5,7 @@ Short description:
 Finanzas diarias para personas, familias y pequeños negocios.
 
 Long description:
-【Daily Money One】 - Control financiero simple, potente y confiable
+Daily Money One - Control financiero simple, potente y confiable
 
 Derivado de los clásicos "Daily Money" y "Daily Money+", es una obra hecha a mano por el autor original.
 Creemos que llevar las cuentas no debería ser una carga, sino una forma de tomar el control de tu vida.

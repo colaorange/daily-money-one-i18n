@@ -5,7 +5,7 @@ Short description:
 Daily finance tracking for individuals, families, and small businesses.
 
 Long description:
-【Daily Money One】 - Simple, Powerful, Trusted Financial Tracking
+Daily Money One - Simple, Powerful, Trusted Financial Tracking
 
 Derived from the classic "Daily Money" and "Daily Money+", this is a handcrafted masterpiece by the original author.
 We believe accounting shouldn't be a burden, but a way to take control of your life.

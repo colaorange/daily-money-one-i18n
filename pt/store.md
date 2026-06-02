@@ -5,7 +5,7 @@ Short description:
 Controlo financeiro diário para pessoas, famílias e pequenos negócios.
 
 Long description:
-【Daily Money One】 - Contabilidade simples, poderosa e de confiança
+Daily Money One - Contabilidade simples, poderosa e de confiança
 
 Derivado dos clássicos "Daily Money" e "Daily Money+", este é um trabalho artesanal criado pelo autor original.
 Acreditamos que a contabilidade não deve ser um peso, mas uma forma de ganhar controlo sobre a sua vida.

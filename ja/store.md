@@ -1,11 +1,11 @@
 App Name: 
-Daily Money One
+毎日の家計簿 One
 
 Short description: 
 個人、家族、小規模事業向けの日々の家計・財務管理。
 
 Long description:
-【Daily Money One】 - シンプルで強力、信頼できる財務管理
+Daily Money One - シンプルで強力、信頼できる財務管理
 
 定番の "Daily Money" と "Daily Money+" から生まれた、元の作者による手作りのアプリです。
 会計は負担ではなく、生活を自分で管理するための方法だと私たちは考えています。

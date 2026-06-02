@@ -5,7 +5,7 @@ Short description:
 Napi pénzügyi követés egyéneknek, családoknak és kisvállalkozásoknak.
 
 Long description:
-【Daily Money One】 - Egyszerű, hatékony és megbízható pénzügyi követés
+Daily Money One - Egyszerű, hatékony és megbízható pénzügyi követés
 
 A klasszikus „Daily Money” és „Daily Money+” alkalmazásokon alapuló, a szerző által kézzel készített remekmű.
 Hiszünk abban, hogy a könyvelés nem teher, hanem a saját életed irányításának módja.

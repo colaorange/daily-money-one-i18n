@@ -5,7 +5,7 @@ Short description:
 Theo dõi tài chính hằng ngày cho cá nhân, gia đình và doanh nghiệp nhỏ.
 
 Long description:
-【Daily Money One】 - Theo dõi tài chính đơn giản, mạnh mẽ, đáng tin cậy
+Daily Money One - Theo dõi tài chính đơn giản, mạnh mẽ, đáng tin cậy
 
 Được phát triển từ "Daily Money" và "Daily Money+" kinh điển, đây là sản phẩm được chính tác giả ban đầu chăm chút tạo nên.
 Chúng tôi tin rằng ghi chép tài chính không nên là gánh nặng, mà là cách để bạn chủ động kiểm soát cuộc sống.

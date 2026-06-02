@@ -5,7 +5,7 @@ Short description:
 Bireyler, aileler ve küçük işletmeler için günlük finans takibi.
 
 Long description:
-【Daily Money One】 - Basit, Güçlü ve Güvenilir Finans Takibi
+Daily Money One - Basit, Güçlü ve Güvenilir Finans Takibi
 
 Klasik "Daily Money" ve "Daily Money+" temel alınarak, özgün yazar tarafından özenle geliştirildi.
 Muhasebenin bir yük değil, hayatınızı kontrol altına almanın bir yolu olduğuna inanıyoruz.
