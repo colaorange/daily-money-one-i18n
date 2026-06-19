@@ -1,2 +1,7 @@
 {
+    "transaction":{
+        "unreconciled": "Unrecondiled",
+        "unreconciledHint": "Mark this transaction as not yet matched with your real account records. This is often used for credit card spending, so you can reconcile it later when you receive the statement.",
+        "reconciliationMode": "Reconciliation Mode"
+    }
 }

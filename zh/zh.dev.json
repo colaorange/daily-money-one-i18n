@@ -1,2 +1,7 @@
 {
+    "transaction": {
+        "unreconciled": "未核銷",
+        "unreconciledHint": "將這筆交易標記為尚未與實際帳戶紀錄核對完成。這通常用於信用卡消費，讓你可以在收到帳單後再核銷。",
+        "reconciliationMode": "核銷模式"
+    }
 }
