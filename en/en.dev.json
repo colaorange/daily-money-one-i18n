@@ -1,7 +1,9 @@
 {
     "transaction":{
-        "unreconciled": "Unrecondiled",
-        "unreconciledHint": "Mark this transaction as not yet matched with your real account records. This is often used for credit card spending, so you can reconcile it later when you receive the statement.",
+        "reconciled": "Reconciled",
+        "reconciledHint": "This transaction has been checked against your account records or statement.",
+        "unreconciled": "Unreconciled",
+        "unreconciledHint": "Mark this transaction as pending review, so you can check it against your account records or credit card statement later.",
         "reconciliationMode": "Reconciliation Mode"
     }
 }
