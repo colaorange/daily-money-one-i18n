@@ -1,2 +1,9 @@
 {
+    "transaction": {
+        "reconciled": "Mutabık",
+        "reconciledHint": "Bu işlem, hesap kayıtlarınız veya hesap özetiniz ile mutabık kılınmıştır.",
+        "unreconciled": "Mutabık Olmayan",
+        "unreconciledHint": "Bu işlemi incelenmek üzere bekleyen olarak işaretleyin, böylece daha sonra hesap kayıtlarınız veya kredi kartı ekstrenizle mutabakatını sağlayabilirsiniz.",
+        "reconciliationMode": "Mutabakat Modu"
+    }
 }

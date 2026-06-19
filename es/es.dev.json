@@ -1,2 +1,9 @@
 {
+    "transaction": {
+        "reconciled": "Conciliado",
+        "reconciledHint": "Esta transacción ha sido verificada con los registros o el estado de cuenta de su cuenta.",
+        "unreconciled": "Sin conciliar",
+        "unreconciledHint": "Marque esta transacción como pendiente de revisión, para que pueda verificarla más tarde con los registros de su cuenta o el estado de cuenta de su tarjeta de crédito.",
+        "reconciliationMode": "Modo de conciliación"
+    }
 }

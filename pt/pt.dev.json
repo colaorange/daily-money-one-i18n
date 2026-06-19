@@ -1,2 +1,9 @@
 {
+    "transaction": {
+        "reconciled": "Reconciliado",
+        "reconciledHint": "Este movimento foi verificado com os registos ou extrato da sua conta.",
+        "unreconciled": "Não reconciliado",
+        "unreconciledHint": "Marque este movimento como pendente de revisão, para que o possa verificar com os registos da sua conta ou extrato do cartão de crédito mais tarde.",
+        "reconciliationMode": "Modo de reconciliação"
+    }
 }

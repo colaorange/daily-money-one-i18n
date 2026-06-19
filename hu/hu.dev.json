@@ -1,2 +1,9 @@
 {
+    "transaction": {
+        "reconciled": "Egyeztetett",
+        "reconciledHint": "Ezt a tranzakciót ellenőriztük a számlanyilvántartásával vagy számlakivonatával szemben.",
+        "unreconciled": "Nem egyeztetett",
+        "unreconciledHint": "Jelölje meg ezt a tranzakciót felülvizsgálatra váróként, hogy később ellenőrizhesse a számlanyilvántartásával vagy hitelkártya-kivonatával szemben.",
+        "reconciliationMode": "Egyeztetési mód"
+    }
 }

@@ -1,2 +1,9 @@
 {
+    "transaction": {
+        "reconciled": "Afgestemd",
+        "reconciledHint": "Deze transactie is gecontroleerd met uw rekeninggegevens of bankafschrift.",
+        "unreconciled": "Niet afgestemd",
+        "unreconciledHint": "Markeer deze transactie als in afwachting van beoordeling, zodat u deze later kunt controleren met uw rekeninggegevens of creditcardafschrift.",
+        "reconciliationMode": "Afstemmingsmodus"
+    }
 }

@@ -1,2 +1,9 @@
 {
+    "transaction": {
+        "reconciled": "Riconciliato",
+        "reconciledHint": "Questo movimento è stato verificato rispetto ai record o all'estratto conto del tuo conto.",
+        "unreconciled": "Non riconciliato",
+        "unreconciledHint": "Contrassegna questo movimento come in attesa di revisione, in modo da poterlo confrontare in seguito con i record del tuo conto o con l'estratto conto della carta di credito.",
+        "reconciliationMode": "Modalità riconciliazione"
+    }
 }
