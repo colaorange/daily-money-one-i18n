@@ -1,9 +1,1 @@
-{
-    "transaction": {
-        "reconciled": "Abgeglichen",
-        "reconciledHint": "Diese Buchung wurde mit Ihren Kontodaten oder Ihrem Kontoauszug abgeglichen.",
-        "unreconciled": "Nicht abgeglichen",
-        "unreconciledHint": "Markieren Sie diese Buchung als ausstehend, um sie später mit Ihren Kontodaten oder Ihrem Kreditkartenbeleg abzugleichen.",
-        "reconciliationMode": "Abgleichmodus"
-    }
-}
+{}

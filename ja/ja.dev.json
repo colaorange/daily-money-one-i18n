@@ -1,9 +1,1 @@
-{
-    "transaction": {
-        "reconciled": "照合済み",
-        "reconciledHint": "この取引は、科目の記録または明細書と照合されています。",
-        "unreconciled": "未照合",
-        "unreconciledHint": "この取引を保留としてマークし、後で科目の記録またはクレジットカード明細書と照合できるようにします。",
-        "reconciliationMode": "照合モード"
-    }
-}
+{}

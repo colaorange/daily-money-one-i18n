@@ -1,9 +1,1 @@
-{
-    "transaction": {
-        "reconciled": "已核对",
-        "reconciledHint": "这笔记录已与账户记录或账单核对完成。",
-        "unreconciled": "未核对",
-        "unreconciledHint": "将这笔记录标记为待核对，方便之后与账户记录或信用卡账单核对。",
-        "reconciliationMode": "核对模式"
-    }
-}
+{}

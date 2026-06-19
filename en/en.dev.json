@@ -1,9 +1,1 @@
-{
-    "transaction":{
-        "reconciled": "Reconciled",
-        "reconciledHint": "This transaction has been checked against your account records or statement.",
-        "unreconciled": "Unreconciled",
-        "unreconciledHint": "Mark this transaction as pending review, so you can check it against your account records or credit card statement later.",
-        "reconciliationMode": "Reconciliation Mode"
-    }
-}
+{}

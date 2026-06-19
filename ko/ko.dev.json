@@ -1,9 +1,1 @@
-{
-    "transaction": {
-        "reconciled": "조정됨",
-        "reconciledHint": "이 거래는 계정 기록 또는 명세서와 대조되었습니다.",
-        "unreconciled": "조정되지 않음",
-        "unreconciledHint": "이 거래를 검토 대기로 표시하여 나중에 계정 기록 또는 신용카드 명세서와 대조할 수 있도록 합니다.",
-        "reconciliationMode": "조정 모드"
-    }
-}
+{}

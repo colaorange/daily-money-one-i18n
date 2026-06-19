@@ -1,9 +1,1 @@
-{
-    "transaction": {
-        "reconciled": "Đã đối chiếu",
-        "reconciledHint": "Giao dịch này đã được kiểm tra chéo với hồ sơ tài khoản hoặc bảng sao kê của bạn.",
-        "unreconciled": "Chưa đối chiếu",
-        "unreconciledHint": "Đánh dấu giao dịch này là chờ xem xét để bạn có thể đối chiếu với hồ sơ tài khoản hoặc sao kê thẻ tín dụng của mình sau.",
-        "reconciliationMode": "Chế độ đối chiếu"
-    }
-}
+{}
