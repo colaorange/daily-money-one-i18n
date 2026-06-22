@@ -612,6 +612,8 @@
         "minValue": "Min. Betrag",
         "minValueHint": "Betrag >= Wert",
         "noteHint": "Notiz enthält",
+        "reconciliation": "Abgleichstatus",
+        "reconciliationHint": "Abgeglichen oder nicht abgeglichen",
         "withdrawalAccountsHint": "Quellkonto"
     },
     "selectAccountOfBook": "Konto auswählen: {{name}}",

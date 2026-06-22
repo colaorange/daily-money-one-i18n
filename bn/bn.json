@@ -612,6 +612,8 @@
         "minValue": "সর্বনিম্ন পরিমাণ",
         "minValueHint": "পরিমাণ >= মান",
         "noteHint": "নোটে রয়েছে",
+        "reconciliation": "সমন্বয় অবস্থা",
+        "reconciliationHint": "সমন্বিত বা অসমন্বিত",
         "withdrawalAccountsHint": "উৎস হিসাব"
     },
     "selectAccountOfBook": "হিসাব নির্বাচন: {{name}}",

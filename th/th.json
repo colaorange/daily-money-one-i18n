@@ -612,6 +612,8 @@
         "minValue": "จำนวนเงินต่ำสุด",
         "minValueHint": "จำนวนเงิน >= ค่า",
         "noteHint": "บันทึกมีคำว่า",
+        "reconciliation": "สถานะการกระทบยอด",
+        "reconciliationHint": "กระทบยอดแล้วหรือยังไม่กระทบยอด",
         "withdrawalAccountsHint": "บัญชีต้นทาง"
     },
     "selectAccountOfBook": "เลือกบัญชี: {{name}}",

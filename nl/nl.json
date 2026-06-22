@@ -612,6 +612,8 @@
         "minValue": "Min. bedrag",
         "minValueHint": "Bedrag >= waarde",
         "noteHint": "Notitie bevat",
+        "reconciliation": "Afstemmingsstatus",
+        "reconciliationHint": "Afgestemd of niet afgestemd",
         "withdrawalAccountsHint": "Bronrekening"
     },
     "selectAccountOfBook": "Rekening selecteren: {{name}}",

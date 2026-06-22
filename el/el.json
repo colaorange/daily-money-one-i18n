@@ -612,6 +612,8 @@
         "minValue": "Ελάχιστο ποσό",
         "minValueHint": "Ποσό >= τιμή",
         "noteHint": "Η σημείωση περιέχει",
+        "reconciliation": "Κατάσταση συμφωνίας",
+        "reconciliationHint": "Συμφωνημένη ή μη συμφωνημένη",
         "withdrawalAccountsHint": "Λογαριασμός προέλευσης"
     },
     "selectAccountOfBook": "Επιλογή λογαριασμού: {{name}}",

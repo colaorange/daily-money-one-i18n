@@ -612,6 +612,8 @@
         "minValue": "金额大于",
         "minValueHint": "转出或转入金额大于金额(包含)",
         "noteHint": "备注包含此字符串",
+        "reconciliation": "核对状态",
+        "reconciliationHint": "要搜索的核对状态",
         "withdrawalAccountsHint": "要搜索的转出账户(多选)"
     },
     "selectAccountOfBook": "选择 {{name}} 里的账户",

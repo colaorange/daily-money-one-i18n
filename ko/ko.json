@@ -612,6 +612,8 @@
         "minValue": "최소 금액",
         "minValueHint": "금액 >= 값",
         "noteHint": "메모에 포함",
+        "reconciliation": "확인 상태",
+        "reconciliationHint": "확인됨 또는 확인되지 않음",
         "withdrawalAccountsHint": "출금 계정"
     },
     "selectAccountOfBook": "계정 선택: {{name}}",

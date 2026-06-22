@@ -612,6 +612,8 @@
         "minValue": "Мин. сумма",
         "minValueHint": "Сумма >= значение",
         "noteHint": "Примечание содержит",
+        "reconciliation": "Статус сверки",
+        "reconciliationHint": "Сверено или не сверено",
         "withdrawalAccountsHint": "Счёт-источник"
     },
     "selectAccountOfBook": "Выберите счёт: {{name}}",

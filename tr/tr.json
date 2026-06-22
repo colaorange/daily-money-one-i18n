@@ -612,6 +612,8 @@
         "minValue": "En düşük tutar",
         "minValueHint": "Tutar >= değer",
         "noteHint": "Not şunu içerir",
+        "reconciliation": "Mutabakat durumu",
+        "reconciliationHint": "Mutabık veya mutabık olmayan",
         "withdrawalAccountsHint": "Kaynak hesap"
     },
     "selectAccountOfBook": "Hesap seç: {{name}}",

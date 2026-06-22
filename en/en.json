@@ -612,6 +612,8 @@
         "minValue": "Min Amount",
         "minValueHint": "Amount >= value",
         "noteHint": "Note contains",
+        "reconciliation": "Reconciliation Status",
+        "reconciliationHint": "Reconciled or unreconciled",
         "withdrawalAccountsHint": "Source account"
     },
     "selectAccountOfBook": "Select Account: {{name}}",
