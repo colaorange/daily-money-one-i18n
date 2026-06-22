@@ -50,6 +50,20 @@ This file contains locale-specific terminology and style rules for Thai (`th`).
 | Import | นำเข้า |
 | Export | ส่งออก |
 
+## Reconciliation Terms
+
+| Term | th |
+| --- | --- |
+| Reconciled | กระทบยอดแล้ว |
+| Unreconciled | ยังไม่กระทบยอด |
+| Reconciliation | สถานะการกระทบยอด |
+| Reconciliation Status | สถานะการกระทบยอด |
+| Reconciliation Mode | โหมดกระทบยอด |
+
+Use `กระทบยอดแล้ว` and `ยังไม่กระทบยอด` for transaction reconciliation status labels.
+Use `สถานะการกระทบยอด` for search filters or settings that refer to the reconciliation status as a field.
+Use `โหมดกระทบยอด` for the transaction list mode used to mark transactions as reconciled or unreconciled.
+
 ## UI Terms
 
 | Source | Thai |

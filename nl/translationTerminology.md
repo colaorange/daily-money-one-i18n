@@ -57,6 +57,20 @@ Use `uitgaand` and `inkomend` only as explanatory wording when the source needs 
 | Import | Importeren |
 | Export | Exporteren |
 
+## Reconciliation Terms
+
+| Term | nl |
+| --- | --- |
+| Reconciled | Afgestemd |
+| Unreconciled | Niet afgestemd |
+| Reconciliation | Afstemmingsstatus |
+| Reconciliation Status | Afstemmingsstatus |
+| Reconciliation Mode | Afstemmingsmodus |
+
+Use `Afgestemd` and `Niet afgestemd` for transaction reconciliation status labels.
+Use `Afstemmingsstatus` for search filters or settings that refer to the reconciliation status as a field.
+Use `Afstemmingsmodus` for the transaction list mode used to mark transactions as reconciled or unreconciled.
+
 ## UI Terms
 
 | Term | nl |

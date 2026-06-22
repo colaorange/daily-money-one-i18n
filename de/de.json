@@ -612,6 +612,8 @@
         "minValue": "Min. Betrag",
         "minValueHint": "Betrag >= Wert",
         "noteHint": "Notiz enthält",
+        "reconciliation": "Abgleichstatus",
+        "reconciliationHint": "Abgeglichen oder nicht abgeglichen",
         "withdrawalAccountsHint": "Quellkonto"
     },
     "selectAccountOfBook": "Konto auswählen: {{name}}",
@@ -791,6 +793,7 @@
     "transactionTemplate": {
         "applyDeposits": "Ziel anwenden",
         "applyNote": "Notiz anwenden",
+        "applyReconciliation": "Abgleich anwenden",
         "applyValue": "Betrag anwenden",
         "applyWithdrawals": "Quelle anwenden",
         "name": "Name",

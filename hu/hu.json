@@ -612,6 +612,8 @@
         "minValue": "Min. összeg",
         "minValueHint": "Összeg >= érték",
         "noteHint": "A jegyzet tartalmazza",
+        "reconciliation": "Egyeztetési állapot",
+        "reconciliationHint": "Egyeztetett vagy nem egyeztetett",
         "withdrawalAccountsHint": "Forrásszámla"
     },
     "selectAccountOfBook": "Számla kiválasztása: {{name}}",
@@ -791,6 +793,7 @@
     "transactionTemplate": {
         "applyDeposits": "Cél alkalmazása",
         "applyNote": "Jegyzet alkalmazása",
+        "applyReconciliation": "Egyeztetés alkalmazása",
         "applyValue": "Összeg alkalmazása",
         "applyWithdrawals": "Forrás alkalmazása",
         "name": "Név",

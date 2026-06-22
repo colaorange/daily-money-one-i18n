@@ -612,6 +612,8 @@
         "minValue": "Số tiền tối thiểu",
         "minValueHint": "Số tiền >= giá trị",
         "noteHint": "Ghi chú chứa",
+        "reconciliation": "Trạng thái đối chiếu",
+        "reconciliationHint": "Đã đối chiếu hoặc chưa đối chiếu",
         "withdrawalAccountsHint": "Tài khoản nguồn"
     },
     "selectAccountOfBook": "Chọn tài khoản: {{name}}",
@@ -791,6 +793,7 @@
     "transactionTemplate": {
         "applyDeposits": "Áp dụng đích",
         "applyNote": "Áp dụng ghi chú",
+        "applyReconciliation": "Áp dụng đối chiếu",
         "applyValue": "Áp dụng số tiền",
         "applyWithdrawals": "Áp dụng nguồn",
         "name": "Tên",

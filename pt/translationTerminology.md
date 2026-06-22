@@ -50,6 +50,20 @@ This file contains locale-specific terminology and style rules for Portuguese (`
 | Import | Importar |
 | Export | Exportar |
 
+## Reconciliation Terms
+
+| Term | pt |
+| --- | --- |
+| Reconciled | Reconciliado |
+| Unreconciled | Não reconciliado |
+| Reconciliation | Estado de reconciliação |
+| Reconciliation Status | Estado de reconciliação |
+| Reconciliation Mode | Modo de reconciliação |
+
+Use `Reconciliado` and `Não reconciliado` for transaction reconciliation status labels.
+Use `Estado de reconciliação` for search filters or settings that refer to the reconciliation status as a field.
+Use `Modo de reconciliação` for the transaction list mode used to mark transactions as reconciled or unreconciled.
+
 ## UI Terms
 
 | Source | Portuguese |

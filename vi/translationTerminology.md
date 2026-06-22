@@ -63,6 +63,20 @@ This file contains locale-specific terminology and style rules for Vietnamese (`
 | Initial | Khởi tạo |
 | Custom | Tùy chỉnh |
 
+## Reconciliation Terms
+
+| Term | vi |
+| --- | --- |
+| Reconciled | Đã đối chiếu |
+| Unreconciled | Chưa đối chiếu |
+| Reconciliation | Trạng thái đối chiếu |
+| Reconciliation Status | Trạng thái đối chiếu |
+| Reconciliation Mode | Chế độ đối chiếu |
+
+Use `Đã đối chiếu` and `Chưa đối chiếu` for transaction reconciliation status labels.
+Use `Trạng thái đối chiếu` for search filters or settings that refer to the reconciliation status as a field.
+Use `Chế độ đối chiếu` for the transaction list mode used to mark transactions as reconciled or unreconciled.
+
 ## UI Terms
 
 | Term | vi |

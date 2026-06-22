@@ -50,6 +50,20 @@ This file contains locale-specific terminology and style rules for Turkish (`tr`
 | Import | İçe Aktar |
 | Export | Dışa Aktar |
 
+## Reconciliation Terms
+
+| Term | tr |
+| --- | --- |
+| Reconciled | Mutabık |
+| Unreconciled | Mutabık olmayan |
+| Reconciliation | Mutabakat durumu |
+| Reconciliation Status | Mutabakat durumu |
+| Reconciliation Mode | Mutabakat Modu |
+
+Use `Mutabık` and `Mutabık olmayan` for transaction reconciliation status labels.
+Use `Mutabakat durumu` for search filters or settings that refer to the reconciliation status as a field.
+Use `Mutabakat Modu` for the transaction list mode used to mark transactions as reconciled or unreconciled.
+
 ## UI Terms
 
 | Source | Turkish |

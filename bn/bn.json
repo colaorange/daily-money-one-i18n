@@ -612,6 +612,8 @@
         "minValue": "সর্বনিম্ন পরিমাণ",
         "minValueHint": "পরিমাণ >= মান",
         "noteHint": "নোটে রয়েছে",
+        "reconciliation": "সমন্বয় অবস্থা",
+        "reconciliationHint": "সমন্বিত বা অসমন্বিত",
         "withdrawalAccountsHint": "উৎস হিসাব"
     },
     "selectAccountOfBook": "হিসাব নির্বাচন: {{name}}",
@@ -791,6 +793,7 @@
     "transactionTemplate": {
         "applyDeposits": "গন্তব্য প্রয়োগ",
         "applyNote": "নোট প্রয়োগ",
+        "applyReconciliation": "সমন্বয় প্রয়োগ",
         "applyValue": "পরিমাণ প্রয়োগ",
         "applyWithdrawals": "উৎস প্রয়োগ",
         "name": "নাম",

@@ -61,6 +61,20 @@ Use `uscita` and `entrata` only as explanatory wording when the source needs to 
 | Import | Importa |
 | Export | Esporta |
 
+## Reconciliation Terms
+
+| Term | it |
+| --- | --- |
+| Reconciled | Riconciliato |
+| Unreconciled | Non riconciliato |
+| Reconciliation | Stato riconciliazione |
+| Reconciliation Status | Stato riconciliazione |
+| Reconciliation Mode | Modalità riconciliazione |
+
+Use `Riconciliato` and `Non riconciliato` for transaction reconciliation status labels.
+Use `Stato riconciliazione` for search filters or settings that refer to the reconciliation status as a field.
+Use `Modalità riconciliazione` for the transaction list mode used to mark transactions as reconciled or unreconciled.
+
 ## UI Terms
 
 | Term | it |

@@ -612,6 +612,8 @@
         "minValue": "Min Amount",
         "minValueHint": "Amount >= value",
         "noteHint": "Note contains",
+        "reconciliation": "Reconciliation Status",
+        "reconciliationHint": "Reconciled or unreconciled",
         "withdrawalAccountsHint": "Source account"
     },
     "selectAccountOfBook": "Select Account: {{name}}",
@@ -791,6 +793,7 @@
     "transactionTemplate": {
         "applyDeposits": "Apply Destination",
         "applyNote": "Apply Note",
+        "applyReconciliation": "Apply Reconciliation",
         "applyValue": "Apply Amount",
         "applyWithdrawals": "Apply Source",
         "name": "Name",

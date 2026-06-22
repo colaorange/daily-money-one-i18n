@@ -612,6 +612,8 @@
         "minValue": "Montante mín.",
         "minValueHint": "Montante >= valor",
         "noteHint": "Nota contém",
+        "reconciliation": "Estado de reconciliação",
+        "reconciliationHint": "Reconciliado ou não reconciliado",
         "withdrawalAccountsHint": "Conta de origem"
     },
     "selectAccountOfBook": "Selecionar conta: {{name}}",
@@ -791,6 +793,7 @@
     "transactionTemplate": {
         "applyDeposits": "Aplicar destino",
         "applyNote": "Aplicar nota",
+        "applyReconciliation": "Aplicar reconciliação",
         "applyValue": "Aplicar montante",
         "applyWithdrawals": "Aplicar origem",
         "name": "Nome",

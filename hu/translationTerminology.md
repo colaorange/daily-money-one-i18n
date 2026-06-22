@@ -57,6 +57,20 @@ Use `kiutalás` and `beutalás` only as explanatory wording when the source need
 | Import | Importálás |
 | Export | Exportálás |
 
+## Reconciliation Terms
+
+| Term | hu |
+| --- | --- |
+| Reconciled | Egyeztetett |
+| Unreconciled | Nem egyeztetett |
+| Reconciliation | Egyeztetési állapot |
+| Reconciliation Status | Egyeztetési állapot |
+| Reconciliation Mode | Egyeztetési mód |
+
+Use `Egyeztetett` and `Nem egyeztetett` for transaction reconciliation status labels.
+Use `Egyeztetési állapot` for search filters or settings that refer to the reconciliation status as a field.
+Use `Egyeztetési mód` for the transaction list mode used to mark transactions as reconciled or unreconciled.
+
 ## UI Terms
 
 | Term | hu |

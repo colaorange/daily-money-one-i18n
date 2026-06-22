@@ -612,6 +612,8 @@
         "minValue": "最小金額",
         "minValueHint": "金額 >= 値",
         "noteHint": "メモに含まれる",
+        "reconciliation": "照合状態",
+        "reconciliationHint": "照合済みまたは未照合",
         "withdrawalAccountsHint": "出金元科目"
     },
     "selectAccountOfBook": "科目を選択: {{name}}",
@@ -791,6 +793,7 @@
     "transactionTemplate": {
         "applyDeposits": "入金先を適用",
         "applyNote": "メモを適用",
+        "applyReconciliation": "照合を適用",
         "applyValue": "金額を適用",
         "applyWithdrawals": "出金元を適用",
         "name": "名前",

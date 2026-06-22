@@ -52,6 +52,20 @@ This file contains locale-specific terminology and style rules for Hong Kong Tra
 | Import | 匯入 |
 | Export | 匯出 |
 
+## Reconciliation Terms
+
+| Term | zh-HK |
+| --- | --- |
+| Reconciled | 已核對 |
+| Unreconciled | 未核對 |
+| Reconciliation | 核對狀態 |
+| Reconciliation Status | 核對狀態 |
+| Reconciliation Mode | 核對模式 |
+
+Use `已核對` and `未核對` for transaction reconciliation status labels.
+Use `核對狀態` for search filters or settings that refer to the reconciliation status as a field.
+Use `核對模式` for the transaction list mode used to mark transactions as reconciled or unreconciled.
+
 ## UI Terms
 
 | Term | zh-HK |

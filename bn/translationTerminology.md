@@ -57,6 +57,20 @@ This file contains locale-specific terminology and style rules for Bengali (`bn`
 | Import | আমদানি |
 | Export | রপ্তানি |
 
+## Reconciliation Terms
+
+| Term | bn |
+| --- | --- |
+| Reconciled | সমন্বিত |
+| Unreconciled | অসমন্বিত |
+| Reconciliation | সমন্বয় অবস্থা |
+| Reconciliation Status | সমন্বয় অবস্থা |
+| Reconciliation Mode | সমন্বয় মোড |
+
+Use `সমন্বিত` and `অসমন্বিত` for transaction reconciliation status labels.
+Use `সমন্বয় অবস্থা` for search filters or settings that refer to the reconciliation status as a field.
+Use `সমন্বয় মোড` for the transaction list mode used to mark transactions as reconciled or unreconciled.
+
 ## UI Terms
 
 | Term | bn |

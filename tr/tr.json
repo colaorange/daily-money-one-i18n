@@ -612,6 +612,8 @@
         "minValue": "En düşük tutar",
         "minValueHint": "Tutar >= değer",
         "noteHint": "Not şunu içerir",
+        "reconciliation": "Mutabakat durumu",
+        "reconciliationHint": "Mutabık veya mutabık olmayan",
         "withdrawalAccountsHint": "Kaynak hesap"
     },
     "selectAccountOfBook": "Hesap seç: {{name}}",
@@ -768,7 +770,7 @@
         "transDatetimeHint": "İşlem zamanı.",
         "transValue": "Tutar",
         "transValueHint": "Aktarım tutarı.",
-        "unreconciled": "Mutabık Olmayan",
+        "unreconciled": "Mutabık olmayan",
         "unreconciledHint": "Bu işlemi incelenmek üzere bekleyen olarak işaretleyin, böylece daha sonra hesap kayıtlarınız veya kredi kartı ekstrenizle mutabakatını sağlayabilirsiniz.",
         "withdrawalAccount": "Kaynak",
         "withdrawalAccountHint": "Kaynak hesap",
@@ -791,6 +793,7 @@
     "transactionTemplate": {
         "applyDeposits": "Hedefi uygula",
         "applyNote": "Notu uygula",
+        "applyReconciliation": "Mutabakatı uygula",
         "applyValue": "Tutarı uygula",
         "applyWithdrawals": "Kaynağı uygula",
         "name": "Ad",

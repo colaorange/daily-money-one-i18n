@@ -57,6 +57,20 @@ Use `出金元` and `入金先` for the two sides of a transaction. Use `出金�
 | Import | インポート |
 | Export | エクスポート |
 
+## Reconciliation Terms
+
+| Term | ja |
+| --- | --- |
+| Reconciled | 照合済み |
+| Unreconciled | 未照合 |
+| Reconciliation | 照合状態 |
+| Reconciliation Status | 照合状態 |
+| Reconciliation Mode | 照合モード |
+
+Use `照合済み` and `未照合` for transaction reconciliation status labels.
+Use `照合状態` for search filters or settings that refer to the reconciliation status as a field.
+Use `照合モード` for the transaction list mode used to mark transactions as reconciled or unreconciled.
+
 ## UI Terms
 
 | Term | ja |

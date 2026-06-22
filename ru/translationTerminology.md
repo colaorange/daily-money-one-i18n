@@ -50,6 +50,20 @@ This file contains locale-specific terminology and style rules for Russian (`ru`
 | Import | Импорт |
 | Export | Экспорт |
 
+## Reconciliation Terms
+
+| Term | ru |
+| --- | --- |
+| Reconciled | Сверено |
+| Unreconciled | Не сверено |
+| Reconciliation | Статус сверки |
+| Reconciliation Status | Статус сверки |
+| Reconciliation Mode | Режим сверки |
+
+Use `Сверено` and `Не сверено` for transaction reconciliation status labels.
+Use `Статус сверки` for search filters or settings that refer to the reconciliation status as a field.
+Use `Режим сверки` for the transaction list mode used to mark transactions as reconciled or unreconciled.
+
 ## UI Terms
 
 | Source | Russian |
