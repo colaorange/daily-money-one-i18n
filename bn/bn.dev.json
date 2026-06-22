@@ -1,1 +1,5 @@
-{}
+{
+    "transactionTemplate": {
+        "applyReconciliation": "সমন্বয় প্রয়োগ"
+    }
+}

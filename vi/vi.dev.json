@@ -1,1 +1,5 @@
-{}
+{
+    "transactionTemplate": {
+        "applyReconciliation": "Áp dụng đối chiếu"
+    }
+}
