@@ -1,1 +1,6 @@
-{}
+{
+    "searchCondition": {
+        "reconciliation": "照合状態",
+        "reconciliationHint": "照合済みまたは未照合"
+    }
+}

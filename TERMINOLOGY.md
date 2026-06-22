@@ -166,6 +166,20 @@ Use these consistently for report modes, budget modes, schedule modes, and trans
 
 When translating from English into other languages, keep `Daily Money One` and `Daily Money` untranslated and use the English names exactly.
 
+## Reconciliation Terms
+
+| Term | en | zh |
+| --- | --- | --- |
+| Reconciled | Reconciled | 已核對 |
+| Unreconciled | Unreconciled | 未核對 |
+| Reconciliation | Reconciliation Status | 核對狀態 |
+| Reconciliation Status | Reconciliation Status | 核對狀態 |
+| Reconciliation Mode | Reconciliation Mode | 核對模式 |
+
+Use `Reconciled` / `已核對` and `Unreconciled` / `未核對` for transaction reconciliation status labels.
+Use `Reconciliation Status` / `核對狀態` for search filters or settings that refer to the reconciliation status as a field.
+Use `Reconciliation Mode` / `核對模式` for the transaction list mode used to mark transactions as reconciled or unreconciled.
+
 ## UI Terms
 
 Use these terms for screen names, navigation labels, settings pages, and other UI-facing labels.

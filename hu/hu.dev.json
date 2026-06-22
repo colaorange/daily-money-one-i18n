@@ -1,1 +1,6 @@
-{}
+{
+    "searchCondition": {
+        "reconciliation": "Egyeztetési állapot",
+        "reconciliationHint": "Egyeztetett vagy nem egyeztetett"
+    }
+}

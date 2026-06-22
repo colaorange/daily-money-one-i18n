@@ -57,6 +57,20 @@ Use `salida` and `entrada` only as explanatory wording when the source needs to 
 | Import | Importar |
 | Export | Exportar |
 
+## Reconciliation Terms
+
+| Term | es |
+| --- | --- |
+| Reconciled | Conciliado |
+| Unreconciled | Sin conciliar |
+| Reconciliation | Estado de conciliación |
+| Reconciliation Status | Estado de conciliación |
+| Reconciliation Mode | Modo de conciliación |
+
+Use `Conciliado` and `Sin conciliar` for transaction reconciliation status labels.
+Use `Estado de conciliación` for search filters or settings that refer to the reconciliation status as a field.
+Use `Modo de conciliación` for the transaction list mode used to mark transactions as reconciled or unreconciled.
+
 ## UI Terms
 
 | Term | es |

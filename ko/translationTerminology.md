@@ -57,6 +57,20 @@ Use `출금` and `입금` for the two sides of a transaction. Use `출금액` an
 | Import | 가져오기 |
 | Export | 내보내기 |
 
+## Reconciliation Terms
+
+| Term | ko |
+| --- | --- |
+| Reconciled | 확인됨 |
+| Unreconciled | 확인되지 않음 |
+| Reconciliation | 확인 상태 |
+| Reconciliation Status | 확인 상태 |
+| Reconciliation Mode | 확인 모드 |
+
+Use `확인됨` and `확인되지 않음` for transaction reconciliation status labels.
+Use `확인 상태` for search filters or settings that refer to the reconciliation status as a field.
+Use `확인 모드` for the transaction list mode used to mark transactions as reconciled or unreconciled.
+
 ## UI Terms
 
 | Term | ko |

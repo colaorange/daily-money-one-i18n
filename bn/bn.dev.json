@@ -1,1 +1,6 @@
-{}
+{
+    "searchCondition": {
+        "reconciliation": "সমন্বয় অবস্থা",
+        "reconciliationHint": "সমন্বিত বা অসমন্বিত"
+    }
+}

@@ -1,1 +1,6 @@
-{}
+{
+    "searchCondition": {
+        "reconciliation": "Статус сверки",
+        "reconciliationHint": "Сверено или не сверено"
+    }
+}

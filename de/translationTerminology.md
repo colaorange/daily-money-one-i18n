@@ -57,6 +57,20 @@ Use `Abgang` and `Zugang` only as explanatory wording when the source needs to c
 | Import | Importieren |
 | Export | Exportieren |
 
+## Reconciliation Terms
+
+| Term | de |
+| --- | --- |
+| Reconciled | Abgeglichen |
+| Unreconciled | Nicht abgeglichen |
+| Reconciliation | Abgleichstatus |
+| Reconciliation Status | Abgleichstatus |
+| Reconciliation Mode | Abgleichmodus |
+
+Use `Abgeglichen` and `Nicht abgeglichen` for transaction reconciliation status labels.
+Use `Abgleichstatus` for search filters or settings that refer to the reconciliation status as a field.
+Use `Abgleichmodus` for the transaction list mode used to mark transactions as reconciled or unreconciled.
+
 ## UI Terms
 
 | Term | de |

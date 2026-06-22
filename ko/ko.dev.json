@@ -1,1 +1,6 @@
-{}
+{
+    "searchCondition": {
+        "reconciliation": "확인 상태",
+        "reconciliationHint": "확인됨 또는 확인되지 않음"
+    }
+}

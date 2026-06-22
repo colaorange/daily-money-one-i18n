@@ -768,7 +768,7 @@
         "transDatetimeHint": "İşlem zamanı.",
         "transValue": "Tutar",
         "transValueHint": "Aktarım tutarı.",
-        "unreconciled": "Mutabık Olmayan",
+        "unreconciled": "Mutabık olmayan",
         "unreconciledHint": "Bu işlemi incelenmek üzere bekleyen olarak işaretleyin, böylece daha sonra hesap kayıtlarınız veya kredi kartı ekstrenizle mutabakatını sağlayabilirsiniz.",
         "withdrawalAccount": "Kaynak",
         "withdrawalAccountHint": "Kaynak hesap",

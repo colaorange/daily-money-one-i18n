@@ -57,6 +57,20 @@ Use `εξερχόμενη μεταφορά` and `εισερχόμενη μετα
 | Import | Εισαγωγή |
 | Export | Εξαγωγή |
 
+## Reconciliation Terms
+
+| Term | el |
+| --- | --- |
+| Reconciled | Συμφωνημένη |
+| Unreconciled | Μη συμφωνημένη |
+| Reconciliation | Κατάσταση συμφωνίας |
+| Reconciliation Status | Κατάσταση συμφωνίας |
+| Reconciliation Mode | Λειτουργία συμφωνίας |
+
+Use `Συμφωνημένη` and `Μη συμφωνημένη` for transaction reconciliation status labels.
+Use `Κατάσταση συμφωνίας` for search filters or settings that refer to the reconciliation status as a field.
+Use `Λειτουργία συμφωνίας` for the transaction list mode used to mark transactions as reconciled or unreconciled.
+
 ## UI Terms
 
 | Term | el |

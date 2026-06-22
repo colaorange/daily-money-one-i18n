@@ -1,1 +1,6 @@
-{}
+{
+    "searchCondition": {
+        "reconciliation": "Stato riconciliazione",
+        "reconciliationHint": "Riconciliato o non riconciliato"
+    }
+}

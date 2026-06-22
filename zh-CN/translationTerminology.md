@@ -52,6 +52,20 @@ This file contains locale-specific terminology and style rules for Simplified Ch
 | Import | 导入 |
 | Export | 导出 |
 
+## Reconciliation Terms
+
+| Term | zh-CN |
+| --- | --- |
+| Reconciled | 已核对 |
+| Unreconciled | 未核对 |
+| Reconciliation | 核对状态 |
+| Reconciliation Status | 核对状态 |
+| Reconciliation Mode | 核对模式 |
+
+Use `已核对` and `未核对` for transaction reconciliation status labels.
+Use `核对状态` for search filters or settings that refer to the reconciliation status as a field.
+Use `核对模式` for the transaction list mode used to mark transactions as reconciled or unreconciled.
+
 ## UI Terms
 
 | Term | zh-CN |

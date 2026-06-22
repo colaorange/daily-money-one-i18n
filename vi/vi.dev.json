@@ -1,1 +1,6 @@
-{}
+{
+    "searchCondition": {
+        "reconciliation": "Trạng thái đối chiếu",
+        "reconciliationHint": "Đã đối chiếu hoặc chưa đối chiếu"
+    }
+}
