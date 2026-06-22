@@ -791,6 +791,7 @@
     "transactionTemplate": {
         "applyDeposits": "Bestemming toepassen",
         "applyNote": "Notitie toepassen",
+        "applyReconciliation": "Afstemming toepassen",
         "applyValue": "Bedrag toepassen",
         "applyWithdrawals": "Bron toepassen",
         "name": "Naam",

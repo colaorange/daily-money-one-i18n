@@ -791,6 +791,7 @@
     "transactionTemplate": {
         "applyDeposits": "Cél alkalmazása",
         "applyNote": "Jegyzet alkalmazása",
+        "applyReconciliation": "Egyeztetés alkalmazása",
         "applyValue": "Összeg alkalmazása",
         "applyWithdrawals": "Forrás alkalmazása",
         "name": "Név",

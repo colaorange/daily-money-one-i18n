@@ -791,6 +791,7 @@
     "transactionTemplate": {
         "applyDeposits": "套用轉入帳戶",
         "applyNote": "套用備註",
+        "applyReconciliation": "套用核對狀態",
         "applyValue": "套用金額",
         "applyWithdrawals": "套用轉出帳戶",
         "name": "名稱",

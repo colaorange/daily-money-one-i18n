@@ -791,6 +791,7 @@
     "transactionTemplate": {
         "applyDeposits": "Εφαρμογή προορισμού",
         "applyNote": "Εφαρμογή σημείωσης",
+        "applyReconciliation": "Εφαρμογή συμφωνίας",
         "applyValue": "Εφαρμογή ποσού",
         "applyWithdrawals": "Εφαρμογή προέλευσης",
         "name": "Όνομα",

@@ -791,6 +791,7 @@
     "transactionTemplate": {
         "applyDeposits": "Hedefi uygula",
         "applyNote": "Notu uygula",
+        "applyReconciliation": "Mutabakatı uygula",
         "applyValue": "Tutarı uygula",
         "applyWithdrawals": "Kaynağı uygula",
         "name": "Ad",

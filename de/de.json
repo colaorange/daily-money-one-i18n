@@ -791,6 +791,7 @@
     "transactionTemplate": {
         "applyDeposits": "Ziel anwenden",
         "applyNote": "Notiz anwenden",
+        "applyReconciliation": "Abgleich anwenden",
         "applyValue": "Betrag anwenden",
         "applyWithdrawals": "Quelle anwenden",
         "name": "Name",

@@ -1,5 +1,1 @@
-{
-    "transactionTemplate": {
-        "applyReconciliation": "Применить сверку"
-    }
-}
+{}

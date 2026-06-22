@@ -791,6 +791,7 @@
     "transactionTemplate": {
         "applyDeposits": "Применить назначение",
         "applyNote": "Применить примечание",
+        "applyReconciliation": "Применить сверку",
         "applyValue": "Применить сумму",
         "applyWithdrawals": "Применить источник",
         "name": "Название",

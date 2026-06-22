@@ -1,5 +1,1 @@
-{
-    "transactionTemplate": {
-        "applyReconciliation": "ใช้การกระทบยอด"
-    }
-}
+{}

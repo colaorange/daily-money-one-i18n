@@ -791,6 +791,7 @@
     "transactionTemplate": {
         "applyDeposits": "Aplicar destino",
         "applyNote": "Aplicar nota",
+        "applyReconciliation": "Aplicar reconciliação",
         "applyValue": "Aplicar montante",
         "applyWithdrawals": "Aplicar origem",
         "name": "Nome",

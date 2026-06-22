@@ -1,5 +1,1 @@
-{
-    "transactionTemplate": {
-        "applyReconciliation": "조정 적용"
-    }
-}
+{}

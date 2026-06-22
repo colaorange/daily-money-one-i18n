@@ -791,6 +791,7 @@
     "transactionTemplate": {
         "applyDeposits": "ใช้ปลายทาง",
         "applyNote": "ใช้บันทึก",
+        "applyReconciliation": "ใช้การกระทบยอด",
         "applyValue": "ใช้จำนวนเงิน",
         "applyWithdrawals": "ใช้ต้นทาง",
         "name": "ชื่อ",

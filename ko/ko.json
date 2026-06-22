@@ -791,6 +791,7 @@
     "transactionTemplate": {
         "applyDeposits": "입금 적용",
         "applyNote": "메모 적용",
+        "applyReconciliation": "조정 적용",
         "applyValue": "금액 적용",
         "applyWithdrawals": "출금 적용",
         "name": "이름",

@@ -791,6 +791,7 @@
     "transactionTemplate": {
         "applyDeposits": "Áp dụng đích",
         "applyNote": "Áp dụng ghi chú",
+        "applyReconciliation": "Áp dụng đối chiếu",
         "applyValue": "Áp dụng số tiền",
         "applyWithdrawals": "Áp dụng nguồn",
         "name": "Tên",

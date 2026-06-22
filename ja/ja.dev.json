@@ -1,5 +1,1 @@
-{
-    "transactionTemplate": {
-        "applyReconciliation": "照合を適用"
-    }
-}
+{}

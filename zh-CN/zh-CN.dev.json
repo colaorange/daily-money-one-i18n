@@ -1,5 +1,1 @@
-{
-    "transactionTemplate": {
-        "applyReconciliation": "套用核对状态"
-    }
-}
+{}

@@ -1,5 +1,1 @@
-{
-    "transactionTemplate": {
-        "applyReconciliation": "Abgleich anwenden"
-    }
-}
+{}
