@@ -4,6 +4,10 @@
 
 ## Novedades
 
+### En la versión 1.12.0
+Esta versión incluye actualizaciones de funciones:
+* Las transacciones ahora incluyen un campo "Estado de conciliación". Las transacciones de tarjeta de crédito pueden configurarse primero como "Sin conciliar" (el valor predeterminado es "Conciliado"). Después de pagar la factura de la tarjeta de crédito, puedes usar el "Modo de conciliación" en la lista "Transacciones" para comprobarlas rápidamente con el extracto de tu tarjeta de crédito.
+
 ### En la versión 1.11.0
 Esta versión incluye actualizaciones de funciones:
 * ¿Ves el icono de un botón con sombra? ¡Prueba a mantenerlo pulsado para mostrar otra función!

@@ -4,6 +4,10 @@ Heb je vragen of functieverzoeken? Word lid van de [Facebook-fangroep](https://w
 
 ## Wat is nieuw
 
+### In versie 1.12.0
+Deze versie bevat functie-updates:
+* Transacties bevatten nu een veld "Afstemmingsstatus". Creditcardtransacties kunnen eerst worden ingesteld op "Niet afgestemd" (standaard is "Afgestemd"). Nadat u de creditcardrekening hebt betaald, kunt u in de lijst "Transacties" de "Afstemmingsmodus" gebruiken om ze snel te controleren met uw creditcardafschrift.
+
 ### In versie 1.11.0
 Deze release bevat functie-updates:
 * Zie je een knopicoon met een schaduw? Houd het lang ingedrukt om een andere functie te onthullen!

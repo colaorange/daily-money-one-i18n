@@ -4,6 +4,9 @@ Do you have questions or feature requests? Join [Facebook fan group](https://www
 
 ## What's New
 
+### In Version 1.12.0
+* Transactions now include a “Reconciliation Status” field. Credit card transactions can be set to “Unreconciled” first (the default is “Reconciled”). After paying the credit card bill, you can use “Reconciliation Mode” in the “Transaction List” to quickly check them against your credit card statement.
+
 ### In Version 1.11.0
 This release includes feature updates:
 * Spot a button icon with a shadow? Try long-pressing it to reveal another function!

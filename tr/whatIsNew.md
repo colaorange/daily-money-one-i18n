@@ -4,6 +4,10 @@ Sorularınız veya özellik istekleriniz mi var? En son geliştirme güncellemel
 
 ## Yenilikler
 
+### Sürüm 1.12.0'da
+Bu sürüm özellik güncellemeleri içerir:
+* İşlemler artık bir "Mutabakat durumu" alanı içeriyor. Kredi kartı işlemleri önce "Mutabık olmayan" olarak ayarlanabilir (varsayılan değer "Mutabık"). Kredi kartı borcunu ödedikten sonra, "İşlem" listesindeki "Mutabakat Modu"nu kullanarak bunları kredi kartı ekstresiyle hızlıca karşılaştırabilirsiniz.
+
 ### Sürüm 1.11.0'da
 Bu sürüm özellik güncellemeleri içerir:
 * Gölgeli bir düğme simgesi mi gördünüz? Başka bir işlevi görmek için basılı tutmayı deneyin!

@@ -4,6 +4,10 @@ Haben Sie Fragen oder Funktionswünsche? Treten Sie der [Facebook-Fangruppe](htt
 
 ## Neuigkeiten
 
+### In der Version 1.12.0
+Diese Version enthält Funktionsupdates:
+* Buchungen enthalten jetzt ein Feld "Abgleichstatus". Kreditkartenbuchungen können zunächst auf "Nicht abgeglichen" gesetzt werden (Standard ist "Abgeglichen"). Nach dem Bezahlen der Kreditkartenabrechnung können Sie im "Buchungen"-Bereich den "Abgleichmodus" verwenden, um sie schnell mit Ihrer Kreditkartenabrechnung abzugleichen.
+
 ### In der Version 1.11.0
 Diese Version enthält Funktionsupdates:
 * Ein Schaltflächensymbol mit Schatten entdeckt? Versuchen Sie es gedrückt zu halten, um eine weitere Funktion anzuzeigen!

@@ -4,6 +4,10 @@ Kérdéseid vagy funkcióigényeid vannak? Csatlakozz a [Facebook rajongói csop
 
 ## Újdonságok
 
+### Az 1.12.0 verzióban
+Ez a verzió funkciófrissítéseket tartalmaz:
+* A tranzakciók mostantól tartalmaznak egy "Egyeztetési állapot" mezőt. A hitelkártyás tranzakciók először "Nem egyeztetett" állapotra állíthatók (az alapértelmezett érték "Egyeztetett"). A hitelkártyaszámla kifizetése után a "Tranzakciók" listában az "Egyeztetési mód" segítségével gyorsan összevetheti őket a hitelkártya-kivonattal.
+
 ### Az 1.11.0 verzióban
 Ez a kiadás funkcionális frissítéseket tartalmaz:
 * Árnyékolt gombikont látsz? Próbáld meg hosszan nyomva tartani egy másik funkció eléréséhez!

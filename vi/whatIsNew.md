@@ -4,6 +4,10 @@ Bạn có câu hỏi hoặc yêu cầu tính năng? Hãy tham gia [nhóm Faceboo
 
 ## Có gì mới
 
+### Trong phiên bản 1.12.0
+Phiên bản này bao gồm các cập nhật tính năng:
+* Giao dịch hiện có thêm trường "Trạng thái đối chiếu". Giao dịch thẻ tín dụng có thể được đặt thành "Chưa đối chiếu" trước (mặc định là "Đã đối chiếu"). Sau khi thanh toán hóa đơn thẻ tín dụng, bạn có thể dùng "Chế độ đối chiếu" trong danh sách "Giao dịch" để nhanh chóng đối chiếu với sao kê thẻ tín dụng.
+
 ### Trong phiên bản 1.11.0
 Bản phát hành này bao gồm các cập nhật tính năng:
 * Bạn có thấy biểu tượng nút có bóng mờ không? Hãy thử nhấn giữ để khám phá thêm chức năng khác nhé!

@@ -1,5 +1,14 @@
 ## Daily Money One
 
+### 1.12.0
+
+**Features**: 
+> * #112 Add Reconciliation Status Toggle for Transaction Records
+
+### 1.11.1
+
+**Fixed Bugs**
+> * #114 Schedule + Notfication doesn't work correctly
 
 ### 1.11.0
 
@@ -7,8 +16,6 @@
 > * #108 Enhance the schedule template shortcut on the home screen.
 > * #104 Support to copy a account and follow the origianl position.
 > * #109 Support copy account from another book
-
-## History
 
 ### 1.10.1
 **Features**: 

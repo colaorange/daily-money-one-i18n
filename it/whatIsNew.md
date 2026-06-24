@@ -4,6 +4,10 @@ Hai domande o richieste di funzioni? Unisciti al [gruppo Facebook](https://www.f
 
 ## Novità
 
+### Nella versione 1.12.0
+Questa versione include aggiornamenti delle funzionalità:
+* I movimenti ora includono un campo "Stato riconciliazione". I movimenti con carta di credito possono essere impostati inizialmente su "Non riconciliato" (il valore predefinito è "Riconciliato"). Dopo aver pagato l'estratto conto della carta di credito, puoi usare la "Modalità riconciliazione" nell'elenco "Movimenti" per confrontarli rapidamente con l'estratto conto della carta.
+
 ### Nella versione 1.11.0
 Questa versione include aggiornamenti delle funzioni:
 * Vedi l'icona di un pulsante con un'ombra? Prova a tenere premuto per scoprire un'altra funzione!

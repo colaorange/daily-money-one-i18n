@@ -4,6 +4,10 @@ Tem perguntas ou pedidos de funcionalidades? Junte-se ao [grupo de fãs no Faceb
 
 ## Novidades
 
+### Na versão 1.12.0
+Esta versão inclui atualizações de funcionalidades:
+* Os movimentos passam a incluir o campo "Estado de reconciliação". Os movimentos de cartão de crédito podem ser definidos primeiro como "Não reconciliado" (a predefinição é "Reconciliado"). Depois de pagar a fatura do cartão de crédito, pode usar o "Modo de reconciliação" na lista "Movimentos" para os conferir rapidamente com o extrato do cartão de crédito.
+
 ### Na versão 1.11.0
 Esta versão inclui atualizações de funcionalidades:
 * Vê o ícone de um botão com sombra? Tente mantê-lo premido para revelar outra função!
