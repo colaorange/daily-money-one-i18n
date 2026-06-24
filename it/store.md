@@ -30,6 +30,7 @@ Non solo un registro dei flussi di cassa! Con una struttura semplice di Attivi, 
 ✅ Funzioni esclusive
 - Modalità server: lo schermo del telefono è troppo piccolo? Abilita la Modalità server con un tocco. Visualizza e analizza tutti i dati nel browser del computer. La contabilità può essere professionale!
 - Modelli e pianificazioni ricorrenti: automatizza affitto, stipendio e abbonamenti. Impostali una volta e il sistema ti ricorda di registrarli.
+- Modalità riconciliazione: Confronta rapidamente i movimenti della carta di credito con l'estratto conto della carta.
 - Esportazione Excel (XLSX): hai bisogno di analisi più profonde? Esporta movimenti e report in formato Excel. I tuoi dati, le tue regole.
 
 ✅ I tuoi dati sono completamente tuoi

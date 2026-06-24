@@ -30,6 +30,7 @@ Mais do que um registo de fluxo de caixa. Com uma estrutura simples de Ativos, P
 ✅ Funcionalidades exclusivas
 - Modo de servidor: o ecrã do telemóvel é pequeno? Ative o modo de servidor com um toque e veja os dados no navegador do computador. A contabilidade também pode ser profissional.
 - Modelos e agendas recorrentes: automatize renda, salário e subscrições. Configure uma vez e o sistema lembra-o de registar.
+- Modo de reconciliação: Confira rapidamente os movimentos do cartão de crédito com o extrato do cartão.
 - Exportação Excel (XLSX): precisa de análise mais profunda? Exporte movimentos e relatórios para Excel. Os seus dados, as suas regras.
 
 ✅ Os seus dados são mesmo seus

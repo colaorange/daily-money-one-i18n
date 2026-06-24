@@ -30,6 +30,7 @@ Sadece bir nakit akışı günlüğünden fazlası! Varlıklar, Borçlar, Gelir 
 ✅ Özel Özellikler
 - Sunucu Modu: Telefon ekranı küçük mü? Tek tıkla Sunucu Modunu etkinleştirin. Tüm verileri bilgisayar tarayıcınızda görüntüleyip analiz edin. Muhasebe profesyonel olabilir!
 - Kullanışlı Şablonlar ve Tekrarlayan Zamanlamalar: Kira, maaş ve abonelikleri otomatikleştirin. Bir kez ayarlayın, sistem kaydetmeniz için hatırlatsın.
+- Mutabakat Modu: Kredi kartı işlemlerini kredi kartı ekstresiyle hızlıca karşılaştırın.
 - Excel (XLSX) Dışa Aktarma: Daha derin analiz mi gerekiyor? İşlemleri ve raporları Excel biçimine dışa aktarın. Verileriniz, kurallarınız.
 
 ✅ Verileriniz Tamamen Sizin

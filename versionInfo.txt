@@ -4,6 +4,7 @@
 - Support multiple books.
 - Create multiple custom accounts, hierarchical accounts.
 - Split transactions one-to-many between accounts.
+- Quickly check credit card statements.
 - Transfer transactions between books.
 - Transaction templates, recurring scheduling and reminders.
 - Periodic budgets and budget execution ratio display.
@@ -16,6 +17,7 @@
 - একাধিক বই সমর্থন করে।
 - একাধিক কাস্টম হিসাব ও স্তরভিত্তিক হিসাব তৈরি করুন।
 - হিসাবগুলোর মধ্যে এক-থেকে-অনেক বিভক্ত লেনদেন করুন।
+- ক্রেডিট কার্ড স্টেটমেন্ট দ্রুত মিলিয়ে দেখুন।
 - বইগুলোর মধ্যে লেনদেন স্থানান্তর করুন।
 - লেনদেনের টেমপ্লেট, পুনরাবৃত্ত সময়সূচি ও স্মরণ করিয়ে দেওয়া।
 - পর্যায়ভিত্তিক বাজেট এবং বাজেট বাস্তবায়ন অনুপাত প্রদর্শন।
@@ -28,6 +30,7 @@
 - Unterstützung für mehrere Bücher.
 - Mehrere benutzerdefinierte Konten und hierarchische Konten erstellen.
 - Buchungen eins-zu-viele zwischen Konten aufteilen.
+- Kreditkartenabrechnungen schnell prüfen.
 - Buchungen zwischen Büchern übertragen.
 - Buchungsvorlagen, wiederkehrende Zeitpläne und Erinnerungen.
 - Periodische Budgets und Anzeige des Budgetausführungsgrads.
@@ -38,6 +41,7 @@
 - Υποστήριξη πολλών βιβλίων.
 - Δημιουργήστε πολλούς προσαρμοσμένους λογαριασμούς και ιεραρχικούς λογαριασμούς.
 - Διαχωρίστε συναλλαγές ένα-προς-πολλά μεταξύ λογαριασμών.
+- Ελέγξτε γρήγορα κινήσεις πιστωτικής κάρτας.
 - Μεταφέρετε συναλλαγές μεταξύ βιβλίων.
 - Πρότυπα συναλλαγών, επαναλαμβανόμενος προγραμματισμός και υπενθυμίσεις.
 </el-GR>
@@ -47,6 +51,7 @@
 - Compatible con varios libros.
 - Crea varias cuentas personalizadas y cuentas jerárquicas.
 - Divide transacciones de una a varias entre cuentas.
+- Comprueba rápidamente extractos de tarjeta de crédito.
 - Transfiere transacciones entre libros.
 - Plantillas de transacción, programación recurrente y recordatorios.
 - Presupuestos periódicos y visualización del porcentaje de ejecución del presupuesto.
@@ -57,6 +62,7 @@
 - Több könyv támogatása.
 - Hozzon létre több egyéni számlát és hierarchikus számlákat.
 - Ossza fel a tranzakciókat egy-a-többhöz módon a számlák között.
+- Gyorsan ellenőrizze a hitelkártya-kivonatokat.
 - Vigyen át tranzakciókat könyvek között.
 - Tranzakciósablonok, ismétlődő ütemezés és emlékeztetők.
 - Időszakos költségkeretek és a költségkeret-teljesítési arány megjelenítése.
@@ -67,6 +73,7 @@
 - Supporta più libri.
 - Crea più conti personalizzati e conti gerarchici.
 - Suddividi transazioni uno-a-molti tra conti.
+- Controlla rapidamente gli estratti conto della carta di credito.
 - Trasferisci transazioni tra libri.
 - Modelli di transazione, pianificazione ricorrente e promemoria.
 - Budget periodici e visualizzazione del rapporto di esecuzione del budget.
@@ -79,6 +86,7 @@
 - 複数のブックに対応しています。
 - 複数のカスタムアカウントと階層型アカウントを作成できます。
 - アカウント間で取引を一対多に分割できます。
+- クレジットカード明細をすばやく確認できます。
 - ブック間で取引を転送できます。
 - 取引テンプレート、定期スケジュール、リマインダー。
 - 期間別予算と予算実行率の表示。
@@ -91,6 +99,7 @@
 - 여러 장부를 지원합니다.
 - 여러 사용자 지정 계정과 계층형 계정을 만들 수 있습니다.
 - 계정 간 거래를 일대다로 분할합니다.
+- 신용카드 명세서를 빠르게 확인합니다.
 - 장부 간 거래를 이전합니다.
 - 거래 템플릿, 반복 일정 및 알림.
 - 기간별 예산과 예산 실행률 표시.
@@ -103,6 +112,7 @@
 - Ondersteuning voor meerdere boeken.
 - Meerdere aangepaste rekeningen en hiërarchische rekeningen maken.
 - Transacties één-op-veel tussen rekeningen splitsen.
+- Creditcardafschriften snel controleren.
 - Transacties tussen boeken overzetten.
 - Transactiesjablonen, terugkerende planning en herinneringen.
 - Periodieke budgetten en weergave van de budgetuitvoeringsratio.
@@ -113,6 +123,7 @@
 - Suporte para vários livros.
 - Crie várias contas personalizadas e contas hierárquicas.
 - Divida movimentos de um-para-muitos entre contas.
+- Confira rapidamente extratos do cartão de crédito.
 - Transfira movimentos entre livros.
 - Modelos de movimento, agendamento recorrente e lembretes.
 - Orçamentos periódicos e apresentação do rácio de execução do orçamento.
@@ -123,6 +134,7 @@
 - Поддержка нескольких книг.
 - Создавайте несколько пользовательских счетов и иерархические счета.
 - Разделяйте операции один-ко-многим между счетами.
+- Быстро сверяйте выписки по кредитной карте.
 - Переносите операции между книгами.
 - Шаблоны операций, повторяющееся расписание и напоминания.
 - Периодические бюджеты и отображение процента исполнения бюджета.
@@ -133,6 +145,7 @@
 - รองรับสมุดหลายเล่ม
 - สร้างบัญชีแบบกำหนดเองหลายบัญชีและบัญชีแบบลำดับชั้น
 - แยกรายการแบบหนึ่งต่อหลายระหว่างบัญชี
+- ตรวจสอบใบแจ้งยอดบัตรเครดิตได้รวดเร็ว
 - โอนย้ายรายการระหว่างสมุด
 - แม่แบบรายการ กำหนดการซ้ำ และการแจ้งเตือน
 - งบประมาณตามรอบเวลาและการแสดงอัตราการใช้งบประมาณ
@@ -145,6 +158,7 @@
 - Birden fazla defteri destekler.
 - Birden fazla özel hesap ve hiyerarşik hesap oluşturun.
 - İşlemleri hesaplar arasında bire-çok olarak bölün.
+- Kredi kartı ekstrelerini hızlıca kontrol edin.
 - İşlemleri defterler arasında aktarın.
 - İşlem şablonları, yinelenen zamanlama ve hatırlatıcılar.
 - Dönemsel bütçeler ve bütçe gerçekleşme oranı gösterimi.
@@ -156,6 +170,7 @@
 - Hỗ trợ nhiều sổ.
 - Tạo nhiều tài khoản tùy chỉnh và tài khoản phân cấp.
 - Tách giao dịch một-nhiều giữa các tài khoản.
+- Kiểm tra nhanh sao kê thẻ tín dụng.
 - Chuyển giao dịch giữa các sổ.
 - Mẫu giao dịch, lịch lặp lại và lời nhắc.
 - Ngân sách định kỳ và hiển thị tỷ lệ thực hiện ngân sách.
@@ -168,6 +183,7 @@
 - 支援多個帳本。
 - 建立多個自定義帳戶，階層式帳戶。
 - 在帳戶間進行一對多的分帳
+- 快速核對信用卡對帳單。
 - 帳本間帳目互轉。
 - 帳目範本, 周期性帳目範本排程及提醒。
 - 周期性預算，及預算執行比例顯示。
@@ -180,6 +196,7 @@
 - 支持多个账本。
 - 创建多个自定义账户，层级账户。
 - 在账户间进行一对多分账
+- 快速核对信用卡对账单。
 - 账本之间记录互转。
 - 记录模板、周期性记录模板排程及提醒。
 - 周期性预算，及预算执行比例显示。
@@ -192,6 +209,7 @@
 - 支援多個賬簿。
 - 建立多個自訂戶口，階層式戶口。
 - 在戶口間進行一對多的分賬
+- 快速核對信用卡月結單。
 - 賬簿之間賬目互轉。
 - 賬目範本、週期性賬目範本排程及提醒。
 - 週期性預算，及預算執行比例顯示。

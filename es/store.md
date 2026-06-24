@@ -30,6 +30,7 @@ Sin funciones sociales complejas ni gamificación innecesaria. Ofrecemos una int
 ✅ Funciones exclusivas
 - Modo servidor: ¿La pantalla del teléfono es demasiado pequeña? Activa el modo servidor con un toque. Consulta y analiza todos los datos en el navegador de tu computadora. ¡La contabilidad también puede ser profesional!
 - Plantillas y programaciones recurrentes: Automatiza alquiler, salario y suscripciones. Configúralo una vez y el sistema te recordará registrarlo.
+- Modo de conciliación: Comprueba rápidamente las transacciones de tarjeta de crédito con el extracto de tu tarjeta.
 - Exportación a Excel (XLSX): ¿Necesitas un análisis más profundo? Exporta transacciones e informes a Excel. Tus datos, tus reglas.
 
 ✅ Tus datos son completamente tuyos

@@ -30,6 +30,7 @@ Starke Datenanalyse und Budgetkontrolle
 Exklusive Funktionen
 - Servermodus: Ist der Telefonbildschirm zu klein? Aktivieren Sie den Servermodus mit einem Klick und analysieren Sie alle Daten im Browser Ihres Computers.
 - Praktische Vorlagen und wiederkehrende Zeitpläne: Miete, Gehalt und Abonnements automatisieren. Einmal einrichten, dann erinnert Sie das System an die Erfassung.
+- Abgleichmodus: Gleichen Sie Kreditkartenbuchungen schnell mit Ihrer Kreditkartenabrechnung ab.
 - Excel-Export (XLSX): Für tiefere Analysen exportieren Sie Buchungen und Berichte ins Excel-Format. Ihre Daten, Ihre Regeln.
 
 Ihre Daten gehören vollständig Ihnen

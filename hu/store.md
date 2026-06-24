@@ -30,6 +30,7 @@ Több mint egy egyszerű készpénzáramlási napló! Az eszközök, kötelezett
 ✅ Exkluzív funkciók
 - Szerver mód: Túl kicsi a telefon képernyője? Egy kattintással engedélyezheted a Szerver módot. Tekintsd meg és elemezd az összes adatot a számítógéped böngészőjében. A könyvelés lehet professzionális is!
 - Kényelmes sablonok és ismétlődő ütemezések: Automatizáld a lakbért, a fizetést és az előfizetéseket. Állítsd be egyszer, és a rendszer emlékeztet a rögzítésre.
+- Egyeztetési mód: Gyorsan vesse össze a hitelkártyás tranzakciókat a hitelkártya-kivonattal.
 - Excel (XLSX) exportálás: Mélyebb elemzésre van szükséged? Exportáld a tranzakciókat és jelentéseket Excel formátumba. A te adataid, a te szabályaid.
 
 ✅ Az adataid teljesen a tieid

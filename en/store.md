@@ -30,6 +30,7 @@ More than just a cash flow log! With a simple structure of Assets, Liabilities, 
 ✅ Exclusive Features
 - Server Mode: Phone screen too small? One-click to enable Server Mode. View and analyze all data on your computer browser. Accounting can be professional!
 - Convenient Templates & Recurring Schedules: Automate rent, salary, and subscriptions. Set it once, and the system reminds you to record it.
+- Reconciliation Mode: Quickly check credit card transactions against your credit card statement.
 - Excel (XLSX) Export: Need deeper analysis? Export transactions and reports to Excel format. Your data, your rules.
 
 ✅ Your Data, Completely Yours

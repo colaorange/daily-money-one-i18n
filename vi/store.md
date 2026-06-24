@@ -30,6 +30,7 @@ Không chỉ là nhật ký dòng tiền! Với cấu trúc đơn giản gồm T
 ✅ Tính năng độc đáo
 - Chế độ máy chủ: Màn hình điện thoại quá nhỏ? Bật Chế độ máy chủ chỉ với một chạm. Xem và phân tích mọi dữ liệu trên trình duyệt máy tính. Ghi chép tài chính cũng có thể chuyên nghiệp!
 - Mẫu tiện lợi & lịch lặp lại: Tự động hóa tiền thuê, lương và đăng ký. Đặt một lần, hệ thống nhắc bạn ghi lại.
+- Chế độ đối chiếu: Nhanh chóng đối chiếu giao dịch thẻ tín dụng với sao kê thẻ tín dụng.
 - Xuất Excel (XLSX): Cần phân tích sâu hơn? Xuất giao dịch và báo cáo sang định dạng Excel. Dữ liệu của bạn, quy tắc của bạn.
 
 ✅ Dữ liệu hoàn toàn thuộc về bạn

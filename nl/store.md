@@ -30,6 +30,7 @@ Krachtige data-analyse en budgetbeheer
 Exclusieve functies
 - Servermodus: is je telefoonscherm te klein? Schakel Servermodus met een tik in en bekijk je gegevens in de browser van je computer.
 - Handige sjablonen en terugkerende planning: automatiseer huur, salaris en abonnementen. Een keer instellen, daarna herinnert het systeem je eraan.
+- Afstemmingsmodus: Controleer creditcardtransacties snel met je creditcardafschrift.
 - Excel-export (XLSX): exporteer transacties en rapporten naar Excel-formaat voor diepere analyse.
 
 Jouw gegevens blijven helemaal van jou
