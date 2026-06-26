@@ -1,218 +1,218 @@
 <en-US>
-- Record daily expenses, income, assets, and liabilities.
-- View balance sheets for various accounts and any period.
-- Support multiple books.
-- Create multiple custom accounts, hierarchical accounts.
-- Split transactions one-to-many between accounts.
-- Quickly check credit card statements.
-- Transfer transactions between books.
-- Transaction templates, recurring scheduling and reminders.
-- Periodic budgets and budget execution ratio display.
-- Backup the database
-- No usage limits, completely free.
+-Record daily expenses, income, assets, and liabilities.
+-View balance sheets for various accounts and any period.
+-Support multiple books.
+-Create multiple custom accounts, hierarchical accounts.
+-Split transactions one-to-many between accounts.
+-Quickly check credit card statements.
+-Transfer transactions between books.
+-Transaction templates, recurring scheduling and reminders.
+-Periodic budgets and budget execution ratio display.
+-Backup the database
+-Completely free.
 </en-US>
 <bn-BD>
-- দৈনন্দিন খরচ, আয়, সম্পদ ও দায় নথিভুক্ত করুন।
-- বিভিন্ন হিসাব ও যেকোনো সময়ের জন্য ব্যালেন্স শিট দেখুন।
-- একাধিক বই সমর্থন করে।
-- একাধিক কাস্টম হিসাব ও স্তরভিত্তিক হিসাব তৈরি করুন।
-- হিসাবগুলোর মধ্যে এক-থেকে-অনেক বিভক্ত লেনদেন করুন।
-- ক্রেডিট কার্ড স্টেটমেন্ট দ্রুত মিলিয়ে দেখুন।
-- বইগুলোর মধ্যে লেনদেন স্থানান্তর করুন।
-- লেনদেনের টেমপ্লেট, পুনরাবৃত্ত সময়সূচি ও স্মরণ করিয়ে দেওয়া।
-- পর্যায়ভিত্তিক বাজেট এবং বাজেট বাস্তবায়ন অনুপাত প্রদর্শন।
-- ডাটাবেস ব্যাকআপ করুন।
-- ব্যবহারের কোনো সীমা নেই, সম্পূর্ণ বিনামূল্যে।
+-দৈনন্দিন খরচ, আয়, সম্পদ ও দায় নথিভুক্ত করুন।
+-বিভিন্ন হিসাব ও যেকোনো সময়ের জন্য ব্যালেন্স শিট দেখুন।
+-একাধিক বই সমর্থন করে।
+-একাধিক কাস্টম হিসাব ও স্তরভিত্তিক হিসাব তৈরি করুন।
+-হিসাবগুলোর মধ্যে এক-থেকে-অনেক বিভক্ত লেনদেন করুন।
+-ক্রেডিট কার্ড স্টেটমেন্ট দ্রুত মিলিয়ে দেখুন।
+-বইগুলোর মধ্যে লেনদেন স্থানান্তর করুন।
+-লেনদেনের টেমপ্লেট, পুনরাবৃত্ত সময়সূচি ও স্মরণ করিয়ে দেওয়া।
+-পর্যায়ভিত্তিক বাজেট এবং বাজেট বাস্তবায়ন অনুপাত প্রদর্শন।
+-ডাটাবেস ব্যাকআপ করুন।
+-সম্পূর্ণ বিনামূল্যে।
 </bn-BD>
 <de-DE>
-- Tägliche Ausgaben, Einnahmen, Vermögen und Verbindlichkeiten erfassen.
-- Bilanzen für verschiedene Konten und beliebige Zeiträume anzeigen.
-- Unterstützung für mehrere Bücher.
-- Mehrere benutzerdefinierte Konten und hierarchische Konten erstellen.
-- Buchungen eins-zu-viele zwischen Konten aufteilen.
-- Kreditkartenabrechnungen schnell prüfen.
-- Buchungen zwischen Büchern übertragen.
-- Buchungsvorlagen, wiederkehrende Zeitpläne und Erinnerungen.
-- Periodische Budgets und Anzeige des Budgetausführungsgrads.
+-Tägliche Ausgaben, Einnahmen, Vermögen und Verbindlichkeiten erfassen.
+-Bilanzen für Konten und beliebige Zeiträume anzeigen.
+-Unterstützung für mehrere Bücher.
+-Mehrere benutzerdefinierte und hierarchische Konten erstellen.
+-Buchungen eins-zu-viele zwischen Konten aufteilen.
+-Kreditkartenabrechnungen schnell prüfen.
+-Buchungen zwischen Büchern übertragen.
+-Buchungsvorlagen, wiederkehrende Zeitpläne und Erinnerungen.
+-Periodische Budgets und Anzeige des Budgetausführungsgrads.
 </de-DE>
 <el-GR>
-- Καταγράψτε καθημερινά έξοδα, έσοδα, περιουσιακά στοιχεία και υποχρεώσεις.
-- Προβάλετε ισολογισμούς για διάφορους λογαριασμούς και οποιαδήποτε περίοδο.
-- Υποστήριξη πολλών βιβλίων.
-- Δημιουργήστε πολλούς προσαρμοσμένους λογαριασμούς και ιεραρχικούς λογαριασμούς.
-- Διαχωρίστε συναλλαγές ένα-προς-πολλά μεταξύ λογαριασμών.
-- Ελέγξτε γρήγορα κινήσεις πιστωτικής κάρτας.
-- Μεταφέρετε συναλλαγές μεταξύ βιβλίων.
-- Πρότυπα συναλλαγών, επαναλαμβανόμενος προγραμματισμός και υπενθυμίσεις.
+-Καταγράψτε καθημερινά έξοδα, έσοδα, περιουσιακά στοιχεία και υποχρεώσεις.
+-Προβάλετε ισολογισμούς για διάφορους λογαριασμούς και οποιαδήποτε περίοδο.
+-Υποστήριξη πολλών βιβλίων.
+-Δημιουργήστε πολλούς προσαρμοσμένους λογαριασμούς και ιεραρχικούς λογαριασμούς.
+-Διαχωρίστε συναλλαγές ένα-προς-πολλά μεταξύ λογαριασμών.
+-Ελέγξτε γρήγορα κινήσεις πιστωτικής κάρτας.
+-Μεταφέρετε συναλλαγές μεταξύ βιβλίων.
+-Πρότυπα συναλλαγών, επαναλαμβανόμενος προγραμματισμός και υπενθυμίσεις.
 </el-GR>
 <es-ES>
-- Registra gastos diarios, ingresos, activos y deudas.
-- Consulta hojas de balance para varias cuentas y cualquier periodo.
-- Compatible con varios libros.
-- Crea varias cuentas personalizadas y cuentas jerárquicas.
-- Divide transacciones de una a varias entre cuentas.
-- Comprueba rápidamente extractos de tarjeta de crédito.
-- Transfiere transacciones entre libros.
-- Plantillas de transacción, programación recurrente y recordatorios.
-- Presupuestos periódicos y visualización del porcentaje de ejecución del presupuesto.
+-Registra gastos diarios, ingresos, activos y deudas.
+-Consulta hojas de balance para cuentas y cualquier periodo.
+-Compatible con varios libros.
+-Crea cuentas personalizadas y jerárquicas.
+-Divide transacciones de una a varias entre cuentas.
+-Comprueba rápidamente extractos de tarjeta de crédito.
+-Transfiere transacciones entre libros.
+-Plantillas de transacción, programación recurrente y recordatorios.
+-Presupuestos periódicos y porcentaje de ejecución del presupuesto.
 </es-ES>
 <hu-HU>
-- Rögzítse a napi kiadásokat, bevételeket, eszközöket és kötelezettségeket.
-- Tekintse meg az egyenlegkimutatásokat különböző számlákhoz és bármely időszakra.
-- Több könyv támogatása.
-- Hozzon létre több egyéni számlát és hierarchikus számlákat.
-- Ossza fel a tranzakciókat egy-a-többhöz módon a számlák között.
-- Gyorsan ellenőrizze a hitelkártya-kivonatokat.
-- Vigyen át tranzakciókat könyvek között.
-- Tranzakciósablonok, ismétlődő ütemezés és emlékeztetők.
-- Időszakos költségkeretek és a költségkeret-teljesítési arány megjelenítése.
+-Rögzítse napi kiadásait, bevételeit, eszközeit és kötelezettségeit.
+-Egyenlegkimutatások több számlához és bármely időszakra.
+-Több könyv támogatása.
+-Hozzon létre egyéni és hierarchikus számlákat.
+-Ossza fel a tranzakciókat több számla között.
+-Gyorsan ellenőrizze a hitelkártya-kivonatokat.
+-Vigyen át tranzakciókat könyvek között.
+-Tranzakciósablonok, ismétlődő ütemezés és emlékeztetők.
+-Időszakos költségkeretek és teljesítési arányuk.
 </hu-HU>
 <it-IT>
-- Registra spese quotidiane, entrate, beni e passività.
-- Visualizza bilanci per vari conti e per qualsiasi periodo.
-- Supporta più libri.
-- Crea più conti personalizzati e conti gerarchici.
-- Suddividi transazioni uno-a-molti tra conti.
-- Controlla rapidamente gli estratti conto della carta di credito.
-- Trasferisci transazioni tra libri.
-- Modelli di transazione, pianificazione ricorrente e promemoria.
-- Budget periodici e visualizzazione del rapporto di esecuzione del budget.
-- Backup del database.
-- Nessun limite di utilizzo, completamente gratuito.
+-Registra spese quotidiane, entrate, beni e passività.
+-Visualizza stati patrimoniali per conti e periodi.
+-Supporta più libri.
+-Crea conti personalizzati e gerarchici.
+-Suddividi movimenti uno-a-molti tra conti.
+-Controlla rapidamente gli estratti della carta di credito.
+-Trasferisci movimenti tra libri.
+-Modelli di movimento, pianificazione ricorrente e promemoria.
+-Budget periodici e rapporto di esecuzione del budget.
+-Backup del database.
+-Nessun limite, completamente gratuito.
 </it-IT>
 <ja-JP>
-- 日々の支出、収入、資産、負債を記録します。
-- さまざまなアカウントと任意の期間の貸借対照表を表示します。
-- 複数のブックに対応しています。
-- 複数のカスタムアカウントと階層型アカウントを作成できます。
-- アカウント間で取引を一対多に分割できます。
-- クレジットカード明細をすばやく確認できます。
-- ブック間で取引を転送できます。
-- 取引テンプレート、定期スケジュール、リマインダー。
-- 期間別予算と予算実行率の表示。
-- データベースをバックアップします。
-- 利用制限なし、完全無料。
+-日々の支出、収入、資産、負債を記録します。
+-さまざまなアカウントと任意の期間の貸借対照表を表示します。
+-複数のブックに対応しています。
+-複数のカスタムアカウントと階層型アカウントを作成できます。
+-アカウント間で取引を一対多に分割できます。
+-クレジットカード明細をすばやく確認できます。
+-ブック間で取引を転送できます。
+-取引テンプレート、定期スケジュール、リマインダー。
+-期間別予算と予算実行率の表示。
+-データベースをバックアップします。
+-利用制限なし、完全無料。
 </ja-JP>
 <ko-KR>
-- 일일 지출, 수입, 자산 및 부채를 기록합니다.
-- 다양한 계정과 원하는 기간의 대차대조표를 확인합니다.
-- 여러 장부를 지원합니다.
-- 여러 사용자 지정 계정과 계층형 계정을 만들 수 있습니다.
-- 계정 간 거래를 일대다로 분할합니다.
-- 신용카드 명세서를 빠르게 확인합니다.
-- 장부 간 거래를 이전합니다.
-- 거래 템플릿, 반복 일정 및 알림.
-- 기간별 예산과 예산 실행률 표시.
-- 데이터베이스를 백업합니다.
-- 사용 제한 없이 완전히 무료입니다.
+-일일 지출, 수입, 자산 및 부채를 기록합니다.
+-다양한 계정과 원하는 기간의 대차대조표를 확인합니다.
+-여러 장부를 지원합니다.
+-여러 사용자 지정 계정과 계층형 계정을 만들 수 있습니다.
+-계정 간 거래를 일대다로 분할합니다.
+-신용카드 명세서를 빠르게 확인합니다.
+-장부 간 거래를 이전합니다.
+-거래 템플릿, 반복 일정 및 알림.
+-기간별 예산과 예산 실행률 표시.
+-데이터베이스를 백업합니다.
+-사용 제한 없이 완전히 무료입니다.
 </ko-KR>
 <nl-NL>
-- Dagelijkse uitgaven, inkomsten, activa en schulden vastleggen.
-- Balansoverzichten voor verschillende rekeningen en elke periode bekijken.
-- Ondersteuning voor meerdere boeken.
-- Meerdere aangepaste rekeningen en hiërarchische rekeningen maken.
-- Transacties één-op-veel tussen rekeningen splitsen.
-- Creditcardafschriften snel controleren.
-- Transacties tussen boeken overzetten.
-- Transactiesjablonen, terugkerende planning en herinneringen.
-- Periodieke budgetten en weergave van de budgetuitvoeringsratio.
+-Dagelijkse uitgaven, inkomsten, activa en schulden vastleggen.
+-Balansoverzichten voor rekeningen en elke periode bekijken.
+-Ondersteuning voor meerdere boeken.
+-Aangepaste en hiërarchische rekeningen maken.
+-Transacties één-op-veel tussen rekeningen splitsen.
+-Creditcardafschriften snel controleren.
+-Transacties tussen boeken overzetten.
+-Transactiesjablonen, terugkerende planning en herinneringen.
+-Periodieke budgetten en uitvoeringsratio weergeven.
 </nl-NL>
 <pt-PT>
-- Registe despesas diárias, rendimentos, ativos e passivos.
-- Veja balanços para várias contas e qualquer período.
-- Suporte para vários livros.
-- Crie várias contas personalizadas e contas hierárquicas.
-- Divida movimentos de um-para-muitos entre contas.
-- Confira rapidamente extratos do cartão de crédito.
-- Transfira movimentos entre livros.
-- Modelos de movimento, agendamento recorrente e lembretes.
-- Orçamentos periódicos e apresentação do rácio de execução do orçamento.
+-Registe despesas diárias, rendimentos, ativos e passivos.
+-Veja balanços para várias contas e qualquer período.
+-Suporte para vários livros.
+-Crie várias contas personalizadas e contas hierárquicas.
+-Divida movimentos de um-para-muitos entre contas.
+-Confira rapidamente extratos do cartão de crédito.
+-Transfira movimentos entre livros.
+-Modelos de movimento, agendamento recorrente e lembretes.
+-Orçamentos periódicos e apresentação do rácio de execução do orçamento.
 </pt-PT>
 <ru-RU>
-- Записывайте ежедневные расходы, доходы, активы и обязательства.
-- Просматривайте балансовые отчеты для разных счетов и любого периода.
-- Поддержка нескольких книг.
-- Создавайте несколько пользовательских счетов и иерархические счета.
-- Разделяйте операции один-ко-многим между счетами.
-- Быстро сверяйте выписки по кредитной карте.
-- Переносите операции между книгами.
-- Шаблоны операций, повторяющееся расписание и напоминания.
-- Периодические бюджеты и отображение процента исполнения бюджета.
+-Записывайте ежедневные расходы, доходы, активы и обязательства.
+-Просматривайте балансовые отчеты для разных счетов и любого периода.
+-Поддержка нескольких книг.
+-Создавайте несколько пользовательских счетов и иерархические счета.
+-Разделяйте операции один-ко-многим между счетами.
+-Быстро сверяйте выписки по кредитной карте.
+-Переносите операции между книгами.
+-Шаблоны операций, повторяющееся расписание и напоминания.
+-Периодические бюджеты и отображение процента исполнения бюджета.
 </ru-RU>
 <th>
-- บันทึกค่าใช้จ่ายรายวัน รายรับ สินทรัพย์ และหนี้สิน
-- ดูงบดุลของบัญชีต่าง ๆ และทุกช่วงเวลา
-- รองรับสมุดหลายเล่ม
-- สร้างบัญชีแบบกำหนดเองหลายบัญชีและบัญชีแบบลำดับชั้น
-- แยกรายการแบบหนึ่งต่อหลายระหว่างบัญชี
-- ตรวจสอบใบแจ้งยอดบัตรเครดิตได้รวดเร็ว
-- โอนย้ายรายการระหว่างสมุด
-- แม่แบบรายการ กำหนดการซ้ำ และการแจ้งเตือน
-- งบประมาณตามรอบเวลาและการแสดงอัตราการใช้งบประมาณ
-- สำรองฐานข้อมูล
-- ไม่มีขีดจำกัดการใช้งาน ฟรีทั้งหมด
+-บันทึกค่าใช้จ่ายรายวัน รายรับ สินทรัพย์ และหนี้สิน
+-ดูงบดุลของบัญชีต่าง ๆ และทุกช่วงเวลา
+-รองรับสมุดหลายเล่ม
+-สร้างบัญชีแบบกำหนดเองหลายบัญชีและบัญชีแบบลำดับชั้น
+-แยกรายการแบบหนึ่งต่อหลายระหว่างบัญชี
+-ตรวจสอบใบแจ้งยอดบัตรเครดิตได้รวดเร็ว
+-โอนย้ายรายการระหว่างสมุด
+-แม่แบบรายการ กำหนดการซ้ำ และการแจ้งเตือน
+-งบประมาณตามรอบเวลาและการแสดงอัตราการใช้งบประมาณ
+-สำรองฐานข้อมูล
+-ไม่มีขีดจำกัดการใช้งาน ฟรีทั้งหมด
 </th>
 <tr-TR>
-- Günlük giderleri, gelirleri, varlıkları ve borçları kaydedin.
-- Çeşitli hesaplar ve herhangi bir dönem için bilançoları görüntüleyin.
-- Birden fazla defteri destekler.
-- Birden fazla özel hesap ve hiyerarşik hesap oluşturun.
-- İşlemleri hesaplar arasında bire-çok olarak bölün.
-- Kredi kartı ekstrelerini hızlıca kontrol edin.
-- İşlemleri defterler arasında aktarın.
-- İşlem şablonları, yinelenen zamanlama ve hatırlatıcılar.
-- Dönemsel bütçeler ve bütçe gerçekleşme oranı gösterimi.
-- Kullanım sınırı yok, tamamen ücretsiz.
+-Günlük giderleri, gelirleri, varlıkları ve borçları kaydedin.
+-Farklı hesaplar ve dönemler için bilançoları görüntüleyin.
+-Birden fazla defteri destekler.
+-Özel ve hiyerarşik hesaplar oluşturun.
+-İşlemleri hesaplar arasında bire-çok bölün.
+-Kredi kartı ekstrelerini hızlıca kontrol edin.
+-İşlemleri defterler arasında aktarın.
+-İşlem şablonları, yinelenen zamanlama ve hatırlatıcılar.
+-Dönemsel bütçeler ve bütçe gerçekleşme oranı.
+-Kullanım sınırı yok, tamamen ücretsiz.
 </tr-TR>
 <vi>
-- Ghi lại chi phí hằng ngày, thu nhập, tài sản và nợ.
-- Xem bảng số dư cho nhiều tài khoản và bất kỳ khoảng thời gian nào.
-- Hỗ trợ nhiều sổ.
-- Tạo nhiều tài khoản tùy chỉnh và tài khoản phân cấp.
-- Tách giao dịch một-nhiều giữa các tài khoản.
-- Kiểm tra nhanh sao kê thẻ tín dụng.
-- Chuyển giao dịch giữa các sổ.
-- Mẫu giao dịch, lịch lặp lại và lời nhắc.
-- Ngân sách định kỳ và hiển thị tỷ lệ thực hiện ngân sách.
-- Sao lưu cơ sở dữ liệu.
-- Không giới hạn sử dụng, hoàn toàn miễn phí.
+-Ghi lại chi phí hằng ngày, thu nhập, tài sản và nợ.
+-Xem bảng số dư cho nhiều tài khoản và bất kỳ khoảng thời gian nào.
+-Hỗ trợ nhiều sổ.
+-Tạo nhiều tài khoản tùy chỉnh và tài khoản phân cấp.
+-Tách giao dịch một-nhiều giữa các tài khoản.
+-Kiểm tra nhanh sao kê thẻ tín dụng.
+-Chuyển giao dịch giữa các sổ.
+-Mẫu giao dịch, lịch lặp lại và lời nhắc.
+-Ngân sách định kỳ và hiển thị tỷ lệ thực hiện ngân sách.
+-Sao lưu cơ sở dữ liệu.
+-Không giới hạn sử dụng, hoàn toàn miễn phí.
 </vi>
 <zh-TW>
-- 記錄每日的花費、收入、資產和債務。
-- 進行各項帳戶及任意周期的資產負債結算。
-- 支援多個帳本。
-- 建立多個自定義帳戶，階層式帳戶。
-- 在帳戶間進行一對多的分帳
-- 快速核對信用卡對帳單。
-- 帳本間帳目互轉。
-- 帳目範本, 周期性帳目範本排程及提醒。
-- 周期性預算，及預算執行比例顯示。
-- 備份資料庫到手機及雲端，並可從手機還原
-- 無使用量限制，完全免費
+-記錄每日的花費、收入、資產和債務。
+-進行各項帳戶及任意周期的資產負債結算。
+-支援多個帳本。
+-建立多個自定義帳戶，階層式帳戶。
+-在帳戶間進行一對多的分帳
+-快速核對信用卡對帳單。
+-帳本間帳目互轉。
+-帳目範本, 周期性帳目範本排程及提醒。
+-周期性預算，及預算執行比例顯示。
+-備份資料庫到手機及雲端，並可從手機還原
+-無使用量限制，完全免費
 </zh-TW>
 <zh-CN>
-- 记录每日的支出、收入、资产和债务。
-- 进行各项账户及任意周期的余额结算。
-- 支持多个账本。
-- 创建多个自定义账户，层级账户。
-- 在账户间进行一对多分账
-- 快速核对信用卡对账单。
-- 账本之间记录互转。
-- 记录模板、周期性记录模板排程及提醒。
-- 周期性预算，及预算执行比例显示。
-- 备份数据库到手机和云端，并可从手机还原
-- 无使用量限制，完全免费
+-记录每日的支出、收入、资产和债务。
+-进行各项账户及任意周期的余额结算。
+-支持多个账本。
+-创建多个自定义账户，层级账户。
+-在账户间进行一对多分账
+-快速核对信用卡对账单。
+-账本之间记录互转。
+-记录模板、周期性记录模板排程及提醒。
+-周期性预算，及预算执行比例显示。
+-备份数据库到手机和云端，并可从手机还原
+-无使用量限制，完全免费
 </zh-CN>
 <zh-HK>
-- 記錄每日的開支、收入、資產及債務。
-- 進行各項戶口及任意週期的資產負債結算。
-- 支援多個賬簿。
-- 建立多個自訂戶口，階層式戶口。
-- 在戶口間進行一對多的分賬
-- 快速核對信用卡月結單。
-- 賬簿之間賬目互轉。
-- 賬目範本、週期性賬目範本排程及提醒。
-- 週期性預算，及預算執行比例顯示。
-- 備份資料庫到手機及雲端，並可從手機還原
-- 無使用量限制，完全免費
+-記錄每日的開支、收入、資產及債務。
+-進行各項戶口及任意週期的資產負債結算。
+-支援多個賬簿。
+-建立多個自訂戶口，階層式戶口。
+-在戶口間進行一對多的分賬
+-快速核對信用卡月結單。
+-賬簿之間賬目互轉。
+-賬目範本、週期性賬目範本排程及提醒。
+-週期性預算，及預算執行比例顯示。
+-備份資料庫到手機及雲端，並可從手機還原
+-無使用量限制，完全免費
 </zh-HK>
