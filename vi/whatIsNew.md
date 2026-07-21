@@ -40,7 +40,7 @@ Bản phát hành này bao gồm các cập nhật dựa trên mong muốn của
 * **Mở ghi chú mặc định**: Khi bật, ghi chú giao dịch trong danh sách giao dịch sẽ được mở theo mặc định. (Tùy chọn > Cài đặt hiển thị > Cài đặt danh sách giao dịch)
 * **Tùy chọn màu nền giao dịch**: Bạn có thể thay đổi màu nền của giao dịch trong danh sách giao dịch. Các tùy chọn gồm Mặc định (màu nền chủ đề), Tài khoản chuyển ra và Tài khoản chuyển vào. (Tùy chọn > Cài đặt hiển thị > Cài đặt danh sách giao dịch)
 * **Cải thiện chỉnh sửa giao dịch ở chế độ nâng cao**: Trong chế độ chỉnh sửa nâng cao, bạn có thể sắp xếp lại bất kỳ khoản chuyển nào và xóa khoản chuyển theo bất kỳ thứ tự nào. Trước đây chỉ có thể xóa khoản chuyển cuối cùng và không thể sắp xếp lại.
-* **Cài đặt lối tắt Màn hình chính**: Thêm các tùy chọn lối tắt: Giao dịch cuối tháng, Bảng số dư cuối tháng, Biểu đồ số dư cuối tháng.
+* **Cài đặt lối tắt Màn hình chính**: Thêm các tùy chọn lối tắt: Giao dịch cuối tháng, Bảng số dư cuối tháng, Biểu đồ phân bố tài chính cuối tháng.
 
 ### Trong phiên bản 1.6.0
 * [Xem biểu đồ trên máy tính](https://youtu.be/Ag8cqg9gzi0): Cung cấp chế độ máy chủ. Sau khi bật chế độ này, bạn có thể dùng trình duyệt máy tính trong cùng mạng LAN để kết nối với điện thoại và xem biểu đồ chi tiết hơn.

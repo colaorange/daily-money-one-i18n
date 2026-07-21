@@ -41,6 +41,7 @@ This file contains locale-specific terminology and style rules for Turkish (`tr`
 | Daily Money One | Daily Money One |
 | Daily Money | Daily Money |
 | Quick View | Hızlı Görünüm |
+| Distribution Chart | Finansal dağılım grafiği |
 | Trash | Çöp Kutusu |
 | Schedule | Zamanlama |
 | Preferences | Tercihler |
@@ -49,6 +50,26 @@ This file contains locale-specific terminology and style rules for Turkish (`tr`
 | Restore | Geri Yükleme |
 | Import | İçe Aktar |
 | Export | Dışa Aktar |
+
+### Quick View
+
+Use `Hızlı Görünüm` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Turkish locale JSON.
+
+### Financial Distribution Chart
+
+Use `Finansal dağılım grafiği` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | tr |
+| --- | --- |
+| Documentation | Finansal dağılım grafiği |
+| No-period UI | Finansal dağılım |
+| Weekly UI | Haftalık dağılım |
+| Monthly UI | Aylık dağılım |
+| Month-end UI | Ay sonu dağılım |
+| Annual UI | Yıllık dağılım |
+| Quick View UI | Finansal dağılım hızlı görünümü |
 
 ## Reconciliation Terms
 

@@ -41,6 +41,7 @@ This file contains locale-specific terminology and style rules for Russian (`ru`
 | Daily Money One | Daily Money One |
 | Daily Money | Daily Money |
 | Quick View | Быстрый просмотр |
+| Distribution Chart | Диаграмма распределения финансов |
 | Trash | Корзина |
 | Schedule | Расписание |
 | Preferences | Настройки |
@@ -49,6 +50,26 @@ This file contains locale-specific terminology and style rules for Russian (`ru`
 | Restore | Восстановление |
 | Import | Импорт |
 | Export | Экспорт |
+
+### Quick View
+
+Use `Быстрый просмотр` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Russian locale JSON.
+
+### Financial Distribution Chart
+
+Use `Диаграмма распределения финансов` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | ru |
+| --- | --- |
+| Documentation | Диаграмма распределения финансов |
+| No-period UI | Распределение финансов |
+| Weekly UI | Недельное распределение |
+| Monthly UI | Месячное распределение |
+| Month-end UI | Распределение: конец месяца |
+| Annual UI | Годовое распределение |
+| Quick View UI | Быстрый просмотр: распределение |
 
 ## Reconciliation Terms
 

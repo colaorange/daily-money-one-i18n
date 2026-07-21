@@ -41,6 +41,7 @@ This file contains locale-specific terminology and style rules for Thai (`th`).
 | Daily Money One | Daily Money One |
 | Daily Money | Daily Money |
 | Quick View | มุมมองด่วน |
+| Distribution Chart | แผนภูมิการกระจายทางการเงิน |
 | Trash | ถังขยะ |
 | Schedule | กำหนดการ |
 | Preferences | การตั้งค่า |
@@ -49,6 +50,26 @@ This file contains locale-specific terminology and style rules for Thai (`th`).
 | Restore | กู้คืน |
 | Import | นำเข้า |
 | Export | ส่งออก |
+
+### Quick View
+
+Use `มุมมองด่วน` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Thai locale JSON.
+
+### Financial Distribution Chart
+
+Use `แผนภูมิการกระจายทางการเงิน` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | th |
+| --- | --- |
+| Documentation | แผนภูมิการกระจายทางการเงิน |
+| No-period UI | การกระจายทางการเงิน |
+| Weekly UI | การกระจายรายสัปดาห์ |
+| Monthly UI | การกระจายรายเดือน |
+| Month-end UI | การกระจายสิ้นเดือน |
+| Annual UI | การกระจายรายปี |
+| Quick View UI | มุมมองด่วนของการกระจายทางการเงิน |
 
 ## Reconciliation Terms
 

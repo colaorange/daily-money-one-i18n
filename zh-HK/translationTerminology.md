@@ -43,6 +43,7 @@ This file contains locale-specific terminology and style rules for Hong Kong Tra
 | Daily Money | 每日記賬簿 |
 | Quick View | 快速檢視 |
 | Chart | 圖表 |
+| Distribution Chart | 財務分佈圖 |
 | Trash | 垃圾桶 |
 | Schedule | 排程 |
 | Preferences | 偏好設定 |
@@ -51,6 +52,26 @@ This file contains locale-specific terminology and style rules for Hong Kong Tra
 | Restore | 還原 |
 | Import | 匯入 |
 | Export | 匯出 |
+
+### Quick View
+
+Use `快速檢視` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. For Financial Distribution Chart, continue to use `財務分佈圖快速檢視`.
+
+### Financial Distribution Chart
+
+Use `財務分佈圖` in both Markdown documentation and locale JSON. Keep the current Chinese UI labels instead of applying the shorter English UI pattern.
+
+| Context | zh-HK |
+| --- | --- |
+| Documentation | 財務分佈圖 |
+| No-period UI | 財務分佈圖 |
+| Weekly UI | 週財務分佈圖 |
+| Monthly UI | 月財務分佈圖 |
+| Month-end UI | 至月底財務分佈圖 |
+| Annual UI | 年財務分佈圖 |
+| Quick View UI | 財務分佈圖快速檢視設定 |
 
 ## Reconciliation Terms
 

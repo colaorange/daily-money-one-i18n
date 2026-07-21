@@ -2,6 +2,28 @@
 
 This file contains locale-specific terminology and style rules for English (`en`).
 
+## Feature Terms
+
+### Quick View
+
+Use `Quick View` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. For the compact Distribution Chart UI label, use `Financial Distribution Quick View`.
+
+### Financial Distribution Chart
+
+Use the full name `Financial Distribution Chart` in Markdown documentation. Use shorter names in locale JSON UI labels and messages.
+
+| Context | en |
+| --- | --- |
+| Documentation | Financial Distribution Chart |
+| No-period UI | Financial Distribution |
+| Weekly UI | Weekly Distribution |
+| Monthly UI | Monthly Distribution |
+| Month-end UI | Month-end Distribution |
+| Annual UI | Annual Distribution |
+| Quick View UI | Financial Distribution Quick View |
+
 ## Style Rules
 
 - Keep the product wording simple and app-specific.

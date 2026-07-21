@@ -40,7 +40,7 @@ Esta versão inclui atualizações de funcionalidades baseadas nos pedidos dos u
 * **Abrir notas por predefinição**: quando ativado, a nota do movimento na lista de movimentos fica aberta por predefinição. (Preferências > Definições de visualização > Definições da lista de movimentos)
 * **Opções de cor de fundo dos movimentos**: agora pode alterar a cor de fundo dos movimentos na lista de movimentos. As opções disponíveis incluem Predefinição (cor de fundo do tema), Conta de origem e Conta de destino. (Preferências > Definições de visualização > Definições da lista de movimentos)
 * **Edição avançada de movimentos melhorada**: no modo de edição avançada, agora pode reordenar quaisquer transferências e eliminar transferências em qualquer ordem. Antes, só era possível eliminar a última transferência e não era possível reordenar.
-* **Definições de atalhos do ecrã inicial**: adicionadas as seguintes opções de atalho: Movimentos de fim do mês, Balanço de fim do mês, Gráfico de saldo de fim do mês.
+* **Definições de atalhos do ecrã inicial**: adicionadas as seguintes opções de atalho: Movimentos de fim do mês, Balanço de fim do mês, Gráfico de distribuição financeira de fim do mês.
 
 ### Na versão 1.6.0
 * [Ver os seus gráficos no computador](https://youtu.be/Ag8cqg9gzi0): fornece modo de servidor. Depois de ativar este modo, poderá usar um navegador de computador na mesma LAN para se ligar ao telemóvel e ver gráficos mais detalhados.

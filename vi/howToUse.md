@@ -58,9 +58,9 @@ Khi có giao dịch giữa các tài khoản, chẳng hạn chi tiêu, chuyển 
 > Tài khoản `Tài sản` nguồn: Ngân hàng
 > Tài khoản `Nợ` đích: Thẻ tín dụng
 
-## ![Balance Sheet](icon:///scale-balance)![Balance Chart](icon:///chart-pie) Bảng số dư & biểu đồ
+## ![Balance Sheet](icon:///scale-balance)![Financial Distribution Chart](icon:///chart-pie) Bảng số dư & biểu đồ phân bố tài chính
 
-Khi bạn ghi chép đều đặn, ứng dụng sẽ giúp lưu mọi chi tiết giao dịch và tạo bảng số dư theo điều kiện truy vấn. Bảng này trình bày rõ số dư tài sản và nợ trong các khoảng thời gian khác nhau, giúp bạn hiểu tình hình tài chính tốt hơn. Ngoài ra, ứng dụng có thể tạo nhiều biểu đồ để trực quan hóa thu nhập và chi phí, giúp bạn dễ nắm bắt dòng tiền.
+Khi bạn ghi chép đều đặn, ứng dụng sẽ giúp lưu mọi chi tiết giao dịch và tạo bảng số dư theo điều kiện truy vấn. Bảng này trình bày rõ số dư tài sản và nợ trong các khoảng thời gian khác nhau, giúp bạn hiểu tình hình tài chính tốt hơn. Ngoài ra, ứng dụng có thể tạo nhiều biểu đồ phân bố tài chính để trực quan hóa thu nhập và chi phí, giúp bạn dễ nắm bắt dòng tiền.
 
 ## Số dư ban đầu của tài khoản
 
@@ -74,9 +74,9 @@ Khi lần đầu dùng ứng dụng, bạn có thể đã có một số tài kh
 
 Chương trình cho phép chuyển giữa các tài khoản thuộc những sổ khác nhau. Dù ở màn hình tạo hoặc chỉnh sửa giao dịch cơ bản hay nâng cao, bạn đều có thể chọn tài khoản từ sổ khác. Vì giá trị tiền tệ giữa các sổ có thể khác nhau và tỷ giá không cố định tại thời điểm đó, chẳng hạn chuyển từ đô la Đài Loan sang đô la Mỹ, chương trình sẽ không bắt buộc tổng số tiền chuyển ra phải bằng tổng số tiền chuyển vào. Khi tạo giao dịch, hãy nhập theo số tiền thực tế và cẩn thận.
 
-## Xem nhanh bảng số dư và biểu đồ
+## Xem nhanh bảng số dư và biểu đồ phân bố tài chính
 
-Khi xem bảng số dư hoặc biểu đồ, bạn có thể thêm các mục tài khoản cụ thể vào Xem nhanh trên Màn hình chính [*1]. Chỉ cần vuốt sang phải trên mục trong bảng số dư rồi bấm `Thêm vào xem nhanh`, hoặc bấm biểu tượng "Thêm vào xem nhanh" ở góc trên bên phải của thẻ biểu đồ số dư. Sau đó, trên Màn hình chính, bạn sẽ thấy số dư tài sản và nợ của mục đó, hoặc có thể xem trong trang biểu đồ của Màn hình chính. Ngoài ra, bạn có thể sắp xếp hoặc gỡ các mục này trong `Tùy chọn > Màn hình chính`.
+Khi xem bảng số dư hoặc biểu đồ phân bố tài chính, bạn có thể thêm các mục tài khoản cụ thể vào Xem nhanh trên Màn hình chính [*1]. Chỉ cần vuốt sang phải trên mục trong bảng số dư rồi bấm `Thêm vào xem nhanh`, hoặc bấm biểu tượng "Thêm vào xem nhanh" ở góc trên bên phải của thẻ biểu đồ phân bố tài chính. Sau đó, trên Màn hình chính, bạn sẽ thấy số dư tài sản và nợ của mục đó, hoặc có thể xem trong trang biểu đồ phân bố tài chính của Màn hình chính. Ngoài ra, bạn có thể sắp xếp hoặc gỡ các mục này trong `Tùy chọn > Màn hình chính`.
 
 [*1] Quá nhiều mục Xem nhanh trên Màn hình chính có thể ảnh hưởng đến thời gian tải của Màn hình chính.
 

@@ -58,9 +58,9 @@ Wanneer er een transactie tussen rekeningen is, zoals een uitgave, geld verplaat
 > `Bron` `Activa`-rekening: Bank
 > `Bestemming` `Schuld`-rekening: Creditcard
 
-## ![Balance Sheet](icon:///scale-balance)![Balance Chart](icon:///chart-pie) Balansoverzicht en diagram
+## ![Balance Sheet](icon:///scale-balance)![Financial Distribution Chart](icon:///chart-pie) Balansoverzicht en financieel verdelingsdiagram
 
-Door zorgvuldig te boekhouden helpt de app je alle transactiedetails te registreren en een balansoverzicht te maken op basis van je zoekvoorwaarden. Dit overzicht toont duidelijk het saldo van activa en schulden in verschillende periodes, zodat je je financiele situatie beter begrijpt. Daarnaast kan de app verschillende diagrammen maken die je inkomsten en uitgaven visueel weergeven, waardoor je geldstromen makkelijker te begrijpen zijn.
+Door zorgvuldig te boekhouden helpt de app je alle transactiedetails te registreren en een balansoverzicht te maken op basis van je zoekvoorwaarden. Dit overzicht toont duidelijk het saldo van activa en schulden in verschillende periodes, zodat je je financiele situatie beter begrijpt. Daarnaast kan de app verschillende financiële verdelingsdiagrammen maken die je inkomsten en uitgaven visueel weergeven, waardoor je geldstromen makkelijker te begrijpen zijn.
 
 ## Beginsaldi van rekeningen
 
@@ -74,9 +74,9 @@ Soms kan een enkele uitgave meerdere categorieen omvatten. Wanneer je bijvoorbee
 
 Het programma staat overboekingen toe tussen rekeningen in verschillende boeken. In zowel de basis- als geavanceerde schermen voor het maken of bewerken van transacties kun je rekeningen uit andere boeken selecteren. Omdat valutawaarden tussen verschillende boeken kunnen verschillen en de wisselkoers op dat moment niet vaststaat, bijvoorbeeld bij overboeken van euro's naar Amerikaanse dollars, beperkt het programma je niet tot transacties waarbij het totale uitgaande bedrag gelijk moet zijn aan het totale inkomende bedrag. Maak transacties op basis van de werkelijke bedragen en wees voorzichtig.
 
-## Snelle weergave van balansoverzicht en diagrammen
+## Snelle weergave van balansoverzicht en financiële verdelingsdiagrammen
 
-Wanneer je het balansoverzicht of diagrammen bekijkt, kun je specifieke rekeningitems toevoegen aan Snelle weergave op het Startscherm [*1]. Veeg gewoon naar rechts op het item in het balansoverzicht en tik op `Toevoegen aan Snelle weergave`, of tik op het pictogram "Toevoegen aan Snelle weergave" rechtsboven op de diagramkaart. Daarna zie je op het Startscherm het saldo van activa en schulden voor dat item, of kun je het bekijken op de diagrampagina van het Startscherm. Je kunt deze items ook sorteren of verwijderen via `Voorkeuren > Startscherm`.
+Wanneer je het balansoverzicht of financiële verdelingsdiagrammen bekijkt, kun je specifieke rekeningitems toevoegen aan Snelle weergave op het Startscherm [*1]. Veeg gewoon naar rechts op het item in het balansoverzicht en tik op `Toevoegen aan Snelle weergave`, of tik op het pictogram "Toevoegen aan Snelle weergave" rechtsboven op de kaart van het financiële verdelingsdiagram. Daarna zie je op het Startscherm het saldo van activa en schulden voor dat item, of kun je het bekijken op de pagina met financiële verdelingsdiagrammen van het Startscherm. Je kunt deze items ook sorteren of verwijderen via `Voorkeuren > Startscherm`.
 
 [*1] Te veel Snelle-weergave-items op het Startscherm kunnen de laadtijd van het Startscherm beinvloeden.
 

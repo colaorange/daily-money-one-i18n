@@ -46,8 +46,9 @@ This file contains locale-specific terminology and style rules for Bengali (`bn`
 | --- | --- |
 | Daily Money One | Daily Money One |
 | Daily Money | Daily Money |
-| Quick View | Quick View |
+| Quick View | দ্রুত দেখা |
 | Chart | চার্ট |
+| Distribution Chart | আর্থিক বণ্টন চার্ট |
 | Trash | ট্র্যাশ |
 | Schedule | সময়সূচি |
 | Preferences | পছন্দসমূহ |
@@ -56,6 +57,26 @@ This file contains locale-specific terminology and style rules for Bengali (`bn`
 | Restore | পুনরুদ্ধার |
 | Import | আমদানি |
 | Export | রপ্তানি |
+
+### Quick View
+
+Use `দ্রুত দেখা` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it. Apply Bengali grammatical forms as needed, such as `দ্রুত দেখায়` for "in/to Quick View" and `দ্রুত দেখার` before a noun.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Bengali locale JSON.
+
+### Financial Distribution Chart
+
+Use `আর্থিক বণ্টন চার্ট` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | bn |
+| --- | --- |
+| Documentation | আর্থিক বণ্টন চার্ট |
+| No-period UI | আর্থিক বণ্টন |
+| Weekly UI | সাপ্তাহিক বণ্টন |
+| Monthly UI | মাসিক বণ্টন |
+| Month-end UI | মাসশেষ বণ্টন |
+| Annual UI | বার্ষিক বণ্টন |
+| Quick View UI | আর্থিক বণ্টনের দ্রুত দেখা |
 
 ## Reconciliation Terms
 

@@ -155,6 +155,7 @@ Use these consistently for report modes, budget modes, schedule modes, and trans
 | Daily Money | Daily Money | 每日記帳本 |
 | Quick View | Quick View | 快速檢視 |
 | Chart | Chart | 圖表 |
+| Distribution Chart | Financial Distribution Chart | 財務分布圖 |
 | Trash | Trash | 垃圾桶 |
 | Schedule | Schedule | 排程 |
 | Preferences | Preferences | 喜好設定 |
@@ -165,6 +166,30 @@ Use these consistently for report modes, budget modes, schedule modes, and trans
 | Export | Export | 匯出 |
 
 When translating from English into other languages, keep `Daily Money One` and `Daily Money` untranslated and use the English names exactly.
+
+### Quick View
+
+A Quick View is a saved, continuously updated view of a result that would otherwise require multiple UI operations to reach. It is placed on the Home Screen so the user can see that result directly without repeating those operations.
+
+Quick View is not a summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Translate the product concept naturally; a locale does not need to reproduce the English words `Quick` and `View` literally.
+
+Use `Quick View` in English and `快速檢視` in Traditional Chinese. Each locale's final term and any locale-specific usage rules must be recorded in that locale's `translationTerminology.md` under `### Quick View` before changing locale JSON.
+
+When a combined Quick View label is too long for the UI, shorten only the redundant surrounding feature words or use a compact local structure. Retain the meanings of both Quick View and the viewed feature. Do not shorten a natural label merely for cross-locale uniformity, and do not remove words when the existing localized label already fits.
+
+### Financial Distribution Chart
+
+Use `Financial Distribution Chart` as the full English name in Markdown documentation and long-form prose. Do not pluralize this official name. For Traditional Chinese, continue to use `財務分布圖` in both UI and documentation.
+
+English UI labels stored in locale JSON use shorter forms:
+
+- When a period appears first, use `{Period} Distribution`, such as `Weekly Distribution`, `Monthly Distribution`, `Month-end Distribution`, and `Annual Distribution`.
+- When no period appears, use `Financial Distribution`.
+- For Quick View, use `Financial Distribution Quick View`.
+
+These compact forms are for UI labels and UI messages only. Markdown documentation must retain the full name `Financial Distribution Chart`.
+
+This feature displays the distribution of values across account types or accounts. It can include assets, liabilities, income, and expenses. Do not use `Balance Chart`, `Distribution Chart`, `資產負債圖表`, or `分布圖` for this feature.
 
 ## Reconciliation Terms
 

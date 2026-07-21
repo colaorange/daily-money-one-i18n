@@ -59,9 +59,9 @@ When there is a transaction between accounts, such as spending, moving money bet
 > Source `Asset` Account: Bank 
 > Destination `Liability` Account: Credit Card
 
-## ![Balance Sheet](icon:///scale-balance)![Balance Chart](icon:///chart-pie) Balance Sheet & Chart
+## ![Balance Sheet](icon:///scale-balance)![Financial Distribution Chart](icon:///chart-pie) Balance Sheet & Financial Distribution Chart
 
-Through diligent accounting, the application will help you record all transaction details and generate a balance sheet according to query conditions. This sheet clearly presents the balance of assets and liabilities in different time periods, allowing you to better understand your financial situation. Additionally, the application can generate various charts to visually represent your income and expenses, making it easier for you to understand your financial flow.
+Through diligent accounting, the application will help you record all transaction details and generate a balance sheet according to query conditions. This sheet clearly presents the balance of assets and liabilities in different time periods, allowing you to better understand your financial situation. Additionally, the application can generate a Financial Distribution Chart to visually represent your income and expenses, making it easier for you to understand your financial flow.
 
 ## Initial Balances of Accounts
 
@@ -75,9 +75,9 @@ Sometimes, a single expense may involve multiple categories of expenditure. For 
 
 The program allows you to transfer between accounts in different books. Whether in the basic or advanced transaction editing or creation screen, you can select accounts from other books when selecting accounts. Since the currency values between different books may differ, and the exchange rate is not fixed at the moment, such as transferring from New Taiwan Dollars to US Dollars, the program will not limit you to create a transaction where the total amount transferred out must be equal to the total amount transferred in. Please create transactions based on the actual amounts when creating and be careful.
 
-## Quick View of Balance Sheet and Charts
+## Quick View of Balance Sheet and Financial Distribution Chart
 
-When browsing the balance sheet or charts, you can add specific account items to Quick View on the Home Screen [*1]. Simply swipe right on the item in the balance sheet and click `Add to Quick View`, or click the "Add to Quick View" Icon at the upper right corner of the balance chart card. Next, on the Home Screen, you'll see the balance of assets and liabilities for that item, or you can view it on the chart page of the Home Screen. Additionally, you can sort or remove these items in `Preferences > Home Screen`.
+When browsing the balance sheet or the Financial Distribution Chart, you can add specific account items to Quick View on the Home Screen [*1]. Simply swipe right on the item in the balance sheet and click `Add to Quick View`, or click the "Add to Quick View" Icon at the upper right corner of the Financial Distribution Chart card. Next, on the Home Screen, you'll see the balance of assets and liabilities for that item, or you can view it on the Financial Distribution Chart page of the Home Screen. Additionally, you can sort or remove these items in `Preferences > Home Screen`.
 
 [*1] Excessive Quick View items on the Home Screen may affect the loading time of the Home Screen.
 

@@ -48,6 +48,7 @@ Use `salida` and `entrada` only as explanatory wording when the source needs to 
 | Daily Money | Daily Money |
 | Quick View | Vista rápida |
 | Chart | Gráfico |
+| Distribution Chart | Gráfico de distribución financiera |
 | Trash | Papelera |
 | Schedule | Programación |
 | Preferences | Preferencias |
@@ -56,6 +57,26 @@ Use `salida` and `entrada` only as explanatory wording when the source needs to 
 | Restore | Restaurar |
 | Import | Importar |
 | Export | Exportar |
+
+### Quick View
+
+Use `Vista rápida` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Spanish locale JSON.
+
+### Financial Distribution Chart
+
+Use `Gráfico de distribución financiera` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | es |
+| --- | --- |
+| Documentation | Gráfico de distribución financiera |
+| No-period UI | Distribución financiera |
+| Weekly UI | Distribución semanal |
+| Monthly UI | Distribución mensual |
+| Month-end UI | Distribución fin de mes |
+| Annual UI | Distribución anual |
+| Quick View UI | Vista rápida: distribución |
 
 ## Reconciliation Terms
 

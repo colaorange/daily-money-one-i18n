@@ -48,6 +48,7 @@ Use `出金元` and `入金先` for the two sides of a transaction. Use `出金�
 | Daily Money | Daily Money |
 | Quick View | クイックビュー |
 | Chart | グラフ |
+| Distribution Chart | 財務分布グラフ |
 | Trash | ゴミ箱 |
 | Schedule | スケジュール |
 | Preferences | 設定 |
@@ -56,6 +57,26 @@ Use `出金元` and `入金先` for the two sides of a transaction. Use `出金�
 | Restore | 復元 |
 | Import | インポート |
 | Export | エクスポート |
+
+### Quick View
+
+Use `クイックビュー` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Japanese locale JSON.
+
+### Financial Distribution Chart
+
+Use `財務分布グラフ` in Markdown documentation. In compact locale JSON UI labels, omit `財務` and `グラフ` when a period appears first.
+
+| Context | ja |
+| --- | --- |
+| Documentation | 財務分布グラフ |
+| No-period UI | 財務分布 |
+| Weekly UI | 週次分布 |
+| Monthly UI | 月次分布 |
+| Month-end UI | 月末分布 |
+| Annual UI | 年次分布 |
+| Quick View UI | 財務分布のクイックビュー |
 
 ## Reconciliation Terms
 

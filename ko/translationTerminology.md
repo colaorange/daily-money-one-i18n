@@ -48,6 +48,7 @@ Use `출금` and `입금` for the two sides of a transaction. Use `출금액` an
 | Daily Money | Daily Money |
 | Quick View | 빠른 보기 |
 | Chart | 차트 |
+| Distribution Chart | 재무 분포 차트 |
 | Trash | 휴지통 |
 | Schedule | 일정 |
 | Preferences | 환경설정 |
@@ -56,6 +57,26 @@ Use `출금` and `입금` for the two sides of a transaction. Use `출금액` an
 | Restore | 복원 |
 | Import | 가져오기 |
 | Export | 내보내기 |
+
+### Quick View
+
+Use `빠른 보기` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Korean locale JSON.
+
+### Financial Distribution Chart
+
+Use `재무 분포 차트` in Markdown documentation. In compact locale JSON UI labels, omit `재무` and `차트` when a period appears first.
+
+| Context | ko |
+| --- | --- |
+| Documentation | 재무 분포 차트 |
+| No-period UI | 재무 분포 |
+| Weekly UI | 주별 분포 |
+| Monthly UI | 월별 분포 |
+| Month-end UI | 월말 분포 |
+| Annual UI | 연간 분포 |
+| Quick View UI | 재무 분포 빠른 보기 |
 
 ## Reconciliation Terms
 

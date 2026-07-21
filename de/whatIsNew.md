@@ -40,7 +40,7 @@ Diese Version enthält Funktionsupdates auf Grundlage von Nutzerwünschen:
 * **Notiz standardmäßig geöffnet**: Wenn aktiviert, wird die Buchungsnotiz in der Buchungsliste standardmäßig geöffnet. (Einstellungen > Anzeigeeinstellungen > Buchungslisteneinstellungen)
 * **Optionen für Buchungshintergrundfarbe**: Sie können jetzt die Hintergrundfarbe von Buchungen in der Buchungsliste ändern. Verfügbare Optionen sind Standard (Design-Hintergrundfarbe), Quellkonto und Zielkonto. (Einstellungen > Anzeigeeinstellungen > Buchungslisteneinstellungen)
 * **Verbesserte Bearbeitung im erweiterten Buchungsmodus**: Im erweiterten Bearbeitungsmodus können Sie jetzt alle Übertragungen neu anordnen und in beliebiger Reihenfolge löschen. Zuvor konnte nur die letzte Übertragung gelöscht werden, und Neuordnung war nicht möglich.
-* **Startbildschirm-Verknüpfungen**: Ergänzt wurden folgende Optionen: Monatsendbuchungen, Monatsendbilanz, Monatsenddiagramm.
+* **Startbildschirm-Verknüpfungen**: Ergänzt wurden folgende Optionen: Monatsendbuchungen, Monatsendbilanz, Finanzverteilungsdiagramm zum Monatsende.
 
 ### In der Version 1.6.0
 * [Diagramme auf dem Computer ansehen](https://youtu.be/Ag8cqg9gzi0): Bietet den Servermodus. Nach dem Aktivieren können Sie im selben LAN mit einem Computerbrowser eine Verbindung zu Ihrem Telefon herstellen und detailliertere Diagramme ansehen.

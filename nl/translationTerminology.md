@@ -48,6 +48,7 @@ Use `uitgaand` and `inkomend` only as explanatory wording when the source needs 
 | Daily Money | Daily Money |
 | Quick View | Snelle weergave |
 | Chart | Diagram |
+| Distribution Chart | Financieel verdelingsdiagram |
 | Trash | Prullenbak |
 | Schedule | Planning |
 | Preferences | Voorkeuren |
@@ -56,6 +57,26 @@ Use `uitgaand` and `inkomend` only as explanatory wording when the source needs 
 | Restore | Herstellen |
 | Import | Importeren |
 | Export | Exporteren |
+
+### Quick View
+
+Use `Snelle weergave` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Dutch locale JSON.
+
+### Financial Distribution Chart
+
+Use `Financieel verdelingsdiagram` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | nl |
+| --- | --- |
+| Documentation | Financieel verdelingsdiagram |
+| No-period UI | Financiële verdeling |
+| Weekly UI | Wekelijkse verdeling |
+| Monthly UI | Maandelijkse verdeling |
+| Month-end UI | Maandeindverdeling |
+| Annual UI | Jaarlijkse verdeling |
+| Quick View UI | Snelle weergave: verdeling |
 
 ## Reconciliation Terms
 

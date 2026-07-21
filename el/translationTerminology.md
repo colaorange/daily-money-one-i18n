@@ -48,6 +48,7 @@ Use `εξερχόμενη μεταφορά` and `εισερχόμενη μετα
 | Daily Money | Daily Money |
 | Quick View | Γρήγορη προβολή |
 | Chart | Γράφημα |
+| Distribution Chart | Γράφημα οικονομικής κατανομής |
 | Trash | Κάδος |
 | Schedule | Χρονοδιάγραμμα |
 | Preferences | Προτιμήσεις |
@@ -56,6 +57,26 @@ Use `εξερχόμενη μεταφορά` and `εισερχόμενη μετα
 | Restore | Επαναφορά |
 | Import | Εισαγωγή |
 | Export | Εξαγωγή |
+
+### Quick View
+
+Use `Γρήγορη προβολή` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Greek locale JSON.
+
+### Financial Distribution Chart
+
+Use `Γράφημα οικονομικής κατανομής` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | el |
+| --- | --- |
+| Documentation | Γράφημα οικονομικής κατανομής |
+| No-period UI | Οικονομική κατανομή |
+| Weekly UI | Εβδομαδιαία κατανομή |
+| Monthly UI | Μηνιαία κατανομή |
+| Month-end UI | Κατανομή τέλους μήνα |
+| Annual UI | Ετήσια κατανομή |
+| Quick View UI | Γρήγορη προβολή: κατανομή |
 
 ## Reconciliation Terms
 

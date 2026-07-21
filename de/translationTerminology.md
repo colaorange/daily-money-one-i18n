@@ -48,6 +48,7 @@ Use `Abgang` and `Zugang` only as explanatory wording when the source needs to c
 | Daily Money | Daily Money |
 | Quick View | Schnellansicht |
 | Chart | Diagramm |
+| Distribution Chart | Finanzverteilungsdiagramm |
 | Trash | Papierkorb |
 | Schedule | Zeitplan |
 | Preferences | Einstellungen |
@@ -56,6 +57,26 @@ Use `Abgang` and `Zugang` only as explanatory wording when the source needs to c
 | Restore | Wiederherstellen |
 | Import | Importieren |
 | Export | Exportieren |
+
+### Quick View
+
+Use `Schnellansicht` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing German locale JSON.
+
+### Financial Distribution Chart
+
+Use `Finanzverteilungsdiagramm` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | de |
+| --- | --- |
+| Documentation | Finanzverteilungsdiagramm |
+| No-period UI | Finanzverteilung |
+| Weekly UI | Wochenverteilung |
+| Monthly UI | Monatsverteilung |
+| Month-end UI | Monatsendverteilung |
+| Annual UI | Jahresverteilung |
+| Quick View UI | Schnellansicht: Finanzverteilung |
 
 ## Reconciliation Terms
 

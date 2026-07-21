@@ -41,6 +41,7 @@ This file contains locale-specific terminology and style rules for Portuguese (`
 | Daily Money One | Daily Money One |
 | Daily Money | Daily Money |
 | Quick View | Vista rápida |
+| Distribution Chart | Gráfico de distribuição financeira |
 | Trash | Lixo |
 | Schedule | Agenda |
 | Preferences | Preferências |
@@ -49,6 +50,26 @@ This file contains locale-specific terminology and style rules for Portuguese (`
 | Restore | Restaurar |
 | Import | Importar |
 | Export | Exportar |
+
+### Quick View
+
+Use `Vista rápida` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing European Portuguese locale JSON.
+
+### Financial Distribution Chart
+
+Use `Gráfico de distribuição financeira` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | pt |
+| --- | --- |
+| Documentation | Gráfico de distribuição financeira |
+| No-period UI | Distribuição financeira |
+| Weekly UI | Distribuição semanal |
+| Monthly UI | Distribuição mensal |
+| Month-end UI | Distribuição fim do mês |
+| Annual UI | Distribuição anual |
+| Quick View UI | Vista rápida: distribuição |
 
 ## Reconciliation Terms
 

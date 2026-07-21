@@ -40,7 +40,7 @@ Bu sürüm kullanıcı istekleri temelinde özellik güncellemeleri içerir:
 * **Not Varsayılan Açık**: Etkinleştirildiğinde işlem listesindeki işlem notu varsayılan olarak açık olur. (Tercihler > Görünüm Ayarları > İşlem Listesi Ayarları)
 * **İşlem Arka Plan Rengi Seçenekleri**: İşlem listesindeki işlemin arka plan rengini artık değiştirebilirsiniz. Kullanılabilir seçenekler: Varsayılan (tema arka plan rengi), Kaynak Hesap ve Hedef Hesap. (Tercihler > Görünüm Ayarları > İşlem Listesi Ayarları)
 * **İşlem için Gelişmiş Mod Düzenleme İyileştirildi**: Gelişmiş düzenleme modunda artık herhangi bir aktarımı yeniden sıralayabilir ve herhangi bir sıradaki aktarımı silebilirsiniz. Önceden yalnızca son aktarım silinebiliyor ve yeniden sıralama yapılamıyordu.
-* **Ana Ekran Kısayol Ayarları**: Şu kısayol seçenekleri eklendi: Ay sonu işlemleri, Ay sonu bilançosu, Ay sonu bilanço grafiği.
+* **Ana Ekran Kısayol Ayarları**: Şu kısayol seçenekleri eklendi: Ay sonu işlemleri, Ay sonu bilançosu, Ay sonu finansal dağılım grafiği.
 
 ### Sürüm 1.6.0'da
 * [Grafiklerinizi bilgisayarınızda görüntüleyin](https://youtu.be/Ag8cqg9gzi0): Sunucu modu sağlar. Bu modu etkinleştirdikten sonra aynı LAN içindeki bir bilgisayar tarayıcısıyla telefonunuza bağlanıp daha ayrıntılı grafikleri görüntüleyebilirsiniz.

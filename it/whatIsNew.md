@@ -40,7 +40,7 @@ Questa versione include aggiornamenti delle funzioni basati sui desideri degli u
 * **Note aperte per impostazione predefinita**: quando abilitato, la nota del movimento nell'elenco movimenti sarà aperta per impostazione predefinita. (Preferenze > Impostazioni visualizzazione > Impostazioni elenco movimenti)
 * **Opzioni colore sfondo movimento**: ora puoi cambiare il colore di sfondo del movimento nell'elenco movimenti. Le opzioni disponibili includono Predefinito (colore sfondo tema), Conto di origine e Conto di destinazione. (Preferenze > Impostazioni visualizzazione > Impostazioni elenco movimenti)
 * **Modifica avanzata migliorata per Movimento**: in modalità di modifica avanzata, ora puoi riordinare qualsiasi trasferimento ed eliminare trasferimenti in qualsiasi ordine. In precedenza si poteva eliminare solo l'ultimo trasferimento e il riordino non era possibile.
-* **Impostazioni scorciatoie HomeScreen**: aggiunte le seguenti opzioni scorciatoia: Movimenti fine mese, Stato patrimoniale fine mese, Grafico saldo fine mese.
+* **Impostazioni scorciatoie HomeScreen**: aggiunte le seguenti opzioni scorciatoia: Movimenti fine mese, Stato patrimoniale fine mese, Grafico di distribuzione finanziaria di fine mese.
 
 ### Nella versione 1.6.0
 * [Visualizza i grafici sul computer](https://youtu.be/Ag8cqg9gzi0): offre la modalità server. Dopo aver abilitato questa modalità, potrai usare un browser del computer nella stessa LAN per connetterti al telefono e visualizzare grafici più dettagliati.

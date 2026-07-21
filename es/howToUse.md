@@ -59,9 +59,9 @@ Cuando hay una transacción entre cuentas, como un gasto, mover dinero entre cue
 > Cuenta de `Activo` de origen: Banco 
 > Cuenta de `Deuda` de destino: Tarjeta de crédito
 
-## ![Hoja de balance](icon:///scale-balance)![Gráfico de balance](icon:///chart-pie) Hoja de balance y gráfico
+## ![Hoja de balance](icon:///scale-balance)![Gráfico de distribución financiera](icon:///chart-pie) Hoja de balance y gráfico de distribución financiera
 
-Al llevar tus cuentas con constancia, la aplicación te ayudará a registrar todos los detalles de las transacciones y generar una hoja de balance según las condiciones de consulta. Esta hoja muestra claramente el saldo de activos y deudas en distintos periodos, para que entiendas mejor tu situación financiera. Además, la aplicación puede generar varios gráficos para representar visualmente tus ingresos y gastos, facilitando la comprensión de tu flujo financiero.
+Al llevar tus cuentas con constancia, la aplicación te ayudará a registrar todos los detalles de las transacciones y generar una hoja de balance según las condiciones de consulta. Esta hoja muestra claramente el saldo de activos y deudas en distintos periodos, para que entiendas mejor tu situación financiera. Además, la aplicación puede generar varios gráficos de distribución financiera para representar visualmente tus ingresos y gastos, facilitando la comprensión de tu flujo financiero.
 
 ## Saldos iniciales de las cuentas
 
@@ -75,9 +75,9 @@ A veces, un solo gasto puede involucrar varias categorías. Por ejemplo, al comp
 
 El programa permite transferir entre cuentas de distintos libros. Ya sea en la pantalla básica o avanzada de edición o creación de transacciones, puedes seleccionar cuentas de otros libros al elegir las cuentas. Como los valores de moneda entre distintos libros pueden diferir y el tipo de cambio no es fijo en ese momento, por ejemplo al transferir de nuevos dólares taiwaneses a dólares estadounidenses, el programa no te limitará a crear una transacción donde el total transferido desde el origen deba ser igual al total transferido al destino. Crea las transacciones según los importes reales y ten cuidado.
 
-## Vista rápida de hoja de balance y gráficos
+## Vista rápida de hoja de balance y gráfico de distribución financiera
 
-Al navegar por la hoja de balance o los gráficos, puedes agregar cuentas específicas a Vista rápida en la pantalla de inicio [*1]. Solo desliza a la derecha sobre el elemento en la hoja de balance y pulsa `Agregar a Vista rápida`, o pulsa el icono "Agregar a Vista rápida" en la esquina superior derecha de la tarjeta del gráfico de balance. Luego, en la pantalla de inicio, verás el saldo de activos y deudas de ese elemento, o podrás consultarlo en la página de gráficos de la pantalla de inicio. Además, puedes ordenar o quitar estos elementos en `Preferencias > Pantalla de inicio`.
+Al navegar por la hoja de balance o los gráficos de distribución financiera, puedes agregar cuentas específicas a Vista rápida en la pantalla de inicio [*1]. Solo desliza a la derecha sobre el elemento en la hoja de balance y pulsa `Agregar a Vista rápida`, o pulsa el icono "Agregar a Vista rápida" en la esquina superior derecha de la tarjeta del gráfico de distribución financiera. Luego, en la pantalla de inicio, verás el saldo de activos y deudas de ese elemento, o podrás consultarlo en la página de gráficos de distribución financiera de la pantalla de inicio. Además, puedes ordenar o quitar estos elementos en `Preferencias > Pantalla de inicio`.
 
 [*1] Demasiados elementos de Vista rápida en la pantalla de inicio pueden afectar el tiempo de carga de la pantalla de inicio.
 

@@ -42,6 +42,7 @@ This file contains locale-specific terminology and style rules for Vietnamese (`
 | Daily Money | Daily Money |
 | Quick View | Xem nhanh |
 | Chart | Biểu đồ |
+| Distribution Chart | Biểu đồ phân bố tài chính |
 | Trash | Thùng rác |
 | Schedule | Lịch |
 | Preferences | Tùy chọn |
@@ -62,6 +63,26 @@ This file contains locale-specific terminology and style rules for Vietnamese (`
 | Until | Đến |
 | Initial | Khởi tạo |
 | Custom | Tùy chỉnh |
+
+### Quick View
+
+Use `Xem nhanh` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Vietnamese locale JSON.
+
+### Financial Distribution Chart
+
+Use `Biểu đồ phân bố tài chính` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | vi |
+| --- | --- |
+| Documentation | Biểu đồ phân bố tài chính |
+| No-period UI | Phân bố tài chính |
+| Weekly UI | Phân bố hàng tuần |
+| Monthly UI | Phân bố hàng tháng |
+| Month-end UI | Phân bố cuối tháng |
+| Annual UI | Phân bố hàng năm |
+| Quick View UI | Xem nhanh phân bố tài chính |
 
 ## Reconciliation Terms
 

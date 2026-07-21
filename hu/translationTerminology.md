@@ -48,6 +48,7 @@ Use `kiutalás` and `beutalás` only as explanatory wording when the source need
 | Daily Money | Daily Money |
 | Quick View | Gyorsnézet |
 | Chart | Diagram |
+| Distribution Chart | Pénzügyi eloszlási diagram |
 | Trash | Kuka |
 | Schedule | Ütemezés |
 | Preferences | Beállítások |
@@ -56,6 +57,26 @@ Use `kiutalás` and `beutalás` only as explanatory wording when the source need
 | Restore | Visszaállítás |
 | Import | Importálás |
 | Export | Exportálás |
+
+### Quick View
+
+Use `Gyorsnézet` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Hungarian locale JSON.
+
+### Financial Distribution Chart
+
+Use `Pénzügyi eloszlási diagram` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | hu |
+| --- | --- |
+| Documentation | Pénzügyi eloszlási diagram |
+| No-period UI | Pénzügyi eloszlás |
+| Weekly UI | Heti eloszlás |
+| Monthly UI | Havi eloszlás |
+| Month-end UI | Hó végi eloszlás |
+| Annual UI | Éves eloszlás |
+| Quick View UI | Pénzügyi eloszlás gyorsnézete |
 
 ## Reconciliation Terms
 

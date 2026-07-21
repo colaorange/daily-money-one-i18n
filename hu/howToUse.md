@@ -59,9 +59,9 @@ Ha tranzakció történik a számlák között – például költés, pénzmozg
 > Forrás `Eszköz` számla: Bank 
 > Cél `Kötelezettség` számla: Hitelkártya
 
-## ![Egyenlegkimutatás](icon:///scale-balance)![Egyenlegdiagram](icon:///chart-pie) Egyenlegkimutatás és diagram
+## ![Egyenlegkimutatás](icon:///scale-balance)![Pénzügyi eloszlási diagram](icon:///chart-pie) Egyenlegkimutatás és pénzügyi eloszlási diagram
 
-A szorgalmas könyvelés révén az alkalmazás segít rögzíteni az összes tranzakció részleteit, és a keresési feltételek alapján egyenlegkimutatást készít. Ez a kimutatás egyértelműen mutatja az eszközök és kötelezettségek egyenlegét a különböző időszakokban, így jobban átláthatod a pénzügyi helyzetedet. Ezenkívül az alkalmazás különféle diagramokat is tud készíteni, amelyek vizuálisan ábrázolják a bevételeidet és kiadásaidat, megkönnyítve a pénzmozgások megértését.
+A szorgalmas könyvelés révén az alkalmazás segít rögzíteni az összes tranzakció részleteit, és a keresési feltételek alapján egyenlegkimutatást készít. Ez a kimutatás egyértelműen mutatja az eszközök és kötelezettségek egyenlegét a különböző időszakokban, így jobban átláthatod a pénzügyi helyzetedet. Ezenkívül az alkalmazás különféle pénzügyi eloszlási diagramokat is tud készíteni, amelyek vizuálisan ábrázolják a bevételeidet és kiadásaidat, megkönnyítve a pénzmozgások megértését.
 
 ## Számlák kezdő egyenlege
 
@@ -75,9 +75,9 @@ Esetenként egyetlen kiadás több különböző kiadási kategóriát is érint
 
 A program lehetővé teszi a különböző könyvekben lévő számlák közötti átvitelt is. Akár az alap, akár a haladó tranzakciószerkesztő vagy -létrehozó képernyőn vagy, a számlák kiválasztásakor választhatsz számlákat más könyvekből is. Mivel a különböző könyvek pénznemei eltérhetnek, és az átváltási árfolyam nem rögzített (például ha forintról euróra utalsz), a program nem korlátozza a tranzakció létrehozását az alapján, hogy a kimenő és bejövő összegeknek meg kell egyezniük. Kérjük, a tranzakciók létrehozásakor a tényleges összegek alapján járj el, és légy körültekintő.
 
-## Egyenlegkimutatások és diagramok gyorsnézete
+## Egyenlegkimutatás és pénzügyi eloszlási diagram gyorsnézete
 
-Az egyenlegkimutatás vagy a diagramok böngészése közben bizonyos számlaelemeket hozzáadhatsz a Kezdőlap Gyorsnézetéhez [*1]. Egyszerűen húzd jobbra az elemet az egyenlegkimutatásban, és kattints a `Hozzáadás a gyorsnézethez` gombra, vagy kattints a diagram kártya jobb felső sarkában található „Hozzáadás a gyorsnézethez” ikonra. Ezután a Kezdőlapon láthatod majd az adott elem eszközeinek és kötelezettségeinek egyenlegét, illetve a Kezdőlap diagram oldalán is megtekintheted azt. Ezenkívül rendezheted vagy eltávolíthatod ezeket az elemeket a `Beállítások > Kezdőképernyő` menüpontban.
+Az egyenlegkimutatás vagy a pénzügyi eloszlási diagramok böngészése közben bizonyos számlaelemeket hozzáadhatsz a Kezdőlap Gyorsnézetéhez [*1]. Egyszerűen húzd jobbra az elemet az egyenlegkimutatásban, és kattints a `Hozzáadás a gyorsnézethez` gombra, vagy kattints a pénzügyi eloszlási diagram kártyájának jobb felső sarkában található „Hozzáadás a gyorsnézethez” ikonra. Ezután a Kezdőlapon láthatod majd az adott elem eszközeinek és kötelezettségeinek egyenlegét, illetve a Kezdőlap pénzügyi eloszlási diagram oldalán is megtekintheted azt. Ezenkívül rendezheted vagy eltávolíthatod ezeket az elemeket a `Beállítások > Kezdőképernyő` menüpontban.
 
 [*1] Túl sok Gyorsnézet elem a Kezdőlapon növelheti a Kezdőlap betöltési idejét.
 
