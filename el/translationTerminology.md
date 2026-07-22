@@ -49,6 +49,7 @@ Use `εξερχόμενη μεταφορά` and `εισερχόμενη μετα
 | Quick View | Γρήγορη προβολή |
 | Chart | Γράφημα |
 | Distribution Chart | Γράφημα οικονομικής κατανομής |
+| Trend Chart | Γράφημα οικονομικής τάσης |
 | Trash | Κάδος |
 | Schedule | Χρονοδιάγραμμα |
 | Preferences | Προτιμήσεις |
@@ -77,6 +78,20 @@ Use `Γράφημα οικονομικής κατανομής` in Markdown docum
 | Month-end UI | Κατανομή τέλους μήνα |
 | Annual UI | Ετήσια κατανομή |
 | Quick View UI | Γρήγορη προβολή: κατανομή |
+| Home tab | Κατανομή |
+
+### Financial Trend Chart
+
+Use `Γράφημα οικονομικής τάσης` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | el |
+| --- | --- |
+| Documentation | Γράφημα οικονομικής τάσης |
+| No-mode UI | Οικονομική τάση |
+| LINE mode | Τάση |
+| CUMULATIVE mode | Σωρευτική τάση |
+| Quick View UI | Γρήγορη προβολή: τάση |
+| Home tab | Τάσεις |
 
 ## Reconciliation Terms
 

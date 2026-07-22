@@ -42,6 +42,7 @@ This file contains locale-specific terminology and style rules for Russian (`ru`
 | Daily Money | Daily Money |
 | Quick View | Быстрый просмотр |
 | Distribution Chart | Диаграмма распределения финансов |
+| Trend Chart | Диаграмма финансовой динамики |
 | Trash | Корзина |
 | Schedule | Расписание |
 | Preferences | Настройки |
@@ -70,6 +71,20 @@ Use `Диаграмма распределения финансов` in Markdown
 | Month-end UI | Распределение: конец месяца |
 | Annual UI | Годовое распределение |
 | Quick View UI | Быстрый просмотр: распределение |
+| Home tab | Распределение |
+
+### Financial Trend Chart
+
+Use `Диаграмма финансовой динамики` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | ru |
+| --- | --- |
+| Documentation | Диаграмма финансовой динамики |
+| No-mode UI | Финансовая динамика |
+| LINE mode | Динамика |
+| CUMULATIVE mode | Накопительная динамика |
+| Quick View UI | Быстрый просмотр: динамика |
+| Home tab | Динамика |
 
 ## Reconciliation Terms
 

@@ -49,6 +49,7 @@ Use `uitgaand` and `inkomend` only as explanatory wording when the source needs 
 | Quick View | Snelle weergave |
 | Chart | Diagram |
 | Distribution Chart | Financieel verdelingsdiagram |
+| Trend Chart | Financieel trenddiagram |
 | Trash | Prullenbak |
 | Schedule | Planning |
 | Preferences | Voorkeuren |
@@ -77,6 +78,20 @@ Use `Financieel verdelingsdiagram` in Markdown documentation. In compact locale 
 | Month-end UI | Maandeindverdeling |
 | Annual UI | Jaarlijkse verdeling |
 | Quick View UI | Snelle weergave: verdeling |
+| Home tab | Verdeling |
+
+### Financial Trend Chart
+
+Use `Financieel trenddiagram` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | nl |
+| --- | --- |
+| Documentation | Financieel trenddiagram |
+| No-mode UI | Financiële trend |
+| LINE mode | Trend |
+| CUMULATIVE mode | Cumulatieve trend |
+| Quick View UI | Snelle weergave: trend |
+| Home tab | Trends |
 
 ## Reconciliation Terms
 

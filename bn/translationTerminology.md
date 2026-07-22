@@ -49,6 +49,7 @@ This file contains locale-specific terminology and style rules for Bengali (`bn`
 | Quick View | দ্রুত দেখা |
 | Chart | চার্ট |
 | Distribution Chart | আর্থিক বণ্টন চার্ট |
+| Trend Chart | আর্থিক প্রবণতা চার্ট |
 | Trash | ট্র্যাশ |
 | Schedule | সময়সূচি |
 | Preferences | পছন্দসমূহ |
@@ -77,6 +78,20 @@ Use `আর্থিক বণ্টন চার্ট` in Markdown documentati
 | Month-end UI | মাসশেষ বণ্টন |
 | Annual UI | বার্ষিক বণ্টন |
 | Quick View UI | আর্থিক বণ্টনের দ্রুত দেখা |
+| Home tab | বণ্টন |
+
+### Financial Trend Chart
+
+Use `আর্থিক প্রবণতা চার্ট` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | bn |
+| --- | --- |
+| Documentation | আর্থিক প্রবণতা চার্ট |
+| No-mode UI | আর্থিক প্রবণতা |
+| LINE mode | প্রবণতা |
+| CUMULATIVE mode | সঞ্চিত প্রবণতা |
+| Quick View UI | প্রবণতার দ্রুত দেখা |
+| Home tab | প্রবণতা |
 
 ## Reconciliation Terms
 

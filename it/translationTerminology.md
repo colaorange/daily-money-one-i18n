@@ -53,6 +53,7 @@ Use `uscita` and `entrata` only as explanatory wording when the source needs to 
 | Quick View | Vista rapida |
 | Chart | Grafico |
 | Distribution Chart | Grafico di distribuzione finanziaria |
+| Trend Chart | Grafico dell'andamento finanziario |
 | Trash | Cestino |
 | Schedule | Pianificazione |
 | Preferences | Preferenze |
@@ -81,6 +82,20 @@ Use `Grafico di distribuzione finanziaria` in Markdown documentation. In compact
 | Month-end UI | Distribuzione fine mese |
 | Annual UI | Distribuzione annuale |
 | Quick View UI | Vista rapida: distribuzione |
+| Home tab | Distribuzione |
+
+### Financial Trend Chart
+
+Use `Grafico dell'andamento finanziario` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | it |
+| --- | --- |
+| Documentation | Grafico dell'andamento finanziario |
+| No-mode UI | Andamento finanziario |
+| LINE mode | Andamento |
+| CUMULATIVE mode | Andamento cumulativo |
+| Quick View UI | Vista rapida: andamento |
+| Home tab | Andamento |
 
 ## Reconciliation Terms
 

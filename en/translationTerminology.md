@@ -23,6 +23,20 @@ Use the full name `Financial Distribution Chart` in Markdown documentation. Use 
 | Month-end UI | Month-end Distribution |
 | Annual UI | Annual Distribution |
 | Quick View UI | Financial Distribution Quick View |
+| Home tab | Distribution |
+
+### Financial Trend Chart
+
+Use `Financial Trend Chart` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | en |
+| --- | --- |
+| Documentation | Financial Trend Chart |
+| No-mode UI | Financial Trend |
+| LINE mode | Trend |
+| CUMULATIVE mode | Cumulative Trend |
+| Quick View UI | Trend Quick View |
+| Home tab | Trends |
 
 ## Style Rules
 

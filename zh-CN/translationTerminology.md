@@ -44,6 +44,7 @@ This file contains locale-specific terminology and style rules for Simplified Ch
 | Quick View | 快速查看 |
 | Chart | 图表 |
 | Distribution Chart | 财务分布图 |
+| Trend Chart | 财务趋势图 |
 | Trash | 垃圾桶 |
 | Schedule | 排程 |
 | Preferences | 偏好设置 |
@@ -72,6 +73,20 @@ Use `财务分布图` in both Markdown documentation and locale JSON. Keep the c
 | Month-end UI | 至月底财务分布图 |
 | Annual UI | 年度财务分布图 |
 | Quick View UI | 财务分布图快速查看设置 |
+| Home tab | 财务分布图 |
+
+### Financial Trend Chart
+
+Use `财务趋势图` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | zh-CN |
+| --- | --- |
+| Documentation | 财务趋势图 |
+| No-mode UI | 财务趋势图 |
+| LINE mode | 趋势 |
+| CUMULATIVE mode | 累计趋势 |
+| Quick View UI | 趋势图快速查看设置 |
+| Home tab | 财务趋势图 |
 
 ## Reconciliation Terms
 

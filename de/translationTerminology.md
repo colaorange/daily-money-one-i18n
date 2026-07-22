@@ -49,6 +49,7 @@ Use `Abgang` and `Zugang` only as explanatory wording when the source needs to c
 | Quick View | Schnellansicht |
 | Chart | Diagramm |
 | Distribution Chart | Finanzverteilungsdiagramm |
+| Trend Chart | Finanztrenddiagramm |
 | Trash | Papierkorb |
 | Schedule | Zeitplan |
 | Preferences | Einstellungen |
@@ -77,6 +78,20 @@ Use `Finanzverteilungsdiagramm` in Markdown documentation. In compact locale JSO
 | Month-end UI | Monatsendverteilung |
 | Annual UI | Jahresverteilung |
 | Quick View UI | Schnellansicht: Finanzverteilung |
+| Home tab | Finanzverteilung |
+
+### Financial Trend Chart
+
+Use `Finanztrenddiagramm` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | de |
+| --- | --- |
+| Documentation | Finanztrenddiagramm |
+| No-mode UI | Finanztrend |
+| LINE mode | Trend |
+| CUMULATIVE mode | Kumulierter Trend |
+| Quick View UI | Schnellansicht: Finanztrend |
+| Home tab | Finanztrend |
 
 ## Reconciliation Terms
 

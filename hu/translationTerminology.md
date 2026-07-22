@@ -49,6 +49,7 @@ Use `kiutalás` and `beutalás` only as explanatory wording when the source need
 | Quick View | Gyorsnézet |
 | Chart | Diagram |
 | Distribution Chart | Pénzügyi eloszlási diagram |
+| Trend Chart | Pénzügyi trenddiagram |
 | Trash | Kuka |
 | Schedule | Ütemezés |
 | Preferences | Beállítások |
@@ -77,6 +78,20 @@ Use `Pénzügyi eloszlási diagram` in Markdown documentation. In compact locale
 | Month-end UI | Hó végi eloszlás |
 | Annual UI | Éves eloszlás |
 | Quick View UI | Pénzügyi eloszlás gyorsnézete |
+| Home tab | Eloszlás |
+
+### Financial Trend Chart
+
+Use `Pénzügyi trenddiagram` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | hu |
+| --- | --- |
+| Documentation | Pénzügyi trenddiagram |
+| No-mode UI | Pénzügyi trend |
+| LINE mode | Trend |
+| CUMULATIVE mode | Összesített trend |
+| Quick View UI | Trend gyorsnézete |
+| Home tab | Trendek |
 
 ## Reconciliation Terms
 

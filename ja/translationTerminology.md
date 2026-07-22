@@ -49,6 +49,7 @@ Use `出金元` and `入金先` for the two sides of a transaction. Use `出金�
 | Quick View | クイックビュー |
 | Chart | グラフ |
 | Distribution Chart | 財務分布グラフ |
+| Trend Chart | 財務推移グラフ |
 | Trash | ゴミ箱 |
 | Schedule | スケジュール |
 | Preferences | 設定 |
@@ -77,6 +78,20 @@ Use `財務分布グラフ` in Markdown documentation. In compact locale JSON UI
 | Month-end UI | 月末分布 |
 | Annual UI | 年次分布 |
 | Quick View UI | 財務分布のクイックビュー |
+| Home tab | 財務分布 |
+
+### Financial Trend Chart
+
+Use `財務推移グラフ` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | ja |
+| --- | --- |
+| Documentation | 財務推移グラフ |
+| No-mode UI | 財務推移 |
+| LINE mode | 推移 |
+| CUMULATIVE mode | 累積推移 |
+| Quick View UI | 財務推移のクイックビュー |
+| Home tab | 財務推移 |
 
 ## Reconciliation Terms
 

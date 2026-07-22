@@ -43,6 +43,7 @@ This file contains locale-specific terminology and style rules for Vietnamese (`
 | Quick View | Xem nhanh |
 | Chart | Biểu đồ |
 | Distribution Chart | Biểu đồ phân bố tài chính |
+| Trend Chart | Biểu đồ xu hướng tài chính |
 | Trash | Thùng rác |
 | Schedule | Lịch |
 | Preferences | Tùy chọn |
@@ -83,6 +84,20 @@ Use `Biểu đồ phân bố tài chính` in Markdown documentation. In compact 
 | Month-end UI | Phân bố cuối tháng |
 | Annual UI | Phân bố hàng năm |
 | Quick View UI | Xem nhanh phân bố tài chính |
+| Home tab | Phân bố |
+
+### Financial Trend Chart
+
+Use `Biểu đồ xu hướng tài chính` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | vi |
+| --- | --- |
+| Documentation | Biểu đồ xu hướng tài chính |
+| No-mode UI | Xu hướng tài chính |
+| LINE mode | Xu hướng |
+| CUMULATIVE mode | Xu hướng tích lũy |
+| Quick View UI | Xem nhanh xu hướng |
+| Home tab | Xu hướng |
 
 ## Reconciliation Terms
 

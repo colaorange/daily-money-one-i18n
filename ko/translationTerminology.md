@@ -49,6 +49,7 @@ Use `출금` and `입금` for the two sides of a transaction. Use `출금액` an
 | Quick View | 빠른 보기 |
 | Chart | 차트 |
 | Distribution Chart | 재무 분포 차트 |
+| Trend Chart | 재무 추이 차트 |
 | Trash | 휴지통 |
 | Schedule | 일정 |
 | Preferences | 환경설정 |
@@ -77,6 +78,20 @@ Use `재무 분포 차트` in Markdown documentation. In compact locale JSON UI 
 | Month-end UI | 월말 분포 |
 | Annual UI | 연간 분포 |
 | Quick View UI | 재무 분포 빠른 보기 |
+| Home tab | 재무 분포 |
+
+### Financial Trend Chart
+
+Use `재무 추이 차트` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | ko |
+| --- | --- |
+| Documentation | 재무 추이 차트 |
+| No-mode UI | 재무 추이 |
+| LINE mode | 추이 |
+| CUMULATIVE mode | 누적 추이 |
+| Quick View UI | 재무 추이 빠른 보기 |
+| Home tab | 재무 추이 |
 
 ## Reconciliation Terms
 

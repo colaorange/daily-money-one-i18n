@@ -44,6 +44,7 @@ This file contains locale-specific terminology and style rules for Hong Kong Tra
 | Quick View | 快速檢視 |
 | Chart | 圖表 |
 | Distribution Chart | 財務分佈圖 |
+| Trend Chart | 財務趨勢圖 |
 | Trash | 垃圾桶 |
 | Schedule | 排程 |
 | Preferences | 偏好設定 |
@@ -72,6 +73,20 @@ Use `財務分佈圖` in both Markdown documentation and locale JSON. Keep the c
 | Month-end UI | 至月底財務分佈圖 |
 | Annual UI | 年財務分佈圖 |
 | Quick View UI | 財務分佈圖快速檢視設定 |
+| Home tab | 財務分佈圖 |
+
+### Financial Trend Chart
+
+Use `財務趨勢圖` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | zh-HK |
+| --- | --- |
+| Documentation | 財務趨勢圖 |
+| No-mode UI | 財務趨勢圖 |
+| LINE mode | 趨勢 |
+| CUMULATIVE mode | 累計趨勢 |
+| Quick View UI | 趨勢圖快速檢視設定 |
+| Home tab | 財務趨勢圖 |
 
 ## Reconciliation Terms
 

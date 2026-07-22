@@ -42,6 +42,7 @@ This file contains locale-specific terminology and style rules for Portuguese (`
 | Daily Money | Daily Money |
 | Quick View | Vista rápida |
 | Distribution Chart | Gráfico de distribuição financeira |
+| Trend Chart | Gráfico de tendência financeira |
 | Trash | Lixo |
 | Schedule | Agenda |
 | Preferences | Preferências |
@@ -70,6 +71,20 @@ Use `Gráfico de distribuição financeira` in Markdown documentation. In compac
 | Month-end UI | Distribuição fim do mês |
 | Annual UI | Distribuição anual |
 | Quick View UI | Vista rápida: distribuição |
+| Home tab | Distribuição |
+
+### Financial Trend Chart
+
+Use `Gráfico de tendência financeira` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | pt |
+| --- | --- |
+| Documentation | Gráfico de tendência financeira |
+| No-mode UI | Tendência financeira |
+| LINE mode | Tendência |
+| CUMULATIVE mode | Tendência acumulada |
+| Quick View UI | Vista rápida: tendências |
+| Home tab | Tendências |
 
 ## Reconciliation Terms
 

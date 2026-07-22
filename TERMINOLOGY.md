@@ -156,6 +156,7 @@ Use these consistently for report modes, budget modes, schedule modes, and trans
 | Quick View | Quick View | 快速檢視 |
 | Chart | Chart | 圖表 |
 | Distribution Chart | Financial Distribution Chart | 財務分布圖 |
+| Trend Chart | Financial Trend Chart | 財務趨勢圖 |
 | Trash | Trash | 垃圾桶 |
 | Schedule | Schedule | 排程 |
 | Preferences | Preferences | 喜好設定 |
@@ -186,10 +187,30 @@ English UI labels stored in locale JSON use shorter forms:
 - When a period appears first, use `{Period} Distribution`, such as `Weekly Distribution`, `Monthly Distribution`, `Month-end Distribution`, and `Annual Distribution`.
 - When no period appears, use `Financial Distribution`.
 - For Quick View, use `Financial Distribution Quick View`.
+- For the Home tab, use `Distribution`.
 
-These compact forms are for UI labels and UI messages only. Markdown documentation must retain the full name `Financial Distribution Chart`.
+These compact forms are for UI labels and UI messages only. Markdown documentation must retain the full name `Financial Distribution Chart`. For the Traditional Chinese Home tab, use `財務分布圖`.
 
 This feature displays the distribution of values across account types or accounts. It can include assets, liabilities, income, and expenses. Do not use `Balance Chart`, `Distribution Chart`, `資產負債圖表`, or `分布圖` for this feature.
+
+### Financial Trend Chart
+
+Use `Financial Trend Chart` as the full English name in Markdown documentation and long-form prose. For Traditional Chinese, use `財務趨勢圖`.
+
+Use the approved context-specific labels in locale JSON:
+
+| Context | en | zh |
+| --- | --- | --- |
+| Documentation | Financial Trend Chart | 財務趨勢圖 |
+| No-mode UI | Financial Trend | 財務趨勢圖 |
+| LINE mode | Trend | 趨勢 |
+| CUMULATIVE mode | Cumulative Trend | 累計趨勢 |
+| Quick View UI | Trend Quick View | 趨勢圖快速檢視設定 |
+| Home tab | Trends | 財務趨勢圖 |
+
+This feature displays account values over time. LINE mode shows each period's net change. CUMULATIVE mode starts from the opening balance, when available, and accumulates each period's net change.
+
+Do not translate this feature as `Financial Distribution Chart`, `Balance Chart`, or a financial-market price chart. Do not use the full documentation name in compact UI contexts when the locale has an approved shorter label.
 
 ## Reconciliation Terms
 

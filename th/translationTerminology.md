@@ -42,6 +42,7 @@ This file contains locale-specific terminology and style rules for Thai (`th`).
 | Daily Money | Daily Money |
 | Quick View | มุมมองด่วน |
 | Distribution Chart | แผนภูมิการกระจายทางการเงิน |
+| Trend Chart | แผนภูมิแนวโน้มทางการเงิน |
 | Trash | ถังขยะ |
 | Schedule | กำหนดการ |
 | Preferences | การตั้งค่า |
@@ -70,6 +71,20 @@ Use `แผนภูมิการกระจายทางการเงิ
 | Month-end UI | การกระจายสิ้นเดือน |
 | Annual UI | การกระจายรายปี |
 | Quick View UI | มุมมองด่วนของการกระจายทางการเงิน |
+| Home tab | การกระจาย |
+
+### Financial Trend Chart
+
+Use `แผนภูมิแนวโน้มทางการเงิน` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | th |
+| --- | --- |
+| Documentation | แผนภูมิแนวโน้มทางการเงิน |
+| No-mode UI | แนวโน้มทางการเงิน |
+| LINE mode | แนวโน้ม |
+| CUMULATIVE mode | แนวโน้มสะสม |
+| Quick View UI | มุมมองด่วนแนวโน้ม |
+| Home tab | แนวโน้ม |
 
 ## Reconciliation Terms
 

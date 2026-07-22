@@ -42,6 +42,7 @@ This file contains locale-specific terminology and style rules for Turkish (`tr`
 | Daily Money | Daily Money |
 | Quick View | Hızlı Görünüm |
 | Distribution Chart | Finansal dağılım grafiği |
+| Trend Chart | Finansal eğilim grafiği |
 | Trash | Çöp Kutusu |
 | Schedule | Zamanlama |
 | Preferences | Tercihler |
@@ -70,6 +71,20 @@ Use `Finansal dağılım grafiği` in Markdown documentation. In compact locale 
 | Month-end UI | Ay sonu dağılım |
 | Annual UI | Yıllık dağılım |
 | Quick View UI | Finansal dağılım hızlı görünümü |
+| Home tab | Dağılım |
+
+### Financial Trend Chart
+
+Use `Finansal eğilim grafiği` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | tr |
+| --- | --- |
+| Documentation | Finansal eğilim grafiği |
+| No-mode UI | Finansal eğilim |
+| LINE mode | Eğilim |
+| CUMULATIVE mode | Kümülatif eğilim |
+| Quick View UI | Eğilim hızlı görünümü |
+| Home tab | Eğilim |
 
 ## Reconciliation Terms
 

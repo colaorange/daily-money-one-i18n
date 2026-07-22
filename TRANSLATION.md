@@ -84,6 +84,8 @@ When the task explicitly says to overwrite all target locale files, do not inspe
 
 - Follow `TERMINOLOGY.md` for product terms, UI labels, and feature names.
 - Follow the required `translationTerminology.md` files for locale-specific style rules, regional wording, and target-locale terminology.
+- For Financial Distribution Chart and Financial Trend Chart text, select the label for the exact context from the target locale's terminology table. Use the documentation name in Markdown and long-form prose, and use only the approved shorter labels for no-mode UI, chart modes, Quick View UI, and Home tabs.
+- Do not create ad hoc abbreviations to fit compact UI. If an approved localized label may still overflow or be truncated, pause and confirm whether to use another localized label or adjust the UI before changing the translation.
 - Do not rely on simple script or character conversion when translating between related languages.
 - Use the natural local wording, phrasing, and orthography of the target locale so local readers can understand the text easily.
 - Preserve Markdown structure, image links, icon links, URLs, headings, and list structure unless the source text requires a natural local rewrite.
