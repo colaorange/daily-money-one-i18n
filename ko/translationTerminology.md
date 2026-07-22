@@ -40,6 +40,21 @@ Use `출금` and `입금` for the two sides of a transaction. Use `출금액` an
 | Liability | 부채 |
 | Other | 기타 |
 
+## Time and Range Terms
+
+### Until
+
+Use `지정일까지` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use the bound particle `까지` by itself or a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `오늘까지` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | ko |
+| --- | --- |
+| Mode label | 지정일까지 |
+| Quick View label | 오늘까지 |
+| Range display | {{date}}까지 |
+| Current-date label | 오늘까지 |
+
 ## Feature Terms
 
 | Term | ko |

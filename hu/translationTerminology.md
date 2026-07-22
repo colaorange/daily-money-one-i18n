@@ -40,6 +40,21 @@ Use `kiutalás` and `beutalás` only as explanatory wording when the source need
 | Liability | Kötelezettség |
 | Other | Egyéb |
 
+## Time and Range Terms
+
+### Until
+
+Use `Eddig` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Use the terminative suffix `-ig` with the displayed date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `Máig` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | hu |
+| --- | --- |
+| Mode label | Eddig |
+| Quick View label | Máig |
+| Range display | {{date}}-ig |
+| Current-date label | Máig |
+
 ## Feature Terms
 
 | Term | hu |

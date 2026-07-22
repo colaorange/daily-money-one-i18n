@@ -35,6 +35,21 @@ This file contains locale-specific terminology and style rules for Simplified Ch
 | Liability | 债务 |
 | Other | 其他 |
 
+## Time and Range Terms
+
+### Until
+
+Use `截至` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `截至今天` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | zh-CN |
+| --- | --- |
+| Mode label | 截至 |
+| Quick View label | 截至今天 |
+| Range display | 截至 {{date}} |
+| Current-date label | 截至今天 |
+
 ## Feature Terms
 
 | Term | zh-CN |

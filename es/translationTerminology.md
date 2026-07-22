@@ -40,6 +40,21 @@ Use `salida` and `entrada` only as explanatory wording when the source needs to 
 | Liability | Deuda |
 | Other | Otro |
 
+## Time and Range Terms
+
+### Until
+
+Use `Hasta` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `Hasta hoy` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | es |
+| --- | --- |
+| Mode label | Hasta |
+| Quick View label | Hasta hoy |
+| Range display | Hasta {{date}} |
+| Current-date label | Hasta hoy |
+
 ## Feature Terms
 
 | Term | es |

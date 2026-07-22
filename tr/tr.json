@@ -116,13 +116,13 @@
         "hideEmptyHint": "Dönemde işlemi olmayan öğeleri gizle. Bakiyesi sıfır olan öğeler, işlemleri varsa yine gösterilir.",
         "mode": {
             "monthly": "Aylık",
-            "until": "Şuna kadar",
+            "until": "Tarihe kadar",
             "weekly": "Haftalık",
             "yearly": "Yıllık"
         },
         "quickView": {
             "monthly": "Bu ay",
-            "until": "Şuna kadar",
+            "until": "Bugüne kadar",
             "weekly": "Bu hafta",
             "yearly": "Bu yıl"
         }
@@ -147,7 +147,7 @@
         "mode": {
             "@": "Mod",
             "monthly": "Aylık",
-            "until": "Şuna kadar",
+            "until": "Tarihe kadar",
             "weekly": "Haftalık",
             "yearly": "Yıllık"
         },
@@ -794,7 +794,7 @@
             "daily": "Günlük",
             "initial": "Başlangıç",
             "monthly": "Aylık",
-            "until": "Şuna kadar",
+            "until": "Tarihe kadar",
             "weekly": "Haftalık",
             "yearly": "Yıllık"
         }

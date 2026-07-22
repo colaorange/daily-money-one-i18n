@@ -40,6 +40,21 @@ Use `Abgang` and `Zugang` only as explanatory wording when the source needs to c
 | Liability | Verbindlichkeit |
 | Other | Sonstiges |
 
+## Time and Range Terms
+
+### Until
+
+Use `Bis` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `Bis heute` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | de |
+| --- | --- |
+| Mode label | Bis |
+| Quick View label | Bis heute |
+| Range display | Bis {{date}} |
+| Current-date label | Bis heute |
+
 ## Feature Terms
 
 | Term | de |

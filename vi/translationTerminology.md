@@ -34,6 +34,21 @@ This file contains locale-specific terminology and style rules for Vietnamese (`
 | Liability | Nợ |
 | Other | Khác |
 
+## Time and Range Terms
+
+### Until
+
+Use `Đến` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `Đến hôm nay` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | vi |
+| --- | --- |
+| Mode label | Đến |
+| Quick View label | Đến hôm nay |
+| Range display | Đến {{date}} |
+| Current-date label | Đến hôm nay |
+
 ## Feature Terms
 
 | Term | vi |

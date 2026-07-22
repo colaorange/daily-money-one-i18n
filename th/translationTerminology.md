@@ -34,6 +34,21 @@ This file contains locale-specific terminology and style rules for Thai (`th`).
 | Liability | หนี้สิน |
 | Other | อื่นๆ |
 
+## Time and Range Terms
+
+### Until
+
+Use `จนถึง` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `จนถึงวันนี้` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | th |
+| --- | --- |
+| Mode label | จนถึง |
+| Quick View label | จนถึงวันนี้ |
+| Range display | จนถึง {{date}} |
+| Current-date label | จนถึงวันนี้ |
+
 ## Feature Terms
 
 | Source | Thai |

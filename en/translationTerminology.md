@@ -2,6 +2,21 @@
 
 This file contains locale-specific terminology and style rules for English (`en`).
 
+## Time and Range Terms
+
+### Until
+
+`Until` is a cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. It is not a custom date range.
+
+The `Until` Quick View always ends on the current date. Use `Until Today` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | en |
+| --- | --- |
+| Mode label | Until |
+| Quick View label | Until Today |
+| Range display | Until {{date}} |
+| Current-date label | Until Today |
+
 ## Feature Terms
 
 ### Quick View

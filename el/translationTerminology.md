@@ -40,6 +40,21 @@ Use `εξερχόμενη μεταφορά` and `εισερχόμενη μετα
 | Liability | Υποχρέωση |
 | Other | Άλλο |
 
+## Time and Range Terms
+
+### Until
+
+Use `Έως` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `Έως σήμερα` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | el |
+| --- | --- |
+| Mode label | Έως |
+| Quick View label | Έως σήμερα |
+| Range display | Έως {{date}} |
+| Current-date label | Έως σήμερα |
+
 ## Feature Terms
 
 | Term | el |

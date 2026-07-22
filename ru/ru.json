@@ -122,7 +122,7 @@
         },
         "quickView": {
             "monthly": "Этот месяц",
-            "until": "До даты",
+            "until": "По сегодняшний день",
             "weekly": "Эта неделя",
             "yearly": "Этот год"
         }
@@ -260,7 +260,7 @@
         "transactions": "Операции",
         "trendCharts": "Тренды",
         "underConstruction": "Поддержите $t(appName), просматривая рекламу или делая пожертвование.",
-        "untilToday": "До сегодня",
+        "untilToday": "По сегодняшний день",
         "watchAds": "Смотреть рекламу на устройстве",
         "wrongConnectionToken": "Неверный код подключения."
     },

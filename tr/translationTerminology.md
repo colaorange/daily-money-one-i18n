@@ -34,6 +34,21 @@ This file contains locale-specific terminology and style rules for Turkish (`tr`
 | Liability | Borç |
 | Other | Diğer |
 
+## Time and Range Terms
+
+### Until
+
+Use `Tarihe kadar` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a deictic expression without a clear date reference or a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `Bugüne kadar` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | tr |
+| --- | --- |
+| Mode label | Tarihe kadar |
+| Quick View label | Bugüne kadar |
+| Range display | {{date}} tarihine kadar |
+| Current-date label | Bugüne kadar |
+
 ## Feature Terms
 
 | Source | Turkish |

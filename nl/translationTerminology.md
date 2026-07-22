@@ -40,6 +40,21 @@ Use `uitgaand` and `inkomend` only as explanatory wording when the source needs 
 | Liability | Schuld |
 | Other | Overig |
 
+## Time and Range Terms
+
+### Until
+
+Use `Tot` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `Tot vandaag` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | nl |
+| --- | --- |
+| Mode label | Tot |
+| Quick View label | Tot vandaag |
+| Range display | Tot {{date}} |
+| Current-date label | Tot vandaag |
+
 ## Feature Terms
 
 | Term | nl |

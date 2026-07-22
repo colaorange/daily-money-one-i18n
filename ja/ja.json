@@ -116,13 +116,13 @@
         "hideEmptyHint": "期間内に取引がない項目を隠します。残高がゼロでも取引がある場合は表示されます。",
         "mode": {
             "monthly": "月次",
-            "until": "期間指定",
+            "until": "指定日まで",
             "weekly": "週次",
             "yearly": "年次"
         },
         "quickView": {
             "monthly": "今月",
-            "until": "期間指定",
+            "until": "今日まで",
             "weekly": "今週",
             "yearly": "今年"
         }
@@ -147,7 +147,7 @@
         "mode": {
             "@": "モード",
             "monthly": "月次",
-            "until": "期間指定",
+            "until": "指定日まで",
             "weekly": "週次",
             "yearly": "年次"
         },
@@ -794,7 +794,7 @@
             "daily": "日次",
             "initial": "初期",
             "monthly": "月次",
-            "until": "期間指定",
+            "until": "指定日まで",
             "weekly": "週次",
             "yearly": "年次"
         }

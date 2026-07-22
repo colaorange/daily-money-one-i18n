@@ -40,6 +40,21 @@ This file contains locale-specific terminology and style rules for Bengali (`bn`
 | Liability | দায় |
 | Other | অন্যান্য |
 
+## Time and Range Terms
+
+### Until
+
+Use `পর্যন্ত` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `আজ পর্যন্ত` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | bn |
+| --- | --- |
+| Mode label | পর্যন্ত |
+| Quick View label | আজ পর্যন্ত |
+| Range display | {{date}} পর্যন্ত |
+| Current-date label | আজ পর্যন্ত |
+
 ## Feature Terms
 
 | Term | bn |

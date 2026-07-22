@@ -116,13 +116,13 @@
         "hideEmptyHint": "해당 기간에 거래가 없는 항목을 숨깁니다. 잔액이 0이어도 거래가 있으면 표시됩니다.",
         "mode": {
             "monthly": "월별",
-            "until": "까지",
+            "until": "지정일까지",
             "weekly": "주별",
             "yearly": "연별"
         },
         "quickView": {
             "monthly": "이번 달",
-            "until": "까지",
+            "until": "오늘까지",
             "weekly": "이번 주",
             "yearly": "올해"
         }
@@ -147,7 +147,7 @@
         "mode": {
             "@": "모드",
             "monthly": "월별",
-            "until": "까지",
+            "until": "지정일까지",
             "weekly": "주별",
             "yearly": "연별"
         },
@@ -794,7 +794,7 @@
             "daily": "일별",
             "initial": "초기",
             "monthly": "월별",
-            "until": "까지",
+            "until": "지정일까지",
             "weekly": "주별",
             "yearly": "연별"
         }

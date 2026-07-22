@@ -34,6 +34,21 @@ This file contains locale-specific terminology and style rules for Russian (`ru`
 | Liability | Обязательство |
 | Other | Другое |
 
+## Time and Range Terms
+
+### Until
+
+Use `До даты` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `По сегодняшний день` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | ru |
+| --- | --- |
+| Mode label | До даты |
+| Quick View label | По сегодняшний день |
+| Range display | До {{date}} |
+| Current-date label | По сегодняшний день |
+
 ## Feature Terms
 
 | Source | Russian |

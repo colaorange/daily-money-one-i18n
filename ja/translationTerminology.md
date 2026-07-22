@@ -40,6 +40,21 @@ Use `出金元` and `入金先` for the two sides of a transaction. Use `出金�
 | Liability | 負債 |
 | Other | その他 |
 
+## Time and Range Terms
+
+### Until
+
+Use `指定日まで` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use `期間指定` or another term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `今日まで` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | ja |
+| --- | --- |
+| Mode label | 指定日まで |
+| Quick View label | 今日まで |
+| Range display | {{date}} まで |
+| Current-date label | 今日まで |
+
 ## Feature Terms
 
 | Term | ja |

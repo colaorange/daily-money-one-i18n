@@ -116,13 +116,13 @@
         "hideEmptyHint": "隱藏在區間內沒有帳目的項目，並不會隱藏有帳目但最後總和為零的項目",
         "mode": {
             "monthly": "每月",
-            "until": "直到",
+            "until": "截至",
             "weekly": "每星期",
             "yearly": "每年"
         },
         "quickView": {
             "monthly": "本月",
-            "until": "直到",
+            "until": "截至今天",
             "weekly": "本週",
             "yearly": "今年"
         }
@@ -147,7 +147,7 @@
         "mode": {
             "@": "模式",
             "monthly": "每月",
-            "until": "直到",
+            "until": "截至",
             "weekly": "每週",
             "yearly": "每年"
         },
@@ -260,7 +260,7 @@
         "transactions": "帳目列表",
         "trendCharts": "趨勢圖",
         "underConstruction": "$t(appName)需要您的廣告點擊，觀看或贊助來增加他的開發及維護能量",
-        "untilToday": "直到今天",
+        "untilToday": "截至今天",
         "watchAds": "在裝置上觀看廣告",
         "wrongConnectionToken": "錯誤的連線通行碼，請確定通行碼與裝置上設定的一致"
     },
@@ -794,7 +794,7 @@
             "daily": "每天",
             "initial": "初始化",
             "monthly": "每月",
-            "until": "直到",
+            "until": "截至",
             "weekly": "每星期",
             "yearly": "每年"
         }
@@ -818,7 +818,7 @@
     },
     "underConstruction": "建構中",
     "unknown": "未知",
-    "untilDate": "直到 {{date}}",
+    "untilDate": "截至 {{date}}",
     "user": {
         "local": "本地使用者"
     },

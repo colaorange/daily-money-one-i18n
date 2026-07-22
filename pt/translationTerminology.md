@@ -34,6 +34,21 @@ This file contains locale-specific terminology and style rules for Portuguese (`
 | Liability | Passivo |
 | Other | Outro |
 
+## Time and Range Terms
+
+### Until
+
+Use `Até` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `Até hoje` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | pt |
+| --- | --- |
+| Mode label | Até |
+| Quick View label | Até hoje |
+| Range display | Até {{date}} |
+| Current-date label | Até hoje |
+
 ## Feature Terms
 
 | Source | Portuguese |
