@@ -4,6 +4,12 @@ Heb je vragen of functieverzoeken? Word lid van de [Facebook-fangroep](https://w
 
 ## Wat is nieuw
 
+### In versie 1.13.0
+Deze update bevat de volgende nieuwe functies en verbeteringen:
+* Wanneer je een transactie in de geavanceerde modus bewerkt, zie je nu het huidige verschil in bedrag. Zo kun je creditcardkosten of onverklaarde bedragen eenvoudiger aanpassen.
+* Het Financieel trenddiagram is toegevoegd om veranderingen in de loop van de tijd te volgen.
+* Het Financieel verdelingsdiagram is verbeterd. Naast diagrammen per rekeningtype kun je nu ook diagrammen voor afzonderlijke rekeningen maken.
+
 ### In versie 1.12.0
 Deze versie bevat functie-updates:
 * Transacties bevatten nu een veld "Afstemmingsstatus". Creditcardtransacties kunnen eerst worden ingesteld op "Niet afgestemd" (standaard is "Afgestemd"). Nadat u de creditcardrekening hebt betaald, kunt u in de lijst "Transacties" de "Afstemmingsmodus" gebruiken om ze snel te controleren met uw creditcardafschrift.
@@ -40,7 +46,7 @@ Deze release bevat functie-updates op basis van gebruikerswensen:
 * **Notitie standaard geopend**: wanneer ingeschakeld, wordt de transactienotitie in de transactielijst standaard geopend. (Voorkeuren > Weergave-instellingen > Transactielijstinstellingen)
 * **Achtergrondkleuropties voor transacties**: je kunt nu de achtergrondkleur van transacties in de transactielijst wijzigen. Beschikbare opties zijn Standaard (thema-achtergrondkleur), Bronrekening en Bestemmingsrekening. (Voorkeuren > Weergave-instellingen > Transactielijstinstellingen)
 * **Verbeterde bewerking in geavanceerde transactiemodus**: in geavanceerde bewerkingsmodus kun je nu elke overboeking herschikken en in elke volgorde verwijderen. Voorheen kon alleen de laatste overboeking worden verwijderd en was herschikken niet mogelijk.
-* **Snelkoppelingen voor Startscherm**: opties toegevoegd voor Maandeindtransacties, Maandeindbalansoverzicht en Maandeindbalansdiagram.
+* **Snelkoppelingen voor Startscherm**: opties toegevoegd voor Maandeindtransacties, Maandeindbalansoverzicht en Financieel verdelingsdiagram voor het maandeinde.
 
 ### In versie 1.6.0
 * [Bekijk je diagrammen op je computer](https://youtu.be/Ag8cqg9gzi0): biedt servermodus. Na inschakelen kun je via een computerbrowser binnen hetzelfde LAN verbinding maken met je telefoon en gedetailleerdere diagrammen bekijken.

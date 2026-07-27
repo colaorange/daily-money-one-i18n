@@ -116,13 +116,13 @@
         "hideEmptyHint": "Dönemde işlemi olmayan öğeleri gizle. Bakiyesi sıfır olan öğeler, işlemleri varsa yine gösterilir.",
         "mode": {
             "monthly": "Aylık",
-            "until": "Şuna kadar",
+            "until": "Tarihe kadar",
             "weekly": "Haftalık",
             "yearly": "Yıllık"
         },
         "quickView": {
             "monthly": "Bu ay",
-            "until": "Şuna kadar",
+            "until": "Bugüne kadar",
             "weekly": "Bu hafta",
             "yearly": "Bu yıl"
         }
@@ -147,7 +147,7 @@
         "mode": {
             "@": "Mod",
             "monthly": "Aylık",
-            "until": "Şuna kadar",
+            "until": "Tarihe kadar",
             "weekly": "Haftalık",
             "yearly": "Yıllık"
         },
@@ -163,7 +163,9 @@
     },
     "chart": {
         "bar": "Çubuk grafik",
-        "pie": "Pasta grafik"
+        "cumulativeTrend": "Kümülatif eğilim",
+        "pie": "Pasta grafik",
+        "trend": "Eğilim"
     },
     "color": "Renk",
     "contributeLanguage": "Çevirilerin çoğu yapay zeka ile oluşturulmuştur. Hata bulursanız veya eksik bir dile katkıda bulunmak isterseniz lütfen benimle iletişime geçin. Geçerli katkıda bulunanlar reklamsız anahtar alabilir.",
@@ -339,8 +341,9 @@
         "accountInitTransactionUpdated": "{{name}} için {{value}} başlangıç bakiyesi güncellendi.",
         "accountMissing": "{{accountId}} hesabı bulunamadı.",
         "accountUpdated": "{{name}} hesabı güncellendi.",
-        "addedToQuickViewChart": "{{name}} grafik hızlı görünümüne eklendi.",
+        "addedToQuickViewDistributionChart": "{{name}} finansal dağılım hızlı görünümüne eklendi.",
         "addedToQuickViewSheet": "{{name}} bilanço hızlı görünümüne eklendi.",
+        "addedToQuickViewTrendChart": "{{name}} finansal eğilim hızlı görünümüne eklendi.",
         "agreedAt": "{{datetime}} tarihinde kabul edildi.",
         "agreement": "Sayın kullanıcı, bu uygulamayı kullanmaya devam etmek için lütfen aşağıdaki sözleşmeyi inceleyin. 'Okudum ve kabul ediyorum' düğmesine tıklayarak bu sözleşmelerin hüküm ve koşullarını dikkatle okuduğunuzu, tamamen anladığınızı ve kabul ettiğinizi onaylarsınız",
         "autoBackupDatabase": "Otomatik yedekleme aralık ayarlarınıza göre çalışır. Eski yedekler saklama ayarlarına göre silinir.",
@@ -398,10 +401,12 @@
         "passwordReset": "Parola sıfırlandı.",
         "passwordSet": "Parola ayarlandı.",
         "provideStoragePermission": "Yedekleme ve dışa aktarma için depolama izni gerekir.",
-        "quickViewChartExists": "{{name}} grafiği zaten var.",
-        "quickViewChartHint": "$t(screen.balanceChart) bölümünden Ana Sayfa'ya grafik ekleyin. Tercihlerde yönetin.",
+        "quickViewDistributionChartExists": "{{name}} finansal dağılım hızlı görünümünde zaten var.",
+        "quickViewDistributionChartHint": "$t(screen.distributionChart) bölümünden Ana Sayfa'ya grafikler ekleyin. Tercihlerde yönetin.",
         "quickViewSheetExists": "{{name}} bilançosu zaten var.",
         "quickViewSheetHint": "Ana Sayfa'ya eklemek için $t(screen.balanceSheet) içindeki bir hesapta sola kaydırın. Tercihlerde yönetin.",
+        "quickViewTrendChartExists": "{{name}} finansal eğilim hızlı görünümünde zaten var.",
+        "quickViewTrendChartHint": "$t(screen.trendChart) bölümünden Ana Sayfa'ya grafikler ekleyin. Tercihlerde yönetin.",
         "readAgree": "Okudum ve kabul ediyorum.",
         "restoredDatabase": "Veritabanı geri yüklendi (dosya tarihi: {{datetime}}).",
         "selectDatabaseBackupFileToRestore": "Geri yüklemek için bir yedek dosyası seçin.",
@@ -560,7 +565,6 @@
         "aboutUserInterface": "Kullanıcı arayüzü",
         "aboutWhatIsNew": "Yenilikler",
         "accountManagement": "Hesaplar",
-        "balanceChart": "Bakiye grafikleri",
         "balanceSheet": "Bilançolar",
         "bookEditor": "Defteri düzenle",
         "bookManagement": "Defterler",
@@ -570,6 +574,7 @@
         "dataImportCsv": "CSV içe aktar",
         "dataImportJson": "JSON içe aktar",
         "dataMaintenance": "Veri bakımı",
+        "distributionChart": "Finansal dağılım",
         "googleDriveManagement": "Google Drive yedekleri",
         "home": "Ana Sayfa",
         "homeShortcutManagement": "Ana Sayfa kısayolları",
@@ -587,15 +592,17 @@
         "preferencesPasswordReset": "Parolayı sıfırla",
         "preferencesSecurity": "Güvenlik",
         "preferencesTransactionList": "İşlemler",
-        "quickViewChartManagement": "Grafik hızlı görünümü",
+        "quickViewDistributionChartManagement": "Finansal dağılım hızlı görünümü",
         "quickViewSheetManagement": "Bilanço hızlı görünümü",
+        "quickViewTrendChartManagement": "Eğilim hızlı görünümü",
         "serverMode": "Sunucu modu",
         "transactionList": "İşlemler",
         "transactionSearchCondition": "Ara",
         "transactionSearchResult": "Sonuçlar",
         "transactionTemplateManagement": "Şablonlar",
         "transactionTrashList": "Çöp kutusu",
-        "transactionUpdatedList": "Son güncellemeler"
+        "transactionUpdatedList": "Son güncellemeler",
+        "trendChart": "Finansal eğilim"
     },
     "searchCondition": {
         "accountType": "Hesap türü",
@@ -640,8 +647,10 @@
         "accountLiability": "$t(account.liability)",
         "accountOther": "$t(account.other)",
         "homeCharts": "Grafikler",
+        "homeDistribution": "Dağılım",
         "homeMain": "Ana Sayfa",
         "homeTest": "Test",
+        "homeTrend": "Eğilim",
         "transactionTemplateNormal": "Standart",
         "transactionTemplateSchedule": "Zamanlama"
     },
@@ -691,11 +700,11 @@
         "editTransaction": "İşlemi düzenle",
         "editTransactionTemplate": "Şablonu düzenle",
         "error": "Hata",
-        "monthEndBalanceChart": "Ay sonu grafiği",
         "monthEndBalanceSheet": "Ay sonu bakiyesi",
+        "monthEndDistributionChart": "Ay sonu dağılım",
         "monthEndTransactions": "Ay sonu işlemleri",
-        "monthlyBalanceChart": "Aylık grafik",
         "monthlyBalanceSheet": "Aylık bakiye",
+        "monthlyDistributionChart": "Aylık dağılım",
         "monthlyTransactions": "Aylık işlemler",
         "newAccount": "Yeni hesap",
         "newBook": "Yeni defter",
@@ -716,11 +725,11 @@
         "uploadGDrive": "Drive'a yükle",
         "userInfo": "Kullanıcı bilgisi",
         "warn": "Uyarı",
-        "weeklyBalanceChart": "Haftalık grafik",
         "weeklyBalanceSheet": "Haftalık bakiye",
+        "weeklyDistributionChart": "Haftalık dağılım",
         "weeklyTransactions": "Haftalık işlemler",
-        "yearlyBalanceChart": "Yıllık grafik",
         "yearlyBalanceSheet": "Yıllık bakiye",
+        "yearlyDistributionChart": "Yıllık dağılım",
         "yearlyTransactions": "Yıllık işlemler"
     },
     "today": "Bugün",
@@ -785,7 +794,7 @@
             "daily": "Günlük",
             "initial": "Başlangıç",
             "monthly": "Aylık",
-            "until": "Şuna kadar",
+            "until": "Tarihe kadar",
             "weekly": "Haftalık",
             "yearly": "Yıllık"
         }

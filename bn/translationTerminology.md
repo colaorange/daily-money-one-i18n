@@ -40,14 +40,31 @@ This file contains locale-specific terminology and style rules for Bengali (`bn`
 | Liability | দায় |
 | Other | অন্যান্য |
 
+## Time and Range Terms
+
+### Until
+
+Use `পর্যন্ত` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `আজ পর্যন্ত` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | bn |
+| --- | --- |
+| Mode label | পর্যন্ত |
+| Quick View label | আজ পর্যন্ত |
+| Range display | {{date}} পর্যন্ত |
+| Current-date label | আজ পর্যন্ত |
+
 ## Feature Terms
 
 | Term | bn |
 | --- | --- |
 | Daily Money One | Daily Money One |
 | Daily Money | Daily Money |
-| Quick View | Quick View |
+| Quick View | দ্রুত দেখা |
 | Chart | চার্ট |
+| Distribution Chart | আর্থিক বণ্টন চার্ট |
+| Trend Chart | আর্থিক প্রবণতা চার্ট |
 | Trash | ট্র্যাশ |
 | Schedule | সময়সূচি |
 | Preferences | পছন্দসমূহ |
@@ -56,6 +73,40 @@ This file contains locale-specific terminology and style rules for Bengali (`bn`
 | Restore | পুনরুদ্ধার |
 | Import | আমদানি |
 | Export | রপ্তানি |
+
+### Quick View
+
+Use `দ্রুত দেখা` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it. Apply Bengali grammatical forms as needed, such as `দ্রুত দেখায়` for "in/to Quick View" and `দ্রুত দেখার` before a noun.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Bengali locale JSON.
+
+### Financial Distribution Chart
+
+Use `আর্থিক বণ্টন চার্ট` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | bn |
+| --- | --- |
+| Documentation | আর্থিক বণ্টন চার্ট |
+| No-period UI | আর্থিক বণ্টন |
+| Weekly UI | সাপ্তাহিক বণ্টন |
+| Monthly UI | মাসিক বণ্টন |
+| Month-end UI | মাসশেষ বণ্টন |
+| Annual UI | বার্ষিক বণ্টন |
+| Quick View UI | আর্থিক বণ্টনের দ্রুত দেখা |
+| Home tab | বণ্টন |
+
+### Financial Trend Chart
+
+Use `আর্থিক প্রবণতা চার্ট` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | bn |
+| --- | --- |
+| Documentation | আর্থিক প্রবণতা চার্ট |
+| No-mode UI | আর্থিক প্রবণতা |
+| LINE mode | প্রবণতা |
+| CUMULATIVE mode | সঞ্চিত প্রবণতা |
+| Quick View UI | প্রবণতার দ্রুত দেখা |
+| Home tab | প্রবণতা |
 
 ## Reconciliation Terms
 

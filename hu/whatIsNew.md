@@ -4,6 +4,12 @@ Kérdéseid vagy funkcióigényeid vannak? Csatlakozz a [Facebook rajongói csop
 
 ## Újdonságok
 
+### Az 1.13.0 verzióban
+Ez a frissítés a következő új funkciókat és fejlesztéseket tartalmazza:
+* Ha Haladó módban szerkesztesz egy tranzakciót, mostantól láthatod az aktuális összegkülönbséget, így könnyebben módosíthatod a hitelkártyadíjakat vagy az ismeretlen eredetű összegeket.
+* Pénzügyi trenddiagram került hozzáadásra, hogy nyomon követhesd az időbeli változásokat.
+* Továbbfejlesztettük a Pénzügyi eloszlási diagramot. A számlatípus szerinti diagramok mellett mostantól egyes számlákhoz is készíthetsz diagramot.
+
 ### Az 1.12.0 verzióban
 Ez a verzió funkciófrissítéseket tartalmaz:
 * A tranzakciók mostantól tartalmaznak egy "Egyeztetési állapot" mezőt. A hitelkártyás tranzakciók először "Nem egyeztetett" állapotra állíthatók (az alapértelmezett érték "Egyeztetett"). A hitelkártyaszámla kifizetése után a "Tranzakciók" listában az "Egyeztetési mód" segítségével gyorsan összevetheti őket a hitelkártya-kivonattal.
@@ -40,7 +46,7 @@ Ez a kiadás a felhasználók kérései alapján tartalmaz funkcionális frissí
 * **Jegyzetek alapértelmezett kibontása**: Ha engedélyezve van, a tranzakció listájában a jegyzetek alapértelmezetten kibontva jelennek meg. (Beállítások > Megjelenítési beállítások > Tranzakciólista beállításai)
 * **Tranzakció háttérszínének beállításai**: Mostantól megváltoztathatod a tranzakciók háttérszínét a tranzakciólistában. Az elérhető lehetőségek: Alapértelmezett (téma háttérszíne), Kimenő számla (forrás) és Bejövő számla (cél). (Beállítások > Megjelenítési beállítások > Tranzakciólista beállításai)
 * **Továbbfejlesztett haladó módú tranzakciószerkesztés**: Haladó szerkesztési módban mostantól tetszőlegesen átrendezheted az átvezetéseket, és tetszőleges sorrendben törölheted őket. Korábban csak az utolsó átvezetést lehetett törölni, és az átrendezés nem volt lehetséges.
-* **Kezdőlapi parancsikon-beállítások**: A következő parancsikon-lehetőségek hozzáadva: Hóvégi tranzakciók, Hóvégi egyenlegkimutatás, Hóvégi egyenlegdiagram.
+* **Kezdőlapi parancsikon-beállítások**: A következő parancsikon-lehetőségek hozzáadva: Hóvégi tranzakciók, Hóvégi egyenlegkimutatás, Hó végi pénzügyi eloszlási diagram.
 
 ### Az 1.6.0 verzióban
 * [Diagramok megtekintése a számítógépen](https://youtu.be/Ag8cqg9gzi0): Biztosítja a szerver módot. A mód engedélyezése után azonos helyi hálózaton (LAN) lévő számítógép böngészőjéből csatlakozhatsz a telefonodhoz, és részletesebb diagramokat tekinthetsz meg.

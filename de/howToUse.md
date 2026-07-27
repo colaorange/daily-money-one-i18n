@@ -59,9 +59,9 @@ Wenn es eine Buchung zwischen Konten gibt, etwa eine Ausgabe, eine Umbuchung zwi
 > `Vermögen`-Konto als Quelle: Bank
 > `Verbindlichkeit`-Konto als Ziel: Kreditkarte
 
-## ![Balance Sheet](icon:///scale-balance)![Balance Chart](icon:///chart-pie) Bilanz & Diagramm
+## ![Balance Sheet](icon:///scale-balance)![Financial Distribution Chart](icon:///chart-pie) Bilanz & Finanzverteilungsdiagramm
 
-Durch sorgfältige Buchführung hilft die Anwendung dabei, alle Buchungsdetails zu erfassen und je nach Suchbedingungen eine Bilanz zu erstellen. Diese Bilanz zeigt die Salden von Vermögen und Verbindlichkeiten in unterschiedlichen Zeiträumen klar an, damit Sie Ihre finanzielle Lage besser verstehen. Zusätzlich kann die Anwendung verschiedene Diagramme erzeugen, die Einnahmen und Ausgaben visuell darstellen und Ihre Geldflüsse leichter verständlich machen.
+Durch sorgfältige Buchführung hilft die Anwendung dabei, alle Buchungsdetails zu erfassen und je nach Suchbedingungen eine Bilanz zu erstellen. Diese Bilanz zeigt die Salden von Vermögen und Verbindlichkeiten in unterschiedlichen Zeiträumen klar an, damit Sie Ihre finanzielle Lage besser verstehen. Zusätzlich kann die Anwendung verschiedene Finanzverteilungsdiagramme erzeugen, die Einnahmen und Ausgaben visuell darstellen und Ihre Geldflüsse leichter verständlich machen.
 
 ## Anfangssalden von Konten
 
@@ -75,9 +75,9 @@ Manchmal umfasst eine einzelne Ausgabe mehrere Ausgabenkategorien. Beim Einkauf 
 
 Das Programm erlaubt Übertragungen zwischen Konten in verschiedenen Büchern. Sowohl in der einfachen als auch in der erweiterten Buchungserstellung oder -bearbeitung können Sie beim Auswählen von Konten auch Konten aus anderen Büchern wählen. Da Währungswerte zwischen verschiedenen Büchern unterschiedlich sein können und der Wechselkurs nicht feststeht, etwa bei einer Übertragung von Neuen Taiwan-Dollar in US-Dollar, erzwingt das Programm nicht, dass der Gesamtbetrag der Quellen dem Gesamtbetrag der Ziele entspricht. Erstellen Sie solche Buchungen anhand der tatsächlichen Beträge und gehen Sie sorgfältig vor.
 
-## Schnellansicht für Bilanz und Diagramme
+## Schnellansicht für Bilanz und Finanzverteilungsdiagramme
 
-Beim Durchsehen der Bilanz oder Diagramme können Sie bestimmte Kontoelemente zur Schnellansicht auf dem Startbildschirm hinzufügen [*1]. Wischen Sie einfach in der Bilanz auf dem Element nach rechts und tippen Sie auf `Zur Schnellansicht hinzufügen`, oder tippen Sie oben rechts auf der Diagrammkarte auf das Symbol "Zur Schnellansicht hinzufügen". Danach sehen Sie auf dem Startbildschirm den Saldo von Vermögen und Verbindlichkeiten für dieses Element, oder Sie können ihn auf der Diagrammseite des Startbildschirms ansehen. Außerdem können Sie diese Elemente unter `Einstellungen > Startbildschirm` sortieren oder entfernen.
+Beim Durchsehen der Bilanz oder der Finanzverteilungsdiagramme können Sie bestimmte Kontoelemente zur Schnellansicht auf dem Startbildschirm hinzufügen [*1]. Wischen Sie einfach in der Bilanz auf dem Element nach rechts und tippen Sie auf `Zur Schnellansicht hinzufügen`, oder tippen Sie oben rechts auf der Finanzverteilungsdiagrammkarte auf das Symbol "Zur Schnellansicht hinzufügen". Danach sehen Sie auf dem Startbildschirm den Saldo von Vermögen und Verbindlichkeiten für dieses Element, oder Sie können ihn auf der Seite für Finanzverteilungsdiagramme des Startbildschirms ansehen. Außerdem können Sie diese Elemente unter `Einstellungen > Startbildschirm` sortieren oder entfernen.
 
 [*1] Zu viele Schnellansicht-Elemente auf dem Startbildschirm können die Ladezeit des Startbildschirms beeinflussen.
 

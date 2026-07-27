@@ -40,6 +40,21 @@ Use `uitgaand` and `inkomend` only as explanatory wording when the source needs 
 | Liability | Schuld |
 | Other | Overig |
 
+## Time and Range Terms
+
+### Until
+
+Use `Tot` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `Tot vandaag` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | nl |
+| --- | --- |
+| Mode label | Tot |
+| Quick View label | Tot vandaag |
+| Range display | Tot {{date}} |
+| Current-date label | Tot vandaag |
+
 ## Feature Terms
 
 | Term | nl |
@@ -48,6 +63,8 @@ Use `uitgaand` and `inkomend` only as explanatory wording when the source needs 
 | Daily Money | Daily Money |
 | Quick View | Snelle weergave |
 | Chart | Diagram |
+| Distribution Chart | Financieel verdelingsdiagram |
+| Trend Chart | Financieel trenddiagram |
 | Trash | Prullenbak |
 | Schedule | Planning |
 | Preferences | Voorkeuren |
@@ -56,6 +73,40 @@ Use `uitgaand` and `inkomend` only as explanatory wording when the source needs 
 | Restore | Herstellen |
 | Import | Importeren |
 | Export | Exporteren |
+
+### Quick View
+
+Use `Snelle weergave` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Dutch locale JSON.
+
+### Financial Distribution Chart
+
+Use `Financieel verdelingsdiagram` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | nl |
+| --- | --- |
+| Documentation | Financieel verdelingsdiagram |
+| No-period UI | Financiële verdeling |
+| Weekly UI | Wekelijkse verdeling |
+| Monthly UI | Maandelijkse verdeling |
+| Month-end UI | Maandeindverdeling |
+| Annual UI | Jaarlijkse verdeling |
+| Quick View UI | Snelle weergave: verdeling |
+| Home tab | Verdeling |
+
+### Financial Trend Chart
+
+Use `Financieel trenddiagram` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | nl |
+| --- | --- |
+| Documentation | Financieel trenddiagram |
+| No-mode UI | Financiële trend |
+| LINE mode | Trend |
+| CUMULATIVE mode | Cumulatieve trend |
+| Quick View UI | Snelle weergave: trend |
+| Home tab | Trends |
 
 ## Reconciliation Terms
 

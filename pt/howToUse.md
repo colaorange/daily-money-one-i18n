@@ -59,9 +59,9 @@ Quando há um movimento entre contas, como uma despesa, uma transferência de di
 > Conta de `Ativo` de origem: Banco 
 > Conta de `Passivo` de destino: Cartão de crédito
 
-## ![Balanço](icon:///scale-balance)![Gráfico de saldo](icon:///chart-pie) Balanço e gráfico
+## ![Balanço](icon:///scale-balance)![Gráfico de distribuição financeira](icon:///chart-pie) Balanço e gráfico de distribuição financeira
 
-Com uma contabilidade cuidada, a aplicação ajuda-o a registar todos os detalhes dos movimentos e a gerar um balanço de acordo com as condições de pesquisa. Este balanço apresenta claramente o saldo de ativos e passivos em diferentes períodos, permitindo compreender melhor a sua situação financeira. Além disso, a aplicação pode gerar vários gráficos para representar visualmente rendimentos e despesas, tornando mais fácil compreender o seu fluxo financeiro.
+Com uma contabilidade cuidada, a aplicação ajuda-o a registar todos os detalhes dos movimentos e a gerar um balanço de acordo com as condições de pesquisa. Este balanço apresenta claramente o saldo de ativos e passivos em diferentes períodos, permitindo compreender melhor a sua situação financeira. Além disso, a aplicação pode gerar vários gráficos de distribuição financeira para representar visualmente rendimentos e despesas, tornando mais fácil compreender o seu fluxo financeiro.
 
 ## Saldos iniciais das contas
 
@@ -75,9 +75,9 @@ Por vezes, uma única despesa pode envolver várias categorias. Por exemplo, ao 
 
 O programa permite transferências entre contas de livros diferentes. Tanto no ecrã básico como no avançado de criação ou edição de movimentos, pode selecionar contas de outros livros. Como os valores monetários entre livros diferentes podem variar e a taxa de câmbio não é fixa no momento, por exemplo ao transferir de dólares taiwaneses para dólares americanos, o programa não limita a criação de movimentos em que o total transferido da origem tenha de ser igual ao total transferido para o destino. Crie os movimentos com base nos montantes reais e com atenção.
 
-## Vista rápida de balanço e gráficos
+## Vista rápida de balanço e gráfico de distribuição financeira
 
-Ao consultar o balanço ou os gráficos, pode adicionar contas específicas à Vista rápida no ecrã inicial [*1]. Basta deslizar para a direita no item do balanço e tocar em `Adicionar à Vista rápida`, ou tocar no ícone "Adicionar à Vista rápida" no canto superior direito do cartão do gráfico de saldo. Depois, no ecrã inicial, verá o saldo de ativos e passivos desse item, ou poderá vê-lo na página de gráficos do ecrã inicial. Além disso, pode ordenar ou remover estes itens em `Preferências > Ecrã inicial`.
+Ao consultar o balanço ou os gráficos de distribuição financeira, pode adicionar contas específicas à Vista rápida no ecrã inicial [*1]. Basta deslizar para a direita no item do balanço e tocar em `Adicionar à Vista rápida`, ou tocar no ícone "Adicionar à Vista rápida" no canto superior direito do cartão do gráfico de distribuição financeira. Depois, no ecrã inicial, verá o saldo de ativos e passivos desse item, ou poderá vê-lo na página de gráficos de distribuição financeira do ecrã inicial. Além disso, pode ordenar ou remover estes itens em `Preferências > Ecrã inicial`.
 
 [*1] Um número excessivo de itens de Vista rápida no ecrã inicial pode afetar o tempo de carregamento do ecrã inicial.
 

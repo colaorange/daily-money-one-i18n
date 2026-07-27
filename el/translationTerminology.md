@@ -40,6 +40,21 @@ Use `εξερχόμενη μεταφορά` and `εισερχόμενη μετα
 | Liability | Υποχρέωση |
 | Other | Άλλο |
 
+## Time and Range Terms
+
+### Until
+
+Use `Έως` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `Έως σήμερα` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | el |
+| --- | --- |
+| Mode label | Έως |
+| Quick View label | Έως σήμερα |
+| Range display | Έως {{date}} |
+| Current-date label | Έως σήμερα |
+
 ## Feature Terms
 
 | Term | el |
@@ -48,6 +63,8 @@ Use `εξερχόμενη μεταφορά` and `εισερχόμενη μετα
 | Daily Money | Daily Money |
 | Quick View | Γρήγορη προβολή |
 | Chart | Γράφημα |
+| Distribution Chart | Γράφημα οικονομικής κατανομής |
+| Trend Chart | Γράφημα οικονομικής τάσης |
 | Trash | Κάδος |
 | Schedule | Χρονοδιάγραμμα |
 | Preferences | Προτιμήσεις |
@@ -56,6 +73,40 @@ Use `εξερχόμενη μεταφορά` and `εισερχόμενη μετα
 | Restore | Επαναφορά |
 | Import | Εισαγωγή |
 | Export | Εξαγωγή |
+
+### Quick View
+
+Use `Γρήγορη προβολή` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Greek locale JSON.
+
+### Financial Distribution Chart
+
+Use `Γράφημα οικονομικής κατανομής` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | el |
+| --- | --- |
+| Documentation | Γράφημα οικονομικής κατανομής |
+| No-period UI | Οικονομική κατανομή |
+| Weekly UI | Εβδομαδιαία κατανομή |
+| Monthly UI | Μηνιαία κατανομή |
+| Month-end UI | Κατανομή τέλους μήνα |
+| Annual UI | Ετήσια κατανομή |
+| Quick View UI | Γρήγορη προβολή: κατανομή |
+| Home tab | Κατανομή |
+
+### Financial Trend Chart
+
+Use `Γράφημα οικονομικής τάσης` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | el |
+| --- | --- |
+| Documentation | Γράφημα οικονομικής τάσης |
+| No-mode UI | Οικονομική τάση |
+| LINE mode | Τάση |
+| CUMULATIVE mode | Σωρευτική τάση |
+| Quick View UI | Γρήγορη προβολή: τάση |
+| Home tab | Τάσεις |
 
 ## Reconciliation Terms
 

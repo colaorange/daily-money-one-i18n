@@ -58,9 +58,9 @@ Hesaplar arasında harcama, hesaplar arasında para taşıma veya kredi kartı k
 > Kaynak `Varlık` hesabı: Banka 
 > Hedef `Borç` hesabı: Kredi kartı
 
-## ![Balance Sheet](icon:///scale-balance)![Balance Chart](icon:///chart-pie) Bilanço ve Grafik
+## ![Balance Sheet](icon:///scale-balance)![Financial Distribution Chart](icon:///chart-pie) Bilanço ve finansal dağılım grafiği
 
-Düzenli muhasebe sayesinde uygulama tüm işlem ayrıntılarını kaydetmenize ve sorgu koşullarına göre bilanço oluşturmanıza yardımcı olur. Bu tablo, farklı dönemlerdeki varlık ve borç bakiyelerini açıkça göstererek finansal durumunuzu daha iyi anlamanızı sağlar. Ayrıca uygulama, gelir ve giderlerinizi görsel olarak sunmak için çeşitli grafikler oluşturabilir; böylece para akışınızı anlamak kolaylaşır.
+Düzenli muhasebe sayesinde uygulama tüm işlem ayrıntılarını kaydetmenize ve sorgu koşullarına göre bilanço oluşturmanıza yardımcı olur. Bu tablo, farklı dönemlerdeki varlık ve borç bakiyelerini açıkça göstererek finansal durumunuzu daha iyi anlamanızı sağlar. Ayrıca uygulama, gelir ve giderlerinizi görsel olarak sunmak için çeşitli finansal dağılım grafikleri oluşturabilir; böylece para akışınızı anlamak kolaylaşır.
 
 ## Hesapların Başlangıç Bakiyeleri
 
@@ -74,9 +74,9 @@ Bazen tek bir gider birden fazla harcama kategorisini içerebilir. Örneğin bir
 
 Program farklı defterlerdeki hesaplar arasında aktarım yapmanıza izin verir. Temel veya gelişmiş işlem düzenleme ya da oluşturma ekranında hesap seçerken diğer defterlerdeki hesapları seçebilirsiniz. Farklı defterler arasındaki para birimi değerleri değişebileceği ve döviz kuru o anda sabit olmadığı için, örneğin Yeni Tayvan Dolarından ABD Dolarına aktarım yaparken, program toplam çıkış tutarının toplam giriş tutarına eşit olmasını zorunlu tutmaz. Lütfen işlem oluştururken gerçek tutarlara göre işlem yapın ve dikkatli olun.
 
-## Bilanço ve Grafiklerde Hızlı Görünüm
+## Bilanço ve finansal dağılım grafiklerinde hızlı görünüm
 
-Bilanço veya grafikleri incelerken belirli hesap öğelerini Ana Ekrandaki Hızlı Görünüme ekleyebilirsiniz [*1]. Bilançodaki öğeyi sağa kaydırıp `Hızlı görünüme ekle` düğmesine tıklayın veya bilanço grafik kartının sağ üst köşesindeki "Hızlı görünüme ekle" simgesine tıklayın. Ardından Ana Ekranda bu öğenin varlık ve borç bakiyesini görebilir ya da Ana Ekranın grafik sayfasında görüntüleyebilirsiniz. Ayrıca bu öğeleri `Tercihler > Ana ekran` içinde sıralayabilir veya kaldırabilirsiniz.
+Bilanço veya finansal dağılım grafiklerini incelerken belirli hesap öğelerini Ana Ekrandaki Hızlı Görünüme ekleyebilirsiniz [*1]. Bilançodaki öğeyi sağa kaydırıp `Hızlı görünüme ekle` düğmesine tıklayın veya finansal dağılım grafiği kartının sağ üst köşesindeki "Hızlı görünüme ekle" simgesine tıklayın. Ardından Ana Ekranda bu öğenin varlık ve borç bakiyesini görebilir ya da Ana Ekranın finansal dağılım grafikleri sayfasında görüntüleyebilirsiniz. Ayrıca bu öğeleri `Tercihler > Ana ekran` içinde sıralayabilir veya kaldırabilirsiniz.
 
 [*1] Ana Ekranda çok fazla Hızlı Görünüm öğesi bulunması, Ana Ekranın yüklenme süresini etkileyebilir.
 

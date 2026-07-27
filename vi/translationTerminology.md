@@ -34,6 +34,21 @@ This file contains locale-specific terminology and style rules for Vietnamese (`
 | Liability | Nợ |
 | Other | Khác |
 
+## Time and Range Terms
+
+### Until
+
+Use `Đến` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `Đến hôm nay` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | vi |
+| --- | --- |
+| Mode label | Đến |
+| Quick View label | Đến hôm nay |
+| Range display | Đến {{date}} |
+| Current-date label | Đến hôm nay |
+
 ## Feature Terms
 
 | Term | vi |
@@ -42,6 +57,8 @@ This file contains locale-specific terminology and style rules for Vietnamese (`
 | Daily Money | Daily Money |
 | Quick View | Xem nhanh |
 | Chart | Biểu đồ |
+| Distribution Chart | Biểu đồ phân bố tài chính |
+| Trend Chart | Biểu đồ xu hướng tài chính |
 | Trash | Thùng rác |
 | Schedule | Lịch |
 | Preferences | Tùy chọn |
@@ -62,6 +79,40 @@ This file contains locale-specific terminology and style rules for Vietnamese (`
 | Until | Đến |
 | Initial | Khởi tạo |
 | Custom | Tùy chỉnh |
+
+### Quick View
+
+Use `Xem nhanh` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Vietnamese locale JSON.
+
+### Financial Distribution Chart
+
+Use `Biểu đồ phân bố tài chính` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | vi |
+| --- | --- |
+| Documentation | Biểu đồ phân bố tài chính |
+| No-period UI | Phân bố tài chính |
+| Weekly UI | Phân bố hàng tuần |
+| Monthly UI | Phân bố hàng tháng |
+| Month-end UI | Phân bố cuối tháng |
+| Annual UI | Phân bố hàng năm |
+| Quick View UI | Xem nhanh phân bố tài chính |
+| Home tab | Phân bố |
+
+### Financial Trend Chart
+
+Use `Biểu đồ xu hướng tài chính` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | vi |
+| --- | --- |
+| Documentation | Biểu đồ xu hướng tài chính |
+| No-mode UI | Xu hướng tài chính |
+| LINE mode | Xu hướng |
+| CUMULATIVE mode | Xu hướng tích lũy |
+| Quick View UI | Xem nhanh xu hướng |
+| Home tab | Xu hướng |
 
 ## Reconciliation Terms
 

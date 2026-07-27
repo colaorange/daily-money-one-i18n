@@ -4,6 +4,12 @@ Tem perguntas ou pedidos de funcionalidades? Junte-se ao [grupo de fãs no Faceb
 
 ## Novidades
 
+### Na versão 1.13.0
+Esta atualização inclui as seguintes novas funcionalidades e melhorias:
+* Ao editar um movimento no Modo avançado, agora pode ver a diferença atual entre os montantes, facilitando o ajuste de taxas do cartão de crédito ou de montantes inexplicáveis.
+* Foi adicionado o Gráfico de tendência financeira para ajudar a acompanhar as alterações ao longo do tempo.
+* O Gráfico de distribuição financeira foi melhorado. Além de criar gráficos por tipo de conta, agora também pode criá-los para contas individuais.
+
 ### Na versão 1.12.0
 Esta versão inclui atualizações de funcionalidades:
 * Os movimentos passam a incluir o campo "Estado de reconciliação". Os movimentos de cartão de crédito podem ser definidos primeiro como "Não reconciliado" (a predefinição é "Reconciliado"). Depois de pagar a fatura do cartão de crédito, pode usar o "Modo de reconciliação" na lista "Movimentos" para os conferir rapidamente com o extrato do cartão de crédito.
@@ -40,7 +46,7 @@ Esta versão inclui atualizações de funcionalidades baseadas nos pedidos dos u
 * **Abrir notas por predefinição**: quando ativado, a nota do movimento na lista de movimentos fica aberta por predefinição. (Preferências > Definições de visualização > Definições da lista de movimentos)
 * **Opções de cor de fundo dos movimentos**: agora pode alterar a cor de fundo dos movimentos na lista de movimentos. As opções disponíveis incluem Predefinição (cor de fundo do tema), Conta de origem e Conta de destino. (Preferências > Definições de visualização > Definições da lista de movimentos)
 * **Edição avançada de movimentos melhorada**: no modo de edição avançada, agora pode reordenar quaisquer transferências e eliminar transferências em qualquer ordem. Antes, só era possível eliminar a última transferência e não era possível reordenar.
-* **Definições de atalhos do ecrã inicial**: adicionadas as seguintes opções de atalho: Movimentos de fim do mês, Balanço de fim do mês, Gráfico de saldo de fim do mês.
+* **Definições de atalhos do ecrã inicial**: adicionadas as seguintes opções de atalho: Movimentos de fim do mês, Balanço de fim do mês, Gráfico de distribuição financeira de fim do mês.
 
 ### Na versão 1.6.0
 * [Ver os seus gráficos no computador](https://youtu.be/Ag8cqg9gzi0): fornece modo de servidor. Depois de ativar este modo, poderá usar um navegador de computador na mesma LAN para se ligar ao telemóvel e ver gráficos mais detalhados.

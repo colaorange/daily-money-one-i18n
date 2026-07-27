@@ -35,6 +35,21 @@ This file contains locale-specific terminology and style rules for Simplified Ch
 | Liability | 债务 |
 | Other | 其他 |
 
+## Time and Range Terms
+
+### Until
+
+Use `截至` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `截至今天` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | zh-CN |
+| --- | --- |
+| Mode label | 截至 |
+| Quick View label | 截至今天 |
+| Range display | 截至 {{date}} |
+| Current-date label | 截至今天 |
+
 ## Feature Terms
 
 | Term | zh-CN |
@@ -43,6 +58,8 @@ This file contains locale-specific terminology and style rules for Simplified Ch
 | Daily Money | 每日记账本 |
 | Quick View | 快速查看 |
 | Chart | 图表 |
+| Distribution Chart | 财务分布图 |
+| Trend Chart | 财务趋势图 |
 | Trash | 垃圾桶 |
 | Schedule | 排程 |
 | Preferences | 偏好设置 |
@@ -51,6 +68,40 @@ This file contains locale-specific terminology and style rules for Simplified Ch
 | Restore | 还原 |
 | Import | 导入 |
 | Export | 导出 |
+
+### Quick View
+
+Use `快速查看` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. For Financial Distribution Chart, continue to use `财务分布图快速查看`.
+
+### Financial Distribution Chart
+
+Use `财务分布图` in both Markdown documentation and locale JSON. Keep the current Chinese UI labels instead of applying the shorter English UI pattern.
+
+| Context | zh-CN |
+| --- | --- |
+| Documentation | 财务分布图 |
+| No-period UI | 财务分布图 |
+| Weekly UI | 周财务分布图 |
+| Monthly UI | 月度财务分布图 |
+| Month-end UI | 至月底财务分布图 |
+| Annual UI | 年度财务分布图 |
+| Quick View UI | 财务分布图快速查看设置 |
+| Home tab | 财务分布图 |
+
+### Financial Trend Chart
+
+Use `财务趋势图` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | zh-CN |
+| --- | --- |
+| Documentation | 财务趋势图 |
+| No-mode UI | 财务趋势图 |
+| LINE mode | 趋势 |
+| CUMULATIVE mode | 累计趋势 |
+| Quick View UI | 趋势图快速查看设置 |
+| Home tab | 财务趋势图 |
 
 ## Reconciliation Terms
 

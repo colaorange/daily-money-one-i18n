@@ -40,6 +40,21 @@ Use `kiutalás` and `beutalás` only as explanatory wording when the source need
 | Liability | Kötelezettség |
 | Other | Egyéb |
 
+## Time and Range Terms
+
+### Until
+
+Use `Eddig` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Use the terminative suffix `-ig` with the displayed date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `Máig` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | hu |
+| --- | --- |
+| Mode label | Eddig |
+| Quick View label | Máig |
+| Range display | {{date}}-ig |
+| Current-date label | Máig |
+
 ## Feature Terms
 
 | Term | hu |
@@ -48,6 +63,8 @@ Use `kiutalás` and `beutalás` only as explanatory wording when the source need
 | Daily Money | Daily Money |
 | Quick View | Gyorsnézet |
 | Chart | Diagram |
+| Distribution Chart | Pénzügyi eloszlási diagram |
+| Trend Chart | Pénzügyi trenddiagram |
 | Trash | Kuka |
 | Schedule | Ütemezés |
 | Preferences | Beállítások |
@@ -56,6 +73,40 @@ Use `kiutalás` and `beutalás` only as explanatory wording when the source need
 | Restore | Visszaállítás |
 | Import | Importálás |
 | Export | Exportálás |
+
+### Quick View
+
+Use `Gyorsnézet` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Hungarian locale JSON.
+
+### Financial Distribution Chart
+
+Use `Pénzügyi eloszlási diagram` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | hu |
+| --- | --- |
+| Documentation | Pénzügyi eloszlási diagram |
+| No-period UI | Pénzügyi eloszlás |
+| Weekly UI | Heti eloszlás |
+| Monthly UI | Havi eloszlás |
+| Month-end UI | Hó végi eloszlás |
+| Annual UI | Éves eloszlás |
+| Quick View UI | Pénzügyi eloszlás gyorsnézete |
+| Home tab | Eloszlás |
+
+### Financial Trend Chart
+
+Use `Pénzügyi trenddiagram` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | hu |
+| --- | --- |
+| Documentation | Pénzügyi trenddiagram |
+| No-mode UI | Pénzügyi trend |
+| LINE mode | Trend |
+| CUMULATIVE mode | Összesített trend |
+| Quick View UI | Trend gyorsnézete |
+| Home tab | Trendek |
 
 ## Reconciliation Terms
 

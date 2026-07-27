@@ -40,6 +40,21 @@ Use `Abgang` and `Zugang` only as explanatory wording when the source needs to c
 | Liability | Verbindlichkeit |
 | Other | Sonstiges |
 
+## Time and Range Terms
+
+### Until
+
+Use `Bis` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `Bis heute` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | de |
+| --- | --- |
+| Mode label | Bis |
+| Quick View label | Bis heute |
+| Range display | Bis {{date}} |
+| Current-date label | Bis heute |
+
 ## Feature Terms
 
 | Term | de |
@@ -48,6 +63,8 @@ Use `Abgang` and `Zugang` only as explanatory wording when the source needs to c
 | Daily Money | Daily Money |
 | Quick View | Schnellansicht |
 | Chart | Diagramm |
+| Distribution Chart | Finanzverteilungsdiagramm |
+| Trend Chart | Finanztrenddiagramm |
 | Trash | Papierkorb |
 | Schedule | Zeitplan |
 | Preferences | Einstellungen |
@@ -56,6 +73,40 @@ Use `Abgang` and `Zugang` only as explanatory wording when the source needs to c
 | Restore | Wiederherstellen |
 | Import | Importieren |
 | Export | Exportieren |
+
+### Quick View
+
+Use `Schnellansicht` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing German locale JSON.
+
+### Financial Distribution Chart
+
+Use `Finanzverteilungsdiagramm` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | de |
+| --- | --- |
+| Documentation | Finanzverteilungsdiagramm |
+| No-period UI | Finanzverteilung |
+| Weekly UI | Wochenverteilung |
+| Monthly UI | Monatsverteilung |
+| Month-end UI | Monatsendverteilung |
+| Annual UI | Jahresverteilung |
+| Quick View UI | Schnellansicht: Finanzverteilung |
+| Home tab | Finanzverteilung |
+
+### Financial Trend Chart
+
+Use `Finanztrenddiagramm` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | de |
+| --- | --- |
+| Documentation | Finanztrenddiagramm |
+| No-mode UI | Finanztrend |
+| LINE mode | Trend |
+| CUMULATIVE mode | Kumulierter Trend |
+| Quick View UI | Schnellansicht: Finanztrend |
+| Home tab | Finanztrend |
 
 ## Reconciliation Terms
 

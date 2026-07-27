@@ -116,13 +116,13 @@
         "hideEmptyHint": "해당 기간에 거래가 없는 항목을 숨깁니다. 잔액이 0이어도 거래가 있으면 표시됩니다.",
         "mode": {
             "monthly": "월별",
-            "until": "까지",
+            "until": "지정일까지",
             "weekly": "주별",
             "yearly": "연별"
         },
         "quickView": {
             "monthly": "이번 달",
-            "until": "까지",
+            "until": "오늘까지",
             "weekly": "이번 주",
             "yearly": "올해"
         }
@@ -147,7 +147,7 @@
         "mode": {
             "@": "모드",
             "monthly": "월별",
-            "until": "까지",
+            "until": "지정일까지",
             "weekly": "주별",
             "yearly": "연별"
         },
@@ -163,7 +163,9 @@
     },
     "chart": {
         "bar": "막대 차트",
-        "pie": "원형 차트"
+        "cumulativeTrend": "누적 추이",
+        "pie": "원형 차트",
+        "trend": "추이"
     },
     "color": "색상",
     "contributeLanguage": "대부분의 번역은 AI로 생성되었습니다. 오류를 발견했거나 누락된 언어에 기여하고 싶다면 연락해 주세요. 유효한 기여자는 광고 없는 키를 받을 수 있습니다.",
@@ -339,8 +341,9 @@
         "accountInitTransactionUpdated": "{{name}}의 초기 잔액 {{value}}이(가) 업데이트되었습니다.",
         "accountMissing": "계정 {{accountId}}을(를) 찾을 수 없습니다.",
         "accountUpdated": "계정 {{name}}이(가) 업데이트되었습니다.",
-        "addedToQuickViewChart": "{{name}}이(가) 차트 빠른 보기에 추가되었습니다.",
+        "addedToQuickViewDistributionChart": "{{name}}이(가) 재무 분포 빠른 보기에 추가되었습니다.",
         "addedToQuickViewSheet": "{{name}}이(가) 잔액표 빠른 보기에 추가되었습니다.",
+        "addedToQuickViewTrendChart": "{{name}}이(가) 재무 추이 빠른 보기에 추가되었습니다.",
         "agreedAt": "{{datetime}}에 동의했습니다.",
         "agreement": "사용자님, 이 앱을 계속 사용하려면 다음 약관을 검토해 주세요. '읽고 동의합니다'를 누르면 이 약관의 내용을 신중히 읽고 충분히 이해했으며 동의한 것으로 간주됩니다.",
         "autoBackupDatabase": "자동 백업은 간격 설정에 따라 실행됩니다. 오래된 백업은 보관 설정에 따라 삭제됩니다.",
@@ -398,10 +401,12 @@
         "passwordReset": "비밀번호가 재설정되었습니다.",
         "passwordSet": "비밀번호가 설정되었습니다.",
         "provideStoragePermission": "백업과 내보내기에 저장소 권한이 필요합니다.",
-        "quickViewChartExists": "차트 {{name}}이(가) 이미 있습니다.",
-        "quickViewChartHint": "$t(screen.balanceChart)에서 홈에 차트를 추가하세요. 환경설정에서 관리할 수 있습니다.",
+        "quickViewDistributionChartExists": "{{name}}이(가) 재무 분포 빠른 보기에 이미 있습니다.",
+        "quickViewDistributionChartHint": "$t(screen.distributionChart)에서 홈에 차트를 추가하세요. 환경설정에서 관리할 수 있습니다.",
         "quickViewSheetExists": "잔액표 {{name}}이(가) 이미 있습니다.",
         "quickViewSheetHint": "$t(screen.balanceSheet)에서 계정을 왼쪽으로 스와이프하여 홈에 추가하세요. 환경설정에서 관리할 수 있습니다.",
+        "quickViewTrendChartExists": "{{name}}이(가) 재무 추이 빠른 보기에 이미 있습니다.",
+        "quickViewTrendChartHint": "$t(screen.trendChart)에서 홈에 차트를 추가하세요. 환경설정에서 관리할 수 있습니다.",
         "readAgree": "읽고 동의합니다.",
         "restoredDatabase": "데이터베이스가 복원되었습니다(파일 날짜: {{datetime}}).",
         "selectDatabaseBackupFileToRestore": "복원할 백업 파일을 선택하세요.",
@@ -560,7 +565,6 @@
         "aboutUserInterface": "UI",
         "aboutWhatIsNew": "새로운 기능",
         "accountManagement": "계정",
-        "balanceChart": "잔액 차트",
         "balanceSheet": "잔액표",
         "bookEditor": "장부 편집",
         "bookManagement": "장부",
@@ -570,6 +574,7 @@
         "dataImportCsv": "CSV 가져오기",
         "dataImportJson": "JSON 가져오기",
         "dataMaintenance": "데이터 유지 관리",
+        "distributionChart": "재무 분포",
         "googleDriveManagement": "Google Drive 백업",
         "home": "홈",
         "homeShortcutManagement": "홈 바로가기",
@@ -587,15 +592,17 @@
         "preferencesPasswordReset": "비밀번호 재설정",
         "preferencesSecurity": "보안",
         "preferencesTransactionList": "거래",
-        "quickViewChartManagement": "차트 빠른 보기",
+        "quickViewDistributionChartManagement": "재무 분포 빠른 보기",
         "quickViewSheetManagement": "잔액표 빠른 보기",
+        "quickViewTrendChartManagement": "재무 추이 빠른 보기",
         "serverMode": "서버 모드",
         "transactionList": "거래",
         "transactionSearchCondition": "검색",
         "transactionSearchResult": "결과",
         "transactionTemplateManagement": "템플릿",
         "transactionTrashList": "휴지통",
-        "transactionUpdatedList": "최근 업데이트"
+        "transactionUpdatedList": "최근 업데이트",
+        "trendChart": "재무 추이"
     },
     "searchCondition": {
         "accountType": "계정 유형",
@@ -640,8 +647,10 @@
         "accountLiability": "$t(account.liability)",
         "accountOther": "$t(account.other)",
         "homeCharts": "차트",
+        "homeDistribution": "재무 분포",
         "homeMain": "홈",
         "homeTest": "테스트",
+        "homeTrend": "재무 추이",
         "transactionTemplateNormal": "일반",
         "transactionTemplateSchedule": "일정"
     },
@@ -691,11 +700,11 @@
         "editTransaction": "거래 편집",
         "editTransactionTemplate": "템플릿 편집",
         "error": "오류",
-        "monthEndBalanceChart": "월말 차트",
         "monthEndBalanceSheet": "월말 잔액",
+        "monthEndDistributionChart": "월말 분포",
         "monthEndTransactions": "월말 거래",
-        "monthlyBalanceChart": "월별 차트",
         "monthlyBalanceSheet": "월별 잔액",
+        "monthlyDistributionChart": "월별 분포",
         "monthlyTransactions": "월별 거래",
         "newAccount": "새 계정",
         "newBook": "새 장부",
@@ -716,11 +725,11 @@
         "uploadGDrive": "Drive에 업로드",
         "userInfo": "사용자 정보",
         "warn": "경고",
-        "weeklyBalanceChart": "주별 차트",
         "weeklyBalanceSheet": "주별 잔액",
+        "weeklyDistributionChart": "주별 분포",
         "weeklyTransactions": "주별 거래",
-        "yearlyBalanceChart": "연별 차트",
         "yearlyBalanceSheet": "연별 잔액",
+        "yearlyDistributionChart": "연간 분포",
         "yearlyTransactions": "연별 거래"
     },
     "today": "오늘",
@@ -785,7 +794,7 @@
             "daily": "일별",
             "initial": "초기",
             "monthly": "월별",
-            "until": "까지",
+            "until": "지정일까지",
             "weekly": "주별",
             "yearly": "연별"
         }

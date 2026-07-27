@@ -4,6 +4,12 @@ Do you have questions or feature requests? Join [Facebook fan group](https://www
 
 ## What's New
 
+### In Version 1.13.0
+This update includes the following new features and improvements:
+* When editing an entry in Advanced Mode, you can now see the current amount difference, making it easier to adjust credit card fees or mystery amounts.
+* Added balance trend charts to help you track changes over time.
+* Enhanced distribution charts. In addition to creating charts by account type, you can now create charts for individual accounts.
+
 ### In Version 1.12.0
 * Transactions now include a “Reconciliation Status” field. Credit card transactions can be set to “Unreconciled” first (the default is “Reconciled”). After paying the credit card bill, you can use “Reconciliation Mode” in the “Transaction List” to quickly check them against your credit card statement.
 
@@ -39,7 +45,7 @@ This release includes feature updates based on user wishes:
 * **Note Default Open**: When enabled, transaction note in the transaction list will be opened by default. (Preferences > Display Settings > Transaction List Settings)
 * **Transaction Background Color Options**: You can now change the background color of transaction in the transaction list. Available options include Default (theme background color), Transfer-out Account, and Transfer-in Account. ( Preferences > Display Settings > Transaction List Settings)
 * **Enhanced Advanced Mode Editing for Transaction**: In advanced editing mode, you can now reorder any transfers and delete transfers in any order. Previously, only the last transfer could be deleted, and reordering was not possible.
-* **HomeScreen Shortcut Settings**: Added the following shortcut options: Month-end Transactions, Month-end Balance Sheet, Month-end BalanceChart.
+* **HomeScreen Shortcut Settings**: Added the following shortcut options: Month-end Transactions, Month-end Balance Sheet, Month-end Financial Distribution Chart.
 
 ### In Version 1.6.0
 * [View your charts on your computer](https://youtu.be/Ag8cqg9gzi0): Provides server mode. After enabling this mode, you will be able to use a computer browser within the same LAN to connect to your phone and view more detailed charts.

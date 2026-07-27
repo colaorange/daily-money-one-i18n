@@ -141,11 +141,32 @@ These are Account type labels. Keep them short because they appear in tabs, filt
 | Weekly | Weekly | 每週 |
 | Monthly | Monthly | 每月 |
 | Yearly | Yearly | 每年 |
-| Until | Until | 直到 |
+| Until | Until | 截至 |
+| Until Date | Until {{date}} | 截至 {{date}} |
+| Until Today | Until Today | 截至今天 |
 | Initial | Initial | 初始化 |
 | Custom | Custom | 自定區間 |
 
 Use these consistently for report modes, budget modes, schedule modes, and transaction list modes.
+
+### Until
+
+`Until` is a cumulative time-range mode. It includes initial entries and all transactions up to and including the end of the selected date.
+
+The `Until` Quick View always uses the current date as its ending date, so its label must use the locale's `Until Today` wording even though the existing key name is `balance.quickView.until`.
+
+It is not a custom date range. `Custom` allows both the start date and end date to be selected, while `Until` fixes the starting boundary at the initial data and allows only the ending date to change.
+
+Use the following context-specific labels:
+
+| Context | en | zh |
+| --- | --- | --- |
+| Mode label | Until | 截至 |
+| Quick View label | Until Today | 截至今天 |
+| Range display | Until {{date}} | 截至 {{date}} |
+| Current-date label | Until Today | 截至今天 |
+
+Translations should express “up to and including the specified date.” Do not translate `Until` as period selection, custom range, recurrence, or frequency.
 
 ## Feature Terms
 
@@ -155,6 +176,8 @@ Use these consistently for report modes, budget modes, schedule modes, and trans
 | Daily Money | Daily Money | 每日記帳本 |
 | Quick View | Quick View | 快速檢視 |
 | Chart | Chart | 圖表 |
+| Distribution Chart | Financial Distribution Chart | 財務分布圖 |
+| Trend Chart | Financial Trend Chart | 財務趨勢圖 |
 | Trash | Trash | 垃圾桶 |
 | Schedule | Schedule | 排程 |
 | Preferences | Preferences | 喜好設定 |
@@ -165,6 +188,50 @@ Use these consistently for report modes, budget modes, schedule modes, and trans
 | Export | Export | 匯出 |
 
 When translating from English into other languages, keep `Daily Money One` and `Daily Money` untranslated and use the English names exactly.
+
+### Quick View
+
+A Quick View is a saved, continuously updated view of a result that would otherwise require multiple UI operations to reach. It is placed on the Home Screen so the user can see that result directly without repeating those operations.
+
+Quick View is not a summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Translate the product concept naturally; a locale does not need to reproduce the English words `Quick` and `View` literally.
+
+Use `Quick View` in English and `快速檢視` in Traditional Chinese. Each locale's final term and any locale-specific usage rules must be recorded in that locale's `translationTerminology.md` under `### Quick View` before changing locale JSON.
+
+When a combined Quick View label is too long for the UI, shorten only the redundant surrounding feature words or use a compact local structure. Retain the meanings of both Quick View and the viewed feature. Do not shorten a natural label merely for cross-locale uniformity, and do not remove words when the existing localized label already fits.
+
+### Financial Distribution Chart
+
+Use `Financial Distribution Chart` as the full English name in Markdown documentation and long-form prose. Do not pluralize this official name. For Traditional Chinese, continue to use `財務分布圖` in both UI and documentation.
+
+English UI labels stored in locale JSON use shorter forms:
+
+- When a period appears first, use `{Period} Distribution`, such as `Weekly Distribution`, `Monthly Distribution`, `Month-end Distribution`, and `Annual Distribution`.
+- When no period appears, use `Financial Distribution`.
+- For Quick View, use `Financial Distribution Quick View`.
+- For the Home tab, use `Distribution`.
+
+These compact forms are for UI labels and UI messages only. Markdown documentation must retain the full name `Financial Distribution Chart`. For the Traditional Chinese Home tab, use `財務分布圖`.
+
+This feature displays the distribution of values across account types or accounts. It can include assets, liabilities, income, and expenses. Do not use `Balance Chart`, `Distribution Chart`, `資產負債圖表`, or `分布圖` for this feature.
+
+### Financial Trend Chart
+
+Use `Financial Trend Chart` as the full English name in Markdown documentation and long-form prose. For Traditional Chinese, use `財務趨勢圖`.
+
+Use the approved context-specific labels in locale JSON:
+
+| Context | en | zh |
+| --- | --- | --- |
+| Documentation | Financial Trend Chart | 財務趨勢圖 |
+| No-mode UI | Financial Trend | 財務趨勢圖 |
+| LINE mode | Trend | 趨勢 |
+| CUMULATIVE mode | Cumulative Trend | 累計趨勢 |
+| Quick View UI | Trend Quick View | 趨勢圖快速檢視設定 |
+| Home tab | Trends | 財務趨勢圖 |
+
+This feature displays account values over time. LINE mode shows each period's net change. CUMULATIVE mode starts from the opening balance, when available, and accumulates each period's net change.
+
+Do not translate this feature as `Financial Distribution Chart`, `Balance Chart`, or a financial-market price chart. Do not use the full documentation name in compact UI contexts when the locale has an approved shorter label.
 
 ## Reconciliation Terms
 

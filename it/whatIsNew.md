@@ -4,6 +4,12 @@ Hai domande o richieste di funzioni? Unisciti al [gruppo Facebook](https://www.f
 
 ## Novità
 
+### Nella versione 1.13.0
+Questo aggiornamento include le seguenti nuove funzionalità e migliorie:
+* Quando modifichi un movimento in Modalità avanzata, ora puoi vedere la differenza corrente tra gli importi, così è più facile regolare le commissioni della carta di credito o gli importi inspiegabili.
+* È stato aggiunto il Grafico dell'andamento finanziario per aiutarti a monitorare le variazioni nel tempo.
+* Il Grafico di distribuzione finanziaria è stato migliorato. Oltre a creare grafici per tipo di conto, ora puoi crearli anche per singoli conti.
+
 ### Nella versione 1.12.0
 Questa versione include aggiornamenti delle funzionalità:
 * I movimenti ora includono un campo "Stato riconciliazione". I movimenti con carta di credito possono essere impostati inizialmente su "Non riconciliato" (il valore predefinito è "Riconciliato"). Dopo aver pagato l'estratto conto della carta di credito, puoi usare la "Modalità riconciliazione" nell'elenco "Movimenti" per confrontarli rapidamente con l'estratto conto della carta.
@@ -40,7 +46,7 @@ Questa versione include aggiornamenti delle funzioni basati sui desideri degli u
 * **Note aperte per impostazione predefinita**: quando abilitato, la nota del movimento nell'elenco movimenti sarà aperta per impostazione predefinita. (Preferenze > Impostazioni visualizzazione > Impostazioni elenco movimenti)
 * **Opzioni colore sfondo movimento**: ora puoi cambiare il colore di sfondo del movimento nell'elenco movimenti. Le opzioni disponibili includono Predefinito (colore sfondo tema), Conto di origine e Conto di destinazione. (Preferenze > Impostazioni visualizzazione > Impostazioni elenco movimenti)
 * **Modifica avanzata migliorata per Movimento**: in modalità di modifica avanzata, ora puoi riordinare qualsiasi trasferimento ed eliminare trasferimenti in qualsiasi ordine. In precedenza si poteva eliminare solo l'ultimo trasferimento e il riordino non era possibile.
-* **Impostazioni scorciatoie HomeScreen**: aggiunte le seguenti opzioni scorciatoia: Movimenti fine mese, Stato patrimoniale fine mese, Grafico saldo fine mese.
+* **Impostazioni scorciatoie HomeScreen**: aggiunte le seguenti opzioni scorciatoia: Movimenti fine mese, Stato patrimoniale fine mese, Grafico di distribuzione finanziaria di fine mese.
 
 ### Nella versione 1.6.0
 * [Visualizza i grafici sul computer](https://youtu.be/Ag8cqg9gzi0): offre la modalità server. Dopo aver abilitato questa modalità, potrai usare un browser del computer nella stessa LAN per connetterti al telefono e visualizzare grafici più dettagliati.

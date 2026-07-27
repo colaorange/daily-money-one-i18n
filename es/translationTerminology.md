@@ -40,6 +40,21 @@ Use `salida` and `entrada` only as explanatory wording when the source needs to 
 | Liability | Deuda |
 | Other | Otro |
 
+## Time and Range Terms
+
+### Until
+
+Use `Hasta` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `Hasta hoy` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | es |
+| --- | --- |
+| Mode label | Hasta |
+| Quick View label | Hasta hoy |
+| Range display | Hasta {{date}} |
+| Current-date label | Hasta hoy |
+
 ## Feature Terms
 
 | Term | es |
@@ -48,6 +63,8 @@ Use `salida` and `entrada` only as explanatory wording when the source needs to 
 | Daily Money | Daily Money |
 | Quick View | Vista rápida |
 | Chart | Gráfico |
+| Distribution Chart | Gráfico de distribución financiera |
+| Trend Chart | Gráfico de tendencia financiera |
 | Trash | Papelera |
 | Schedule | Programación |
 | Preferences | Preferencias |
@@ -56,6 +73,40 @@ Use `salida` and `entrada` only as explanatory wording when the source needs to 
 | Restore | Restaurar |
 | Import | Importar |
 | Export | Exportar |
+
+### Quick View
+
+Use `Vista rápida` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Spanish locale JSON.
+
+### Financial Distribution Chart
+
+Use `Gráfico de distribución financiera` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | es |
+| --- | --- |
+| Documentation | Gráfico de distribución financiera |
+| No-period UI | Distribución financiera |
+| Weekly UI | Distribución semanal |
+| Monthly UI | Distribución mensual |
+| Month-end UI | Distribución fin de mes |
+| Annual UI | Distribución anual |
+| Quick View UI | Vista rápida: distribución |
+| Home tab | Distribución |
+
+### Financial Trend Chart
+
+Use `Gráfico de tendencia financiera` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | es |
+| --- | --- |
+| Documentation | Gráfico de tendencia financiera |
+| No-mode UI | Tendencia financiera |
+| LINE mode | Tendencia |
+| CUMULATIVE mode | Tendencia acumulada |
+| Quick View UI | Vista rápida: tendencias |
+| Home tab | Tendencias |
 
 ## Reconciliation Terms
 

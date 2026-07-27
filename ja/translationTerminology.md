@@ -40,6 +40,21 @@ Use `出金元` and `入金先` for the two sides of a transaction. Use `出金�
 | Liability | 負債 |
 | Other | その他 |
 
+## Time and Range Terms
+
+### Until
+
+Use `指定日まで` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use `期間指定` or another term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `今日まで` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | ja |
+| --- | --- |
+| Mode label | 指定日まで |
+| Quick View label | 今日まで |
+| Range display | {{date}} まで |
+| Current-date label | 今日まで |
+
 ## Feature Terms
 
 | Term | ja |
@@ -48,6 +63,8 @@ Use `出金元` and `入金先` for the two sides of a transaction. Use `出金�
 | Daily Money | Daily Money |
 | Quick View | クイックビュー |
 | Chart | グラフ |
+| Distribution Chart | 財務分布グラフ |
+| Trend Chart | 財務推移グラフ |
 | Trash | ゴミ箱 |
 | Schedule | スケジュール |
 | Preferences | 設定 |
@@ -56,6 +73,40 @@ Use `出金元` and `入金先` for the two sides of a transaction. Use `出金�
 | Restore | 復元 |
 | Import | インポート |
 | Export | エクスポート |
+
+### Quick View
+
+Use `クイックビュー` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Japanese locale JSON.
+
+### Financial Distribution Chart
+
+Use `財務分布グラフ` in Markdown documentation. In compact locale JSON UI labels, omit `財務` and `グラフ` when a period appears first.
+
+| Context | ja |
+| --- | --- |
+| Documentation | 財務分布グラフ |
+| No-period UI | 財務分布 |
+| Weekly UI | 週次分布 |
+| Monthly UI | 月次分布 |
+| Month-end UI | 月末分布 |
+| Annual UI | 年次分布 |
+| Quick View UI | 財務分布のクイックビュー |
+| Home tab | 財務分布 |
+
+### Financial Trend Chart
+
+Use `財務推移グラフ` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | ja |
+| --- | --- |
+| Documentation | 財務推移グラフ |
+| No-mode UI | 財務推移 |
+| LINE mode | 推移 |
+| CUMULATIVE mode | 累積推移 |
+| Quick View UI | 財務推移のクイックビュー |
+| Home tab | 財務推移 |
 
 ## Reconciliation Terms
 

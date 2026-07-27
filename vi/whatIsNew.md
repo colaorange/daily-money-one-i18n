@@ -4,6 +4,12 @@ Bạn có câu hỏi hoặc yêu cầu tính năng? Hãy tham gia [nhóm Faceboo
 
 ## Có gì mới
 
+### Trong phiên bản 1.13.0
+Bản cập nhật này bao gồm các tính năng mới và cải tiến sau:
+* Khi chỉnh sửa giao dịch ở chế độ nâng cao, giờ đây bạn có thể xem chênh lệch số tiền hiện tại, giúp điều chỉnh phí thẻ tín dụng hoặc các khoản tiền không rõ nguồn gốc dễ dàng hơn.
+* Đã thêm Biểu đồ xu hướng tài chính để giúp bạn theo dõi những thay đổi theo thời gian.
+* Biểu đồ phân bố tài chính đã được cải tiến. Ngoài việc tạo biểu đồ theo loại tài khoản, giờ đây bạn cũng có thể tạo biểu đồ cho từng tài khoản.
+
 ### Trong phiên bản 1.12.0
 Phiên bản này bao gồm các cập nhật tính năng:
 * Giao dịch hiện có thêm trường "Trạng thái đối chiếu". Giao dịch thẻ tín dụng có thể được đặt thành "Chưa đối chiếu" trước (mặc định là "Đã đối chiếu"). Sau khi thanh toán hóa đơn thẻ tín dụng, bạn có thể dùng "Chế độ đối chiếu" trong danh sách "Giao dịch" để nhanh chóng đối chiếu với sao kê thẻ tín dụng.
@@ -40,7 +46,7 @@ Bản phát hành này bao gồm các cập nhật dựa trên mong muốn của
 * **Mở ghi chú mặc định**: Khi bật, ghi chú giao dịch trong danh sách giao dịch sẽ được mở theo mặc định. (Tùy chọn > Cài đặt hiển thị > Cài đặt danh sách giao dịch)
 * **Tùy chọn màu nền giao dịch**: Bạn có thể thay đổi màu nền của giao dịch trong danh sách giao dịch. Các tùy chọn gồm Mặc định (màu nền chủ đề), Tài khoản chuyển ra và Tài khoản chuyển vào. (Tùy chọn > Cài đặt hiển thị > Cài đặt danh sách giao dịch)
 * **Cải thiện chỉnh sửa giao dịch ở chế độ nâng cao**: Trong chế độ chỉnh sửa nâng cao, bạn có thể sắp xếp lại bất kỳ khoản chuyển nào và xóa khoản chuyển theo bất kỳ thứ tự nào. Trước đây chỉ có thể xóa khoản chuyển cuối cùng và không thể sắp xếp lại.
-* **Cài đặt lối tắt Màn hình chính**: Thêm các tùy chọn lối tắt: Giao dịch cuối tháng, Bảng số dư cuối tháng, Biểu đồ số dư cuối tháng.
+* **Cài đặt lối tắt Màn hình chính**: Thêm các tùy chọn lối tắt: Giao dịch cuối tháng, Bảng số dư cuối tháng, Biểu đồ phân bố tài chính cuối tháng.
 
 ### Trong phiên bản 1.6.0
 * [Xem biểu đồ trên máy tính](https://youtu.be/Ag8cqg9gzi0): Cung cấp chế độ máy chủ. Sau khi bật chế độ này, bạn có thể dùng trình duyệt máy tính trong cùng mạng LAN để kết nối với điện thoại và xem biểu đồ chi tiết hơn.

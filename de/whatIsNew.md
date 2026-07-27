@@ -4,6 +4,12 @@ Haben Sie Fragen oder Funktionswünsche? Treten Sie der [Facebook-Fangruppe](htt
 
 ## Neuigkeiten
 
+### In der Version 1.13.0
+Dieses Update enthält die folgenden neuen Funktionen und Verbesserungen:
+* Beim Bearbeiten einer Buchung im erweiterten Modus sehen Sie jetzt die aktuelle Betragsdifferenz. Dadurch lassen sich Kreditkartengebühren oder unerklärliche Beträge leichter anpassen.
+* Das Finanztrenddiagramm wurde hinzugefügt, damit Sie Veränderungen im Zeitverlauf verfolgen können.
+* Das Finanzverteilungsdiagramm wurde verbessert. Neben Diagrammen nach Kontotyp können Sie jetzt auch Diagramme für einzelne Konten erstellen.
+
 ### In der Version 1.12.0
 Diese Version enthält Funktionsupdates:
 * Buchungen enthalten jetzt ein Feld "Abgleichstatus". Kreditkartenbuchungen können zunächst auf "Nicht abgeglichen" gesetzt werden (Standard ist "Abgeglichen"). Nach dem Bezahlen der Kreditkartenabrechnung können Sie im "Buchungen"-Bereich den "Abgleichmodus" verwenden, um sie schnell mit Ihrer Kreditkartenabrechnung abzugleichen.
@@ -40,7 +46,7 @@ Diese Version enthält Funktionsupdates auf Grundlage von Nutzerwünschen:
 * **Notiz standardmäßig geöffnet**: Wenn aktiviert, wird die Buchungsnotiz in der Buchungsliste standardmäßig geöffnet. (Einstellungen > Anzeigeeinstellungen > Buchungslisteneinstellungen)
 * **Optionen für Buchungshintergrundfarbe**: Sie können jetzt die Hintergrundfarbe von Buchungen in der Buchungsliste ändern. Verfügbare Optionen sind Standard (Design-Hintergrundfarbe), Quellkonto und Zielkonto. (Einstellungen > Anzeigeeinstellungen > Buchungslisteneinstellungen)
 * **Verbesserte Bearbeitung im erweiterten Buchungsmodus**: Im erweiterten Bearbeitungsmodus können Sie jetzt alle Übertragungen neu anordnen und in beliebiger Reihenfolge löschen. Zuvor konnte nur die letzte Übertragung gelöscht werden, und Neuordnung war nicht möglich.
-* **Startbildschirm-Verknüpfungen**: Ergänzt wurden folgende Optionen: Monatsendbuchungen, Monatsendbilanz, Monatsenddiagramm.
+* **Startbildschirm-Verknüpfungen**: Ergänzt wurden folgende Optionen: Monatsendbuchungen, Monatsendbilanz, Finanzverteilungsdiagramm zum Monatsende.
 
 ### In der Version 1.6.0
 * [Diagramme auf dem Computer ansehen](https://youtu.be/Ag8cqg9gzi0): Bietet den Servermodus. Nach dem Aktivieren können Sie im selben LAN mit einem Computerbrowser eine Verbindung zu Ihrem Telefon herstellen und detailliertere Diagramme ansehen.

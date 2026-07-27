@@ -4,6 +4,12 @@
 
 ## Novedades
 
+### En la versión 1.13.0
+Esta actualización incluye las siguientes funciones nuevas y mejoras:
+* Al editar una transacción en el modo avanzado, ahora puedes ver la diferencia actual entre los importes, lo que facilita ajustar las comisiones de la tarjeta de crédito o los importes sin identificar.
+* Se ha añadido el Gráfico de tendencia financiera para ayudarte a seguir los cambios a lo largo del tiempo.
+* Se ha mejorado el Gráfico de distribución financiera. Además de crear gráficos por tipo de cuenta, ahora también puedes crearlos para cuentas individuales.
+
 ### En la versión 1.12.0
 Esta versión incluye actualizaciones de funciones:
 * Las transacciones ahora incluyen un campo "Estado de conciliación". Las transacciones de tarjeta de crédito pueden configurarse primero como "Sin conciliar" (el valor predeterminado es "Conciliado"). Después de pagar la factura de la tarjeta de crédito, puedes usar el "Modo de conciliación" en la lista "Transacciones" para comprobarlas rápidamente con el extracto de tu tarjeta de crédito.
@@ -40,7 +46,7 @@ Esta versión incluye actualizaciones de funciones basadas en deseos de usuarios
 * **Notas abiertas por defecto**: cuando está activado, la nota de transacción en la lista de transacciones se abrirá por defecto. (Preferencias > Configuración de visualización > Configuración de lista de transacciones)
 * **Opciones de color de fondo de transacción**: ahora puedes cambiar el color de fondo de las transacciones en la lista. Las opciones disponibles incluyen Predeterminado (color de fondo del tema), Cuenta de origen y Cuenta de destino. (Preferencias > Configuración de visualización > Configuración de lista de transacciones)
 * **Edición avanzada mejorada para transacciones**: en el modo de edición avanzada, ahora puedes reordenar cualquier transferencia y eliminar transferencias en cualquier orden. Antes, solo se podía eliminar la última transferencia y no era posible reordenar.
-* **Configuración de accesos directos de la pantalla de inicio**: se agregaron estas opciones de acceso directo: Transacciones de fin de mes, Hoja de balance de fin de mes, Gráfico de balance de fin de mes.
+* **Configuración de accesos directos de la pantalla de inicio**: se agregaron estas opciones de acceso directo: Transacciones de fin de mes, Hoja de balance de fin de mes, Gráfico de distribución financiera de fin de mes.
 
 ### En la versión 1.6.0
 * [Ver tus gráficos en la computadora](https://youtu.be/Ag8cqg9gzi0): ofrece modo servidor. Después de activar este modo, podrás usar un navegador de computadora en la misma LAN para conectarte a tu teléfono y ver gráficos más detallados.

@@ -4,6 +4,12 @@ Sorularınız veya özellik istekleriniz mi var? En son geliştirme güncellemel
 
 ## Yenilikler
 
+### Sürüm 1.13.0'da
+Bu güncelleme aşağıdaki yeni özellikleri ve iyileştirmeleri içerir:
+* Gelişmiş modda bir işlemi düzenlerken artık mevcut tutar farkını görebilir, böylece kredi kartı ücretlerini veya açıklanamayan tutarları daha kolay ayarlayabilirsiniz.
+* Zaman içindeki değişiklikleri izlemenize yardımcı olmak için Finansal eğilim grafiği eklendi.
+* Finansal dağılım grafiği geliştirildi. Hesap türüne göre grafik oluşturmanın yanı sıra artık ayrı hesaplar için de grafik oluşturabilirsiniz.
+
 ### Sürüm 1.12.0'da
 Bu sürüm özellik güncellemeleri içerir:
 * İşlemler artık bir "Mutabakat durumu" alanı içeriyor. Kredi kartı işlemleri önce "Mutabık olmayan" olarak ayarlanabilir (varsayılan değer "Mutabık"). Kredi kartı borcunu ödedikten sonra, "İşlem" listesindeki "Mutabakat Modu"nu kullanarak bunları kredi kartı ekstresiyle hızlıca karşılaştırabilirsiniz.
@@ -40,7 +46,7 @@ Bu sürüm kullanıcı istekleri temelinde özellik güncellemeleri içerir:
 * **Not Varsayılan Açık**: Etkinleştirildiğinde işlem listesindeki işlem notu varsayılan olarak açık olur. (Tercihler > Görünüm Ayarları > İşlem Listesi Ayarları)
 * **İşlem Arka Plan Rengi Seçenekleri**: İşlem listesindeki işlemin arka plan rengini artık değiştirebilirsiniz. Kullanılabilir seçenekler: Varsayılan (tema arka plan rengi), Kaynak Hesap ve Hedef Hesap. (Tercihler > Görünüm Ayarları > İşlem Listesi Ayarları)
 * **İşlem için Gelişmiş Mod Düzenleme İyileştirildi**: Gelişmiş düzenleme modunda artık herhangi bir aktarımı yeniden sıralayabilir ve herhangi bir sıradaki aktarımı silebilirsiniz. Önceden yalnızca son aktarım silinebiliyor ve yeniden sıralama yapılamıyordu.
-* **Ana Ekran Kısayol Ayarları**: Şu kısayol seçenekleri eklendi: Ay sonu işlemleri, Ay sonu bilançosu, Ay sonu bilanço grafiği.
+* **Ana Ekran Kısayol Ayarları**: Şu kısayol seçenekleri eklendi: Ay sonu işlemleri, Ay sonu bilançosu, Ay sonu finansal dağılım grafiği.
 
 ### Sürüm 1.6.0'da
 * [Grafiklerinizi bilgisayarınızda görüntüleyin](https://youtu.be/Ag8cqg9gzi0): Sunucu modu sağlar. Bu modu etkinleştirdikten sonra aynı LAN içindeki bir bilgisayar tarayıcısıyla telefonunuza bağlanıp daha ayrıntılı grafikleri görüntüleyebilirsiniz.

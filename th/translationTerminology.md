@@ -34,6 +34,21 @@ This file contains locale-specific terminology and style rules for Thai (`th`).
 | Liability | หนี้สิน |
 | Other | อื่นๆ |
 
+## Time and Range Terms
+
+### Until
+
+Use `จนถึง` for the cumulative time-range mode that includes initial entries and all transactions up to and including the end of the selected date. Do not use a term meaning custom period selection.
+
+The `Until` Quick View always ends on the current date. Use `จนถึงวันนี้` for `balance.quickView.until` even though the key name does not include `Today`.
+
+| Context | th |
+| --- | --- |
+| Mode label | จนถึง |
+| Quick View label | จนถึงวันนี้ |
+| Range display | จนถึง {{date}} |
+| Current-date label | จนถึงวันนี้ |
+
 ## Feature Terms
 
 | Source | Thai |
@@ -41,6 +56,8 @@ This file contains locale-specific terminology and style rules for Thai (`th`).
 | Daily Money One | Daily Money One |
 | Daily Money | Daily Money |
 | Quick View | มุมมองด่วน |
+| Distribution Chart | แผนภูมิการกระจายทางการเงิน |
+| Trend Chart | แผนภูมิแนวโน้มทางการเงิน |
 | Trash | ถังขยะ |
 | Schedule | กำหนดการ |
 | Preferences | การตั้งค่า |
@@ -49,6 +66,40 @@ This file contains locale-specific terminology and style rules for Thai (`th`).
 | Restore | กู้คืน |
 | Import | นำเข้า |
 | Export | ส่งออก |
+
+### Quick View
+
+Use `มุมมองด่วน` for the saved, continuously updated result placed on the Home Screen for direct viewing without repeating the UI operations that originally produced it.
+
+Do not use a term meaning summary, preview, static snapshot, navigation shortcut, favorite, or operating-system widget. Record any future replacement here before changing Thai locale JSON.
+
+### Financial Distribution Chart
+
+Use `แผนภูมิการกระจายทางการเงิน` in Markdown documentation. In compact locale JSON UI labels, omit the words corresponding to `Financial` and `Chart` when a period appears first.
+
+| Context | th |
+| --- | --- |
+| Documentation | แผนภูมิการกระจายทางการเงิน |
+| No-period UI | การกระจายทางการเงิน |
+| Weekly UI | การกระจายรายสัปดาห์ |
+| Monthly UI | การกระจายรายเดือน |
+| Month-end UI | การกระจายสิ้นเดือน |
+| Annual UI | การกระจายรายปี |
+| Quick View UI | มุมมองด่วนของการกระจายทางการเงิน |
+| Home tab | การกระจาย |
+
+### Financial Trend Chart
+
+Use `แผนภูมิแนวโน้มทางการเงิน` in Markdown documentation and long-form prose. Use the approved shorter labels for compact UI contexts.
+
+| Context | th |
+| --- | --- |
+| Documentation | แผนภูมิแนวโน้มทางการเงิน |
+| No-mode UI | แนวโน้มทางการเงิน |
+| LINE mode | แนวโน้ม |
+| CUMULATIVE mode | แนวโน้มสะสม |
+| Quick View UI | มุมมองด่วนแนวโน้ม |
+| Home tab | แนวโน้ม |
 
 ## Reconciliation Terms
 

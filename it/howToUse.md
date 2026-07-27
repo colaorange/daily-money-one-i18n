@@ -58,9 +58,9 @@ Quando c'è un movimento tra conti, per esempio una spesa, uno spostamento di de
 > Conto `Attivo` di origine: banca 
 > Conto `Passività` di destinazione: carta di credito
 
-## ![Balance Sheet](icon:///scale-balance)![Balance Chart](icon:///chart-pie) Stato patrimoniale e grafico
+## ![Balance Sheet](icon:///scale-balance)![Financial Distribution Chart](icon:///chart-pie) Stato patrimoniale e grafici di distribuzione finanziaria
 
-Con una contabilità diligente, l'applicazione ti aiuterà a registrare tutti i dettagli dei movimenti e a generare uno stato patrimoniale in base alle condizioni di ricerca. Questo prospetto presenta chiaramente il saldo di attivi e passività in periodi diversi, permettendoti di comprendere meglio la tua situazione finanziaria. Inoltre, l'applicazione può generare vari grafici per rappresentare visivamente entrate e spese, rendendo più semplice capire il flusso finanziario.
+Con una contabilità diligente, l'applicazione ti aiuterà a registrare tutti i dettagli dei movimenti e a generare uno stato patrimoniale in base alle condizioni di ricerca. Questo prospetto presenta chiaramente il saldo di attivi e passività in periodi diversi, permettendoti di comprendere meglio la tua situazione finanziaria. Inoltre, l'applicazione può generare vari grafici di distribuzione finanziaria per rappresentare visivamente entrate e spese, rendendo più semplice capire il flusso finanziario.
 
 ## Saldi iniziali dei conti
 
@@ -74,9 +74,9 @@ A volte una singola spesa può coinvolgere più categorie di spesa. Per esempio,
 
 Il programma consente trasferimenti tra conti in libri diversi. Nelle schermate di modifica o creazione movimento, sia base sia avanzata, puoi selezionare conti da altri libri quando scegli i conti. Poiché i valori valutari tra libri diversi possono differire e il tasso di cambio non è fisso al momento, per esempio trasferendo da nuovi dollari taiwanesi a dollari statunitensi, il programma non ti limita a creare un movimento in cui l'importo totale in uscita deve essere uguale all'importo totale in entrata. Crea i movimenti in base agli importi reali e fai attenzione.
 
-## Vista rapida di stato patrimoniale e grafici
+## Vista rapida di stato patrimoniale e grafici di distribuzione finanziaria
 
-Quando navighi nello stato patrimoniale o nei grafici, puoi aggiungere specifici elementi conto alla Vista rapida nella schermata Home [*1]. Basta scorrere a destra sull'elemento nello stato patrimoniale e toccare `Aggiungi a Vista rapida`, oppure toccare l'icona "Aggiungi a Vista rapida" nell'angolo in alto a destra della scheda del grafico saldo. Poi, nella schermata Home, vedrai il saldo di attivi e passività per quell'elemento, oppure potrai visualizzarlo nella pagina grafici della schermata Home. Inoltre, puoi ordinare o rimuovere questi elementi in `Preferenze > Schermata Home`.
+Quando navighi nello stato patrimoniale o nei grafici di distribuzione finanziaria, puoi aggiungere specifici elementi conto alla Vista rapida nella schermata Home [*1]. Basta scorrere a destra sull'elemento nello stato patrimoniale e toccare `Aggiungi a Vista rapida`, oppure toccare l'icona "Aggiungi a Vista rapida" nell'angolo in alto a destra della scheda del grafico di distribuzione finanziaria. Poi, nella schermata Home, vedrai il saldo di attivi e passività per quell'elemento, oppure potrai visualizzarlo nella pagina dei grafici di distribuzione finanziaria della schermata Home. Inoltre, puoi ordinare o rimuovere questi elementi in `Preferenze > Schermata Home`.
 
 [*1] Un numero eccessivo di elementi Vista rapida nella schermata Home può influire sul tempo di caricamento della schermata Home.
 

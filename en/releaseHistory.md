@@ -1,5 +1,11 @@
 ## Daily Money One
 
+### 1.13.0
+
+**Features**: 
+> * #117 Support trend chart, enhance distribution chart
+> * #120 Show difference between source and destination in advance mode.
+
 ### 1.12.0
 
 **Features**: 
