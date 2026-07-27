@@ -4,6 +4,12 @@ Hai domande o richieste di funzioni? Unisciti al [gruppo Facebook](https://www.f
 
 ## Novità
 
+### Nella versione 1.13.0
+Questo aggiornamento include le seguenti nuove funzionalità e migliorie:
+* Quando modifichi un movimento in Modalità avanzata, ora puoi vedere la differenza corrente tra gli importi, così è più facile regolare le commissioni della carta di credito o gli importi inspiegabili.
+* È stato aggiunto il Grafico dell'andamento finanziario per aiutarti a monitorare le variazioni nel tempo.
+* Il Grafico di distribuzione finanziaria è stato migliorato. Oltre a creare grafici per tipo di conto, ora puoi crearli anche per singoli conti.
+
 ### Nella versione 1.12.0
 Questa versione include aggiornamenti delle funzionalità:
 * I movimenti ora includono un campo "Stato riconciliazione". I movimenti con carta di credito possono essere impostati inizialmente su "Non riconciliato" (il valore predefinito è "Riconciliato"). Dopo aver pagato l'estratto conto della carta di credito, puoi usare la "Modalità riconciliazione" nell'elenco "Movimenti" per confrontarli rapidamente con l'estratto conto della carta.

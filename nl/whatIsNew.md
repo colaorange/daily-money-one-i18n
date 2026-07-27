@@ -4,6 +4,12 @@ Heb je vragen of functieverzoeken? Word lid van de [Facebook-fangroep](https://w
 
 ## Wat is nieuw
 
+### In versie 1.13.0
+Deze update bevat de volgende nieuwe functies en verbeteringen:
+* Wanneer je een transactie in de geavanceerde modus bewerkt, zie je nu het huidige verschil in bedrag. Zo kun je creditcardkosten of onverklaarde bedragen eenvoudiger aanpassen.
+* Het Financieel trenddiagram is toegevoegd om veranderingen in de loop van de tijd te volgen.
+* Het Financieel verdelingsdiagram is verbeterd. Naast diagrammen per rekeningtype kun je nu ook diagrammen voor afzonderlijke rekeningen maken.
+
 ### In versie 1.12.0
 Deze versie bevat functie-updates:
 * Transacties bevatten nu een veld "Afstemmingsstatus". Creditcardtransacties kunnen eerst worden ingesteld op "Niet afgestemd" (standaard is "Afgestemd"). Nadat u de creditcardrekening hebt betaald, kunt u in de lijst "Transacties" de "Afstemmingsmodus" gebruiken om ze snel te controleren met uw creditcardafschrift.

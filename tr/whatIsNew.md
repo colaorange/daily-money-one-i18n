@@ -4,6 +4,12 @@ Sorularınız veya özellik istekleriniz mi var? En son geliştirme güncellemel
 
 ## Yenilikler
 
+### Sürüm 1.13.0'da
+Bu güncelleme aşağıdaki yeni özellikleri ve iyileştirmeleri içerir:
+* Gelişmiş modda bir işlemi düzenlerken artık mevcut tutar farkını görebilir, böylece kredi kartı ücretlerini veya açıklanamayan tutarları daha kolay ayarlayabilirsiniz.
+* Zaman içindeki değişiklikleri izlemenize yardımcı olmak için Finansal eğilim grafiği eklendi.
+* Finansal dağılım grafiği geliştirildi. Hesap türüne göre grafik oluşturmanın yanı sıra artık ayrı hesaplar için de grafik oluşturabilirsiniz.
+
 ### Sürüm 1.12.0'da
 Bu sürüm özellik güncellemeleri içerir:
 * İşlemler artık bir "Mutabakat durumu" alanı içeriyor. Kredi kartı işlemleri önce "Mutabık olmayan" olarak ayarlanabilir (varsayılan değer "Mutabık"). Kredi kartı borcunu ödedikten sonra, "İşlem" listesindeki "Mutabakat Modu"nu kullanarak bunları kredi kartı ekstresiyle hızlıca karşılaştırabilirsiniz.

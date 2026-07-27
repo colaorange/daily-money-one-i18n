@@ -4,6 +4,12 @@ Haben Sie Fragen oder Funktionswünsche? Treten Sie der [Facebook-Fangruppe](htt
 
 ## Neuigkeiten
 
+### In der Version 1.13.0
+Dieses Update enthält die folgenden neuen Funktionen und Verbesserungen:
+* Beim Bearbeiten einer Buchung im erweiterten Modus sehen Sie jetzt die aktuelle Betragsdifferenz. Dadurch lassen sich Kreditkartengebühren oder unerklärliche Beträge leichter anpassen.
+* Das Finanztrenddiagramm wurde hinzugefügt, damit Sie Veränderungen im Zeitverlauf verfolgen können.
+* Das Finanzverteilungsdiagramm wurde verbessert. Neben Diagrammen nach Kontotyp können Sie jetzt auch Diagramme für einzelne Konten erstellen.
+
 ### In der Version 1.12.0
 Diese Version enthält Funktionsupdates:
 * Buchungen enthalten jetzt ein Feld "Abgleichstatus". Kreditkartenbuchungen können zunächst auf "Nicht abgeglichen" gesetzt werden (Standard ist "Abgeglichen"). Nach dem Bezahlen der Kreditkartenabrechnung können Sie im "Buchungen"-Bereich den "Abgleichmodus" verwenden, um sie schnell mit Ihrer Kreditkartenabrechnung abzugleichen.

@@ -4,6 +4,12 @@ Bạn có câu hỏi hoặc yêu cầu tính năng? Hãy tham gia [nhóm Faceboo
 
 ## Có gì mới
 
+### Trong phiên bản 1.13.0
+Bản cập nhật này bao gồm các tính năng mới và cải tiến sau:
+* Khi chỉnh sửa giao dịch ở chế độ nâng cao, giờ đây bạn có thể xem chênh lệch số tiền hiện tại, giúp điều chỉnh phí thẻ tín dụng hoặc các khoản tiền không rõ nguồn gốc dễ dàng hơn.
+* Đã thêm Biểu đồ xu hướng tài chính để giúp bạn theo dõi những thay đổi theo thời gian.
+* Biểu đồ phân bố tài chính đã được cải tiến. Ngoài việc tạo biểu đồ theo loại tài khoản, giờ đây bạn cũng có thể tạo biểu đồ cho từng tài khoản.
+
 ### Trong phiên bản 1.12.0
 Phiên bản này bao gồm các cập nhật tính năng:
 * Giao dịch hiện có thêm trường "Trạng thái đối chiếu". Giao dịch thẻ tín dụng có thể được đặt thành "Chưa đối chiếu" trước (mặc định là "Đã đối chiếu"). Sau khi thanh toán hóa đơn thẻ tín dụng, bạn có thể dùng "Chế độ đối chiếu" trong danh sách "Giao dịch" để nhanh chóng đối chiếu với sao kê thẻ tín dụng.

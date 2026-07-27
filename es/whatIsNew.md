@@ -4,6 +4,12 @@
 
 ## Novedades
 
+### En la versión 1.13.0
+Esta actualización incluye las siguientes funciones nuevas y mejoras:
+* Al editar una transacción en el modo avanzado, ahora puedes ver la diferencia actual entre los importes, lo que facilita ajustar las comisiones de la tarjeta de crédito o los importes sin identificar.
+* Se ha añadido el Gráfico de tendencia financiera para ayudarte a seguir los cambios a lo largo del tiempo.
+* Se ha mejorado el Gráfico de distribución financiera. Además de crear gráficos por tipo de cuenta, ahora también puedes crearlos para cuentas individuales.
+
 ### En la versión 1.12.0
 Esta versión incluye actualizaciones de funciones:
 * Las transacciones ahora incluyen un campo "Estado de conciliación". Las transacciones de tarjeta de crédito pueden configurarse primero como "Sin conciliar" (el valor predeterminado es "Conciliado"). Después de pagar la factura de la tarjeta de crédito, puedes usar el "Modo de conciliación" en la lista "Transacciones" para comprobarlas rápidamente con el extracto de tu tarjeta de crédito.

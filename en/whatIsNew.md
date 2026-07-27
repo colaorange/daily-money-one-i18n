@@ -4,6 +4,12 @@ Do you have questions or feature requests? Join [Facebook fan group](https://www
 
 ## What's New
 
+### In Version 1.13.0
+This update includes the following new features and improvements:
+* When editing an entry in Advanced Mode, you can now see the current amount difference, making it easier to adjust credit card fees or mystery amounts.
+* Added balance trend charts to help you track changes over time.
+* Enhanced distribution charts. In addition to creating charts by account type, you can now create charts for individual accounts.
+
 ### In Version 1.12.0
 * Transactions now include a “Reconciliation Status” field. Credit card transactions can be set to “Unreconciled” first (the default is “Reconciled”). After paying the credit card bill, you can use “Reconciliation Mode” in the “Transaction List” to quickly check them against your credit card statement.
 

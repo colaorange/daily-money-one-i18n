@@ -4,6 +4,12 @@ Tem perguntas ou pedidos de funcionalidades? Junte-se ao [grupo de fãs no Faceb
 
 ## Novidades
 
+### Na versão 1.13.0
+Esta atualização inclui as seguintes novas funcionalidades e melhorias:
+* Ao editar um movimento no Modo avançado, agora pode ver a diferença atual entre os montantes, facilitando o ajuste de taxas do cartão de crédito ou de montantes inexplicáveis.
+* Foi adicionado o Gráfico de tendência financeira para ajudar a acompanhar as alterações ao longo do tempo.
+* O Gráfico de distribuição financeira foi melhorado. Além de criar gráficos por tipo de conta, agora também pode criá-los para contas individuais.
+
 ### Na versão 1.12.0
 Esta versão inclui atualizações de funcionalidades:
 * Os movimentos passam a incluir o campo "Estado de reconciliação". Os movimentos de cartão de crédito podem ser definidos primeiro como "Não reconciliado" (a predefinição é "Reconciliado"). Depois de pagar a fatura do cartão de crédito, pode usar o "Modo de reconciliação" na lista "Movimentos" para os conferir rapidamente com o extrato do cartão de crédito.
